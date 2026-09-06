@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T07:28:45.372013+00:00",
-  "shamsi_generated": "1405/06/15 07:28:45 تهران",
+  "generated_at": "2026-09-06T07:36:06.719236+00:00",
+  "shamsi_generated": "1405/06/15 07:36:06 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793270+00:00"
+      "archived_at": "2026-09-06T07:30:45.168951+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355931,
-      "message_link": "https://t.me/IranintlTV/355931",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم بریتانیا، شنبه ۱۴ شهریور در اعتراض به اعدام‌های جمهوری اسلامی و به یاد جاویدنامان انقلاب ملی در شهرهای لندن، نیوکسل و بیرمنگام تجمع کردند.",
+      "message_id": 355934,
+      "message_link": "https://t.me/IranintlTV/355934",
+      "text": "علی مدنی‌زاده، وزیر اقتصاد، گفت که میان «هزینه اقتصادی» و «تسلیم اقتصادی» فاصله بسیار زیادی وجود دارد. ملت ایران هزینه داده است، اما هرگز تسلیم نمی‌شود.\nبه گزارش خبرگزاری تسنیم، مدنی‌زاده افزود: «ما اقتصاد ایران را برای زندگی مردم اداره می‌کنیم، نه برای رضایت واشینگتن.»\n\nوزیر اقتصاد ادامه داد: «اگر هدف آمریکا فشار بر جمهوری اسلامی است، پاسخ ما مقاومت اقتصادی و اصلاحات اقتصادی خواهد بود، اما اگر تصور می‌کنند می‌توانند با تحریم و فشار برای اقتصاد ایران تصمیم بگیرند، پاسخ ما روشن است؛ اقتصاد ایران را مردم ایران خواهند ساخت و آینده ایران را نیز مردم ایران با اراده و برنامه خود و برای منافع خود تعیین خواهند کرد.»\nhttps://iranintl.com/202609069318",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "10:35:36",
-      "gregorian_utc": "2026-09-06T07:05:36+00:00",
-      "media_type": "video",
-      "media_size_bytes": 11001831,
-      "media_size_human": "10.49 MB",
+      "tehran_time": "10:57:33",
+      "gregorian_utc": "2026-09-06T07:27:33+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 216072,
+      "media_size_human": "211.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355931_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355931_video.mp4",
+      "media_local_path": "media/IranintlTV_355934_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355934_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.132394+00:00"
+      "archived_at": "2026-09-06T07:30:45.397829+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572108+00:00"
+      "archived_at": "2026-09-06T07:30:45.649239+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120684_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120684_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.963379+00:00"
+      "archived_at": "2026-09-06T07:30:45.885102+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:41.259141+00:00"
+      "archived_at": "2026-09-06T07:30:46.090992+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": "media/zedTV_12807_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12807_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:39.793384+00:00"
+      "archived_at": "2026-09-06T07:30:45.169078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355930,
-      "message_link": "https://t.me/IranintlTV/355930",
-      "text": "فتح‌الله توسلی، سخنگوی کمیسیون اقتصادی مجلس، به خبرگزاری خانه ملت گفت: «آمریکا و اروپا نمی‌توانند با چوب تحریم و تهدید، ملت ایران را پای میز مذاکره از موضع ضعف بیاورند و جمهوری اسلامی بارها نشان داده در برابر زیاده‌خواهی‌ها ایستادگی می‌کند.»\n\nتوسلی ادامه داد: «ملت ایران با وجود شدیدترین تحریم‌ها، نه تنها از اصول و منافع ملی خود عقب‌نشینی نکرده، بلکه توانسته مسیر پیشرفت داخلی، بومی‌سازی صنایع و گسترش همکاری‌های منطقه‌ای و بین‌المللی خود را ادامه دهد.»\n\nاو افزود: «فشارهای اقتصادی هر چند هزینه‌هایی ایجاد کرده، اما در نهایت به افزایش انسجام داخلی و کاهش اعتماد به غرب منجر شده است.»\nhttps://iranintl.com/202609068729",
+      "message_id": 355933,
+      "message_link": "https://t.me/IranintlTV/355933",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - یکشنبه ۱۵ شهریور**\n\n🔹من ۲۰ سالمه و دارم خرج داداش کوچیک و مادرم رو می‌دم. امسال داداش ۱۶ ساله‌ام از سر دلسوزی ترجیح داده کار کنه تا اینکه با این شرایط بره مدرسه. واقعاً دیگه نمی‌دونم چی بگم.\n\n🔹خانواده‌های محترم، اگر قرار است فرزندان شما حضوری به مدرسه بروند، حتماً اطراف و محیط مدرسه را بررسی کنید که نزدیک مراکز نظامی و امنیتی نباشد. جمهوری اسلامی حکومت تروریستی و جنایتکاری است.\n\n🔹کنکوری ۱۴۰۶: اگر بخوام همه منابع یا حتی نیمی از اون رو بخرم، گرون می‌شه. تصمیم گرفتم چاپ کنم، هزینه پرینت دو تا کتاب شده ۳ میلیون تومان.\n\n🔹من دو تا دختر دارم و پدرشون فوت شده، حقوق همسر ۱۳ میلیون تومانه و شهریه هنرستان دولتی ۱۲ میلیون و اقساطی هم باید ۱۴ میلیون بپردازیم. لعنت به جمهوری ننگین اسلامی.\n\n🔹من ۱۴ سالمه و چند روز دیگه مدرسه‌ها باز می‌شه. خانواده‌ام به‌خاطر گرونی سرویس، لوازم‌تحریر و تغذیه می‌گن نرم مدرسه. چند روزه سر این موضوع خونه‌مون دعواست.\n\n🔹هر روز آرزوهامون رو داریم دفن می‌کنیم؛ غذا و خوراکی خیلی گرون شده. شهریه کلاس زبان که قبلاً ۷۰۰ هزار تومان می‌دادم، الان ۲ میلیون تومان شده. حتی دیگه نمی‌تونم برای موفقیتم تلاش کنم با این شرایط.",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "10:21:44",
-      "gregorian_utc": "2026-09-06T06:51:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162687,
-      "media_size_human": "158.87 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355930_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355930_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.132536+00:00"
+      "tehran_time": "10:53:39",
+      "gregorian_utc": "2026-09-06T07:23:39+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-06T07:30:45.407023+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572201+00:00"
+      "archived_at": "2026-09-06T07:30:45.649342+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120683_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120683_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.963446+00:00"
+      "archived_at": "2026-09-06T07:30:45.885172+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:41.259197+00:00"
+      "archived_at": "2026-09-06T07:30:46.091065+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793416+00:00"
+      "archived_at": "2026-09-06T07:30:45.169151+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355929,
-      "message_link": "https://t.me/IranintlTV/355929",
-      "text": "امید معماریان، تحلیلگر سیاسی در موسسه دان، با اشاره به تشدید فشار اقتصادی و نظامی آمریکا گفت از منظر منطق بازدارندگی تهران، جمهوری اسلامی با ایجاد اختلال در خلیج فارس و تنگه هرمز تلاش می‌کند به آمریکا هزینه تحمیل کند.\nاو افزود اگر جمهوری اسلامی نتواند این فشار را حفظ کند، موازنه قدرت در این درگیری به‌طور کامل به سود آمریکا تغییر خواهد کرد.\n@iranintltv",
+      "message_id": 355932,
+      "message_link": "https://t.me/IranintlTV/355932",
+      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به حملات آمریکا به نفتکش‌های جمهوری اسلامی گفت نزدیک شدن جغرافیای این عملیات‌ها به بنادر و جزایر ایران نشان‌دهنده تغییر رویه واشینگتن است و به نظر می‌رسد آمریکا در صورت ادامه تنش‌زایی جمهوری اسلامی در تنگه هرمز، در مراحل بعدی نفتکش‌های آن را غرق کند.\n@iranintltv",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "10:19:29",
-      "gregorian_utc": "2026-09-06T06:49:29+00:00",
+      "tehran_time": "10:53:02",
+      "gregorian_utc": "2026-09-06T07:23:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 3733839,
+      "media_size_bytes": 3736557,
       "media_size_human": "3.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355929_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355929_video.mp4",
+      "media_local_path": "media/IranintlTV_355932_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355932_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.132608+00:00"
+      "archived_at": "2026-09-06T07:30:45.407171+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:40.572224+00:00"
+      "archived_at": "2026-09-06T07:30:45.649378+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120682_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120682_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.963511+00:00"
+      "archived_at": "2026-09-06T07:30:45.885247+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259219+00:00"
+      "archived_at": "2026-09-06T07:30:46.091123+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": "media/zedTV_12805_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12805_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:39.793479+00:00"
+      "archived_at": "2026-09-06T07:30:45.169215+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355928,
-      "message_link": "https://t.me/IranintlTV/355928",
-      "text": "🎧نسخه صوتی اخبار بامدادی | یک‌شنبه ۱۵ شهریور\n@iranintlTV",
+      "message_id": 355931,
+      "message_link": "https://t.me/IranintlTV/355931",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم بریتانیا، شنبه ۱۴ شهریور در اعتراض به اعدام‌های جمهوری اسلامی و به یاد جاویدنامان انقلاب ملی در شهرهای لندن، نیوکسل و بیرمنگام تجمع کردند.",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "10:10:32",
-      "gregorian_utc": "2026-09-06T06:40:32+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30106192,
-      "media_size_human": "28.71 MB",
+      "tehran_time": "10:35:36",
+      "gregorian_utc": "2026-09-06T07:05:36+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11001831,
+      "media_size_human": "10.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355928_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355928_audio.mp3",
+      "media_local_path": "media/IranintlTV_355931_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355931_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.183707+00:00"
+      "archived_at": "2026-09-06T07:30:45.407223+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572276+00:00"
+      "archived_at": "2026-09-06T07:30:45.649443+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:40.963559+00:00"
+      "archived_at": "2026-09-06T07:30:45.885306+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259239+00:00"
+      "archived_at": "2026-09-06T07:30:46.091152+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": "media/zedTV_12804_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12804_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:39.793517+00:00"
+      "archived_at": "2026-09-06T07:30:45.169268+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355927,
-      "message_link": "https://t.me/IranintlTV/355927",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، صف طولانی خودروها را مقابل یک جایگاه سوخت نشان می‌دهد و می‌گوید از یک بامداد تا پنج صبح در صف بنزین بوده است اما بنزین تمام شده و به آنها نرسیده است.",
+      "message_id": 355930,
+      "message_link": "https://t.me/IranintlTV/355930",
+      "text": "فتح‌الله توسلی، سخنگوی کمیسیون اقتصادی مجلس، به خبرگزاری خانه ملت گفت: «آمریکا و اروپا نمی‌توانند با چوب تحریم و تهدید، ملت ایران را پای میز مذاکره از موضع ضعف بیاورند و جمهوری اسلامی بارها نشان داده در برابر زیاده‌خواهی‌ها ایستادگی می‌کند.»\n\nتوسلی ادامه داد: «ملت ایران با وجود شدیدترین تحریم‌ها، نه تنها از اصول و منافع ملی خود عقب‌نشینی نکرده، بلکه توانسته مسیر پیشرفت داخلی، بومی‌سازی صنایع و گسترش همکاری‌های منطقه‌ای و بین‌المللی خود را ادامه دهد.»\n\nاو افزود: «فشارهای اقتصادی هر چند هزینه‌هایی ایجاد کرده، اما در نهایت به افزایش انسجام داخلی و کاهش اعتماد به غرب منجر شده است.»\nhttps://iranintl.com/202609068729",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "09:50:54",
-      "gregorian_utc": "2026-09-06T06:20:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5294239,
-      "media_size_human": "5.05 MB",
+      "tehran_time": "10:21:44",
+      "gregorian_utc": "2026-09-06T06:51:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162687,
+      "media_size_human": "158.87 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355927_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355927_video.mp4",
+      "media_local_path": "media/IranintlTV_355930_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355930_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.183860+00:00"
+      "archived_at": "2026-09-06T07:30:45.407327+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572356+00:00"
+      "archived_at": "2026-09-06T07:30:45.649537+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120680_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120680_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.963611+00:00"
+      "archived_at": "2026-09-06T07:30:45.885369+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259257+00:00"
+      "archived_at": "2026-09-06T07:30:46.091178+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793553+00:00"
+      "archived_at": "2026-09-06T07:30:45.169317+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355926,
-      "message_link": "https://t.me/IranintlTV/355926",
-      "text": "جاویدنامان انقلاب ملی ایرانیان\n\n«آروین سالمی‌راد» ۱۸ دی‌ماه در اعتراضات بوشهر با شلیک مستقیم نیروهای سرکوب جمهوری اسلامی مجروح شد و ۱۸ روز بعد بر اثر جراحات ناشی از تیراندازی جان باخت. نامش در حافظه این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.",
+      "message_id": 355929,
+      "message_link": "https://t.me/IranintlTV/355929",
+      "text": "امید معماریان، تحلیلگر سیاسی در موسسه دان، با اشاره به تشدید فشار اقتصادی و نظامی آمریکا گفت از منظر منطق بازدارندگی تهران، جمهوری اسلامی با ایجاد اختلال در خلیج فارس و تنگه هرمز تلاش می‌کند به آمریکا هزینه تحمیل کند.\nاو افزود اگر جمهوری اسلامی نتواند این فشار را حفظ کند، موازنه قدرت در این درگیری به‌طور کامل به سود آمریکا تغییر خواهد کرد.\n@iranintltv",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "09:33:08",
-      "gregorian_utc": "2026-09-06T06:03:08+00:00",
+      "tehran_time": "10:19:29",
+      "gregorian_utc": "2026-09-06T06:49:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 39062339,
-      "media_size_human": "37.25 MB",
+      "media_size_bytes": 3733839,
+      "media_size_human": "3.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355926_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355926_video.mp4",
+      "media_local_path": "media/IranintlTV_355929_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355929_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.183915+00:00"
+      "archived_at": "2026-09-06T07:30:45.407410+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572411+00:00"
+      "archived_at": "2026-09-06T07:30:45.649602+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:40.963648+00:00"
+      "archived_at": "2026-09-06T07:30:45.885421+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259275+00:00"
+      "archived_at": "2026-09-06T07:30:46.091203+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793575+00:00"
+      "archived_at": "2026-09-06T07:30:45.169349+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355925,
-      "message_link": "https://t.me/IranintlTV/355925",
-      "text": "رضا گوهرزاد، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به تلاش‌های تازه برای پایان دادن به جنگ روسیه و اوکراین گفت اختلاف بر سر مناطق اشغالی همچنان یکی از مسائل اصلی و حل‌نشده مذاکرات است، اما فشارهای اخیر اوکراین بر روسیه و نقش کشورهای اروپایی می‌تواند زمینه را برای ازسرگیری گفت‌وگوها فراهم کند.\n@iranintltv",
+      "message_id": 355928,
+      "message_link": "https://t.me/IranintlTV/355928",
+      "text": "🎧نسخه صوتی اخبار بامدادی | یک‌شنبه ۱۵ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "09:20:45",
-      "gregorian_utc": "2026-09-06T05:50:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3671197,
-      "media_size_human": "3.50 MB",
+      "tehran_time": "10:10:32",
+      "gregorian_utc": "2026-09-06T06:40:32+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30106192,
+      "media_size_human": "28.71 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355925_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355925_video.mp4",
+      "media_local_path": "media/IranintlTV_355928_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355928_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.184024+00:00"
+      "archived_at": "2026-09-06T07:30:45.407472+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572469+00:00"
+      "archived_at": "2026-09-06T07:30:45.649658+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:40.963693+00:00"
+      "archived_at": "2026-09-06T07:30:45.885482+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259293+00:00"
+      "archived_at": "2026-09-06T07:30:46.091227+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793606+00:00"
+      "archived_at": "2026-09-06T07:30:45.169385+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355924,
-      "message_link": "https://t.me/IranintlTV/355924",
-      "text": "حسین محبی، سخنگوی سپاه پاسداران، به خبرگزاری مهر گفت: «اگر آمریکا بخواهد یک دلار به ایران ضربه اقتصادی وارد کند، ممکن است چندین دلار هزینه و خسارت متوجه خودش شود.»\n\nسحنگوی سپاه پاسداران ادامه داد: «آمریکایی‌ها باید بدانند تشدید محاصره اقتصادی ایران تنها هزینه‌های بیشتری برای خودشان ایجاد می‌کند.»\n\nمحبی افزود: «اعمال فشار اقتصادی و ایجاد محاصره، الزاما به معنای پیروزی طرف تحریم‌کننده نیست و حتی می‌تواند هزینه‌های سنگینی برای آن به همراه داشته باشد.»\nhttps://iranintl.com/202609063091",
+      "message_id": 355927,
+      "message_link": "https://t.me/IranintlTV/355927",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، صف طولانی خودروها را مقابل یک جایگاه سوخت نشان می‌دهد و می‌گوید از یک بامداد تا پنج صبح در صف بنزین بوده است اما بنزین تمام شده و به آنها نرسیده است.",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "09:05:06",
-      "gregorian_utc": "2026-09-06T05:35:06+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 177536,
-      "media_size_human": "173.38 KB",
+      "tehran_time": "09:50:54",
+      "gregorian_utc": "2026-09-06T06:20:54+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5294239,
+      "media_size_human": "5.05 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355924_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355924_photo.jpg",
+      "media_local_path": "media/IranintlTV_355927_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355927_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.184156+00:00"
+      "archived_at": "2026-09-06T07:30:45.407511+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.572561+00:00"
+      "archived_at": "2026-09-06T07:30:45.649760+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-06T07:20:40.963772+00:00"
+      "archived_at": "2026-09-06T07:30:45.885581+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259310+00:00"
+      "archived_at": "2026-09-06T07:30:46.091252+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793629+00:00"
+      "archived_at": "2026-09-06T07:30:45.169413+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355923,
-      "message_link": "https://t.me/IranintlTV/355923",
-      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به سفرهای متعدد مقام‌های اطلاعاتی، امنیتی و امرای ارتش آمریکا به اسرائیل در هفته‌های گذشته گفت برای نزدیک کردن جمهوری اسلامی به مرحله «تسلیم»، فشار اقتصادی و نظامی و از بین بردن توانمندی نیروهای نیابتی آن در دستور کار قرار دارد.\n\nاو افزود توانمندی نیابتی جمهوری اسلامی از طریق حزب‌الله و حوثی‌ها هدف قرار گرفته، آمریکا با محاصره دریایی توان اقتصادی جمهوری اسلامی را تحت فشار قرار داده و اسرائیل نیز برای مقابله نظامی «آمادگی صددرصد» دارد.\n\nسمیعی تاکید کرد در صورت ازسرگیری حملات، اسرائیل این بار در پی «یکسره کردن کار» جمهوری اسلامی خواهد بود.\n@iranintltv",
+      "message_id": 355926,
+      "message_link": "https://t.me/IranintlTV/355926",
+      "text": "جاویدنامان انقلاب ملی ایرانیان\n\n«آروین سالمی‌راد» ۱۸ دی‌ماه در اعتراضات بوشهر با شلیک مستقیم نیروهای سرکوب جمهوری اسلامی مجروح شد و ۱۸ روز بعد بر اثر جراحات ناشی از تیراندازی جان باخت. نامش در حافظه این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "08:58:06",
-      "gregorian_utc": "2026-09-06T05:28:06+00:00",
+      "tehran_time": "09:33:08",
+      "gregorian_utc": "2026-09-06T06:03:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 3285200,
-      "media_size_human": "3.13 MB",
+      "media_size_bytes": 39062339,
+      "media_size_human": "37.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355923_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355923_video.mp4",
+      "media_local_path": "media/IranintlTV_355926_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355926_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-06T07:20:40.184290+00:00"
+      "archived_at": "2026-09-06T07:30:45.407545+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,11 +793,11 @@
       "media_type": "photo",
       "media_size_bytes": 232930,
       "media_size_human": "227.47 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.572612+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76391_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.649828+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-06T07:20:40.963819+00:00"
+      "archived_at": "2026-09-06T07:30:45.885643+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259327+00:00"
+      "archived_at": "2026-09-06T07:30:46.091277+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793649+00:00"
+      "archived_at": "2026-09-06T07:30:45.169439+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355922,
-      "message_link": "https://t.me/IranintlTV/355922",
-      "text": "مرتضی زمانیان، معاون وزارت اقتصاد، از تشکیل «قرارگاه جنگ اقتصادی» برای هماهنگی و حل سریع مسائل اقتصادی ناشی از شرایط جنگ خبر داد.\nزمانیان اضافه کرد که حوزه تمرکز این قرارگاه در وهله نخست، وظایف و اختیارات وزارت اقتصاد در حوزه‌های مختلف است.\n\nاو ادامه داد: «هدف این است که در مواردی که برای حل یک مساله نیاز به همکاری و هماهنگی چند دستگاه وجود دارد، هماهنگی لازم انجام شود و موضوعات درگیر بروکراسی میان دستگاه‌ها باقی نماند.»\nhttps://iranintl.com/202609064842",
+      "message_id": 355925,
+      "message_link": "https://t.me/IranintlTV/355925",
+      "text": "رضا گوهرزاد، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به تلاش‌های تازه برای پایان دادن به جنگ روسیه و اوکراین گفت اختلاف بر سر مناطق اشغالی همچنان یکی از مسائل اصلی و حل‌نشده مذاکرات است، اما فشارهای اخیر اوکراین بر روسیه و نقش کشورهای اروپایی می‌تواند زمینه را برای ازسرگیری گفت‌وگوها فراهم کند.\n@iranintltv",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "08:43:07",
-      "gregorian_utc": "2026-09-06T05:13:07+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123973,
-      "media_size_human": "121.07 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.184361+00:00"
+      "tehran_time": "09:20:45",
+      "gregorian_utc": "2026-09-06T05:50:45+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3671197,
+      "media_size_human": "3.50 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355925_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355925_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.407615+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -883,11 +883,11 @@
       "media_type": "photo",
       "media_size_bytes": 151530,
       "media_size_human": "147.98 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.572659+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76388_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.649890+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:40.963857+00:00"
+      "archived_at": "2026-09-06T07:30:45.885694+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259344+00:00"
+      "archived_at": "2026-09-06T07:30:46.091300+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793669+00:00"
+      "archived_at": "2026-09-06T07:30:45.169463+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355921,
-      "message_link": "https://t.me/IranintlTV/355921",
-      "text": "فاطمه عزیزخانی، پژوهشگر ارشد مرکز پژوهش‌های مجلس، گفت خط فقر در سال ۱۴۰۵ در کل کشور حدود ۳۲ میلیون تومان و در تهران بیش از ۶۲ میلیون تومان است.\n\nاو به دولت هشدار داد اگر «شبکه امنیت اقتصادی» طراحی نشود، حتی خانوارهای شاغل نیز به‌زودی به زیر خط فقر سقوط خواهند کرد.\n\nروزبه بوالهری، عضو تحریریه ایران‌اینترنشنال، با اشاره به افزایش تورم و فشار هزینه‌های زندگی گفت حکومت تلاش کرده با وعده‌هایی مانند افزایش اعتبار خرید کالا، نارضایتی عمومی را کاهش دهد، اما تاکنون اقدام مشخصی در این زمینه انجام نشده است.\n\nاو افزود همزمان با گسترش اعتراضات صنفی کارگران و بازنشستگان، نهادهای امنیتی در روزهای اخیر شماری از فعالان مدنی را احضار و بازجویی کرده‌اند و حکومت از طریق افزایش فشارهای امنیتی در پی مهار اعتراضات است.\n@iranintltv",
+      "message_id": 355924,
+      "message_link": "https://t.me/IranintlTV/355924",
+      "text": "حسین محبی، سخنگوی سپاه پاسداران، به خبرگزاری مهر گفت: «اگر آمریکا بخواهد یک دلار به ایران ضربه اقتصادی وارد کند، ممکن است چندین دلار هزینه و خسارت متوجه خودش شود.»\n\nسحنگوی سپاه پاسداران ادامه داد: «آمریکایی‌ها باید بدانند تشدید محاصره اقتصادی ایران تنها هزینه‌های بیشتری برای خودشان ایجاد می‌کند.»\n\nمحبی افزود: «اعمال فشار اقتصادی و ایجاد محاصره، الزاما به معنای پیروزی طرف تحریم‌کننده نیست و حتی می‌تواند هزینه‌های سنگینی برای آن به همراه داشته باشد.»\nhttps://iranintl.com/202609063091",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "08:33:29",
-      "gregorian_utc": "2026-09-06T05:03:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3354105,
-      "media_size_human": "3.20 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.184486+00:00"
+      "tehran_time": "09:05:06",
+      "gregorian_utc": "2026-09-06T05:35:06+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 177536,
+      "media_size_human": "173.38 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355924_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355924_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.407705+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -973,11 +973,11 @@
       "media_type": "video",
       "media_size_bytes": 5274111,
       "media_size_human": "5.03 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.572709+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76387_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.649951+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -991,11 +991,11 @@
       "media_type": "video",
       "media_size_bytes": 748529,
       "media_size_human": "730.99 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.963887+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120674_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120674_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.885735+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:41.259365+00:00"
+      "archived_at": "2026-09-06T07:30:46.091325+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-06T07:20:39.793686+00:00"
+      "archived_at": "2026-09-06T07:30:45.169523+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355920,
-      "message_link": "https://t.me/IranintlTV/355920",
-      "text": "حبیب‌الله سیاری، معاون هماهنگ‌کننده ارتش جمهوری اسلامی، به سایت دفاع‌پرس گفت: «ترامپ چند جمله را مدام تکرار می‌کند، مبنی بر اینکه این‌ها سلاح هسته‌ای ندارند، نیروی دریایی‌شان را زدیم، نیروی هوایی‌شان را زدیم، وضع اقتصادی‌شان خراب است و حقوق‌شان را ندادند؛ او غیر از این‌ها جمله دیگری ندارد و ما هم به این تکرارها عادت کرده‌ایم.»\n\nسیاری اضافه کرد: «وظیفه ما در نیروهای مسلح ارتقای توان بازدارندگی است و با توجه به تجربیات و درس‌آموخته‌هایی که از جنگ ۱۲ روزه، جنگ رمضان و جنگ هرمز داشته‌ایم، در جهت برطرف کردن نقاط ضعف احتمالی و تقویت نقاط قوت تلاش بسیاری کرده‌ایم.»\nhttps://iranintl.com/202609065697",
+      "message_id": 355923,
+      "message_link": "https://t.me/IranintlTV/355923",
+      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به سفرهای متعدد مقام‌های اطلاعاتی، امنیتی و امرای ارتش آمریکا به اسرائیل در هفته‌های گذشته گفت برای نزدیک کردن جمهوری اسلامی به مرحله «تسلیم»، فشار اقتصادی و نظامی و از بین بردن توانمندی نیروهای نیابتی آن در دستور کار قرار دارد.\n\nاو افزود توانمندی نیابتی جمهوری اسلامی از طریق حزب‌الله و حوثی‌ها هدف قرار گرفته، آمریکا با محاصره دریایی توان اقتصادی جمهوری اسلامی را تحت فشار قرار داده و اسرائیل نیز برای مقابله نظامی «آمادگی صددرصد» دارد.\n\nسمیعی تاکید کرد در صورت ازسرگیری حملات، اسرائیل این بار در پی «یکسره کردن کار» جمهوری اسلامی خواهد بود.\n@iranintltv",
       "shamsi_date": "1405/06/15",
-      "tehran_time": "08:30:16",
-      "gregorian_utc": "2026-09-06T05:00:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 154755,
-      "media_size_human": "151.13 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.184569+00:00"
+      "tehran_time": "08:58:06",
+      "gregorian_utc": "2026-09-06T05:28:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3285200,
+      "media_size_human": "3.13 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355923_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355923_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.407803+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1063,11 +1063,11 @@
       "media_type": "photo",
       "media_size_bytes": 365905,
       "media_size_human": "357.33 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.572751+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76385_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.650007+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1081,11 +1081,11 @@
       "media_type": "video",
       "media_size_bytes": 5352196,
       "media_size_human": "5.10 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-06T07:20:40.963914+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120673_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120673_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-06T07:30:45.885770+00:00"
     }
   ]
 }
