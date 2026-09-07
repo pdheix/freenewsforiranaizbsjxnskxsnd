@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T18:15:28.307989+00:00",
-  "shamsi_generated": "1405/06/16 18:15:28 تهران",
+  "generated_at": "2026-09-07T18:24:20.839795+00:00",
+  "shamsi_generated": "1405/06/16 18:24:20 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12899,
-      "message_link": "https://t.me/zedTV/12899",
-      "text": "گسیل ۴۰ هزار نیروی نظامی توسط عربستان به شمال یمن جهت حمله گسترده به صنعا؛\nتدارک عملیات همه‌جانبه با پشتیبانی هوایی علیه مواضع شبه‌نظامیان حوثی؛\nجو ویلسون، نماینده کنگره آمریکا: اتفاقات بسیار بزرگی به زودی در یمن رخ می‌دهد.",
+      "message_id": 12900,
+      "message_link": "https://t.me/zedTV/12900",
+      "text": "گزارش‌ها از وقوع چندین انفجار مهیب در جنوب لبنان.\nرسانه‌های سعودی: قبایل بزرگ شرق یمن برای مقابله با شبه‌نظامیان حوثی بسیج می‌شوند.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:02:30",
-      "gregorian_utc": "2026-09-07T17:32:30+00:00",
+      "tehran_time": "21:47:57",
+      "gregorian_utc": "2026-09-07T18:17:57+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303329+00:00"
+      "archived_at": "2026-09-07T18:20:37.415945+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_356180_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356180_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674408+00:00"
+      "archived_at": "2026-09-07T18:20:37.776162+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.049018+00:00"
+      "archived_at": "2026-09-07T18:20:38.130211+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120741,
-      "message_link": "https://t.me/Mellig/120741",
-      "text": "🇩🇪**وعده‌های انتخاباتی حزب AfD در ساکسونی-آنهالت:**\n\n— پایان دادن به قراردادهای پخش عمومی.\n\n— افزایش بازداشت مهاجران و اجبار به کار برای پناهجویان.\n\n— جایگزینی حق پناهندگی با «رحمت» اعطایی توسط دولت و ایجاد «فرهنگ خروج».\n\n— کلاس‌های جداگانه برای کودکان پناهجو و ممنوعیت پرچم‌های رنگین‌کمان در مدارس.\n\n— کاهش یک تا دو وزارتخانه و قطع بودجه برنامه‌های «ترویج دموکراسی».\n\n— ایجاد مناطق ویژه اقتصادی و کاهش بوروکراسی برای کسب‌وکارهای کوچک و متوسط.\n\n— یارانه‌های گواهینامه رانندگی و استادکاران.\n\n— تشکیل کمیته تحقیقاتی پارلمانی درباره سیاست‌های کووید.\n\n Mellig.net",
+      "message_id": 120742,
+      "message_link": "https://t.me/Mellig/120742",
+      "text": "**راهکارهای پیشنهادی برای کاهش پارازیت روی دریافت شبکه‌های ماهواره‌ای\n**\nطبق تجربه‌ای که از اختلال در دریافت شبکه‌های ماهواره‌ای گزارش شده، در بعضی ساعات، به‌ویژه حوالی شب، شدت پارازیت به‌قدری افزایش پیدا می‌کند که تصویر شبکه‌ها به‌شدت مختل یا به‌طور کامل قطع می‌شود. این اختلال معمولاً زمانی اتفاق می‌افتد که سیگنال مزاحمی با قدرت نسبتاً زیاد وارد مسیر دریافت دیش و LNB شود و دریافت سیگنال اصلی ماهواره را مختل کند.\n\nبرای درک ساده‌تر موضوع می‌توان پارازیت را تا حدی به نور یک نورافکن تشبیه کرد: اگر منبع مزاحم از یک جهت مشخص به گیرنده بتابد، در برخی شرایط می‌توان با ایجاد یک مانع مناسب در همان جهت، میزان ورود آن به گیرنده را کاهش داد؛ البته بدون اینکه مسیر اصلی دید دیش به سمت ماهواره مسدود شود.\n\nیکی از پیشنهادهای مطرح‌شده این است که در اطراف و پشت دیش یک نوع محافظ یا شیلد ساخته شود. این محافظ می‌تواند از توری فلزی، مانند توری‌های ارزان‌قیمت فلزی، ساخته شود و برای افزایش خاصیت حفاظتی، بخش‌هایی از آن با ورق یا شبکه فلزی پوشانده شود. نکته مهم این است که جلوی دیش و مسیر مستقیم آن به سمت آسمان و ماهواره نباید پوشانده شود. محافظ باید عمدتاً در پشت و طرفین دیش قرار گیرد تا در صورت ورود تداخل از اطراف، بخشی از امواج مزاحم را کاهش دهد.\n\nبه عبارت دیگر، هدف ساختن نوعی دیواره یا حفاظ فلزی در اطراف دیش است، نه قرار دادن چیزی مستقیماً جلوی آن. شکل و محل قرارگیری این محافظ نیز باید بر اساس جهت ورود تداخل تنظیم شود، زیرا اگر مانع در جهت اشتباه قرار گیرد ممکن است تأثیر چندانی نداشته باشد یا حتی روی دریافت عادی سیگنال اثر منفی بگذارد.\n\nبرای تشخیص تقریبی جهت ورود تداخل نیز می‌توان تغییر شدت پارازیت را در اطراف دیش بررسی کرد. اگر قرار دادن موقت یک صفحه فلزی در یک سمت خاص باعث بهتر شدن محسوس تصویر یا کاهش اختلال شود، می‌توان نتیجه گرفت که بخش قابل‌توجهی از تداخل احتمالاً از همان سمت وارد سیستم دریافت می‌شود. سپس می‌توان محافظ دائمی را در همان سمت و بدون مسدودکردن مسیر ماهواره قرار داد.\n\nدر تصاویر ارسالی همچنین به آنتن‌ها و تجهیزات مخابراتی نصب‌شده روی برج‌ها اشاره شده و این ادعا مطرح شده است که برخی از منابع پارازیت می‌توانند از تجهیزات زمینی جهت‌دار استفاده کنند. با این حال تشخیص اینکه یک آنتن مشخص واقعاً منبع پارازیت است، صرفاً از روی ظاهر آن امکان‌پذیر نیست و برای اثبات آن به اندازه‌گیری فنی فرکانس، قدرت و جهت سیگنال نیاز است. دستکاری یا آسیب‌زدن به تجهیزات مخابراتی نیز هم خطرناک است و هم می‌تواند غیرقانونی باشد.\n\nدر مجموع، راهکاری که در این توضیحات پیشنهاد می‌شود بر کاهش ورود پارازیت به دیش از طریق یک محافظ فلزی در طرفین و پشت دیش، همراه با پیدا کردن جهت تقریبی ورود تداخل استوار است. این روش تضمین نمی‌کند که همه انواع پارازیت را از بین ببرد، اما در شرایطی که تداخل زمینی از یک جهت مشخص وارد LNB می‌شود، ممکن است کیفیت دریافت را بهبود دهد.\n\nهدف از انتشار این اطلاعات این است که افرادی که به دلیل پارازیت در دریافت ملیگ تی‌وی مشکل دارند، بتوانند با روش‌های امن و غیرمخرب، دریافت شبکه را بهتر کنند.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:30:33",
-      "gregorian_utc": "2026-09-07T18:00:33+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.412657+00:00"
+      "tehran_time": "21:45:26",
+      "gregorian_utc": "2026-09-07T18:15:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 327876,
+      "media_size_human": "320.19 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120742_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120742_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T18:20:38.463936+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.740286+00:00"
+      "archived_at": "2026-09-07T18:20:38.748175+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12898,
-      "message_link": "https://t.me/zedTV/12898",
-      "text": "بیانیه معلمان: تعطیلی کلاس‌های درس در اعتراض به فقر و بی‌توجهی به مطالبات.\nفرهنگیان در واکنش به حقوق ناچیز، از حضور در مدارس خودداری می‌کنند.\nتوقف تدریس؛ معلمان علیه سوءمدیریت رژیم به پا خاستند.",
+      "message_id": 12899,
+      "message_link": "https://t.me/zedTV/12899",
+      "text": "گسیل ۴۰ هزار نیروی نظامی توسط عربستان به شمال یمن جهت حمله گسترده به صنعا؛\nتدارک عملیات همه‌جانبه با پشتیبانی هوایی علیه مواضع شبه‌نظامیان حوثی؛\nجو ویلسون، نماینده کنگره آمریکا: اتفاقات بسیار بزرگی به زودی در یمن رخ می‌دهد.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:32:29",
-      "gregorian_utc": "2026-09-07T15:02:29+00:00",
+      "tehran_time": "21:02:30",
+      "gregorian_utc": "2026-09-07T17:32:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303369+00:00"
+      "archived_at": "2026-09-07T18:20:37.415999+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_356179_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674453+00:00"
+      "archived_at": "2026-09-07T18:20:37.776238+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76429_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76429_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049076+00:00"
+      "archived_at": "2026-09-07T18:20:38.130279+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120740,
-      "message_link": "https://t.me/Mellig/120740",
-      "text": "النبطیه، جنوب لبنان \n\nخبرنگار المنار، علی شبیب Ali Chebeib در حال گزارش بود که نه بابا هیچ خبری نیست که یک موشک خورد بغلش و احتمالا پودر شد",
+      "message_id": 120741,
+      "message_link": "https://t.me/Mellig/120741",
+      "text": "🇩🇪**وعده‌های انتخاباتی حزب AfD در ساکسونی-آنهالت:**\n\n— پایان دادن به قراردادهای پخش عمومی.\n\n— افزایش بازداشت مهاجران و اجبار به کار برای پناهجویان.\n\n— جایگزینی حق پناهندگی با «رحمت» اعطایی توسط دولت و ایجاد «فرهنگ خروج».\n\n— کلاس‌های جداگانه برای کودکان پناهجو و ممنوعیت پرچم‌های رنگین‌کمان در مدارس.\n\n— کاهش یک تا دو وزارتخانه و قطع بودجه برنامه‌های «ترویج دموکراسی».\n\n— ایجاد مناطق ویژه اقتصادی و کاهش بوروکراسی برای کسب‌وکارهای کوچک و متوسط.\n\n— یارانه‌های گواهینامه رانندگی و استادکاران.\n\n— تشکیل کمیته تحقیقاتی پارلمانی درباره سیاست‌های کووید.\n\n Mellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:14:29",
-      "gregorian_utc": "2026-09-07T17:44:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1191632,
-      "media_size_human": "1.14 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120740_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120740_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412712+00:00"
+      "tehran_time": "21:30:33",
+      "gregorian_utc": "2026-09-07T18:00:33+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T18:20:38.464055+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.740339+00:00"
+      "archived_at": "2026-09-07T18:20:38.748245+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12897,
-      "message_link": "https://t.me/zedTV/12897",
-      "text": "کشته شدن فرماندهان حوثی و کارشناسان سپاه پاسداران در یمن\nمنابع نظامی: نیروهای وابسته به رژیم در منطقه السوادیه هدف قرار گرفتند\nتلفات در میان مهره‌های جمهوری اسلامی در استان البیضا",
+      "message_id": 12898,
+      "message_link": "https://t.me/zedTV/12898",
+      "text": "بیانیه معلمان: تعطیلی کلاس‌های درس در اعتراض به فقر و بی‌توجهی به مطالبات.\nفرهنگیان در واکنش به حقوق ناچیز، از حضور در مدارس خودداری می‌کنند.\nتوقف تدریس؛ معلمان علیه سوءمدیریت رژیم به پا خاستند.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:20:21",
-      "gregorian_utc": "2026-09-07T14:50:21+00:00",
+      "tehran_time": "18:32:29",
+      "gregorian_utc": "2026-09-07T15:02:29+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303393+00:00"
+      "archived_at": "2026-09-07T18:20:37.416040+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_356178_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356178_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674556+00:00"
+      "archived_at": "2026-09-07T18:20:37.776379+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049236+00:00"
+      "archived_at": "2026-09-07T18:20:38.130505+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120739,
-      "message_link": "https://t.me/Mellig/120739",
-      "text": "خنثی سازی یک گردان کامل (۳۰۰-۱۲۰۰ نفر) حزب الله در النبط توسط نیروی هوایی اسراییل.\nMellig.net",
+      "message_id": 120740,
+      "message_link": "https://t.me/Mellig/120740",
+      "text": "النبطیه، جنوب لبنان \n\nخبرنگار المنار، علی شبیب Ali Chebeib در حال گزارش بود که نه بابا هیچ خبری نیست که یک موشک خورد بغلش و احتمالا پودر شد",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:10:11",
-      "gregorian_utc": "2026-09-07T17:40:11+00:00",
+      "tehran_time": "21:14:29",
+      "gregorian_utc": "2026-09-07T17:44:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 3514466,
-      "media_size_human": "3.35 MB",
+      "media_size_bytes": 1191632,
+      "media_size_human": "1.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120739_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120739_video.mp4",
+      "media_local_path": "media/Mellig_120740_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120740_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412753+00:00"
+      "archived_at": "2026-09-07T18:20:38.464106+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740361+00:00"
+      "archived_at": "2026-09-07T18:20:38.748277+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12896,
-      "message_link": "https://t.me/zedTV/12896",
-      "text": "♦️ بلومبرگ: آمریکا پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت ارجاع می‌دهد.\n♦️ تلاش واشینگتن برای انتقال پرونده اتمی رژیم به عالی‌ترین نهاد امنیتی جهان.",
+      "message_id": 12897,
+      "message_link": "https://t.me/zedTV/12897",
+      "text": "کشته شدن فرماندهان حوثی و کارشناسان سپاه پاسداران در یمن\nمنابع نظامی: نیروهای وابسته به رژیم در منطقه السوادیه هدف قرار گرفتند\nتلفات در میان مهره‌های جمهوری اسلامی در استان البیضا",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:48:18",
-      "gregorian_utc": "2026-09-07T14:18:18+00:00",
+      "tehran_time": "18:20:21",
+      "gregorian_utc": "2026-09-07T14:50:21+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303417+00:00"
+      "archived_at": "2026-09-07T18:20:37.416078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_356177_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674670+00:00"
+      "archived_at": "2026-09-07T18:20:37.776568+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049304+00:00"
+      "archived_at": "2026-09-07T18:20:38.130604+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120738,
-      "message_link": "https://t.me/Mellig/120738",
-      "text": "سلام استاد متاسفانه از دیشب یعنی یکشنبه شب بد جور کانال شما را پارازیت انداختند به طوری که نه صدا داره نه تصویر امروز هم طور بود بازپخش نمی شد دید دوشنبه\n\nتو‌منطقه غرب تهران یادگار\n\nراستی دیشب امروز دوشنبه صف پمپ‌بنزین ها افتضاح بود ستارخان  پمپ بنزین و پمپ بنزین میدان حر\n\nپمپ بنزین یادگار امام سمت فرحزاد پمپ بنزین خرگوش دره  پمپ بنزین ازادگان و\n\nخیابان اذربایجان افتضاح و خیلی جاهای دیگه\n\nنت هم‌به شدت ضعیف شده افتضاح",
+      "message_id": 120739,
+      "message_link": "https://t.me/Mellig/120739",
+      "text": "خنثی سازی یک گردان کامل (۳۰۰-۱۲۰۰ نفر) حزب الله در النبط توسط نیروی هوایی اسراییل.\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "20:20:32",
-      "gregorian_utc": "2026-09-07T16:50:32+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.412773+00:00"
+      "tehran_time": "21:10:11",
+      "gregorian_utc": "2026-09-07T17:40:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3514466,
+      "media_size_human": "3.35 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120739_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120739_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T18:20:38.464163+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740378+00:00"
+      "archived_at": "2026-09-07T18:20:38.748303+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12895,
-      "message_link": "https://t.me/zedTV/12895",
-      "text": "ارزیابی اطلاعات ارتش اسرائیل: احتمال تشدید تنش‌های نظامی توسط جمهوری اسلامی.\nفشارهای دوگانه رژیم را به سمت تقابل با اسرائیل سوق داده است.",
+      "message_id": 12896,
+      "message_link": "https://t.me/zedTV/12896",
+      "text": "♦️ بلومبرگ: آمریکا پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت ارجاع می‌دهد.\n♦️ تلاش واشینگتن برای انتقال پرونده اتمی رژیم به عالی‌ترین نهاد امنیتی جهان.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:48:14",
-      "gregorian_utc": "2026-09-07T14:18:14+00:00",
+      "tehran_time": "17:48:18",
+      "gregorian_utc": "2026-09-07T14:18:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303436+00:00"
+      "archived_at": "2026-09-07T18:20:37.416108+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_356176_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356176_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674741+00:00"
+      "archived_at": "2026-09-07T18:20:37.776683+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049379+00:00"
+      "archived_at": "2026-09-07T18:20:38.130706+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120737,
-      "message_link": "https://t.me/Mellig/120737",
-      "text": "🔴 #خبر_فوری\nبسیج عمومی در سراسر یمن در حال وقوع است،\nیمن بار دیگر پس از 5 سال درگیر یک جنگ داخلی تمام‌عیار شده است و نبردهای متعددی در تقریباً تمام جبهه‌های یمن در جریان است.",
+      "message_id": 120738,
+      "message_link": "https://t.me/Mellig/120738",
+      "text": "سلام استاد متاسفانه از دیشب یعنی یکشنبه شب بد جور کانال شما را پارازیت انداختند به طوری که نه صدا داره نه تصویر امروز هم طور بود بازپخش نمی شد دید دوشنبه\n\nتو‌منطقه غرب تهران یادگار\n\nراستی دیشب امروز دوشنبه صف پمپ‌بنزین ها افتضاح بود ستارخان  پمپ بنزین و پمپ بنزین میدان حر\n\nپمپ بنزین یادگار امام سمت فرحزاد پمپ بنزین خرگوش دره  پمپ بنزین ازادگان و\n\nخیابان اذربایجان افتضاح و خیلی جاهای دیگه\n\nنت هم‌به شدت ضعیف شده افتضاح",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "19:29:01",
-      "gregorian_utc": "2026-09-07T15:59:01+00:00",
+      "tehran_time": "20:20:32",
+      "gregorian_utc": "2026-09-07T16:50:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.412827+00:00"
+      "archived_at": "2026-09-07T18:20:38.464192+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740394+00:00"
+      "archived_at": "2026-09-07T18:20:38.748328+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12894,
-      "message_link": "https://t.me/zedTV/12894",
-      "text": "",
+      "message_id": 12895,
+      "message_link": "https://t.me/zedTV/12895",
+      "text": "ارزیابی اطلاعات ارتش اسرائیل: احتمال تشدید تنش‌های نظامی توسط جمهوری اسلامی.\nفشارهای دوگانه رژیم را به سمت تقابل با اسرائیل سوق داده است.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:20:18",
-      "gregorian_utc": "2026-09-07T13:50:18+00:00",
+      "tehran_time": "17:48:14",
+      "gregorian_utc": "2026-09-07T14:18:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303460+00:00"
+      "archived_at": "2026-09-07T18:20:37.416144+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_356175_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356175_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674821+00:00"
+      "archived_at": "2026-09-07T18:20:37.776780+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.049497+00:00"
+      "archived_at": "2026-09-07T18:20:38.130863+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120736,
-      "message_link": "https://t.me/Mellig/120736",
-      "text": "هموطنان عزیز این کانال فیلم های مربوط به جاویدنامان از برنامه های ایران را پس میگیریم هست و از همه شما میخواهم که در اطراف خانواده های  جاوید نامان هستید بسیار مراقب آنان باشید و همانطور که رهبر انقلاب شیر و خورشید ایران شاهزاده رضا پهلوی هم بارها گفته اند این چند قدم آخر را تا پیروزی کامل بر باقیمانده حکومت آدمکش اسلامی را در کنار هم برداریم و دیگر شاهد این خبرهای درد آور نباشیم.  کیو آر کد مربوط به کانال جاوید نامان انقلاب شیر و خورشید ایران همراه پوستر آن.  قسم به خون یاران ایستاده‌ایم تا پایان.",
+      "message_id": 120737,
+      "message_link": "https://t.me/Mellig/120737",
+      "text": "🔴 #خبر_فوری\nبسیج عمومی در سراسر یمن در حال وقوع است،\nیمن بار دیگر پس از 5 سال درگیر یک جنگ داخلی تمام‌عیار شده است و نبردهای متعددی در تقریباً تمام جبهه‌های یمن در جریان است.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "19:18:44",
-      "gregorian_utc": "2026-09-07T15:48:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 314270,
-      "media_size_human": "306.90 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120736_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120736_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412862+00:00"
+      "tehran_time": "19:29:01",
+      "gregorian_utc": "2026-09-07T15:59:01+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T18:20:38.464247+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740411+00:00"
+      "archived_at": "2026-09-07T18:20:38.748354+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12893,
-      "message_link": "https://t.me/zedTV/12893",
-      "text": "شلیک موشک‌های بالستیک رژیم به سوی ناو هواپیمابر ایالات متحده.\nخودداری تهران از هرگونه اقدام نظامی علیه اسرائیل علیرغم ادعاهای انتقام.\nنمایش ناتوانی و تناقض در راهبردهای دفاعی جمهوری اسلامی.",
+      "message_id": 12894,
+      "message_link": "https://t.me/zedTV/12894",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:48:15",
-      "gregorian_utc": "2026-09-07T13:18:15+00:00",
+      "tehran_time": "17:20:18",
+      "gregorian_utc": "2026-09-07T13:50:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303477+00:00"
+      "archived_at": "2026-09-07T18:20:37.416174+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_356174_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356174_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674852+00:00"
+      "archived_at": "2026-09-07T18:20:37.776823+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049544+00:00"
+      "archived_at": "2026-09-07T18:20:38.130937+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120735,
-      "message_link": "https://t.me/Mellig/120735",
-      "text": "",
+      "message_id": 120736,
+      "message_link": "https://t.me/Mellig/120736",
+      "text": "هموطنان عزیز این کانال فیلم های مربوط به جاویدنامان از برنامه های ایران را پس میگیریم هست و از همه شما میخواهم که در اطراف خانواده های  جاوید نامان هستید بسیار مراقب آنان باشید و همانطور که رهبر انقلاب شیر و خورشید ایران شاهزاده رضا پهلوی هم بارها گفته اند این چند قدم آخر را تا پیروزی کامل بر باقیمانده حکومت آدمکش اسلامی را در کنار هم برداریم و دیگر شاهد این خبرهای درد آور نباشیم.  کیو آر کد مربوط به کانال جاوید نامان انقلاب شیر و خورشید ایران همراه پوستر آن.  قسم به خون یاران ایستاده‌ایم تا پایان.",
       "shamsi_date": "1405/06/16",
       "tehran_time": "19:18:44",
       "gregorian_utc": "2026-09-07T15:48:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 53996,
-      "media_size_human": "52.73 KB",
+      "media_size_bytes": 314270,
+      "media_size_human": "306.90 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120735_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120735_photo.jpg",
+      "media_local_path": "media/Mellig_120736_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120736_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412889+00:00"
+      "archived_at": "2026-09-07T18:20:38.464290+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740428+00:00"
+      "archived_at": "2026-09-07T18:20:38.748378+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12892,
-      "message_link": "https://t.me/zedTV/12892",
-      "text": "عملیات مخفیانه ۴ ماهه نیروی دریایی آمریکا برای پاکسازی مین‌های رژیم ایران در تنگه هرمز.\nاستفاده از غواصان زبده و ربات‌های زیردریایی برای شناسایی و انهدام مین‌ها با تکنولوژی سونار.\nاعلام پاکسازی توسط ترامپ؛ تداوم احتیاط کشتیرانی به دلیل تهدیدات موشکی و پهپادی رژیم.",
+      "message_id": 12893,
+      "message_link": "https://t.me/zedTV/12893",
+      "text": "شلیک موشک‌های بالستیک رژیم به سوی ناو هواپیمابر ایالات متحده.\nخودداری تهران از هرگونه اقدام نظامی علیه اسرائیل علیرغم ادعاهای انتقام.\nنمایش ناتوانی و تناقض در راهبردهای دفاعی جمهوری اسلامی.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:48:14",
-      "gregorian_utc": "2026-09-07T13:18:14+00:00",
+      "tehran_time": "16:48:15",
+      "gregorian_utc": "2026-09-07T13:18:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303507+00:00"
+      "archived_at": "2026-09-07T18:20:37.416215+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_356173_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356173_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.674964+00:00"
+      "archived_at": "2026-09-07T18:20:37.776975+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049631+00:00"
+      "archived_at": "2026-09-07T18:20:38.131058+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120734,
-      "message_link": "https://t.me/Mellig/120734",
-      "text": "از تهران تا حیفا\n\nMellig.net",
+      "message_id": 120735,
+      "message_link": "https://t.me/Mellig/120735",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:40:12",
-      "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 72986983,
-      "media_size_human": "69.61 MB",
+      "tehran_time": "19:18:44",
+      "gregorian_utc": "2026-09-07T15:48:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 53996,
+      "media_size_human": "52.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120734_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
+      "media_local_path": "media/Mellig_120735_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120735_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412917+00:00"
+      "archived_at": "2026-09-07T18:20:38.464328+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740448+00:00"
+      "archived_at": "2026-09-07T18:20:38.748404+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12891,
-      "message_link": "https://t.me/zedTV/12891",
-      "text": "انسداد کامل مرزهای زمینی پاکستان به روی ایران.\nممانعت از ورود کامیون‌های تجاری جمهوری اسلامی به خاک پاکستان.\nتوقف فعالیت‌های ترانزیتی در مرزهای مشترک دو کشور.",
+      "message_id": 12892,
+      "message_link": "https://t.me/zedTV/12892",
+      "text": "عملیات مخفیانه ۴ ماهه نیروی دریایی آمریکا برای پاکسازی مین‌های رژیم ایران در تنگه هرمز.\nاستفاده از غواصان زبده و ربات‌های زیردریایی برای شناسایی و انهدام مین‌ها با تکنولوژی سونار.\nاعلام پاکسازی توسط ترامپ؛ تداوم احتیاط کشتیرانی به دلیل تهدیدات موشکی و پهپادی رژیم.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:33:58",
-      "gregorian_utc": "2026-09-07T13:03:58+00:00",
+      "tehran_time": "16:48:14",
+      "gregorian_utc": "2026-09-07T13:18:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303529+00:00"
+      "archived_at": "2026-09-07T18:20:37.416243+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_356172_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356172_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.675050+00:00"
+      "archived_at": "2026-09-07T18:20:37.777090+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049655+00:00"
+      "archived_at": "2026-09-07T18:20:38.131101+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120733,
-      "message_link": "https://t.me/Mellig/120733",
-      "text": "درود بر شما\nویدیو جدیدم « از تهران تا حیفا » کار مشترک من (میثم اسدپور) با هنرمند اسرائیلی ایرانی تبار خانم غزل میزراحی تقدیم به شما 🩵\nپاینده ایران و اسرائیل \nجاوید شاه🫡🩵👑✌🏽",
+      "message_id": 120734,
+      "message_link": "https://t.me/Mellig/120734",
+      "text": "از تهران تا حیفا\n\nMellig.net",
       "shamsi_date": "1405/06/16",
       "tehran_time": "17:40:12",
       "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 8171170,
-      "media_size_human": "7.79 MB",
+      "media_type": "video",
+      "media_size_bytes": 72986983,
+      "media_size_human": "69.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120733_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120733_audio.mp3",
+      "media_local_path": "media/Mellig_120734_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412940+00:00"
+      "archived_at": "2026-09-07T18:20:38.464373+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740464+00:00"
+      "archived_at": "2026-09-07T18:20:38.748427+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12890,
-      "message_link": "https://t.me/zedTV/12890",
-      "text": "♦️ بلومبرگ: آمریکا پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل ارجاع می‌دهد.\n♦️ تصمیم واشینگتن برای انتقال پرونده اتمی رژیم به عالی‌ترین نهاد امنیتی جهان.",
+      "message_id": 12891,
+      "message_link": "https://t.me/zedTV/12891",
+      "text": "انسداد کامل مرزهای زمینی پاکستان به روی ایران.\nممانعت از ورود کامیون‌های تجاری جمهوری اسلامی به خاک پاکستان.\nتوقف فعالیت‌های ترانزیتی در مرزهای مشترک دو کشور.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:33:44",
-      "gregorian_utc": "2026-09-07T13:03:44+00:00",
+      "tehran_time": "16:33:58",
+      "gregorian_utc": "2026-09-07T13:03:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303547+00:00"
+      "archived_at": "2026-09-07T18:20:37.416269+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_356171_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356171_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.675101+00:00"
+      "archived_at": "2026-09-07T18:20:37.777167+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049711+00:00"
+      "archived_at": "2026-09-07T18:20:38.131184+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120732,
-      "message_link": "https://t.me/Mellig/120732",
-      "text": "از نعره حیدری و آمریکا تمام شد ، علی اکبر عرفات رسیده به عرعرهای یواشکی و صلح حسنی 😁\n\nیه نعره حیدری برن علی طاهر آزاد بشه خوب 😂😂\n\nMellig.net",
+      "message_id": 120733,
+      "message_link": "https://t.me/Mellig/120733",
+      "text": "درود بر شما\nویدیو جدیدم « از تهران تا حیفا » کار مشترک من (میثم اسدپور) با هنرمند اسرائیلی ایرانی تبار خانم غزل میزراحی تقدیم به شما 🩵\nپاینده ایران و اسرائیل \nجاوید شاه🫡🩵👑✌🏽",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:51:18",
-      "gregorian_utc": "2026-09-07T13:21:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 30992,
-      "media_size_human": "30.27 KB",
+      "tehran_time": "17:40:12",
+      "gregorian_utc": "2026-09-07T14:10:12+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 8171170,
+      "media_size_human": "7.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120732_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120732_photo.jpg",
+      "media_local_path": "media/Mellig_120733_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120733_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.412983+00:00"
+      "archived_at": "2026-09-07T18:20:38.464551+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740481+00:00"
+      "archived_at": "2026-09-07T18:20:38.748478+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12889,
-      "message_link": "https://t.me/zedTV/12889",
-      "text": "هشدار نسبت به تله افزایش قیمت بنزین؛ رژیم به دنبال ایجاد اعتراضات مصنوعی برای سرکوب پیش‌دستانه است.\nپیش‌بینی کمبود شدید سوخت در ماه‌های آتی؛ تلاش برای تکرار کشتار و خنثی‌سازی قیام نهایی.\nلزوم هوشیاری ملی در برابر دام امنیتی؛ از حضور در خیابان‌ها در این مقطع خودداری کنید.",
+      "message_id": 12890,
+      "message_link": "https://t.me/zedTV/12890",
+      "text": "♦️ بلومبرگ: آمریکا پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل ارجاع می‌دهد.\n♦️ تصمیم واشینگتن برای انتقال پرونده اتمی رژیم به عالی‌ترین نهاد امنیتی جهان.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:17:44",
-      "gregorian_utc": "2026-09-07T12:47:44+00:00",
+      "tehran_time": "16:33:44",
+      "gregorian_utc": "2026-09-07T13:03:44+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:37.303563+00:00"
+      "archived_at": "2026-09-07T18:20:37.416294+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_356170_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356170_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.675165+00:00"
+      "archived_at": "2026-09-07T18:20:37.777257+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.049729+00:00"
+      "archived_at": "2026-09-07T18:20:38.131213+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120731,
-      "message_link": "https://t.me/Mellig/120731",
-      "text": "‏🇩🇪 آلیس وایدل رهبر احتمالی آینده آلمان: در ۱۰۰ روز نخست، مرزها را می‌بندم و بزرگ‌ترین اخراج مهاجران در آلمان را اجرا می‌کنم\n‏آلیس وایدل، رهبر حزب آلترناتیو برای آلمان AfD، گفته است در صورت به‌دست گرفتن قدرت، در ۱۰۰ روز نخست مرزها را خواهد بست، مزایای اجتماعی برای مهاجران را محدود می‌کند و گسترده‌ترین برنامه اخراج مهاجران در آلمان را به اجرا می‌گذارد. این اظهارات هم‌زمان با پیروزی تاریخی حزب او در انتخابات زاکسن آنهالت مطرح شده است.\n\nMellig.net",
+      "message_id": 120732,
+      "message_link": "https://t.me/Mellig/120732",
+      "text": "از نعره حیدری و آمریکا تمام شد ، علی اکبر عرفات رسیده به عرعرهای یواشکی و صلح حسنی 😁\n\nیه نعره حیدری برن علی طاهر آزاد بشه خوب 😂😂\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:50:21",
-      "gregorian_utc": "2026-09-07T13:20:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4525477,
-      "media_size_human": "4.32 MB",
+      "tehran_time": "16:51:18",
+      "gregorian_utc": "2026-09-07T13:21:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 30992,
+      "media_size_human": "30.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120731_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120731_video.mp4",
+      "media_local_path": "media/Mellig_120732_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120732_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.413047+00:00"
+      "archived_at": "2026-09-07T18:20:38.464645+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,25 +1013,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:10:38.740504+00:00"
+      "archived_at": "2026-09-07T18:20:38.748507+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12888,
-      "message_link": "https://t.me/zedTV/12888",
-      "text": "**جمهوری عروسکی**\nپول ما کجا میره ؟! 💸🇱🇧\n\n[#جمهوری_عروسکی](https://www.instagram.com/explore/tags/%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%B9%D8%B1%D9%88%D8%B3%DA%A9%DB%8C/) [#ضد_تی_وی](https://www.instagram.com/explore/tags/%D8%B6%D8%AF_%D8%AA%DB%8C_%D9%88%DB%8C/)\n\nبرای اطلاعات بیشتر، ما را در اینستاگرام دنبال کنید\nhttps://www.instagram.com/officialzedtv/",
+      "message_id": 12889,
+      "message_link": "https://t.me/zedTV/12889",
+      "text": "هشدار نسبت به تله افزایش قیمت بنزین؛ رژیم به دنبال ایجاد اعتراضات مصنوعی برای سرکوب پیش‌دستانه است.\nپیش‌بینی کمبود شدید سوخت در ماه‌های آتی؛ تلاش برای تکرار کشتار و خنثی‌سازی قیام نهایی.\nلزوم هوشیاری ملی در برابر دام امنیتی؛ از حضور در خیابان‌ها در این مقطع خودداری کنید.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:01:13",
-      "gregorian_utc": "2026-09-07T12:31:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 14461904,
-      "media_size_human": "13.79 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_12888_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12888_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.311840+00:00"
+      "tehran_time": "16:17:44",
+      "gregorian_utc": "2026-09-07T12:47:44+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T18:20:37.416319+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_356169_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356169_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:37.675226+00:00"
+      "archived_at": "2026-09-07T18:20:37.777347+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.049765+00:00"
+      "archived_at": "2026-09-07T18:20:38.131273+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120730,
-      "message_link": "https://t.me/Mellig/120730",
-      "text": "",
+      "message_id": 120731,
+      "message_link": "https://t.me/Mellig/120731",
+      "text": "‏🇩🇪 آلیس وایدل رهبر احتمالی آینده آلمان: در ۱۰۰ روز نخست، مرزها را می‌بندم و بزرگ‌ترین اخراج مهاجران در آلمان را اجرا می‌کنم\n‏آلیس وایدل، رهبر حزب آلترناتیو برای آلمان AfD، گفته است در صورت به‌دست گرفتن قدرت، در ۱۰۰ روز نخست مرزها را خواهد بست، مزایای اجتماعی برای مهاجران را محدود می‌کند و گسترده‌ترین برنامه اخراج مهاجران در آلمان را به اجرا می‌گذارد. این اظهارات هم‌زمان با پیروزی تاریخی حزب او در انتخابات زاکسن آنهالت مطرح شده است.\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:35:20",
-      "gregorian_utc": "2026-09-07T13:05:20+00:00",
+      "tehran_time": "16:50:21",
+      "gregorian_utc": "2026-09-07T13:20:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 854736,
-      "media_size_human": "834.70 KB",
+      "media_size_bytes": 4525477,
+      "media_size_human": "4.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120730_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120730_video.mp4",
+      "media_local_path": "media/Mellig_120731_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120731_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:10:38.413068+00:00"
+      "archived_at": "2026-09-07T18:20:38.464740+00:00"
     }
   ]
 }
