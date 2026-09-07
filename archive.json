@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T22:32:31.702433+00:00",
-  "shamsi_generated": "1405/06/16 22:32:31 تهران",
+  "generated_at": "2026-09-07T22:43:08.320346+00:00",
+  "shamsi_generated": "1405/06/16 22:43:08 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983461+00:00"
+      "archived_at": "2026-09-07T22:40:29.318942+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356210,
-      "message_link": "https://t.me/IranintlTV/356210",
-      "text": "🔻محمد اسفندیارپور، مدیرعامل گل‌گهر سیرجان در گفتگو با برنامه‌ای در صدا و سیمای جمهوری اسلامی در پاسخ به اظهارات حجت کریمی، مدیرعامل تراکتور درباره ضبط و پخش فحاشی‌های خداداد عزیزی،  گفت: «چرا حرفی زده شده که ضبط و پخش شود؟ اصلا چه کسی گفته نباید پخش می‌شده؟ فرار رو به جلو نکنید.»\n\n🔹او ضمن اظهار بی‌اطلاعی از فرآیند درگیری بین رختکن دو تیم پس از پایان بازی، درباره محرومیت امید عالیشاه گفت: «از سمت رختکن ما چیزی نبوده است. ناظر بازی ادعایی کرده و کمیته انضباطی روی گزارش ناظر بازی رای داده است.»\n\n🔹مدیرعامل گل‌گهر گفت: «سندی الان بیرون است که نشان می‌دهد از طرف ما چیزی نبوده است. بچه‌های ما در این فضا نیستند، سابقه هم نداشته است. در مرام گل‌گهر چنین چیزی نیست.»\n\n🔹اسفندیارپور گفت: «اگر هم بوده ناظر بازی چطور تشخیص داده‌اند امید عالیشاه گفته؟ از پشت درهای بسته چطور تشخیص داده‌اند فردی که متهم به زدن حرف نامربوطی از رختکن ماست، امید عالیشاه بوده است. در بسته بوده، یک نفر بیرون شنیده.»\n\n@iranintltvsport",
+      "message_id": 356211,
+      "message_link": "https://t.me/IranintlTV/356211",
+      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | تصمیمی که از ترس اعتراض مردم به تعویق افتاده بود\n@iranintlTV",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:51:13",
-      "gregorian_utc": "2026-09-07T22:21:13+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 173241,
-      "media_size_human": "169.18 KB",
+      "tehran_time": "02:08:25",
+      "gregorian_utc": "2026-09-07T22:38:25+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 44908166,
+      "media_size_human": "42.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356210_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356210_photo.jpg",
+      "media_local_path": "media/IranintlTV_356211_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356211_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283234+00:00"
+      "archived_at": "2026-09-07T22:40:29.609243+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.557340+00:00"
+      "archived_at": "2026-09-07T22:40:29.890522+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826417+00:00"
+      "archived_at": "2026-09-07T22:40:30.151997+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:44.074727+00:00"
+      "archived_at": "2026-09-07T22:40:30.395462+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983493+00:00"
+      "archived_at": "2026-09-07T22:40:29.318989+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356209,
-      "message_link": "https://t.me/IranintlTV/356209",
-      "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد کارکنان تایلندی در بندر لام چابانگ این کشور مشغول زنگ‌زدایی، پاک‌سازی رسوبات و موجودات دریایی و شست‌وشوی ناو هواپیمابر هسته‌ای «یواس‌اس آبراهام لینکلن» هستند. این ناو با حدود پنج هزار نیرو، پس از ۲۸۶ روز حضور در دریا و شرکت در عملیات رزمی علیه جمهوری اسلامی، چهارشنبه ۱۱ شهریور وارد تایلند شد.\nبه گفته مقام‌های تایلندی، ناو آبراهام لینکلن همراه چند شناور دیگر نیروی دریایی آمریکا برای پنج روز استراحت نیروها در این کشور توقف خواهد داشت.\n@iranintltv",
+      "message_id": 356210,
+      "message_link": "https://t.me/IranintlTV/356210",
+      "text": "🔻محمد اسفندیارپور، مدیرعامل گل‌گهر سیرجان در گفتگو با برنامه‌ای در صدا و سیمای جمهوری اسلامی در پاسخ به اظهارات حجت کریمی، مدیرعامل تراکتور درباره ضبط و پخش فحاشی‌های خداداد عزیزی،  گفت: «چرا حرفی زده شده که ضبط و پخش شود؟ اصلا چه کسی گفته نباید پخش می‌شده؟ فرار رو به جلو نکنید.»\n\n🔹او ضمن اظهار بی‌اطلاعی از فرآیند درگیری بین رختکن دو تیم پس از پایان بازی، درباره محرومیت امید عالیشاه گفت: «از سمت رختکن ما چیزی نبوده است. ناظر بازی ادعایی کرده و کمیته انضباطی روی گزارش ناظر بازی رای داده است.»\n\n🔹مدیرعامل گل‌گهر گفت: «سندی الان بیرون است که نشان می‌دهد از طرف ما چیزی نبوده است. بچه‌های ما در این فضا نیستند، سابقه هم نداشته است. در مرام گل‌گهر چنین چیزی نیست.»\n\n🔹اسفندیارپور گفت: «اگر هم بوده ناظر بازی چطور تشخیص داده‌اند امید عالیشاه گفته؟ از پشت درهای بسته چطور تشخیص داده‌اند فردی که متهم به زدن حرف نامربوطی از رختکن ماست، امید عالیشاه بوده است. در بسته بوده، یک نفر بیرون شنیده.»\n\n@iranintltvsport",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:46:11",
-      "gregorian_utc": "2026-09-07T22:16:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1042161,
-      "media_size_human": "1017.74 KB",
+      "tehran_time": "01:51:13",
+      "gregorian_utc": "2026-09-07T22:21:13+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 173241,
+      "media_size_human": "169.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356209_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356209_video.mp4",
+      "media_local_path": "media/IranintlTV_356210_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356210_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283392+00:00"
+      "archived_at": "2026-09-07T22:40:29.609484+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76431_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76431_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557398+00:00"
+      "archived_at": "2026-09-07T22:40:29.890591+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826441+00:00"
+      "archived_at": "2026-09-07T22:40:30.152031+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:44.074778+00:00"
+      "archived_at": "2026-09-07T22:40:30.395529+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983533+00:00"
+      "archived_at": "2026-09-07T22:40:29.319033+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356208,
-      "message_link": "https://t.me/IranintlTV/356208",
+      "message_id": 356209,
+      "message_link": "https://t.me/IranintlTV/356209",
       "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد کارکنان تایلندی در بندر لام چابانگ این کشور مشغول زنگ‌زدایی، پاک‌سازی رسوبات و موجودات دریایی و شست‌وشوی ناو هواپیمابر هسته‌ای «یواس‌اس آبراهام لینکلن» هستند. این ناو با حدود پنج هزار نیرو، پس از ۲۸۶ روز حضور در دریا و شرکت در عملیات رزمی علیه جمهوری اسلامی، چهارشنبه ۱۱ شهریور وارد تایلند شد.\nبه گفته مقام‌های تایلندی، ناو آبراهام لینکلن همراه چند شناور دیگر نیروی دریایی آمریکا برای پنج روز استراحت نیروها در این کشور توقف خواهد داشت.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:45:18",
-      "gregorian_utc": "2026-09-07T22:15:18+00:00",
+      "tehran_time": "01:46:11",
+      "gregorian_utc": "2026-09-07T22:16:11+00:00",
       "media_type": "video",
       "media_size_bytes": 1042161,
       "media_size_human": "1017.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356208_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356208_video.mp4",
+      "media_local_path": "media/IranintlTV_356209_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356209_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283461+00:00"
+      "archived_at": "2026-09-07T22:40:29.609588+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557557+00:00"
+      "archived_at": "2026-09-07T22:40:29.890792+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826491+00:00"
+      "archived_at": "2026-09-07T22:40:30.152092+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074798+00:00"
+      "archived_at": "2026-09-07T22:40:30.395555+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983559+00:00"
+      "archived_at": "2026-09-07T22:40:29.319066+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356207,
-      "message_link": "https://t.me/IranintlTV/356207",
-      "text": "سرگئی لاوروف، وزیر خارجه روسیه، خواستار مشارکت جمهوری اسلامی در یک نظام امنیت منطقه‌ای در خلیج فارس شد و گفت حضور تهران در چنین ساختاری می‌تواند گامی عملی برای تضمین ثبات منطقه باشد.\n\nبه گزارش خبرگزاری آناتولی، لاوروف گفت مسکو بیش از ۲۰ سال پیش پیشنهاد کرده بود کشورهای منطقه برای تدوین یک مفهوم امنیتی مشترک در خلیج فارس گفت‌وگو کنند.\n\nاو افزود عادی‌سازی روابط تهران و ریاض با ابتکار چین و تشویق روسیه، زمینه را برای تغییر شرایط منطقه فراهم کرده است.\n\nلاوروف همچنین توافق دفاعی مکه میان عربستان سعودی، پاکستان و ترکیه را چارچوبی برای «امنیت جمعی و یک ائتلاف دفاعی» توصیف کرد و گفت امکان پیوستن کشورهای دیگر به آن وجود دارد.\n\nوزیر خارجه روسیه گفت اگر درباره شرایط مشارکت جمهوری اسلامی در چنین ساختاری توافق شود، این اقدام می‌تواند عملی‌ترین گام برای تحقق طرح امنیت منطقه‌ای پیشنهادی مسکو باشد. او افزود روسیه در این روند به دنبال ایفای نقش رهبری نیست.\n\nhttps://iranintl.com/202609079436",
+      "message_id": 356208,
+      "message_link": "https://t.me/IranintlTV/356208",
+      "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد کارکنان تایلندی در بندر لام چابانگ این کشور مشغول زنگ‌زدایی، پاک‌سازی رسوبات و موجودات دریایی و شست‌وشوی ناو هواپیمابر هسته‌ای «یواس‌اس آبراهام لینکلن» هستند. این ناو با حدود پنج هزار نیرو، پس از ۲۸۶ روز حضور در دریا و شرکت در عملیات رزمی علیه جمهوری اسلامی، چهارشنبه ۱۱ شهریور وارد تایلند شد.\nبه گفته مقام‌های تایلندی، ناو آبراهام لینکلن همراه چند شناور دیگر نیروی دریایی آمریکا برای پنج روز استراحت نیروها در این کشور توقف خواهد داشت.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:36:51",
-      "gregorian_utc": "2026-09-07T22:06:51+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 147415,
-      "media_size_human": "143.96 KB",
+      "tehran_time": "01:45:18",
+      "gregorian_utc": "2026-09-07T22:15:18+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1042161,
+      "media_size_human": "1017.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356207_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356207_photo.jpg",
+      "media_local_path": "media/IranintlTV_356208_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356208_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283616+00:00"
+      "archived_at": "2026-09-07T22:40:29.609678+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557614+00:00"
+      "archived_at": "2026-09-07T22:40:29.890877+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826537+00:00"
+      "archived_at": "2026-09-07T22:40:30.152154+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074823+00:00"
+      "archived_at": "2026-09-07T22:40:30.395577+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983578+00:00"
+      "archived_at": "2026-09-07T22:40:29.319095+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356206,
-      "message_link": "https://t.me/IranintlTV/356206",
-      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس اعلام کرد که نیروهای آمریکایی تا روز دوشنبه مسیر ۹۴ فروند کشتی تجاری را تغییر داده‌اند.\n\nسنتکام افزود که نیروهای آمریکایی در این مدت، سه فروند کشتی تجاری را از کار انداخته و دو فروند را بازرسی کرده‌اند تا از اجرای کامل محاصره بنادر جنوب ایران اطمینان حاصل شود.\n\nسنتکام همچنین تصویر پرواز یک فروند هواپیمای «ای/ای-۱۸جی» از عرشه ناو هواپیمابر «جورج اچ. دبلیو. بوش» در جریان عملیات پرواز شبانه را منتشر کرد و نوشت این ناو هواپیمابر در دریای عرب از اجرای محاصره آمریکا علیه بنادر ایران پشتیبانی می‌کند.\n\nhttps://iranintl.com/202609073953",
+      "message_id": 356207,
+      "message_link": "https://t.me/IranintlTV/356207",
+      "text": "سرگئی لاوروف، وزیر خارجه روسیه، خواستار مشارکت جمهوری اسلامی در یک نظام امنیت منطقه‌ای در خلیج فارس شد و گفت حضور تهران در چنین ساختاری می‌تواند گامی عملی برای تضمین ثبات منطقه باشد.\n\nبه گزارش خبرگزاری آناتولی، لاوروف گفت مسکو بیش از ۲۰ سال پیش پیشنهاد کرده بود کشورهای منطقه برای تدوین یک مفهوم امنیتی مشترک در خلیج فارس گفت‌وگو کنند.\n\nاو افزود عادی‌سازی روابط تهران و ریاض با ابتکار چین و تشویق روسیه، زمینه را برای تغییر شرایط منطقه فراهم کرده است.\n\nلاوروف همچنین توافق دفاعی مکه میان عربستان سعودی، پاکستان و ترکیه را چارچوبی برای «امنیت جمعی و یک ائتلاف دفاعی» توصیف کرد و گفت امکان پیوستن کشورهای دیگر به آن وجود دارد.\n\nوزیر خارجه روسیه گفت اگر درباره شرایط مشارکت جمهوری اسلامی در چنین ساختاری توافق شود، این اقدام می‌تواند عملی‌ترین گام برای تحقق طرح امنیت منطقه‌ای پیشنهادی مسکو باشد. او افزود روسیه در این روند به دنبال ایفای نقش رهبری نیست.\n\nhttps://iranintl.com/202609079436",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:29:16",
-      "gregorian_utc": "2026-09-07T21:59:16+00:00",
+      "tehran_time": "01:36:51",
+      "gregorian_utc": "2026-09-07T22:06:51+00:00",
       "media_type": "photo",
-      "media_size_bytes": 133882,
-      "media_size_human": "130.74 KB",
+      "media_size_bytes": 147415,
+      "media_size_human": "143.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356206_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356206_photo.jpg",
+      "media_local_path": "media/IranintlTV_356207_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356207_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283696+00:00"
+      "archived_at": "2026-09-07T22:40:29.609815+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557676+00:00"
+      "archived_at": "2026-09-07T22:40:29.890968+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826566+00:00"
+      "archived_at": "2026-09-07T22:40:30.152195+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074840+00:00"
+      "archived_at": "2026-09-07T22:40:30.395597+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983599+00:00"
+      "archived_at": "2026-09-07T22:40:29.319147+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356205,
-      "message_link": "https://t.me/IranintlTV/356205",
-      "text": "تلویزیون دولتی یمن به نقل از سمير الصبری، معاون وزیر دفاع این کشور، گزارش داد که تصمیم برای آزادسازی صنعا، پایتخت یمن، از کنترل حوثی‌ها گرفته شده است.\n\nاو گفت دولت قصد دارد نبرد برای پایتخت را یکسره کند.\n\nحوثی‌ها، گروه تحت حمایت جمهوری اسلامی، در جریان جنگ داخلی در یمن، کنترل صنعت و مناطقی از این کشور را در دست گرفتند.\n\nدر این میان، طارق صالح، عضو شورای رهبری ریاست‌جمهوری یمن، گفت نیروهای مسلح این کشور طرح جمهوری اسلامی برای تسلط بر تنگه باب‌المندب از طریق حوثی‌ها را شکست داده‌اند.\n\nاو تاکید کرد گشوده شدن جبهه‌های نبرد علیه حوثی‌ها و جمهوری اسلامی، مقاومت نیروهای دولت یمن را تقویت خواهد کرد و عملیات تا آزادسازی صنعا از کنترل حوثی‌ها ادامه خواهد یافت.\n\nاو همچنین هدف نهایی را بازپس‌گیری کامل خاک یمن و پایان دادن به نفوذ سپاه پاسداران و گروه‌های وابسته به آن در این کشور اعلام کرد.\n\nدر همین حال، شبکه خبری العربیه گزارش داد که جنگنده‌های ارتش یمن مواضع حوثی‌ها را در جبهه حمیر مقبنه در تعز بمباران کردند.\nhttps://iranintl.com/202609074406",
+      "message_id": 356206,
+      "message_link": "https://t.me/IranintlTV/356206",
+      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس اعلام کرد که نیروهای آمریکایی تا روز دوشنبه مسیر ۹۴ فروند کشتی تجاری را تغییر داده‌اند.\n\nسنتکام افزود که نیروهای آمریکایی در این مدت، سه فروند کشتی تجاری را از کار انداخته و دو فروند را بازرسی کرده‌اند تا از اجرای کامل محاصره بنادر جنوب ایران اطمینان حاصل شود.\n\nسنتکام همچنین تصویر پرواز یک فروند هواپیمای «ای/ای-۱۸جی» از عرشه ناو هواپیمابر «جورج اچ. دبلیو. بوش» در جریان عملیات پرواز شبانه را منتشر کرد و نوشت این ناو هواپیمابر در دریای عرب از اجرای محاصره آمریکا علیه بنادر ایران پشتیبانی می‌کند.\n\nhttps://iranintl.com/202609073953",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:21:27",
-      "gregorian_utc": "2026-09-07T21:51:27+00:00",
+      "tehran_time": "01:29:16",
+      "gregorian_utc": "2026-09-07T21:59:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 139522,
-      "media_size_human": "136.25 KB",
+      "media_size_bytes": 133882,
+      "media_size_human": "130.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356205_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356205_photo.jpg",
+      "media_local_path": "media/IranintlTV_356206_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356206_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283790+00:00"
+      "archived_at": "2026-09-07T22:40:29.609910+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.557769+00:00"
+      "archived_at": "2026-09-07T22:40:29.891135+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826598+00:00"
+      "archived_at": "2026-09-07T22:40:30.152235+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074857+00:00"
+      "archived_at": "2026-09-07T22:40:30.395618+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983614+00:00"
+      "archived_at": "2026-09-07T22:40:29.319176+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356204,
-      "message_link": "https://t.me/IranintlTV/356204",
-      "text": "🔻حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی گفت شجاع خلیل‌زاده، کاپیتان تراکتور پس از بازی با گل‌گهر «گلگی کرد چرا اجازه ندادید روی سکوها اتفاقی بیافتد.» او پیش‌تر گفته بود قبل از بازی به لیدرها گفته بوده از فحاشی به بازیکنان حریف خودداری کنند.\n\n🔹او همچنین درباره انتشار فایل صوتی فحاشی‌های خداداد عزیزی به امید عالیشاه گفت: «حق نداشتید چنین صدایی را پخش کنید که حال جامعه را در این شرایط بد کنید. به ما می‌گفتند، با کسی این فحش‌ها را داده، برخورد می‌کردیم.»\n\n🔹کریمی گفت: «فردی که صدا را ضبط و پخش کرده، حال جامعه را بد کرده است. آبروی طرف را برده است، چرا به آبروی طرف فکر نمی‌کنید. شما یک بازیکن ملی کشورمان را که با او خاطرات خوبی داریم، خراب کردید.»\n\n🔹مدیرعامل تراکتور درباره حکم کمیته انضباطی برای خداداد عزیزی گفت: «یعنی چی؟ یعنی خداداد را به استادیوم‌ها راه ندهیم؟ این حکم درست است؟»\n\n @iranintltvsport",
+      "message_id": 356205,
+      "message_link": "https://t.me/IranintlTV/356205",
+      "text": "تلویزیون دولتی یمن به نقل از سمير الصبری، معاون وزیر دفاع این کشور، گزارش داد که تصمیم برای آزادسازی صنعا، پایتخت یمن، از کنترل حوثی‌ها گرفته شده است.\n\nاو گفت دولت قصد دارد نبرد برای پایتخت را یکسره کند.\n\nحوثی‌ها، گروه تحت حمایت جمهوری اسلامی، در جریان جنگ داخلی در یمن، کنترل صنعت و مناطقی از این کشور را در دست گرفتند.\n\nدر این میان، طارق صالح، عضو شورای رهبری ریاست‌جمهوری یمن، گفت نیروهای مسلح این کشور طرح جمهوری اسلامی برای تسلط بر تنگه باب‌المندب از طریق حوثی‌ها را شکست داده‌اند.\n\nاو تاکید کرد گشوده شدن جبهه‌های نبرد علیه حوثی‌ها و جمهوری اسلامی، مقاومت نیروهای دولت یمن را تقویت خواهد کرد و عملیات تا آزادسازی صنعا از کنترل حوثی‌ها ادامه خواهد یافت.\n\nاو همچنین هدف نهایی را بازپس‌گیری کامل خاک یمن و پایان دادن به نفوذ سپاه پاسداران و گروه‌های وابسته به آن در این کشور اعلام کرد.\n\nدر همین حال، شبکه خبری العربیه گزارش داد که جنگنده‌های ارتش یمن مواضع حوثی‌ها را در جبهه حمیر مقبنه در تعز بمباران کردند.\nhttps://iranintl.com/202609074406",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:04:27",
-      "gregorian_utc": "2026-09-07T21:34:27+00:00",
+      "tehran_time": "01:21:27",
+      "gregorian_utc": "2026-09-07T21:51:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 207920,
-      "media_size_human": "203.05 KB",
+      "media_size_bytes": 139522,
+      "media_size_human": "136.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356204_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356204_photo.jpg",
+      "media_local_path": "media/IranintlTV_356205_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356205_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.283892+00:00"
+      "archived_at": "2026-09-07T22:40:29.610036+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557810+00:00"
+      "archived_at": "2026-09-07T22:40:29.891199+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826622+00:00"
+      "archived_at": "2026-09-07T22:40:30.152271+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074873+00:00"
+      "archived_at": "2026-09-07T22:40:30.395640+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983640+00:00"
+      "archived_at": "2026-09-07T22:40:29.319217+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356203,
-      "message_link": "https://t.me/IranintlTV/356203",
-      "text": "🔻حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی درباره فحاشی‌های خداداد عزیزی پس از بازی با گل‌گهر گفت: «خداداد عزیزی اگر فحشی داده، اتفاقی افتاده، حتما یک‌نفر کاری کرده است. یک عملی انجام شده که عکس‌العملی دیده شده است.»\n\n🔹او گفت: «در جریان بازی، بازیکن گل‌گهر فحشی به داور داد، خداداد به داور گفت که بازیکن به شما فحش داده، اما داور بجای اینکه توجه کند، به خداداد اول کارت زرد و بعد کارت قرمز داد. داور باید جمع می‌کرد. گل‌گهر داشت تیم را می‌برد بیرون، همان صحنه هم اخراج دارد. صحنه‌های داوری هم هست. اتفاقاتی که پشت سر هم می‌افتد، به تیم فشار می‌آورد.»\n\n🔹مدیرعامل تراکتور با اشاره به جایگاه فیزیکی رختکن دو تیم در استادیوم سهند که روبروی هم ساخته شده، گفت: «این اتفاقات باعث شد امید عالیشاه پس از بازی در رختکن، به خداداد عزیزی بی‌احترامی کرد. عالیشاه با صدای بلند بی‌احترامی کرد و این اتفاق افتاد و خداداد نتوانست (خودش را کنترل کند)».\n\n[**جزییات بیشتر\n**](https://www.iranintl.com/202609070299)\n@iranintltvsport",
+      "message_id": 356204,
+      "message_link": "https://t.me/IranintlTV/356204",
+      "text": "🔻حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی گفت شجاع خلیل‌زاده، کاپیتان تراکتور پس از بازی با گل‌گهر «گلگی کرد چرا اجازه ندادید روی سکوها اتفاقی بیافتد.» او پیش‌تر گفته بود قبل از بازی به لیدرها گفته بوده از فحاشی به بازیکنان حریف خودداری کنند.\n\n🔹او همچنین درباره انتشار فایل صوتی فحاشی‌های خداداد عزیزی به امید عالیشاه گفت: «حق نداشتید چنین صدایی را پخش کنید که حال جامعه را در این شرایط بد کنید. به ما می‌گفتند، با کسی این فحش‌ها را داده، برخورد می‌کردیم.»\n\n🔹کریمی گفت: «فردی که صدا را ضبط و پخش کرده، حال جامعه را بد کرده است. آبروی طرف را برده است، چرا به آبروی طرف فکر نمی‌کنید. شما یک بازیکن ملی کشورمان را که با او خاطرات خوبی داریم، خراب کردید.»\n\n🔹مدیرعامل تراکتور درباره حکم کمیته انضباطی برای خداداد عزیزی گفت: «یعنی چی؟ یعنی خداداد را به استادیوم‌ها راه ندهیم؟ این حکم درست است؟»\n\n @iranintltvsport",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:49:48",
-      "gregorian_utc": "2026-09-07T21:19:48+00:00",
+      "tehran_time": "01:04:27",
+      "gregorian_utc": "2026-09-07T21:34:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 166642,
-      "media_size_human": "162.74 KB",
+      "media_size_bytes": 207920,
+      "media_size_human": "203.05 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356203_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356203_photo.jpg",
+      "media_local_path": "media/IranintlTV_356204_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356204_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.284011+00:00"
+      "archived_at": "2026-09-07T22:40:29.610185+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557883+00:00"
+      "archived_at": "2026-09-07T22:40:29.891306+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826651+00:00"
+      "archived_at": "2026-09-07T22:40:30.152311+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074889+00:00"
+      "archived_at": "2026-09-07T22:40:30.395663+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983656+00:00"
+      "archived_at": "2026-09-07T22:40:29.319242+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356202,
-      "message_link": "https://t.me/IranintlTV/356202",
-      "text": "🎧نسخه صوتی چشم‌انداز: آیا روح هیتلر به کمک پوتین و مجتبی خامنه‌ای می‌آید؟!\n@iranintlTV",
+      "message_id": 356203,
+      "message_link": "https://t.me/IranintlTV/356203",
+      "text": "🔻حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی درباره فحاشی‌های خداداد عزیزی پس از بازی با گل‌گهر گفت: «خداداد عزیزی اگر فحشی داده، اتفاقی افتاده، حتما یک‌نفر کاری کرده است. یک عملی انجام شده که عکس‌العملی دیده شده است.»\n\n🔹او گفت: «در جریان بازی، بازیکن گل‌گهر فحشی به داور داد، خداداد به داور گفت که بازیکن به شما فحش داده، اما داور بجای اینکه توجه کند، به خداداد اول کارت زرد و بعد کارت قرمز داد. داور باید جمع می‌کرد. گل‌گهر داشت تیم را می‌برد بیرون، همان صحنه هم اخراج دارد. صحنه‌های داوری هم هست. اتفاقاتی که پشت سر هم می‌افتد، به تیم فشار می‌آورد.»\n\n🔹مدیرعامل تراکتور با اشاره به جایگاه فیزیکی رختکن دو تیم در استادیوم سهند که روبروی هم ساخته شده، گفت: «این اتفاقات باعث شد امید عالیشاه پس از بازی در رختکن، به خداداد عزیزی بی‌احترامی کرد. عالیشاه با صدای بلند بی‌احترامی کرد و این اتفاق افتاد و خداداد نتوانست (خودش را کنترل کند)».\n\n[**جزییات بیشتر\n**](https://www.iranintl.com/202609070299)\n@iranintltvsport",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:45:23",
-      "gregorian_utc": "2026-09-07T21:15:23+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 32842521,
-      "media_size_human": "31.32 MB",
+      "tehran_time": "00:49:48",
+      "gregorian_utc": "2026-09-07T21:19:48+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 166642,
+      "media_size_human": "162.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356202_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356202_audio.mp3",
+      "media_local_path": "media/IranintlTV_356203_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356203_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.284055+00:00"
+      "archived_at": "2026-09-07T22:40:29.610330+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557905+00:00"
+      "archived_at": "2026-09-07T22:40:29.891337+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-07T22:30:43.826686+00:00"
+      "archived_at": "2026-09-07T22:40:30.152360+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074904+00:00"
+      "archived_at": "2026-09-07T22:40:30.395685+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983670+00:00"
+      "archived_at": "2026-09-07T22:40:29.319265+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356201,
-      "message_link": "https://t.me/IranintlTV/356201",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره قطعی برق منطقه محل زندگی می‌گوید: «تماس گرفتم با اداره برق که مگر وزیر نگفته دیگر برق قطع نمی‌شود؟ گفت گفته که گفته، باید به ما بخشنامه بدهند. آخر چقدر شما دروغگو هستید.»",
+      "message_id": 356202,
+      "message_link": "https://t.me/IranintlTV/356202",
+      "text": "🎧نسخه صوتی چشم‌انداز: آیا روح هیتلر به کمک پوتین و مجتبی خامنه‌ای می‌آید؟!\n@iranintlTV",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:31:03",
-      "gregorian_utc": "2026-09-07T21:01:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 9292214,
-      "media_size_human": "8.86 MB",
+      "tehran_time": "00:45:23",
+      "gregorian_utc": "2026-09-07T21:15:23+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 32842521,
+      "media_size_human": "31.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356201_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356201_video.mp4",
+      "media_local_path": "media/IranintlTV_356202_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356202_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.284085+00:00"
+      "archived_at": "2026-09-07T22:40:29.610382+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.557952+00:00"
+      "archived_at": "2026-09-07T22:40:29.891408+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.826701+00:00"
+      "archived_at": "2026-09-07T22:40:30.152382+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074919+00:00"
+      "archived_at": "2026-09-07T22:40:30.395705+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983684+00:00"
+      "archived_at": "2026-09-07T22:40:29.319286+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356200,
-      "message_link": "https://t.me/IranintlTV/356200",
-      "text": "🔻مهدی تارتار، سرمربی تیم فوتبال پرسپولیس پس از پیروزی بر ذوب آهن در هفته ششم لیگ، گفت که با مشورت و کمک کاپیتان‌های پرسپولیس، روند بازی را تغییر داده است: «در زمان استراحتی که داور داد، به بچه‌ها گفتم که بی تفاوت بازی می‌کنیم. خود کاپیتان‌های ما، علی علیپور و حسین کنعانی‌زادگان این موضوع را گو‌ش‌زد کردند. کاپیتان‌ها، عصای دست تیم من هستند. بزرگترهای تیم من باعث این انسجام هستند. بزرگترها باید جوانان را مدیریت کنند.»\n\n🔹این اظهارات درحالی است که اختلاف‌نظر سهراب بختیاری‌زاده، سرمربی استقلال با صالح حردانی، کاپیتان دوم تیم پس از یک بگومگو در دربی ۱۰۷، به حاشیه بزرگی برای آبی‌پوشان بدل شده است.\n\n🔹بختیاری‌زاده پس از این موضوع و در شب بازی با آلومینیوم اراک، صالح حردانی را اخراج کرد. این درحالی است که استقلال با کمبود بازیکن مواجه است.\n\n@iranintltvsport",
+      "message_id": 356201,
+      "message_link": "https://t.me/IranintlTV/356201",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره قطعی برق منطقه محل زندگی می‌گوید: «تماس گرفتم با اداره برق که مگر وزیر نگفته دیگر برق قطع نمی‌شود؟ گفت گفته که گفته، باید به ما بخشنامه بدهند. آخر چقدر شما دروغگو هستید.»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:08:49",
-      "gregorian_utc": "2026-09-07T20:38:49+00:00",
+      "tehran_time": "00:31:03",
+      "gregorian_utc": "2026-09-07T21:01:03+00:00",
       "media_type": "video",
-      "media_size_bytes": 4340746,
-      "media_size_human": "4.14 MB",
+      "media_size_bytes": 9292214,
+      "media_size_human": "8.86 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356200_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356200_video.mp4",
+      "media_local_path": "media/IranintlTV_356201_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356201_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.284164+00:00"
+      "archived_at": "2026-09-07T22:40:29.610412+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:43.557967+00:00"
+      "archived_at": "2026-09-07T22:40:29.891431+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120745_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120745_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.826740+00:00"
+      "archived_at": "2026-09-07T22:40:30.152435+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:44.074935+00:00"
+      "archived_at": "2026-09-07T22:40:30.395729+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T22:30:42.983697+00:00"
+      "archived_at": "2026-09-07T22:40:29.319308+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356199,
-      "message_link": "https://t.me/IranintlTV/356199",
-      "text": "علیرضا نامور حقیقی، تحلیلگر سیاسی، گفت ارجاع پرونده هسته‌ای ایران از شورای حکام به شورای امنیت سازمان ملل، بیش از آنکه پیامد عملی یا حقوقی داشته باشد، اقدامی با کارکرد سیاسی و تبلیغاتی است، زیرا به گفته او تحریم‌های آمریکا از تحریم‌های سازمان ملل گسترده‌تر است و چین و روسیه نیز احتمالا با هر قطعنامه جدیدی مخالفت خواهند کرد.\n\nاو افزود حل‌وفصل پرونده هسته‌ای در نهایت به یک توافق جامع میان ایران و آمریکا بستگی دارد و تا زمانی که چنین توافقی شکل نگیرد، بعید است جمهوری اسلامی همکاری گسترده با آژانس بین‌المللی انرژی اتمی را از سر بگیرد. به گفته نامور حقیقی، اختلاف بر سر ادامه تقابل یا حرکت به سمت توافق، اکنون به یکی از شکاف‌های اصلی در ساختار قدرت جمهوری اسلامی تبدیل شده است.\n@iranintltv",
-      "shamsi_date": "1405/06/16",
-      "tehran_time": "23:46:12",
-      "gregorian_utc": "2026-09-07T20:16:12+00:00",
+      "message_id": 356200,
+      "message_link": "https://t.me/IranintlTV/356200",
+      "text": "🔻مهدی تارتار، سرمربی تیم فوتبال پرسپولیس پس از پیروزی بر ذوب آهن در هفته ششم لیگ، گفت که با مشورت و کمک کاپیتان‌های پرسپولیس، روند بازی را تغییر داده است: «در زمان استراحتی که داور داد، به بچه‌ها گفتم که بی تفاوت بازی می‌کنیم. خود کاپیتان‌های ما، علی علیپور و حسین کنعانی‌زادگان این موضوع را گو‌ش‌زد کردند. کاپیتان‌ها، عصای دست تیم من هستند. بزرگترهای تیم من باعث این انسجام هستند. بزرگترها باید جوانان را مدیریت کنند.»\n\n🔹این اظهارات درحالی است که اختلاف‌نظر سهراب بختیاری‌زاده، سرمربی استقلال با صالح حردانی، کاپیتان دوم تیم پس از یک بگومگو در دربی ۱۰۷، به حاشیه بزرگی برای آبی‌پوشان بدل شده است.\n\n🔹بختیاری‌زاده پس از این موضوع و در شب بازی با آلومینیوم اراک، صالح حردانی را اخراج کرد. این درحالی است که استقلال با کمبود بازیکن مواجه است.\n\n@iranintltvsport",
+      "shamsi_date": "1405/06/17",
+      "tehran_time": "00:08:49",
+      "gregorian_utc": "2026-09-07T20:38:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 5977866,
-      "media_size_human": "5.70 MB",
+      "media_size_bytes": 4340746,
+      "media_size_human": "4.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356199_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356199_video.mp4",
+      "media_local_path": "media/IranintlTV_356200_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356200_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.284235+00:00"
+      "archived_at": "2026-09-07T22:40:29.610525+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.558000+00:00"
+      "archived_at": "2026-09-07T22:40:29.891479+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120744_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120744_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T22:30:43.826758+00:00"
+      "archived_at": "2026-09-07T22:40:30.152465+00:00"
     }
   ]
 }
