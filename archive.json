@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T18:36:00.435548+00:00",
-  "shamsi_generated": "1405/06/16 18:36:00 تهران",
+  "generated_at": "2026-09-07T18:44:34.262775+00:00",
+  "shamsi_generated": "1405/06/16 18:44:34 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025768+00:00"
+      "archived_at": "2026-09-07T18:40:35.266723+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_356181_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356181_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.459660+00:00"
+      "archived_at": "2026-09-07T18:40:35.686293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.807695+00:00"
+      "archived_at": "2026-09-07T18:40:35.993960+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120742,
-      "message_link": "https://t.me/Mellig/120742",
-      "text": "**راهکارهای پیشنهادی برای کاهش پارازیت روی دریافت شبکه‌های ماهواره‌ای\n**\nطبق تجربه‌ای که از اختلال در دریافت شبکه‌های ماهواره‌ای گزارش شده، در بعضی ساعات، به‌ویژه حوالی شب، شدت پارازیت به‌قدری افزایش پیدا می‌کند که تصویر شبکه‌ها به‌شدت مختل یا به‌طور کامل قطع می‌شود. این اختلال معمولاً زمانی اتفاق می‌افتد که سیگنال مزاحمی با قدرت نسبتاً زیاد وارد مسیر دریافت دیش و LNB شود و دریافت سیگنال اصلی ماهواره را مختل کند.\n\nبرای درک ساده‌تر موضوع می‌توان پارازیت را تا حدی به نور یک نورافکن تشبیه کرد: اگر منبع مزاحم از یک جهت مشخص به گیرنده بتابد، در برخی شرایط می‌توان با ایجاد یک مانع مناسب در همان جهت، میزان ورود آن به گیرنده را کاهش داد؛ البته بدون اینکه مسیر اصلی دید دیش به سمت ماهواره مسدود شود.\n\nیکی از پیشنهادهای مطرح‌شده این است که در اطراف و پشت دیش یک نوع محافظ یا شیلد ساخته شود. این محافظ می‌تواند از توری فلزی، مانند توری‌های ارزان‌قیمت فلزی، ساخته شود و برای افزایش خاصیت حفاظتی، بخش‌هایی از آن با ورق یا شبکه فلزی پوشانده شود. نکته مهم این است که جلوی دیش و مسیر مستقیم آن به سمت آسمان و ماهواره نباید پوشانده شود. محافظ باید عمدتاً در پشت و طرفین دیش قرار گیرد تا در صورت ورود تداخل از اطراف، بخشی از امواج مزاحم را کاهش دهد.\n\nبه عبارت دیگر، هدف ساختن نوعی دیواره یا حفاظ فلزی در اطراف دیش است، نه قرار دادن چیزی مستقیماً جلوی آن. شکل و محل قرارگیری این محافظ نیز باید بر اساس جهت ورود تداخل تنظیم شود، زیرا اگر مانع در جهت اشتباه قرار گیرد ممکن است تأثیر چندانی نداشته باشد یا حتی روی دریافت عادی سیگنال اثر منفی بگذارد.\n\nبرای تشخیص تقریبی جهت ورود تداخل نیز می‌توان تغییر شدت پارازیت را در اطراف دیش بررسی کرد. اگر قرار دادن موقت یک صفحه فلزی در یک سمت خاص باعث بهتر شدن محسوس تصویر یا کاهش اختلال شود، می‌توان نتیجه گرفت که بخش قابل‌توجهی از تداخل احتمالاً از همان سمت وارد سیستم دریافت می‌شود. سپس می‌توان محافظ دائمی را در همان سمت و بدون مسدودکردن مسیر ماهواره قرار داد.\n\nدر تصاویر ارسالی همچنین به آنتن‌ها و تجهیزات مخابراتی نصب‌شده روی برج‌ها اشاره شده و این ادعا مطرح شده است که برخی از منابع پارازیت می‌توانند از تجهیزات زمینی جهت‌دار استفاده کنند. با این حال تشخیص اینکه یک آنتن مشخص واقعاً منبع پارازیت است، صرفاً از روی ظاهر آن امکان‌پذیر نیست و برای اثبات آن به اندازه‌گیری فنی فرکانس، قدرت و جهت سیگنال نیاز است. دستکاری یا آسیب‌زدن به تجهیزات مخابراتی نیز هم خطرناک است و هم می‌تواند غیرقانونی باشد.\n\nدر مجموع، راهکاری که در این توضیحات پیشنهاد می‌شود بر کاهش ورود پارازیت به دیش از طریق یک محافظ فلزی در طرفین و پشت دیش، همراه با پیدا کردن جهت تقریبی ورود تداخل استوار است. این روش تضمین نمی‌کند که همه انواع پارازیت را از بین ببرد، اما در شرایطی که تداخل زمینی از یک جهت مشخص وارد LNB می‌شود، ممکن است کیفیت دریافت را بهبود دهد.\n\nهدف از انتشار این اطلاعات این است که افرادی که به دلیل پارازیت در دریافت ملیگ تی‌وی مشکل دارند، بتوانند با روش‌های امن و غیرمخرب، دریافت شبکه را بهتر کنند.",
+      "message_id": 120745,
+      "message_link": "https://t.me/Mellig/120745",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:45:26",
-      "gregorian_utc": "2026-09-07T18:15:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 327876,
-      "media_size_human": "320.19 KB",
+      "tehran_time": "22:02:33",
+      "gregorian_utc": "2026-09-07T18:32:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5462118,
+      "media_size_human": "5.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120742_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120742_photo.jpg",
+      "media_local_path": "media/Mellig_120745_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120745_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.172941+00:00"
+      "archived_at": "2026-09-07T18:40:36.304322+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.496654+00:00"
+      "archived_at": "2026-09-07T18:40:36.570446+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025807+00:00"
+      "archived_at": "2026-09-07T18:40:35.266778+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_356180_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356180_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.459868+00:00"
+      "archived_at": "2026-09-07T18:40:35.686584+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76429_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76429_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.807759+00:00"
+      "archived_at": "2026-09-07T18:40:35.994051+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120741,
-      "message_link": "https://t.me/Mellig/120741",
-      "text": "🇩🇪**وعده‌های انتخاباتی حزب AfD در ساکسونی-آنهالت:**\n\n— پایان دادن به قراردادهای پخش عمومی.\n\n— افزایش بازداشت مهاجران و اجبار به کار برای پناهجویان.\n\n— جایگزینی حق پناهندگی با «رحمت» اعطایی توسط دولت و ایجاد «فرهنگ خروج».\n\n— کلاس‌های جداگانه برای کودکان پناهجو و ممنوعیت پرچم‌های رنگین‌کمان در مدارس.\n\n— کاهش یک تا دو وزارتخانه و قطع بودجه برنامه‌های «ترویج دموکراسی».\n\n— ایجاد مناطق ویژه اقتصادی و کاهش بوروکراسی برای کسب‌وکارهای کوچک و متوسط.\n\n— یارانه‌های گواهینامه رانندگی و استادکاران.\n\n— تشکیل کمیته تحقیقاتی پارلمانی درباره سیاست‌های کووید.\n\n Mellig.net",
+      "message_id": 120744,
+      "message_link": "https://t.me/Mellig/120744",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:30:33",
-      "gregorian_utc": "2026-09-07T18:00:33+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.173032+00:00"
+      "tehran_time": "22:02:33",
+      "gregorian_utc": "2026-09-07T18:32:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 12105444,
+      "media_size_human": "11.54 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120744_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120744_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T18:40:36.304367+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.496708+00:00"
+      "archived_at": "2026-09-07T18:40:36.570545+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025833+00:00"
+      "archived_at": "2026-09-07T18:40:35.266840+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_356179_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.459910+00:00"
+      "archived_at": "2026-09-07T18:40:35.686654+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.807945+00:00"
+      "archived_at": "2026-09-07T18:40:35.994323+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120740,
-      "message_link": "https://t.me/Mellig/120740",
-      "text": "النبطیه، جنوب لبنان \n\nخبرنگار المنار، علی شبیب Ali Chebeib در حال گزارش بود که نه بابا هیچ خبری نیست که یک موشک خورد بغلش و احتمالا پودر شد",
+      "message_id": 120743,
+      "message_link": "https://t.me/Mellig/120743",
+      "text": "قسمت جالب داستان اینه که خود جمهوری اسلامی میگه تپه علی طاهر و شهر موشکی عماد ۴ کامل از دست رفته\n\nولی نفیسه کوهنورد از بی بی سی باورش نمیشه\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:14:29",
-      "gregorian_utc": "2026-09-07T17:44:29+00:00",
+      "tehran_time": "22:02:33",
+      "gregorian_utc": "2026-09-07T18:32:33+00:00",
       "media_type": "video",
-      "media_size_bytes": 1191632,
-      "media_size_human": "1.14 MB",
+      "media_size_bytes": 12913170,
+      "media_size_human": "12.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120740_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120740_video.mp4",
+      "media_local_path": "media/Mellig_120743_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120743_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173071+00:00"
+      "archived_at": "2026-09-07T18:40:36.304437+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496728+00:00"
+      "archived_at": "2026-09-07T18:40:36.570590+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025859+00:00"
+      "archived_at": "2026-09-07T18:40:35.266880+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_356178_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356178_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460019+00:00"
+      "archived_at": "2026-09-07T18:40:35.686931+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808011+00:00"
+      "archived_at": "2026-09-07T18:40:35.994434+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120739,
-      "message_link": "https://t.me/Mellig/120739",
-      "text": "خنثی سازی یک گردان کامل (۳۰۰-۱۲۰۰ نفر) حزب الله در النبط توسط نیروی هوایی اسراییل.\nMellig.net",
+      "message_id": 120742,
+      "message_link": "https://t.me/Mellig/120742",
+      "text": "**راهکارهای پیشنهادی برای کاهش پارازیت روی دریافت شبکه‌های ماهواره‌ای\n**\nطبق تجربه‌ای که از اختلال در دریافت شبکه‌های ماهواره‌ای گزارش شده، در بعضی ساعات، به‌ویژه حوالی شب، شدت پارازیت به‌قدری افزایش پیدا می‌کند که تصویر شبکه‌ها به‌شدت مختل یا به‌طور کامل قطع می‌شود. این اختلال معمولاً زمانی اتفاق می‌افتد که سیگنال مزاحمی با قدرت نسبتاً زیاد وارد مسیر دریافت دیش و LNB شود و دریافت سیگنال اصلی ماهواره را مختل کند.\n\nبرای درک ساده‌تر موضوع می‌توان پارازیت را تا حدی به نور یک نورافکن تشبیه کرد: اگر منبع مزاحم از یک جهت مشخص به گیرنده بتابد، در برخی شرایط می‌توان با ایجاد یک مانع مناسب در همان جهت، میزان ورود آن به گیرنده را کاهش داد؛ البته بدون اینکه مسیر اصلی دید دیش به سمت ماهواره مسدود شود.\n\nیکی از پیشنهادهای مطرح‌شده این است که در اطراف و پشت دیش یک نوع محافظ یا شیلد ساخته شود. این محافظ می‌تواند از توری فلزی، مانند توری‌های ارزان‌قیمت فلزی، ساخته شود و برای افزایش خاصیت حفاظتی، بخش‌هایی از آن با ورق یا شبکه فلزی پوشانده شود. نکته مهم این است که جلوی دیش و مسیر مستقیم آن به سمت آسمان و ماهواره نباید پوشانده شود. محافظ باید عمدتاً در پشت و طرفین دیش قرار گیرد تا در صورت ورود تداخل از اطراف، بخشی از امواج مزاحم را کاهش دهد.\n\nبه عبارت دیگر، هدف ساختن نوعی دیواره یا حفاظ فلزی در اطراف دیش است، نه قرار دادن چیزی مستقیماً جلوی آن. شکل و محل قرارگیری این محافظ نیز باید بر اساس جهت ورود تداخل تنظیم شود، زیرا اگر مانع در جهت اشتباه قرار گیرد ممکن است تأثیر چندانی نداشته باشد یا حتی روی دریافت عادی سیگنال اثر منفی بگذارد.\n\nبرای تشخیص تقریبی جهت ورود تداخل نیز می‌توان تغییر شدت پارازیت را در اطراف دیش بررسی کرد. اگر قرار دادن موقت یک صفحه فلزی در یک سمت خاص باعث بهتر شدن محسوس تصویر یا کاهش اختلال شود، می‌توان نتیجه گرفت که بخش قابل‌توجهی از تداخل احتمالاً از همان سمت وارد سیستم دریافت می‌شود. سپس می‌توان محافظ دائمی را در همان سمت و بدون مسدودکردن مسیر ماهواره قرار داد.\n\nدر تصاویر ارسالی همچنین به آنتن‌ها و تجهیزات مخابراتی نصب‌شده روی برج‌ها اشاره شده و این ادعا مطرح شده است که برخی از منابع پارازیت می‌توانند از تجهیزات زمینی جهت‌دار استفاده کنند. با این حال تشخیص اینکه یک آنتن مشخص واقعاً منبع پارازیت است، صرفاً از روی ظاهر آن امکان‌پذیر نیست و برای اثبات آن به اندازه‌گیری فنی فرکانس، قدرت و جهت سیگنال نیاز است. دستکاری یا آسیب‌زدن به تجهیزات مخابراتی نیز هم خطرناک است و هم می‌تواند غیرقانونی باشد.\n\nدر مجموع، راهکاری که در این توضیحات پیشنهاد می‌شود بر کاهش ورود پارازیت به دیش از طریق یک محافظ فلزی در طرفین و پشت دیش، همراه با پیدا کردن جهت تقریبی ورود تداخل استوار است. این روش تضمین نمی‌کند که همه انواع پارازیت را از بین ببرد، اما در شرایطی که تداخل زمینی از یک جهت مشخص وارد LNB می‌شود، ممکن است کیفیت دریافت را بهبود دهد.\n\nهدف از انتشار این اطلاعات این است که افرادی که به دلیل پارازیت در دریافت ملیگ تی‌وی مشکل دارند، بتوانند با روش‌های امن و غیرمخرب، دریافت شبکه را بهتر کنند.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "21:10:11",
-      "gregorian_utc": "2026-09-07T17:40:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3514466,
-      "media_size_human": "3.35 MB",
+      "tehran_time": "21:45:26",
+      "gregorian_utc": "2026-09-07T18:15:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 327876,
+      "media_size_human": "320.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120739_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120739_video.mp4",
+      "media_local_path": "media/Mellig_120742_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120742_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173107+00:00"
+      "archived_at": "2026-09-07T18:40:36.304898+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496744+00:00"
+      "archived_at": "2026-09-07T18:40:36.570628+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025879+00:00"
+      "archived_at": "2026-09-07T18:40:35.266912+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_356177_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460121+00:00"
+      "archived_at": "2026-09-07T18:40:35.687186+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808082+00:00"
+      "archived_at": "2026-09-07T18:40:35.994549+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120738,
-      "message_link": "https://t.me/Mellig/120738",
-      "text": "سلام استاد متاسفانه از دیشب یعنی یکشنبه شب بد جور کانال شما را پارازیت انداختند به طوری که نه صدا داره نه تصویر امروز هم طور بود بازپخش نمی شد دید دوشنبه\n\nتو‌منطقه غرب تهران یادگار\n\nراستی دیشب امروز دوشنبه صف پمپ‌بنزین ها افتضاح بود ستارخان  پمپ بنزین و پمپ بنزین میدان حر\n\nپمپ بنزین یادگار امام سمت فرحزاد پمپ بنزین خرگوش دره  پمپ بنزین ازادگان و\n\nخیابان اذربایجان افتضاح و خیلی جاهای دیگه\n\nنت هم‌به شدت ضعیف شده افتضاح",
+      "message_id": 120741,
+      "message_link": "https://t.me/Mellig/120741",
+      "text": "🇩🇪**وعده‌های انتخاباتی حزب AfD در ساکسونی-آنهالت:**\n\n— پایان دادن به قراردادهای پخش عمومی.\n\n— افزایش بازداشت مهاجران و اجبار به کار برای پناهجویان.\n\n— جایگزینی حق پناهندگی با «رحمت» اعطایی توسط دولت و ایجاد «فرهنگ خروج».\n\n— کلاس‌های جداگانه برای کودکان پناهجو و ممنوعیت پرچم‌های رنگین‌کمان در مدارس.\n\n— کاهش یک تا دو وزارتخانه و قطع بودجه برنامه‌های «ترویج دموکراسی».\n\n— ایجاد مناطق ویژه اقتصادی و کاهش بوروکراسی برای کسب‌وکارهای کوچک و متوسط.\n\n— یارانه‌های گواهینامه رانندگی و استادکاران.\n\n— تشکیل کمیته تحقیقاتی پارلمانی درباره سیاست‌های کووید.\n\n Mellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "20:20:32",
-      "gregorian_utc": "2026-09-07T16:50:32+00:00",
+      "tehran_time": "21:30:33",
+      "gregorian_utc": "2026-09-07T18:00:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.173125+00:00"
+      "archived_at": "2026-09-07T18:40:36.305029+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496760+00:00"
+      "archived_at": "2026-09-07T18:40:36.570665+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025908+00:00"
+      "archived_at": "2026-09-07T18:40:35.266950+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_356176_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356176_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460193+00:00"
+      "archived_at": "2026-09-07T18:40:35.687350+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.808200+00:00"
+      "archived_at": "2026-09-07T18:40:35.994731+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120737,
-      "message_link": "https://t.me/Mellig/120737",
-      "text": "🔴 #خبر_فوری\nبسیج عمومی در سراسر یمن در حال وقوع است،\nیمن بار دیگر پس از 5 سال درگیر یک جنگ داخلی تمام‌عیار شده است و نبردهای متعددی در تقریباً تمام جبهه‌های یمن در جریان است.",
+      "message_id": 120740,
+      "message_link": "https://t.me/Mellig/120740",
+      "text": "النبطیه، جنوب لبنان \n\nخبرنگار المنار، علی شبیب Ali Chebeib در حال گزارش بود که نه بابا هیچ خبری نیست که یک موشک خورد بغلش و احتمالا پودر شد",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "19:29:01",
-      "gregorian_utc": "2026-09-07T15:59:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.173163+00:00"
+      "tehran_time": "21:14:29",
+      "gregorian_utc": "2026-09-07T17:44:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1191632,
+      "media_size_human": "1.14 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120740_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120740_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T18:40:36.305072+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496776+00:00"
+      "archived_at": "2026-09-07T18:40:36.570697+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025928+00:00"
+      "archived_at": "2026-09-07T18:40:35.266983+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_356175_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356175_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460261+00:00"
+      "archived_at": "2026-09-07T18:40:35.687508+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808249+00:00"
+      "archived_at": "2026-09-07T18:40:35.994826+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120736,
-      "message_link": "https://t.me/Mellig/120736",
-      "text": "هموطنان عزیز این کانال فیلم های مربوط به جاویدنامان از برنامه های ایران را پس میگیریم هست و از همه شما میخواهم که در اطراف خانواده های  جاوید نامان هستید بسیار مراقب آنان باشید و همانطور که رهبر انقلاب شیر و خورشید ایران شاهزاده رضا پهلوی هم بارها گفته اند این چند قدم آخر را تا پیروزی کامل بر باقیمانده حکومت آدمکش اسلامی را در کنار هم برداریم و دیگر شاهد این خبرهای درد آور نباشیم.  کیو آر کد مربوط به کانال جاوید نامان انقلاب شیر و خورشید ایران همراه پوستر آن.  قسم به خون یاران ایستاده‌ایم تا پایان.",
+      "message_id": 120739,
+      "message_link": "https://t.me/Mellig/120739",
+      "text": "خنثی سازی یک گردان کامل (۳۰۰-۱۲۰۰ نفر) حزب الله در النبط توسط نیروی هوایی اسراییل.\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "19:18:44",
-      "gregorian_utc": "2026-09-07T15:48:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 314270,
-      "media_size_human": "306.90 KB",
+      "tehran_time": "21:10:11",
+      "gregorian_utc": "2026-09-07T17:40:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3514466,
+      "media_size_human": "3.35 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120736_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120736_photo.jpg",
+      "media_local_path": "media/Mellig_120739_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120739_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173192+00:00"
+      "archived_at": "2026-09-07T18:40:36.305138+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496791+00:00"
+      "archived_at": "2026-09-07T18:40:36.570727+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025960+00:00"
+      "archived_at": "2026-09-07T18:40:35.267027+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_356174_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356174_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460293+00:00"
+      "archived_at": "2026-09-07T18:40:35.687571+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808338+00:00"
+      "archived_at": "2026-09-07T18:40:35.994957+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120735,
-      "message_link": "https://t.me/Mellig/120735",
-      "text": "",
+      "message_id": 120738,
+      "message_link": "https://t.me/Mellig/120738",
+      "text": "سلام استاد متاسفانه از دیشب یعنی یکشنبه شب بد جور کانال شما را پارازیت انداختند به طوری که نه صدا داره نه تصویر امروز هم طور بود بازپخش نمی شد دید دوشنبه\n\nتو‌منطقه غرب تهران یادگار\n\nراستی دیشب امروز دوشنبه صف پمپ‌بنزین ها افتضاح بود ستارخان  پمپ بنزین و پمپ بنزین میدان حر\n\nپمپ بنزین یادگار امام سمت فرحزاد پمپ بنزین خرگوش دره  پمپ بنزین ازادگان و\n\nخیابان اذربایجان افتضاح و خیلی جاهای دیگه\n\nنت هم‌به شدت ضعیف شده افتضاح",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "19:18:44",
-      "gregorian_utc": "2026-09-07T15:48:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 53996,
-      "media_size_human": "52.73 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120735_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120735_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173218+00:00"
+      "tehran_time": "20:20:32",
+      "gregorian_utc": "2026-09-07T16:50:32+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T18:40:36.305167+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496806+00:00"
+      "archived_at": "2026-09-07T18:40:36.570759+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025980+00:00"
+      "archived_at": "2026-09-07T18:40:35.267058+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_356173_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356173_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460402+00:00"
+      "archived_at": "2026-09-07T18:40:35.687847+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808368+00:00"
+      "archived_at": "2026-09-07T18:40:35.994998+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120734,
-      "message_link": "https://t.me/Mellig/120734",
-      "text": "از تهران تا حیفا\n\nMellig.net",
+      "message_id": 120737,
+      "message_link": "https://t.me/Mellig/120737",
+      "text": "🔴 #خبر_فوری\nبسیج عمومی در سراسر یمن در حال وقوع است،\nیمن بار دیگر پس از 5 سال درگیر یک جنگ داخلی تمام‌عیار شده است و نبردهای متعددی در تقریباً تمام جبهه‌های یمن در جریان است.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:40:12",
-      "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 72986983,
-      "media_size_human": "69.61 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120734_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173248+00:00"
+      "tehran_time": "19:29:01",
+      "gregorian_utc": "2026-09-07T15:59:01+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T18:40:36.305225+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496821+00:00"
+      "archived_at": "2026-09-07T18:40:36.570811+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.025998+00:00"
+      "archived_at": "2026-09-07T18:40:35.267087+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_356172_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356172_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460484+00:00"
+      "archived_at": "2026-09-07T18:40:35.688032+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808427+00:00"
+      "archived_at": "2026-09-07T18:40:35.995085+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120733,
-      "message_link": "https://t.me/Mellig/120733",
-      "text": "درود بر شما\nویدیو جدیدم « از تهران تا حیفا » کار مشترک من (میثم اسدپور) با هنرمند اسرائیلی ایرانی تبار خانم غزل میزراحی تقدیم به شما 🩵\nپاینده ایران و اسرائیل \nجاوید شاه🫡🩵👑✌🏽",
+      "message_id": 120736,
+      "message_link": "https://t.me/Mellig/120736",
+      "text": "هموطنان عزیز این کانال فیلم های مربوط به جاویدنامان از برنامه های ایران را پس میگیریم هست و از همه شما میخواهم که در اطراف خانواده های  جاوید نامان هستید بسیار مراقب آنان باشید و همانطور که رهبر انقلاب شیر و خورشید ایران شاهزاده رضا پهلوی هم بارها گفته اند این چند قدم آخر را تا پیروزی کامل بر باقیمانده حکومت آدمکش اسلامی را در کنار هم برداریم و دیگر شاهد این خبرهای درد آور نباشیم.  کیو آر کد مربوط به کانال جاوید نامان انقلاب شیر و خورشید ایران همراه پوستر آن.  قسم به خون یاران ایستاده‌ایم تا پایان.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:40:12",
-      "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 8171170,
-      "media_size_human": "7.79 MB",
+      "tehran_time": "19:18:44",
+      "gregorian_utc": "2026-09-07T15:48:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 314270,
+      "media_size_human": "306.90 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120733_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120733_audio.mp3",
+      "media_local_path": "media/Mellig_120736_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120736_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173273+00:00"
+      "archived_at": "2026-09-07T18:40:36.305266+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496836+00:00"
+      "archived_at": "2026-09-07T18:40:36.570845+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.026016+00:00"
+      "archived_at": "2026-09-07T18:40:35.267118+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_356171_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356171_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460535+00:00"
+      "archived_at": "2026-09-07T18:40:35.688121+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.808446+00:00"
+      "archived_at": "2026-09-07T18:40:35.995114+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120732,
-      "message_link": "https://t.me/Mellig/120732",
-      "text": "از نعره حیدری و آمریکا تمام شد ، علی اکبر عرفات رسیده به عرعرهای یواشکی و صلح حسنی 😁\n\nیه نعره حیدری برن علی طاهر آزاد بشه خوب 😂😂\n\nMellig.net",
+      "message_id": 120735,
+      "message_link": "https://t.me/Mellig/120735",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:51:18",
-      "gregorian_utc": "2026-09-07T13:21:18+00:00",
+      "tehran_time": "19:18:44",
+      "gregorian_utc": "2026-09-07T15:48:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 30992,
-      "media_size_human": "30.27 KB",
+      "media_size_bytes": 53996,
+      "media_size_human": "52.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120732_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120732_photo.jpg",
+      "media_local_path": "media/Mellig_120735_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120735_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173318+00:00"
+      "archived_at": "2026-09-07T18:40:36.305302+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:42.496852+00:00"
+      "archived_at": "2026-09-07T18:40:36.570878+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T18:30:41.026032+00:00"
+      "archived_at": "2026-09-07T18:40:35.267148+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_356170_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356170_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.460594+00:00"
+      "archived_at": "2026-09-07T18:40:35.688233+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:41.808485+00:00"
+      "archived_at": "2026-09-07T18:40:35.995175+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120731,
-      "message_link": "https://t.me/Mellig/120731",
-      "text": "‏🇩🇪 آلیس وایدل رهبر احتمالی آینده آلمان: در ۱۰۰ روز نخست، مرزها را می‌بندم و بزرگ‌ترین اخراج مهاجران در آلمان را اجرا می‌کنم\n‏آلیس وایدل، رهبر حزب آلترناتیو برای آلمان AfD، گفته است در صورت به‌دست گرفتن قدرت، در ۱۰۰ روز نخست مرزها را خواهد بست، مزایای اجتماعی برای مهاجران را محدود می‌کند و گسترده‌ترین برنامه اخراج مهاجران در آلمان را به اجرا می‌گذارد. این اظهارات هم‌زمان با پیروزی تاریخی حزب او در انتخابات زاکسن آنهالت مطرح شده است.\n\nMellig.net",
+      "message_id": 120734,
+      "message_link": "https://t.me/Mellig/120734",
+      "text": "از تهران تا حیفا\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:50:21",
-      "gregorian_utc": "2026-09-07T13:20:21+00:00",
+      "tehran_time": "17:40:12",
+      "gregorian_utc": "2026-09-07T14:10:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 4525477,
-      "media_size_human": "4.32 MB",
+      "media_size_bytes": 72986983,
+      "media_size_human": "69.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120731_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120731_video.mp4",
+      "media_local_path": "media/Mellig_120734_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T18:30:42.173380+00:00"
+      "archived_at": "2026-09-07T18:40:36.305344+00:00"
     }
   ]
 }
