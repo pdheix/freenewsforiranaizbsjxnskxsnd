@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T15:35:46.234024+00:00",
-  "shamsi_generated": "1405/06/16 15:35:46 تهران",
+  "generated_at": "2026-09-07T15:57:04.367752+00:00",
+  "shamsi_generated": "1405/06/16 15:57:04 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537455+00:00"
+      "archived_at": "2026-09-07T15:50:38.642564+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356163,
-      "message_link": "https://t.me/IranintlTV/356163",
-      "text": "همزمان با سینگال‌های متعدد ترامپ برای حمله به جزیره خارگ، قالیباف تهدید کرد در صورت حمله به نفت‌کش‌های ایران، تهران شرکت‌های نفت و گاز آمریکایی در منطقه را هدف قرار می‌دهد. این در حالی است که سپاه برای اولین‌بار موشک میان‌برد به سوی ناوها شلیک کرد.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "message_id": 356166,
+      "message_link": "https://t.me/IranintlTV/356166",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۱۶ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:54:23",
-      "gregorian_utc": "2026-09-07T15:24:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6779217,
-      "media_size_human": "6.47 MB",
+      "tehran_time": "19:11:42",
+      "gregorian_utc": "2026-09-07T15:41:42+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30231391,
+      "media_size_human": "28.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356163_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356163_video.mp4",
+      "media_local_path": "media/IranintlTV_356166_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356166_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913150+00:00"
+      "archived_at": "2026-09-07T15:50:39.055681+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:49.359594+00:00"
+      "archived_at": "2026-09-07T15:50:39.457062+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120734,
-      "message_link": "https://t.me/Mellig/120734",
-      "text": "از تهران تا حیفا\n\nMellig.net",
+      "message_id": 120736,
+      "message_link": "https://t.me/Mellig/120736",
+      "text": "هموطنان عزیز این کانال فیلم های مربوط به جاویدنامان از برنامه های ایران را پس میگیریم هست و از همه شما میخواهم که در اطراف خانواده های  جاوید نامان هستید بسیار مراقب آنان باشید و همانطور که رهبر انقلاب شیر و خورشید ایران شاهزاده رضا پهلوی هم بارها گفته اند این چند قدم آخر را تا پیروزی کامل بر باقیمانده حکومت آدمکش اسلامی را در کنار هم برداریم و دیگر شاهد این خبرهای درد آور نباشیم.  کیو آر کد مربوط به کانال جاوید نامان انقلاب شیر و خورشید ایران همراه پوستر آن.  قسم به خون یاران ایستاده‌ایم تا پایان.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:40:12",
-      "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 72986983,
-      "media_size_human": "69.61 MB",
+      "tehran_time": "19:18:44",
+      "gregorian_utc": "2026-09-07T15:48:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 314270,
+      "media_size_human": "306.90 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120734_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
+      "media_local_path": "media/Mellig_120736_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120736_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757233+00:00"
+      "archived_at": "2026-09-07T15:50:39.879467+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:50.098880+00:00"
+      "archived_at": "2026-09-07T15:50:40.412442+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537516+00:00"
+      "archived_at": "2026-09-07T15:50:38.642602+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356162,
-      "message_link": "https://t.me/IranintlTV/356162",
-      "text": "هم‌زمان با تهدید قالیباف به هدف قرار دادن تاسیسات نفت و انرژی منطقه، پالایشگاه آرامکو عربستان سعودی در جازان هدف حمله قرار گرفت.\n\nجزییات بیشتر در گفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356165,
+      "message_link": "https://t.me/IranintlTV/356165",
+      "text": "🔻**محسن صالحی، ایران اینترنشنال؛** فحاشی خداداد عزیزی، مدیر تیم تراکتور، به امید عالیشاه پس از دیدار با گل‌گهر، بار دیگر موجی از واکنش‌ها را در فضای عمومی و رسانه‌ای ایران برانگیخت.\n\n🔹با گذر از ابعاد اخلاقی و حرفه‌ای این واقعه، پرسش بنیادی‌تر و کلیدی‌تری پیش می‌آید: چرا چهره‌های وابسته به حکومت و مدافعان ایدئولوژیک آن، فراتر از قانون و عرف رفتار می‌کنند و خود را در برابر هرگونه پاسخگویی مصون می‌بینند؟\n\n🔹این احساس خودبزرگ‌بینی و خودبرتربینی ریشه در ساختار تبعیض‌آمیزی دارد که شهروندان را به دو گروه «خودی» و «غیرخودی» تقسیم می‌کند. الگوی رفتاری عزیزی حادثه‌ای غریب در زیست سیاسی و اجتماعی دههٔ اخیر نیست؛ بلکه استمراری از یک رویهٔ جاافتاده است. \n\n🔹از تیراندازی محمود کریمی، مداح سرشناس حکومتی در خیابان‌های تهران که بدون پاسخگویی حقوقی مؤثر پایان یافت، تا اهانت‌ها و رفتارهای فراقانونی دیگر چهره‌های وابسته به نظام، همگی پیام مشخصی را به جامعه مخابره می‌کنند: قانون برای همه یکسان اجرا نمی‌شود.\n\n🔹یادداشت کامل را در [**سایت**](https://iranintl.com/202609078540) بخوانید.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:47:57",
-      "gregorian_utc": "2026-09-07T15:17:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4254733,
-      "media_size_human": "4.06 MB",
+      "tehran_time": "19:11:09",
+      "gregorian_utc": "2026-09-07T15:41:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 187797,
+      "media_size_human": "183.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356162_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356162_video.mp4",
+      "media_local_path": "media/IranintlTV_356165_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356165_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913231+00:00"
+      "archived_at": "2026-09-07T15:50:39.055876+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76429_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76429_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.359662+00:00"
+      "archived_at": "2026-09-07T15:50:39.457114+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120733,
-      "message_link": "https://t.me/Mellig/120733",
-      "text": "درود بر شما\nویدیو جدیدم « از تهران تا حیفا » کار مشترک من (میثم اسدپور) با هنرمند اسرائیلی ایرانی تبار خانم غزل میزراحی تقدیم به شما 🩵\nپاینده ایران و اسرائیل \nجاوید شاه🫡🩵👑✌🏽",
+      "message_id": 120735,
+      "message_link": "https://t.me/Mellig/120735",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:40:12",
-      "gregorian_utc": "2026-09-07T14:10:12+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 8171170,
-      "media_size_human": "7.79 MB",
+      "tehran_time": "19:18:44",
+      "gregorian_utc": "2026-09-07T15:48:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 53996,
+      "media_size_human": "52.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120733_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120733_audio.mp3",
+      "media_local_path": "media/Mellig_120735_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120735_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757285+00:00"
+      "archived_at": "2026-09-07T15:50:39.879502+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:50.098987+00:00"
+      "archived_at": "2026-09-07T15:50:40.412493+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537554+00:00"
+      "archived_at": "2026-09-07T15:50:38.642626+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356161,
-      "message_link": "https://t.me/IranintlTV/356161",
-      "text": "مادر جاویدنام ابوالفضل زارع با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای فرزندش شمعی روشن کرد.\n﻿ابوالفضل زارع، ۱۸ ساله، ۱۹ دی ۱۴۰۴ در اصفهان کشته شد.",
+      "message_id": 356164,
+      "message_link": "https://t.me/IranintlTV/356164",
+      "text": "یک راننده تاکسی اینترنتی با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های شدید کالاهای ضروری در ایران و نبود کار می‌گوید که مسافران تاکسی اینترنتی بسیار کم شده و نمی‌تواند مخارج زندگی را از این راه تامین کند.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:30:59",
-      "gregorian_utc": "2026-09-07T15:00:59+00:00",
+      "tehran_time": "19:03:01",
+      "gregorian_utc": "2026-09-07T15:33:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 5653734,
-      "media_size_human": "5.39 MB",
+      "media_size_bytes": 12791921,
+      "media_size_human": "12.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356161_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356161_video.mp4",
+      "media_local_path": "media/IranintlTV_356164_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356164_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913282+00:00"
+      "archived_at": "2026-09-07T15:50:39.055913+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.359863+00:00"
+      "archived_at": "2026-09-07T15:50:39.457277+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120732,
-      "message_link": "https://t.me/Mellig/120732",
-      "text": "از نعره حیدری و آمریکا تمام شد ، علی اکبر عرفات رسیده به عرعرهای یواشکی و صلح حسنی 😁\n\nیه نعره حیدری برن علی طاهر آزاد بشه خوب 😂😂\n\nMellig.net",
+      "message_id": 120734,
+      "message_link": "https://t.me/Mellig/120734",
+      "text": "از تهران تا حیفا\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:51:18",
-      "gregorian_utc": "2026-09-07T13:21:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 30992,
-      "media_size_human": "30.27 KB",
+      "tehran_time": "17:40:12",
+      "gregorian_utc": "2026-09-07T14:10:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 72986983,
+      "media_size_human": "69.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120732_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120732_photo.jpg",
+      "media_local_path": "media/Mellig_120734_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120734_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757374+00:00"
+      "archived_at": "2026-09-07T15:50:39.879548+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099024+00:00"
+      "archived_at": "2026-09-07T15:50:40.412514+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537596+00:00"
+      "archived_at": "2026-09-07T15:50:38.642651+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356160,
-      "message_link": "https://t.me/IranintlTV/356160",
-      "text": "حزب راست‌افراطی آلترناتیو برای آلمان در انتخاباتی تاریخی در ایالت زاکسن-آنهالت، با حدود ۴۳ درصد آرا در جایگاه نخست قرار گرفت.\n\nجزییات بیشتر در گفت‌وگو با علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356163,
+      "message_link": "https://t.me/IranintlTV/356163",
+      "text": "همزمان با سینگال‌های متعدد ترامپ برای حمله به جزیره خارگ، قالیباف تهدید کرد در صورت حمله به نفت‌کش‌های ایران، تهران شرکت‌های نفت و گاز آمریکایی در منطقه را هدف قرار می‌دهد. این در حالی است که سپاه برای اولین‌بار موشک میان‌برد به سوی ناوها شلیک کرد.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:08:07",
-      "gregorian_utc": "2026-09-07T14:38:07+00:00",
+      "tehran_time": "18:54:23",
+      "gregorian_utc": "2026-09-07T15:24:23+00:00",
       "media_type": "video",
-      "media_size_bytes": 2826018,
-      "media_size_human": "2.70 MB",
+      "media_size_bytes": 6779217,
+      "media_size_human": "6.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356160_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356160_video.mp4",
+      "media_local_path": "media/IranintlTV_356163_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356163_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913356+00:00"
+      "archived_at": "2026-09-07T15:50:39.055966+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.359992+00:00"
+      "archived_at": "2026-09-07T15:50:39.457348+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120731,
-      "message_link": "https://t.me/Mellig/120731",
-      "text": "‏🇩🇪 آلیس وایدل رهبر احتمالی آینده آلمان: در ۱۰۰ روز نخست، مرزها را می‌بندم و بزرگ‌ترین اخراج مهاجران در آلمان را اجرا می‌کنم\n‏آلیس وایدل، رهبر حزب آلترناتیو برای آلمان AfD، گفته است در صورت به‌دست گرفتن قدرت، در ۱۰۰ روز نخست مرزها را خواهد بست، مزایای اجتماعی برای مهاجران را محدود می‌کند و گسترده‌ترین برنامه اخراج مهاجران در آلمان را به اجرا می‌گذارد. این اظهارات هم‌زمان با پیروزی تاریخی حزب او در انتخابات زاکسن آنهالت مطرح شده است.\n\nMellig.net",
+      "message_id": 120733,
+      "message_link": "https://t.me/Mellig/120733",
+      "text": "درود بر شما\nویدیو جدیدم « از تهران تا حیفا » کار مشترک من (میثم اسدپور) با هنرمند اسرائیلی ایرانی تبار خانم غزل میزراحی تقدیم به شما 🩵\nپاینده ایران و اسرائیل \nجاوید شاه🫡🩵👑✌🏽",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:50:21",
-      "gregorian_utc": "2026-09-07T13:20:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4525477,
-      "media_size_human": "4.32 MB",
+      "tehran_time": "17:40:12",
+      "gregorian_utc": "2026-09-07T14:10:12+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 8171170,
+      "media_size_human": "7.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120731_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120731_video.mp4",
+      "media_local_path": "media/Mellig_120733_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120733_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757485+00:00"
+      "archived_at": "2026-09-07T15:50:39.879573+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099054+00:00"
+      "archived_at": "2026-09-07T15:50:40.412532+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537628+00:00"
+      "archived_at": "2026-09-07T15:50:38.642671+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356159,
-      "message_link": "https://t.me/IranintlTV/356159",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه ۱۶ شهریور در تروث سوشال گزارش ۱۶ روز پیش وال‌استریت ژورنال با عنوان «سیاستمداران ارشد ایران خواستار پایان جنگ هستند» را بازنشر کرد.\n\nدر این گزارش آمده بود که مسعود پزشکیان، رییس دولت جمهوری اسلامی، و محمدباقر قالیباف، رییس مجلس شورای اسلامی، خواهان بازگشت آمریکا به تفاهم‌نامه اسلام‌آباد هستند.\nhttps://iranintl.com/202609072851",
+      "message_id": 356162,
+      "message_link": "https://t.me/IranintlTV/356162",
+      "text": "هم‌زمان با تهدید قالیباف به هدف قرار دادن تاسیسات نفت و انرژی منطقه، پالایشگاه آرامکو عربستان سعودی در جازان هدف حمله قرار گرفت.\n\nجزییات بیشتر در گفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:07:19",
-      "gregorian_utc": "2026-09-07T14:37:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 139257,
-      "media_size_human": "135.99 KB",
+      "tehran_time": "18:47:57",
+      "gregorian_utc": "2026-09-07T15:17:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4254733,
+      "media_size_human": "4.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356159_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356159_photo.jpg",
+      "media_local_path": "media/IranintlTV_356162_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356162_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913470+00:00"
+      "archived_at": "2026-09-07T15:50:39.056010+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360099+00:00"
+      "archived_at": "2026-09-07T15:50:39.457427+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120730,
-      "message_link": "https://t.me/Mellig/120730",
-      "text": "",
+      "message_id": 120732,
+      "message_link": "https://t.me/Mellig/120732",
+      "text": "از نعره حیدری و آمریکا تمام شد ، علی اکبر عرفات رسیده به عرعرهای یواشکی و صلح حسنی 😁\n\nیه نعره حیدری برن علی طاهر آزاد بشه خوب 😂😂\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:35:20",
-      "gregorian_utc": "2026-09-07T13:05:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 854736,
-      "media_size_human": "834.70 KB",
+      "tehran_time": "16:51:18",
+      "gregorian_utc": "2026-09-07T13:21:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 30992,
+      "media_size_human": "30.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120730_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120730_video.mp4",
+      "media_local_path": "media/Mellig_120732_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120732_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757529+00:00"
+      "archived_at": "2026-09-07T15:50:39.879630+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099083+00:00"
+      "archived_at": "2026-09-07T15:50:40.412548+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537666+00:00"
+      "archived_at": "2026-09-07T15:50:38.642709+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356158,
-      "message_link": "https://t.me/IranintlTV/356158",
-      "text": "یک کاسب با انتشار ویدیویی در رسانه‌های اجتماعی، با شوخی و کنایه در خصوص گران شدن بنزین و افزایش قیمت کالاها می‌گوید: «من از همه این‌ها خوشحالم؛ از گرانی و تورم و افزایش قیمت بنزین. شما هم خوشحال باشید چون اگر نباشید، اعدام‌تان می‌کنند.»",
+      "message_id": 356161,
+      "message_link": "https://t.me/IranintlTV/356161",
+      "text": "مادر جاویدنام ابوالفضل زارع با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای فرزندش شمعی روشن کرد.\n﻿ابوالفضل زارع، ۱۸ ساله، ۱۹ دی ۱۴۰۴ در اصفهان کشته شد.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "18:00:27",
-      "gregorian_utc": "2026-09-07T14:30:27+00:00",
+      "tehran_time": "18:30:59",
+      "gregorian_utc": "2026-09-07T15:00:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 8897531,
-      "media_size_human": "8.49 MB",
+      "media_size_bytes": 5653734,
+      "media_size_human": "5.39 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356158_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356158_video.mp4",
+      "media_local_path": "media/IranintlTV_356161_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356161_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913513+00:00"
+      "archived_at": "2026-09-07T15:50:39.056034+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:49.360259+00:00"
+      "archived_at": "2026-09-07T15:50:39.457546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120729,
-      "message_link": "https://t.me/Mellig/120729",
-      "text": "",
+      "message_id": 120731,
+      "message_link": "https://t.me/Mellig/120731",
+      "text": "‏🇩🇪 آلیس وایدل رهبر احتمالی آینده آلمان: در ۱۰۰ روز نخست، مرزها را می‌بندم و بزرگ‌ترین اخراج مهاجران در آلمان را اجرا می‌کنم\n‏آلیس وایدل، رهبر حزب آلترناتیو برای آلمان AfD، گفته است در صورت به‌دست گرفتن قدرت، در ۱۰۰ روز نخست مرزها را خواهد بست، مزایای اجتماعی برای مهاجران را محدود می‌کند و گسترده‌ترین برنامه اخراج مهاجران در آلمان را به اجرا می‌گذارد. این اظهارات هم‌زمان با پیروزی تاریخی حزب او در انتخابات زاکسن آنهالت مطرح شده است.\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:35:20",
-      "gregorian_utc": "2026-09-07T13:05:20+00:00",
+      "tehran_time": "16:50:21",
+      "gregorian_utc": "2026-09-07T13:20:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 444962,
-      "media_size_human": "434.53 KB",
+      "media_size_bytes": 4525477,
+      "media_size_human": "4.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120729_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120729_video.mp4",
+      "media_local_path": "media/Mellig_120731_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120731_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757565+00:00"
+      "archived_at": "2026-09-07T15:50:39.879714+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099112+00:00"
+      "archived_at": "2026-09-07T15:50:40.412565+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537697+00:00"
+      "archived_at": "2026-09-07T15:50:38.642728+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356157,
-      "message_link": "https://t.me/IranintlTV/356157",
-      "text": "صدها شهروند در پیام‌هایی به ایران‌اینترنشنال گفتند با افزایش لحظه‌ای قیمت‌ها و فشار اقتصادی، امکان برنامه‌ریزی برای آینده نزدیک را هم از دست داده‌اند. این پیام‌ها نشان می‌دهد فشار تورمی از سطح خریدهای بزرگ عبور کرده و به خوراک، رفت‌وآمد، تعمیر وسایل ضروری و هزینه‌های روزمره رسیده است.\n\nجزییات بیشتر در گفت‌وگو با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356160,
+      "message_link": "https://t.me/IranintlTV/356160",
+      "text": "حزب راست‌افراطی آلترناتیو برای آلمان در انتخاباتی تاریخی در ایالت زاکسن-آنهالت، با حدود ۴۳ درصد آرا در جایگاه نخست قرار گرفت.\n\nجزییات بیشتر در گفت‌وگو با علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:58:34",
-      "gregorian_utc": "2026-09-07T14:28:34+00:00",
+      "tehran_time": "18:08:07",
+      "gregorian_utc": "2026-09-07T14:38:07+00:00",
       "media_type": "video",
-      "media_size_bytes": 2410527,
-      "media_size_human": "2.30 MB",
+      "media_size_bytes": 2826018,
+      "media_size_human": "2.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356157_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356157_video.mp4",
+      "media_local_path": "media/IranintlTV_356160_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356160_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913596+00:00"
+      "archived_at": "2026-09-07T15:50:39.056080+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360381+00:00"
+      "archived_at": "2026-09-07T15:50:39.457594+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120728,
-      "message_link": "https://t.me/Mellig/120728",
-      "text": "گفتار پزشکیان:\nقبل از واردات خودروهای کم مصرف، بنزین گران نمی‌شود.\nخودروهای داخلی را چند برابر قیمت واقعی‌ به مردم می‌فروشند!\n\nکردار پزشکیان:\nبدون اجازه واردات خودروهای کم مصرف بنزین را چندبار گران و خودروهای گران را هم گران‌تر کرد.\nاین پیمان‌شکنی است یا ذات سیاست در ایران؟\n\nMellig.net",
+      "message_id": 120730,
+      "message_link": "https://t.me/Mellig/120730",
+      "text": "",
       "shamsi_date": "1405/06/16",
       "tehran_time": "16:35:20",
       "gregorian_utc": "2026-09-07T13:05:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 1065213,
-      "media_size_human": "1.02 MB",
+      "media_size_bytes": 854736,
+      "media_size_human": "834.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120728_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120728_video.mp4",
+      "media_local_path": "media/Mellig_120730_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120730_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757632+00:00"
+      "archived_at": "2026-09-07T15:50:39.879739+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099141+00:00"
+      "archived_at": "2026-09-07T15:50:40.412583+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537742+00:00"
+      "archived_at": "2026-09-07T15:50:38.642758+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356156,
-      "message_link": "https://t.me/IranintlTV/356156",
-      "text": "🔻فدراسیون فوتبال بلژیک با انتشار بیانیه‌ای رسمی اعلام کرد که از نامزدی جیانی اینفانتینو در انتخابات ریاست فیفا پشتیبانی نخواهد کرد. این تصمیم یک روز پس از تایید رسمی نامزدی اینفانتینو برای انتخابات مارس ۲۰۲۷ اتخاذ شد.\n\n🔹به گفته پاسکال وان دام، رییس فدراسیون بلژیک، این تصمیم به دلیل نبود شفافیت فیفا در دو موضوع «پرونده تجاری فیفا» و تعلیق کارت قرمز فولارین بالوگان پیش از دیدار برابر تیم ملی بلژیک در جام جهانی گرفته شده است.\n\n🔹وان دام گفت که با وجود مکاتبات متعدد، پس از گذشت دو ماه هنوز هیچ پاسخ یا شفاف‌سازی مشخصی از سوی فیفا دریافت نکرده‌اند.\n\n🔹فدراسیون بلژیک خواستار گنجانده شدن پرونده بالوگان در دستور جلسه بعدی شورای فیفا در ۱۵ اکتبر شده و بر ضرورت اصلاح فرایندها برای حفظ اعتبار فوتبال بین‌المللی تاکید کرده است.\n\n🔹اینفانتینو که از سال ۲۰۱۶ ریاست فیفا را بر عهده دارد، پیش‌تر نیز حمایت فدراسیون‌های دیگری مانند سوئد، اسکاتلند و ایتالیا را از دست داده بود.\n\n@iranintltvsport",
+      "message_id": 356159,
+      "message_link": "https://t.me/IranintlTV/356159",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه ۱۶ شهریور در تروث سوشال گزارش ۱۶ روز پیش وال‌استریت ژورنال با عنوان «سیاستمداران ارشد ایران خواستار پایان جنگ هستند» را بازنشر کرد.\n\nدر این گزارش آمده بود که مسعود پزشکیان، رییس دولت جمهوری اسلامی، و محمدباقر قالیباف، رییس مجلس شورای اسلامی، خواهان بازگشت آمریکا به تفاهم‌نامه اسلام‌آباد هستند.\nhttps://iranintl.com/202609072851",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:56:11",
-      "gregorian_utc": "2026-09-07T14:26:11+00:00",
+      "tehran_time": "18:07:19",
+      "gregorian_utc": "2026-09-07T14:37:19+00:00",
       "media_type": "photo",
-      "media_size_bytes": 189681,
-      "media_size_human": "185.24 KB",
+      "media_size_bytes": 139257,
+      "media_size_human": "135.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356156_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356156_photo.jpg",
+      "media_local_path": "media/IranintlTV_356159_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356159_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913764+00:00"
+      "archived_at": "2026-09-07T15:50:39.056140+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360552+00:00"
+      "archived_at": "2026-09-07T15:50:39.457679+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120727,
-      "message_link": "https://t.me/Mellig/120727",
-      "text": "وقت شما بخیر و با آرزوی سلامتی  برای شما\n\nیک آهنگ ساختم به نام « ملی گرایانیم»\n\nلطفا گوش کنید و اگر مورد پسندتان بود در گروه قرار بدهید.\n\nسپاسگذارم 🙏🌸",
+      "message_id": 120729,
+      "message_link": "https://t.me/Mellig/120729",
+      "text": "",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:33:23",
-      "gregorian_utc": "2026-09-07T13:03:23+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 4438690,
-      "media_size_human": "4.23 MB",
+      "tehran_time": "16:35:20",
+      "gregorian_utc": "2026-09-07T13:05:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 444962,
+      "media_size_human": "434.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120727_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120727_audio.mp3",
+      "media_local_path": "media/Mellig_120729_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120729_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757671+00:00"
+      "archived_at": "2026-09-07T15:50:39.879760+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099170+00:00"
+      "archived_at": "2026-09-07T15:50:40.412601+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537771+00:00"
+      "archived_at": "2026-09-07T15:50:38.642777+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356155,
-      "message_link": "https://t.me/IranintlTV/356155",
-      "text": "انور قرقاش، مشاور رییس‌ امارات متحده عربی، دوشنبه ۱۶ شهریور در مجمع هِلی در ابوظبی گفت این کشور برای جلوگیری از تاثیر جنگ ایران بر صادرات انرژی و تجارت خود، در حال ایجاد «مسیرهای جایگزین» است.\n\nاو از توسعه ظرفیت بنادر، خطوط لوله، راه‌آهن و مسیرهای تجاری جایگزین خبر داد و افزود صادرات انرژی و فعالیت‌های اقتصادی امارات «گروگان گرفته نخواهد شد».\n\nقرقاش تاکید کرد بازسازی اعتماد کشورهای همسایه به جمهوری اسلامی پس از حملات تهران ممکن است دهه‌ها طول بکشد.\n@iranintltv",
+      "message_id": 356158,
+      "message_link": "https://t.me/IranintlTV/356158",
+      "text": "یک کاسب با انتشار ویدیویی در رسانه‌های اجتماعی، با شوخی و کنایه در خصوص گران شدن بنزین و افزایش قیمت کالاها می‌گوید: «من از همه این‌ها خوشحالم؛ از گرانی و تورم و افزایش قیمت بنزین. شما هم خوشحال باشید چون اگر نباشید، اعدام‌تان می‌کنند.»",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:49:03",
-      "gregorian_utc": "2026-09-07T14:19:03+00:00",
+      "tehran_time": "18:00:27",
+      "gregorian_utc": "2026-09-07T14:30:27+00:00",
       "media_type": "video",
-      "media_size_bytes": 876682,
-      "media_size_human": "856.13 KB",
+      "media_size_bytes": 8897531,
+      "media_size_human": "8.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356155_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356155_video.mp4",
+      "media_local_path": "media/IranintlTV_356158_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356158_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913857+00:00"
+      "archived_at": "2026-09-07T15:50:39.056166+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360602+00:00"
+      "archived_at": "2026-09-07T15:50:39.457719+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120726,
-      "message_link": "https://t.me/Mellig/120726",
-      "text": "🔴 #خبر_فوری\nپالایشگاه آرامکو در شهرجازان در اثر حملات پهپادی از یمن دچار آتش‌سوزی شده است.",
+      "message_id": 120728,
+      "message_link": "https://t.me/Mellig/120728",
+      "text": "گفتار پزشکیان:\nقبل از واردات خودروهای کم مصرف، بنزین گران نمی‌شود.\nخودروهای داخلی را چند برابر قیمت واقعی‌ به مردم می‌فروشند!\n\nکردار پزشکیان:\nبدون اجازه واردات خودروهای کم مصرف بنزین را چندبار گران و خودروهای گران را هم گران‌تر کرد.\nاین پیمان‌شکنی است یا ذات سیاست در ایران؟\n\nMellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:28:01",
-      "gregorian_utc": "2026-09-07T12:58:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:49.757722+00:00"
+      "tehran_time": "16:35:20",
+      "gregorian_utc": "2026-09-07T13:05:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1065213,
+      "media_size_human": "1.02 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120728_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120728_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T15:50:39.879805+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099197+00:00"
+      "archived_at": "2026-09-07T15:50:40.412618+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.537798+00:00"
+      "archived_at": "2026-09-07T15:50:38.642795+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356154,
-      "message_link": "https://t.me/IranintlTV/356154",
-      "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n\n@iranintltv",
+      "message_id": 356157,
+      "message_link": "https://t.me/IranintlTV/356157",
+      "text": "صدها شهروند در پیام‌هایی به ایران‌اینترنشنال گفتند با افزایش لحظه‌ای قیمت‌ها و فشار اقتصادی، امکان برنامه‌ریزی برای آینده نزدیک را هم از دست داده‌اند. این پیام‌ها نشان می‌دهد فشار تورمی از سطح خریدهای بزرگ عبور کرده و به خوراک، رفت‌وآمد، تعمیر وسایل ضروری و هزینه‌های روزمره رسیده است.\n\nجزییات بیشتر در گفت‌وگو با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:44:05",
-      "gregorian_utc": "2026-09-07T14:14:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 305254,
-      "media_size_human": "298.10 KB",
+      "tehran_time": "17:58:34",
+      "gregorian_utc": "2026-09-07T14:28:34+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2410527,
+      "media_size_human": "2.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356154_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356154_photo.jpg",
+      "media_local_path": "media/IranintlTV_356157_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356157_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.913961+00:00"
+      "archived_at": "2026-09-07T15:50:39.056217+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360688+00:00"
+      "archived_at": "2026-09-07T15:50:39.457776+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120725,
-      "message_link": "https://t.me/Mellig/120725",
-      "text": "صحنه‌ هایی دست اول که حملات ۱۱ سپتامبر که خیلی کمتر پخش شده.\n\nنوزده عضو گروه القاعده چهار هواپیمای مسافربری را ربودند؛ دو هواپیمای اول به برج‌های دوقلوی مرکز تجارت جهانی در نیویورک و سومی به پنتاگون (مقر وزارت دفاع ایالات متحده) در ویرجینیا برخورد کردند. هواپیمای چهارم در جریان شورش مسافران، در یک مزرعهٔ روستایی در پنسیلوانیا سقوط کرد\n\nmellig.net",
+      "message_id": 120727,
+      "message_link": "https://t.me/Mellig/120727",
+      "text": "وقت شما بخیر و با آرزوی سلامتی  برای شما\n\nیک آهنگ ساختم به نام « ملی گرایانیم»\n\nلطفا گوش کنید و اگر مورد پسندتان بود در گروه قرار بدهید.\n\nسپاسگذارم 🙏🌸",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "16:15:21",
-      "gregorian_utc": "2026-09-07T12:45:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3124596,
-      "media_size_human": "2.98 MB",
+      "tehran_time": "16:33:23",
+      "gregorian_utc": "2026-09-07T13:03:23+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 4438690,
+      "media_size_human": "4.23 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120725_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120725_video.mp4",
+      "media_local_path": "media/Mellig_120727_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120727_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757798+00:00"
+      "archived_at": "2026-09-07T15:50:39.879828+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099224+00:00"
+      "archived_at": "2026-09-07T15:50:40.412634+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": "media/zedTV_12888_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12888_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.547790+00:00"
+      "archived_at": "2026-09-07T15:50:38.652340+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356153,
-      "message_link": "https://t.me/IranintlTV/356153",
-      "text": "ویدیویی که به دست ایران‌اینترنشنال رسیده و مربوط به شنبه ۱۴ شهریور است، نشان می‌دهد که یک راننده زن کامیون از گرفتار شدن و سرگردانی کامیون‌های یخچال‌دار و حامل مواد غذایی در نقطه صفر مرزی میان ایران و پاکستان خبر می‌دهد. او می‌گوید ورود مواد غذایی به پاکستان ممنوع شده و هیچ‌کس کمکی به کامیون‌دارها نمی‌کند.",
+      "message_id": 356156,
+      "message_link": "https://t.me/IranintlTV/356156",
+      "text": "🔻فدراسیون فوتبال بلژیک با انتشار بیانیه‌ای رسمی اعلام کرد که از نامزدی جیانی اینفانتینو در انتخابات ریاست فیفا پشتیبانی نخواهد کرد. این تصمیم یک روز پس از تایید رسمی نامزدی اینفانتینو برای انتخابات مارس ۲۰۲۷ اتخاذ شد.\n\n🔹به گفته پاسکال وان دام، رییس فدراسیون بلژیک، این تصمیم به دلیل نبود شفافیت فیفا در دو موضوع «پرونده تجاری فیفا» و تعلیق کارت قرمز فولارین بالوگان پیش از دیدار برابر تیم ملی بلژیک در جام جهانی گرفته شده است.\n\n🔹وان دام گفت که با وجود مکاتبات متعدد، پس از گذشت دو ماه هنوز هیچ پاسخ یا شفاف‌سازی مشخصی از سوی فیفا دریافت نکرده‌اند.\n\n🔹فدراسیون بلژیک خواستار گنجانده شدن پرونده بالوگان در دستور جلسه بعدی شورای فیفا در ۱۵ اکتبر شده و بر ضرورت اصلاح فرایندها برای حفظ اعتبار فوتبال بین‌المللی تاکید کرده است.\n\n🔹اینفانتینو که از سال ۲۰۱۶ ریاست فیفا را بر عهده دارد، پیش‌تر نیز حمایت فدراسیون‌های دیگری مانند سوئد، اسکاتلند و ایتالیا را از دست داده بود.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:32:22",
-      "gregorian_utc": "2026-09-07T14:02:22+00:00",
-      "media_type": "video",
-      "media_size_bytes": 15905092,
-      "media_size_human": "15.17 MB",
+      "tehran_time": "17:56:11",
+      "gregorian_utc": "2026-09-07T14:26:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 189681,
+      "media_size_human": "185.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356153_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356153_video.mp4",
+      "media_local_path": "media/IranintlTV_356156_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356156_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.914003+00:00"
+      "archived_at": "2026-09-07T15:50:39.056330+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:49.360725+00:00"
+      "archived_at": "2026-09-07T15:50:39.457793+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120724,
-      "message_link": "https://t.me/Mellig/120724",
-      "text": "کارد بخوره به اون شکم پاره تون که ۴۷ ساله پر نمیشه \nحرامزاده تو‌مصاحبه هستی مثلا به احترام رهخرت که داری ازش حرف میزنی اون دهن گاله رو بزار نیم ساعت نجنبه",
+      "message_id": 120726,
+      "message_link": "https://t.me/Mellig/120726",
+      "text": "🔴 #خبر_فوری\nپالایشگاه آرامکو در شهرجازان در اثر حملات پهپادی از یمن دچار آتش‌سوزی شده است.",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "15:59:37",
-      "gregorian_utc": "2026-09-07T12:29:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 422549,
-      "media_size_human": "412.65 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120724_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120724_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.757834+00:00"
+      "tehran_time": "16:28:01",
+      "gregorian_utc": "2026-09-07T12:58:01+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-07T15:50:39.879857+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:50.099254+00:00"
+      "archived_at": "2026-09-07T15:50:40.412651+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:48.547851+00:00"
+      "archived_at": "2026-09-07T15:50:38.652389+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356152,
-      "message_link": "https://t.me/IranintlTV/356152",
-      "text": "🔻اولی میلروی، راننده بریتانیایی، پس از یک تصادف شدید در مسابقات چین «جی‌تی» در پیست بین‌المللی شانگهای، از یک حادثه مرگبار جان سالم به در برد.\n\n🔹خودروی فراری میلروی پس از برخورد دو خودرو با آن، به‌سرعت در آتش گرفتار شد و او در داخل خودرو محبوس ماند. لوک هارتوگ، راننده ۲۳ ساله هلندی، با تلاش فراوان میلروی را از خودروی در حال سوختن خارج کرد.\n\n🔹همسر میلروی پس از انجام عمل جراحی، در صفحه اینستاگرامش اعلام کرد که او از ناحیه دست راست و ترقوه آسیب دیده و شش دنده‌اش نیز شکسته است. او همچنین به دلیل آسیب ریه همچنان به اکسیژن با جریان بالا نیاز دارد.\n\n🔹همسر میلروی با اشاره به شدت حادثه نوشت که «هنوز نمی‌تواند باور کند او زنده است» و نجات همسرش را تا حد زیادی مدیون اقدام هارتوگ دانست.\n\n🔹میلروی نیز در پیامی از حمایت‌ها و کمک‌های انجام‌شده پس از این حادثه تشکر کرد و از جامعه مسابقات اتومبیلرانی به دلیل حمایت از او و خانواده‌اش قدردانی کرد.\n\n@iranintltvsport",
+      "message_id": 356155,
+      "message_link": "https://t.me/IranintlTV/356155",
+      "text": "انور قرقاش، مشاور رییس‌ امارات متحده عربی، دوشنبه ۱۶ شهریور در مجمع هِلی در ابوظبی گفت این کشور برای جلوگیری از تاثیر جنگ ایران بر صادرات انرژی و تجارت خود، در حال ایجاد «مسیرهای جایگزین» است.\n\nاو از توسعه ظرفیت بنادر، خطوط لوله، راه‌آهن و مسیرهای تجاری جایگزین خبر داد و افزود صادرات انرژی و فعالیت‌های اقتصادی امارات «گروگان گرفته نخواهد شد».\n\nقرقاش تاکید کرد بازسازی اعتماد کشورهای همسایه به جمهوری اسلامی پس از حملات تهران ممکن است دهه‌ها طول بکشد.\n@iranintltv",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "17:25:34",
-      "gregorian_utc": "2026-09-07T13:55:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 190797,
-      "media_size_human": "186.33 KB",
+      "tehran_time": "17:49:03",
+      "gregorian_utc": "2026-09-07T14:19:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 876682,
+      "media_size_human": "856.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356152_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356152_photo.jpg",
+      "media_local_path": "media/IranintlTV_356155_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356155_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:48.914143+00:00"
+      "archived_at": "2026-09-07T15:50:39.056390+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-07T15:30:49.360790+00:00"
+      "archived_at": "2026-09-07T15:50:39.457830+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120723,
-      "message_link": "https://t.me/Mellig/120723",
-      "text": "🔴 #خبر_فوری\nگزارش‌های غیر رسمی حاکی از آن است که پاکستان از ورود کامیون‌های تجاری ایران به خاک خود در مرز مشترک دو کشور جلوگیری می‌کند و مرز زمینی مشترک با ایران را بسته است.",
+      "message_id": 120725,
+      "message_link": "https://t.me/Mellig/120725",
+      "text": "صحنه‌ هایی دست اول که حملات ۱۱ سپتامبر که خیلی کمتر پخش شده.\n\nنوزده عضو گروه القاعده چهار هواپیمای مسافربری را ربودند؛ دو هواپیمای اول به برج‌های دوقلوی مرکز تجارت جهانی در نیویورک و سومی به پنتاگون (مقر وزارت دفاع ایالات متحده) در ویرجینیا برخورد کردند. هواپیمای چهارم در جریان شورش مسافران، در یک مزرعهٔ روستایی در پنسیلوانیا سقوط کرد\n\nmellig.net",
       "shamsi_date": "1405/06/16",
-      "tehran_time": "15:53:15",
-      "gregorian_utc": "2026-09-07T12:23:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-07T15:30:49.757908+00:00"
+      "tehran_time": "16:15:21",
+      "gregorian_utc": "2026-09-07T12:45:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3124596,
+      "media_size_human": "2.98 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120725_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120725_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-07T15:50:39.879907+00:00"
     }
   ]
 }
