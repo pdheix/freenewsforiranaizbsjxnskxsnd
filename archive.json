@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T17:03:23.068910+00:00",
-  "shamsi_generated": "1405/06/17 17:03:23 تهران",
+  "generated_at": "2026-09-08T17:13:49.809102+00:00",
+  "shamsi_generated": "1405/06/17 17:13:49 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331763+00:00"
+      "archived_at": "2026-09-08T17:10:36.580789+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356357,
-      "message_link": "https://t.me/IranintlTV/356357",
-      "text": "دختر جاویدنام آسیه رمضانی با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای مادرش شمعی روشن کرد و یاد او و دیگر کشته‌شدگان اعتراضات دی‌ماه را گرامی داشت. او گفت مادرش برای «گرفتن حقش» از خانه بیرون رفت و با شلیک مستقیم گلوله کشته شد.",
+      "message_id": 356358,
+      "message_link": "https://t.me/IranintlTV/356358",
+      "text": "دفاع مدنی عربستان سعودی اعلام کرد سامانه هشدار در جازان و ابها فعال شده است. این نهاد همچنین اعلام کرد سامانه هشدار در نجران نیز فعال شده است.\n\nدفاع مدنی عربستان سعودی تا لحظه انتشار این گزارش جزئیات بیشتری اعلام نکرده است.\nhttps://iranintl.com/202609083486",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:29:46",
-      "gregorian_utc": "2026-09-08T16:59:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7328134,
-      "media_size_human": "6.99 MB",
+      "tehran_time": "20:40:22",
+      "gregorian_utc": "2026-09-08T17:10:22+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 67025,
+      "media_size_human": "65.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356357_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356357_video.mp4",
+      "media_local_path": "media/IranintlTV_356358_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.595255+00:00"
+      "archived_at": "2026-09-08T17:10:36.859368+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.885182+00:00"
+      "archived_at": "2026-09-08T17:10:37.132600+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120779,
-      "message_link": "https://t.me/Mellig/120779",
-      "text": "مربع ۴ ح زنده یاد مانوک خدابخشیان",
+      "message_id": 120789,
+      "message_link": "https://t.me/Mellig/120789",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:23:24",
-      "gregorian_utc": "2026-09-08T16:53:24+00:00",
+      "tehran_time": "20:40:22",
+      "gregorian_utc": "2026-09-08T17:10:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 10761513,
-      "media_size_human": "10.26 MB",
+      "media_size_bytes": 3697590,
+      "media_size_human": "3.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120779_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120779_video.mp4",
+      "media_local_path": "media/Mellig_120789_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120789_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.159465+00:00"
+      "archived_at": "2026-09-08T17:10:37.382394+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.375717+00:00"
+      "archived_at": "2026-09-08T17:10:37.603558+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331815+00:00"
+      "archived_at": "2026-09-08T17:10:36.580836+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356356,
-      "message_link": "https://t.me/IranintlTV/356356",
-      "text": "مادر جاویدنام سپهر ابراهیمی، معترض کشته‌شده در اعتراضات دی ۱۴۰۴، با پیوستن به پویش «یک شمع، یک نام، یک یاد» ویدیویی در رسانه‌های اجتماعی منتشر کرد و گفت که پسرش «عاقبت‌به‌خیر شد».\n\nاو افزود: «من و مادران دیگری که عزیزانمان را از ما گرفتند، نه می‌بخشیم و نه فراموش می‌کنیم.»",
+      "message_id": 356357,
+      "message_link": "https://t.me/IranintlTV/356357",
+      "text": "دختر جاویدنام آسیه رمضانی با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای مادرش شمعی روشن کرد و یاد او و دیگر کشته‌شدگان اعتراضات دی‌ماه را گرامی داشت. او گفت مادرش برای «گرفتن حقش» از خانه بیرون رفت و با شلیک مستقیم گلوله کشته شد.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:14:46",
-      "gregorian_utc": "2026-09-08T16:44:46+00:00",
+      "tehran_time": "20:29:46",
+      "gregorian_utc": "2026-09-08T16:59:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 29162101,
-      "media_size_human": "27.81 MB",
+      "media_size_bytes": 7328134,
+      "media_size_human": "6.99 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356356_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356356_video.mp4",
+      "media_local_path": "media/IranintlTV_356357_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356357_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.595305+00:00"
+      "archived_at": "2026-09-08T17:10:36.859430+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.885399+00:00"
+      "archived_at": "2026-09-08T17:10:37.132839+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120778,
-      "message_link": "https://t.me/Mellig/120778",
-      "text": "🔻سخنگوی قوه‌قضائیه ج.ا:\n\n«محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است.»\n\nحرومزاده ها به خودشونم رحم نمیکنن.\nMellig.net",
+      "message_id": 120788,
+      "message_link": "https://t.me/Mellig/120788",
+      "text": "خونه ها تو شمال بخاطر بارون شدید و شاهکار مهندسی به این روز افتادن\n\nآب نمای طبیعی\n\nMellig.net",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:07:50",
-      "gregorian_utc": "2026-09-08T16:37:50+00:00",
+      "tehran_time": "20:40:21",
+      "gregorian_utc": "2026-09-08T17:10:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 203025,
-      "media_size_human": "198.27 KB",
+      "media_size_bytes": 2660141,
+      "media_size_human": "2.54 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120778_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120778_video.mp4",
+      "media_local_path": "media/Mellig_120788_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.159554+00:00"
+      "archived_at": "2026-09-08T17:10:37.382468+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.375811+00:00"
+      "archived_at": "2026-09-08T17:10:37.603623+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331855+00:00"
+      "archived_at": "2026-09-08T17:10:36.580867+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356355,
-      "message_link": "https://t.me/IranintlTV/356355",
-      "text": "🔻نادر محمدی، مدافع ایرانی اسپارتاک کاستروما، در دیدار جام حذفی روسیه برابر ریازان با پرتاب بلند و نمایشی اوت، سازنده گل اول تیمش شد. این سومین پاس گل محمدی با پرتاب اوت در یک ماه اخیر بود.\n\n🔹اسپارتاک کاستروما در این مسابقه با نتیجه ۲ بر صفر به پیروزی رسید و راهی مرحله بعد جام حذفی روسیه شد.\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 356356,
+      "message_link": "https://t.me/IranintlTV/356356",
+      "text": "مادر جاویدنام سپهر ابراهیمی، معترض کشته‌شده در اعتراضات دی ۱۴۰۴، با پیوستن به پویش «یک شمع، یک نام، یک یاد» ویدیویی در رسانه‌های اجتماعی منتشر کرد و گفت که پسرش «عاقبت‌به‌خیر شد».\n\nاو افزود: «من و مادران دیگری که عزیزانمان را از ما گرفتند، نه می‌بخشیم و نه فراموش می‌کنیم.»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:06:18",
-      "gregorian_utc": "2026-09-08T16:36:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 126661,
-      "media_size_human": "123.69 KB",
+      "tehran_time": "20:14:46",
+      "gregorian_utc": "2026-09-08T16:44:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 29162101,
+      "media_size_human": "27.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356355_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356355_photo.jpg",
+      "media_local_path": "media/IranintlTV_356356_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356356_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629117+00:00"
+      "archived_at": "2026-09-08T17:10:36.859468+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.885498+00:00"
+      "archived_at": "2026-09-08T17:10:37.132933+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120777,
-      "message_link": "https://t.me/Mellig/120777",
-      "text": "از مخاطبین : \n​سیده سارا دستوم، یک بی‌شرف که رفته توی بلژیک در حمایت از جمهوری اسلامی اعتراض کرده و عکس رهبر رو گرفته دستش. با آمادگی قبلی این کار رو کرده که معروف بشه و پارلمان بلژیک بهش گفته «عنصر نامطلوب»، حالا عزیز شده واسه حکومتی‌ها!!!!! اطلاعاتی دارم درباره‌ش بگو تا آبروش بره…\n​۱- سیده سارا دستوم هیچ‌وقت اسم خودشو «سیده سارا» نمی‌گفت و آیدی اینستا و فیس‌بوکش «سارا دستوم» بوده. در چالوس و تنکابن زندگی می‌کرده.\n​مادرش: زهرا حبیبی کاسب، ملقب به «نوشین حبیبی»، خانه‌دار و دیپلمه. در سن ۶۰ سالگی با کمک چت‌جی‌پی‌تی نویسنده شده تا معروف بشه، ولی دریغ از اینکه یک نفر چرندیاتش رو بخونه!!!!! دختراشم آرزوی شهرت داشتن…\n​پدر سارا: سید احمد دستوم، در چالوس مرغداری داره و سارا با پول کشتن مرغ‌ها رفته خارج و الان ادای حامی حیوانات و گیاه‌خواری رو درمیاره و ژست فرهنگی می‌گیره.\n​سارا از بچگی در بغل پسرای همسایه بزرگ شده و با اونا تا ۱۸ سالگی با بیکینی و در استخری که پدرش در کنار مرغداری ساخته بود شنا می‌کرد. همیشه با حجاب مخالف بود. در دهه ‌های ۷۰-۸۰ نحوه پوشش طوری بود که بهش بگن خراب!!! پسرباز بود و خنگ. دانشگاه آزاد نجف‌آباد رشته مترجمی زبان فرانسه قبول شد؛ رشته‌ای که توش خیلی ضعیف بود و آخر هم نتونست مدرکشو بگیره.",
+      "message_id": 120787,
+      "message_link": "https://t.me/Mellig/120787",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:37:04",
-      "gregorian_utc": "2026-09-08T16:07:04+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.159589+00:00"
+      "tehran_time": "20:33:12",
+      "gregorian_utc": "2026-09-08T17:03:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 201746,
+      "media_size_human": "197.02 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120787_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120787_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T17:10:37.382513+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375843+00:00"
+      "archived_at": "2026-09-08T17:10:37.603650+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331904+00:00"
+      "archived_at": "2026-09-08T17:10:36.580904+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356354,
-      "message_link": "https://t.me/IranintlTV/356354",
-      "text": "به گزارش آسوشیتدپرس، سخنگوی ائتلاف علیه حوثی‌ها، گفت شورشیان تأسیسات غیرنظامی و اقتصادی را در چندین شهر عربستان سعودی، از جمله نجران و جازان، هدف قرار داده‌اند.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، از واکنش‌ها به حملات شبه‌نظامیان حوثی به عربستان سعودی می‌گوید.\n@iranintltv",
+      "message_id": 356355,
+      "message_link": "https://t.me/IranintlTV/356355",
+      "text": "🔻نادر محمدی، مدافع ایرانی اسپارتاک کاستروما، در دیدار جام حذفی روسیه برابر ریازان با پرتاب بلند و نمایشی اوت، سازنده گل اول تیمش شد. این سومین پاس گل محمدی با پرتاب اوت در یک ماه اخیر بود.\n\n🔹اسپارتاک کاستروما در این مسابقه با نتیجه ۲ بر صفر به پیروزی رسید و راهی مرحله بعد جام حذفی روسیه شد.\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "20:05:10",
-      "gregorian_utc": "2026-09-08T16:35:10+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2589988,
-      "media_size_human": "2.47 MB",
+      "tehran_time": "20:06:18",
+      "gregorian_utc": "2026-09-08T16:36:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 126661,
+      "media_size_human": "123.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356354_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356354_video.mp4",
+      "media_local_path": "media/IranintlTV_356355_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356355_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629257+00:00"
+      "archived_at": "2026-09-08T17:10:36.869880+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.885606+00:00"
+      "archived_at": "2026-09-08T17:10:37.133037+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120776,
-      "message_link": "https://t.me/Mellig/120776",
-      "text": "🔴وضعیت جنگ یمن و مناطقی که از حوثی‌ها پس گرفته شده\n\nگویا تنگه باب‌المندب نیز از چنگ حوثی‌ها در آمده است.",
+      "message_id": 120786,
+      "message_link": "https://t.me/Mellig/120786",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:29:02",
-      "gregorian_utc": "2026-09-08T15:59:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 186954,
-      "media_size_human": "182.57 KB",
+      "tehran_time": "20:33:11",
+      "gregorian_utc": "2026-09-08T17:03:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 30233275,
+      "media_size_human": "28.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120776_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120776_photo.jpg",
+      "media_local_path": "media/Mellig_120786_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.159635+00:00"
+      "archived_at": "2026-09-08T17:10:37.382544+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375870+00:00"
+      "archived_at": "2026-09-08T17:10:37.603672+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331934+00:00"
+      "archived_at": "2026-09-08T17:10:36.580929+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356353,
-      "message_link": "https://t.me/IranintlTV/356353",
-      "text": "شاغلان و بازنشستگان راه‌آهن ایران روز سه‌شنبه ۱۷ شهریور مقابل وزارت راه و شهرسازی تجمع کردند و به پایین بودن حقوق و مزایا اعتراض کردند.",
+      "message_id": 356354,
+      "message_link": "https://t.me/IranintlTV/356354",
+      "text": "به گزارش آسوشیتدپرس، سخنگوی ائتلاف علیه حوثی‌ها، گفت شورشیان تأسیسات غیرنظامی و اقتصادی را در چندین شهر عربستان سعودی، از جمله نجران و جازان، هدف قرار داده‌اند.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، از واکنش‌ها به حملات شبه‌نظامیان حوثی به عربستان سعودی می‌گوید.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:59:46",
-      "gregorian_utc": "2026-09-08T16:29:46+00:00",
+      "tehran_time": "20:05:10",
+      "gregorian_utc": "2026-09-08T16:35:10+00:00",
       "media_type": "video",
-      "media_size_bytes": 10642365,
-      "media_size_human": "10.15 MB",
+      "media_size_bytes": 2589988,
+      "media_size_human": "2.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356353_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356353_video.mp4",
+      "media_local_path": "media/IranintlTV_356354_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356354_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629306+00:00"
+      "archived_at": "2026-09-08T17:10:36.870019+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.885783+00:00"
+      "archived_at": "2026-09-08T17:10:37.133184+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120775,
-      "message_link": "https://t.me/Mellig/120775",
-      "text": "🚨**خزانه داری ایالات متحده آمریکا 28 شرکت هواپیمایی ایرانی را تحریم کرد**\n\n**دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا سه‌شنبه 17شهریور، 28شرکت هواپیمایی ایرانی، 7 شرکت مرتبط با بخش هوانوردی و یک تبعه مصری ساکن امارات را به فهرست تحریم‌ها اضافه کرد. از جمله شرکت‌های تحریم‌شده آتا، چابهار، ایران‌ایرتور، آسمان، کیش، کارون، قشم، سپهران، تابان، زاگرس، وارش و فلای‌پرشیا هستند. همچنین چند شرکت در امارات، بریتانیا، ترکیه، مالزی و قزاقستان به دلیل ارتباط با ماهان‌ایر یا شبکه‌های مرتبط با آن تحریم شدند. آمریکا همچنین مجوز عمومی G-1 ایران برای صادرات مجدد موقت برخی هواپیماهای غیرنظامی به ایران را تعلیق کرد و هم‌زمان مجوزهای جدیدی برای پایان دادن به برخی معاملات مرتبط با هوانوردی غیرنظامی صادر کرد**",
+      "message_id": 120785,
+      "message_link": "https://t.me/Mellig/120785",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:19:06",
-      "gregorian_utc": "2026-09-08T15:49:06+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.159772+00:00"
+      "tehran_time": "20:33:11",
+      "gregorian_utc": "2026-09-08T17:03:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1138370,
+      "media_size_human": "1.09 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120785_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120785_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T17:10:37.382571+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375895+00:00"
+      "archived_at": "2026-09-08T17:10:37.603693+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.331971+00:00"
+      "archived_at": "2026-09-08T17:10:36.580960+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356352,
-      "message_link": "https://t.me/IranintlTV/356352",
-      "text": "وزارت خزانه‌داری آمریکا ۲۸ شرکت هواپیمایی ایرانی، از جمله آتا، ایران‌ایرتور، آسمان، کیش و قشم، و هفت شرکت مرتبط با بخش هوانوردی را به فهرست تحریم‌ها اضافه کرد.\n\nچند شرکت مستقر در امارات، بریتانیا، ترکیه، مالزی و قزاقستان که با ماهان‌ایر یا شبکه‌های مرتبط با آن ارتباط دارند نیز تحریم شدند.\n\nگفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356353,
+      "message_link": "https://t.me/IranintlTV/356353",
+      "text": "شاغلان و بازنشستگان راه‌آهن ایران روز سه‌شنبه ۱۷ شهریور مقابل وزارت راه و شهرسازی تجمع کردند و به پایین بودن حقوق و مزایا اعتراض کردند.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:58:04",
-      "gregorian_utc": "2026-09-08T16:28:04+00:00",
+      "tehran_time": "19:59:46",
+      "gregorian_utc": "2026-09-08T16:29:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 3952533,
-      "media_size_human": "3.77 MB",
+      "media_size_bytes": 10642365,
+      "media_size_human": "10.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356352_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356352_video.mp4",
+      "media_local_path": "media/IranintlTV_356353_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356353_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629393+00:00"
+      "archived_at": "2026-09-08T17:10:36.870063+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.885861+00:00"
+      "archived_at": "2026-09-08T17:10:37.133246+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120774,
-      "message_link": "https://t.me/Mellig/120774",
-      "text": "خانواده‌های گرامی جاویدنامان انقلاب شیر و خورشید ایران،\n\nاز آنچه در ماه‌های گذشته بر شما گذشته است آگاهم و می‌دانم که در کنار داغ عزیزان‌تان، فشارهای امنیتی و سختی‌های زندگی را نیز تحمل کرده‌اید.\n\nمی‌خواهم بدانید: شما تنها نیستید. جان و سلامت شما برای ما گرانقدر است.\n\nفرزندان قهرمان شما برای آزادی و آینده آباد ایران برخاستند و نام و فداکاری‌شان در حافظه ملی ما ماندگار خواهد ماند. امروز، وظیفه ماست که مراقب شما باشیم.\n\nاز روان‌شناسان، روان‌پزشکان و درمانگران ایرانی می‌خواهم برای حمایت فوری، مستمر و محرمانه از خانواده‌های جاویدنامان پیش‌قدم شوند.\n\nاز همه هم‌میهنانم نیز می‌خواهم منتظر درخواست کمک نمانند. اگر خانواده‌ای از جاویدنامان را می‌شناسید، به سراغشان بروید؛ احوالشان را بپرسید، صدایشان را بشنوید و در کنارشان بمانید.\n\nو به شما می‌گویم: کمک خواستن نشانه ضعف نیست. در این روزهای سخت، اجازه دهید در کنار شما باشیم.\n\nحفاظت از جان و سلامت یکدیگر نیز بخشی از مبارزه ما برای ایران است. نگذاریم هیچ خانواده‌ای در این سوگ و رنج تنها بماند.\n\nدست همدیگر را بگیریم.\nیکدیگر را تنها نگذاریم.\nو ایران را، با هم، به ساحل نجات و آزادی برسانیم.\n\nپاینده ایران،\nرضا پهلوی\n\n@OfficialRezaPahlavi",
+      "message_id": 120784,
+      "message_link": "https://t.me/Mellig/120784",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:00:04",
-      "gregorian_utc": "2026-09-08T15:30:04+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 78714,
-      "media_size_human": "76.87 KB",
+      "tehran_time": "20:33:11",
+      "gregorian_utc": "2026-09-08T17:03:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1596601,
+      "media_size_human": "1.52 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120774_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120774_photo.jpg",
+      "media_local_path": "media/Mellig_120784_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120784_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.159932+00:00"
+      "archived_at": "2026-09-08T17:10:37.382598+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375919+00:00"
+      "archived_at": "2026-09-08T17:10:37.603713+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332000+00:00"
+      "archived_at": "2026-09-08T17:10:36.580984+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356351,
-      "message_link": "https://t.me/IranintlTV/356351",
-      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، با انتشار پستی در ایکس نوشت: «در چارچوب عملیات طرد اقتصادی، ما وعده داده بودیم که برای کسانی که راه‌های تامین مالی حکومت ایران را حفظ می‌کنند، پیامدهای سنگینی در نظر خواهیم گرفت. امروز به این وعده عمل کردیم و شرکت‌هایی را که همچنان از ماهان ایر حمایت می‌کنند، تحریم کردیم.»\n\nبسنت نوشت: «این اقدام باید هشداری برای هر فرد یا شرکتی باشد که با دیگر شرکت‌های هواپیمایی ایران همکاری می‌کند؛ همه این شرکت‌ها نیز امروز تحریم شدند. چنین افرادی و شرکت‌هایی در معرض خطر قطع دسترسی به نظام مالی جهانی قرار دارند.»\nhttps://iranintl.com/202609087130",
+      "message_id": 356352,
+      "message_link": "https://t.me/IranintlTV/356352",
+      "text": "وزارت خزانه‌داری آمریکا ۲۸ شرکت هواپیمایی ایرانی، از جمله آتا، ایران‌ایرتور، آسمان، کیش و قشم، و هفت شرکت مرتبط با بخش هوانوردی را به فهرست تحریم‌ها اضافه کرد.\n\nچند شرکت مستقر در امارات، بریتانیا، ترکیه، مالزی و قزاقستان که با ماهان‌ایر یا شبکه‌های مرتبط با آن ارتباط دارند نیز تحریم شدند.\n\nگفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:51:55",
-      "gregorian_utc": "2026-09-08T16:21:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 206511,
-      "media_size_human": "201.67 KB",
+      "tehran_time": "19:58:04",
+      "gregorian_utc": "2026-09-08T16:28:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3952533,
+      "media_size_human": "3.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356351_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356351_photo.jpg",
+      "media_local_path": "media/IranintlTV_356352_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356352_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629519+00:00"
+      "archived_at": "2026-09-08T17:10:36.870142+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.885990+00:00"
+      "archived_at": "2026-09-08T17:10:37.133370+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120773,
-      "message_link": "https://t.me/Mellig/120773",
-      "text": "**همون اتفاقی که برای سوریه افتاد الان داره برا حوثی ها میفته. **\n\nیه ارتش قوی و با پشتبانی عالی و پشتیبانی هوایی داره میره سراغ حوثی ها که نه پشتیبانی درستی دارن و نه نیرو هوایی.\nیکم زمان میبره ولی کار حوثی ها هم تمام.\n\nMellig.net",
+      "message_id": 120783,
+      "message_link": "https://t.me/Mellig/120783",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "18:36:01",
-      "gregorian_utc": "2026-09-08T15:06:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2245342,
-      "media_size_human": "2.14 MB",
+      "tehran_time": "20:33:10",
+      "gregorian_utc": "2026-09-08T17:03:10+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 122805,
+      "media_size_human": "119.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120773_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120773_video.mp4",
+      "media_local_path": "media/Mellig_120783_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120783_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160011+00:00"
+      "archived_at": "2026-09-08T17:10:37.382628+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375942+00:00"
+      "archived_at": "2026-09-08T17:10:37.603734+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332041+00:00"
+      "archived_at": "2026-09-08T17:10:36.581022+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356350,
-      "message_link": "https://t.me/IranintlTV/356350",
-      "text": "برادر محمدامین سلامی روز ۱۷ شهریور در پیامی ویدیویی از خانواده‌های کشته‌شدگان خواست برای زنده نگه داشتن نام و یاد عزیزانشان استقامت کنند. او این سخنان را پس از گزارش‌هایی درباره خودکشی چند نفر از اعضای خانواده‌های کشته‌شدگان در رسانه‌های اجتماعی منتشر کرد.\n\nمحمد امین سلامی، ۲۶ ساله، ۱۸ دی با اصابت گلوله جنگی به قفسه سینه در کرمانشاه کشته شد.",
+      "message_id": 356351,
+      "message_link": "https://t.me/IranintlTV/356351",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، با انتشار پستی در ایکس نوشت: «در چارچوب عملیات طرد اقتصادی، ما وعده داده بودیم که برای کسانی که راه‌های تامین مالی حکومت ایران را حفظ می‌کنند، پیامدهای سنگینی در نظر خواهیم گرفت. امروز به این وعده عمل کردیم و شرکت‌هایی را که همچنان از ماهان ایر حمایت می‌کنند، تحریم کردیم.»\n\nبسنت نوشت: «این اقدام باید هشداری برای هر فرد یا شرکتی باشد که با دیگر شرکت‌های هواپیمایی ایران همکاری می‌کند؛ همه این شرکت‌ها نیز امروز تحریم شدند. چنین افرادی و شرکت‌هایی در معرض خطر قطع دسترسی به نظام مالی جهانی قرار دارند.»\nhttps://iranintl.com/202609087130",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:44:46",
-      "gregorian_utc": "2026-09-08T16:14:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 22795275,
-      "media_size_human": "21.74 MB",
+      "tehran_time": "19:51:55",
+      "gregorian_utc": "2026-09-08T16:21:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 206511,
+      "media_size_human": "201.67 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356350_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356350_video.mp4",
+      "media_local_path": "media/IranintlTV_356351_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356351_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629566+00:00"
+      "archived_at": "2026-09-08T17:10:36.870259+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.886031+00:00"
+      "archived_at": "2026-09-08T17:10:37.133402+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120772,
-      "message_link": "https://t.me/Mellig/120772",
-      "text": "‼️پیشروی کاروان عظیم ارتش یمن در استان الجوف\n\nآخرین کارت های ج.ا در آستانه سقوط\n\nMellig.net",
+      "message_id": 120782,
+      "message_link": "https://t.me/Mellig/120782",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "18:30:01",
-      "gregorian_utc": "2026-09-08T15:00:01+00:00",
+      "tehran_time": "20:33:10",
+      "gregorian_utc": "2026-09-08T17:03:10+00:00",
       "media_type": "video",
-      "media_size_bytes": 1041593,
-      "media_size_human": "1017.18 KB",
+      "media_size_bytes": 1150113,
+      "media_size_human": "1.10 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120772_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120772_video.mp4",
+      "media_local_path": "media/Mellig_120782_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120782_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160064+00:00"
+      "archived_at": "2026-09-08T17:10:37.382654+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375968+00:00"
+      "archived_at": "2026-09-08T17:10:37.603756+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332069+00:00"
+      "archived_at": "2026-09-08T17:10:36.581047+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356349,
-      "message_link": "https://t.me/IranintlTV/356349",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، در گفت‌وگو با خبرنگاران در مسیر سفر به کلمبیا گفت حوثی‌ها «از بسیاری جهات عامل و نیابتی ایران» هستند و افزود: «فکر می‌کنم پشت بخشی از این ماجرا، دست حکومت ایران به‌وضوح مشاهده می‌شود.»\n\nروبیو همچنین گفت آمریکا روابط نظامی و دفاعی بسیار قدرتمندی با عربستان سعودی دارد و تحولات را از نزدیک زیر نظر گرفته است.\nhttps://iranintl.com/202609088978",
+      "message_id": 356350,
+      "message_link": "https://t.me/IranintlTV/356350",
+      "text": "برادر محمدامین سلامی روز ۱۷ شهریور در پیامی ویدیویی از خانواده‌های کشته‌شدگان خواست برای زنده نگه داشتن نام و یاد عزیزانشان استقامت کنند. او این سخنان را پس از گزارش‌هایی درباره خودکشی چند نفر از اعضای خانواده‌های کشته‌شدگان در رسانه‌های اجتماعی منتشر کرد.\n\nمحمد امین سلامی، ۲۶ ساله، ۱۸ دی با اصابت گلوله جنگی به قفسه سینه در کرمانشاه کشته شد.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:40:50",
-      "gregorian_utc": "2026-09-08T16:10:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 199059,
-      "media_size_human": "194.39 KB",
+      "tehran_time": "19:44:46",
+      "gregorian_utc": "2026-09-08T16:14:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 22795275,
+      "media_size_human": "21.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356349_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356349_photo.jpg",
+      "media_local_path": "media/IranintlTV_356350_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356350_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629650+00:00"
+      "archived_at": "2026-09-08T17:10:36.870293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.886110+00:00"
+      "archived_at": "2026-09-08T17:10:37.133470+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120771,
-      "message_link": "https://t.me/Mellig/120771",
-      "text": "تسلیم داوطلبانه عناصر حوثی بدون درگیری در استان الجوف یمن صبح امروز\n\nMellig.net",
+      "message_id": 120781,
+      "message_link": "https://t.me/Mellig/120781",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "16:55:01",
-      "gregorian_utc": "2026-09-08T13:25:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4400661,
-      "media_size_human": "4.20 MB",
+      "tehran_time": "20:33:09",
+      "gregorian_utc": "2026-09-08T17:03:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 103805,
+      "media_size_human": "101.37 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120771_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120771_video.mp4",
+      "media_local_path": "media/Mellig_120781_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120781_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160118+00:00"
+      "archived_at": "2026-09-08T17:10:37.382700+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.375992+00:00"
+      "archived_at": "2026-09-08T17:10:37.603776+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332095+00:00"
+      "archived_at": "2026-09-08T17:10:36.581070+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356348,
-      "message_link": "https://t.me/IranintlTV/356348",
-      "text": "یک معلم با ارسال ویدیویی به ایران اینترنشنال نشان داد که به پویش «یک شمع، یک نام، یک یاد» پیوسته است. او در متنی ضمن ابراز همدردی با خانواده جاویدنامان، خطاب به آنان نوشته است: «دوام بیاورید که انگیزه ادامه مسیر شمایید.»",
+      "message_id": 356349,
+      "message_link": "https://t.me/IranintlTV/356349",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، در گفت‌وگو با خبرنگاران در مسیر سفر به کلمبیا گفت حوثی‌ها «از بسیاری جهات عامل و نیابتی ایران» هستند و افزود: «فکر می‌کنم پشت بخشی از این ماجرا، دست حکومت ایران به‌وضوح مشاهده می‌شود.»\n\nروبیو همچنین گفت آمریکا روابط نظامی و دفاعی بسیار قدرتمندی با عربستان سعودی دارد و تحولات را از نزدیک زیر نظر گرفته است.\nhttps://iranintl.com/202609088978",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:29:46",
-      "gregorian_utc": "2026-09-08T15:59:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8083009,
-      "media_size_human": "7.71 MB",
+      "tehran_time": "19:40:50",
+      "gregorian_utc": "2026-09-08T16:10:50+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 199059,
+      "media_size_human": "194.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356348_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356348_video.mp4",
+      "media_local_path": "media/IranintlTV_356349_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356349_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629690+00:00"
+      "archived_at": "2026-09-08T17:10:36.870525+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.886141+00:00"
+      "archived_at": "2026-09-08T17:10:37.133495+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120770,
-      "message_link": "https://t.me/Mellig/120770",
-      "text": "**🚨**** ****🚨****عبدالرئوف اسحاقی، فرمانده حوزه مقاومت بسیج پارود شهرستان راسک، توسط عوامل ناشناس با اسلحه گرم به رگبار بسته شد و کشته شد**",
+      "message_id": 120780,
+      "message_link": "https://t.me/Mellig/120780",
+      "text": "**دیشب خدا وسط تابستون به شمالی‌ها شبیخون زد؛\n**\nبارندگی‌های شدید دیشب باعث شد تو خیلی از مناطق شمال کشور سیل و آب‌گرفتگی راه بیفته،طوری که امروز بعضی مناطق به‌خاطر آب‌گرفتگی معابر و ساختمان‌ها تعطیل شدن\n\nMellig.net",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "16:15:45",
-      "gregorian_utc": "2026-09-08T12:45:45+00:00",
+      "tehran_time": "20:33:09",
+      "gregorian_utc": "2026-09-08T17:03:09+00:00",
       "media_type": "photo",
-      "media_size_bytes": 124826,
-      "media_size_human": "121.90 KB",
+      "media_size_bytes": 140142,
+      "media_size_human": "136.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120770_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120770_photo.jpg",
+      "media_local_path": "media/Mellig_120780_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120780_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160196+00:00"
+      "archived_at": "2026-09-08T17:10:37.382776+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.376014+00:00"
+      "archived_at": "2026-09-08T17:10:37.603796+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332119+00:00"
+      "archived_at": "2026-09-08T17:10:36.581104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356347,
-      "message_link": "https://t.me/IranintlTV/356347",
-      "text": "🔻صالح حردانی، کاپیتان دوم استقلال، به کمیته انضباطی این باشگاه احضار شده و علی تاجرنیا، سرپرست مدیرعاملی استقلال، تاکید کرده است که باشگاه از تصمیم سهراب بختیاری‌زاده درباره این بازیکن حمایت می‌کند.\n\n🔹تاجرنیا در گفتگو با خبرگزاری فارس گفت: «ما در مدیریت باشگاه کاملا از تصمیمات سهراب بختیاری‌زاده حمایت می‌کنیم. علت آن هم این است که سرمربی بیشترین اشراف را به مسائل فنی دارد و باید با اطمینان خاطر اهدافش را پیش ببرد.»\n\n🔹او درباره نحوه رسیدگی به این پرونده گفت: «طبیعی است که به عنوان مدیر فضا را به سمت تعامل پیش ببریم. امیدوارم شرایط به گونه‌ای پیش برود که هم حرف آقای بختیاری‌زاده که به دنبال انضباط است حفظ شود و هم به سمت بهبود شرایط برویم.»\n\n🔹تاجرنیا درباره احضار حردانی به کمیته انضباطی باشگاه نیز گفت: «کمیته انضباطی استقلال متشکل از چهره‌های مستقل قضایی است. فارغ از نظرات، تصمیم این کمیته برای همه ما لازم‌الاجراست و بازیکن، مدیر یا سرمربی آن را دنبال می‌کنند.»\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202609082860) بخوانید\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 356348,
+      "message_link": "https://t.me/IranintlTV/356348",
+      "text": "یک معلم با ارسال ویدیویی به ایران اینترنشنال نشان داد که به پویش «یک شمع، یک نام، یک یاد» پیوسته است. او در متنی ضمن ابراز همدردی با خانواده جاویدنامان، خطاب به آنان نوشته است: «دوام بیاورید که انگیزه ادامه مسیر شمایید.»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "19:28:11",
-      "gregorian_utc": "2026-09-08T15:58:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 177731,
-      "media_size_human": "173.57 KB",
+      "tehran_time": "19:29:46",
+      "gregorian_utc": "2026-09-08T15:59:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8083009,
+      "media_size_human": "7.71 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356347_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356347_photo.jpg",
+      "media_local_path": "media/IranintlTV_356348_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356348_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.629884+00:00"
+      "archived_at": "2026-09-08T17:10:36.870562+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.886204+00:00"
+      "archived_at": "2026-09-08T17:10:37.133546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120769,
-      "message_link": "https://t.me/Mellig/120769",
-      "text": "برای اولین بار در تاریخ برای یک تیکه مقوا جشن تولد گرفته شد 😁\n\nMellig.net",
+      "message_id": 120779,
+      "message_link": "https://t.me/Mellig/120779",
+      "text": "مربع ۴ ح زنده یاد مانوک خدابخشیان",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "16:09:28",
-      "gregorian_utc": "2026-09-08T12:39:28+00:00",
+      "tehran_time": "20:23:24",
+      "gregorian_utc": "2026-09-08T16:53:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 2727106,
-      "media_size_human": "2.60 MB",
+      "media_size_bytes": 10761513,
+      "media_size_human": "10.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120769_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120769_video.mp4",
+      "media_local_path": "media/Mellig_120779_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120779_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160251+00:00"
+      "archived_at": "2026-09-08T17:10:37.382805+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:59.376039+00:00"
+      "archived_at": "2026-09-08T17:10:37.603818+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T17:00:58.332143+00:00"
+      "archived_at": "2026-09-08T17:10:36.581126+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356346,
-      "message_link": "https://t.me/IranintlTV/356346",
-      "text": "🔻مجله «فرانس فوتبال» با همکاری اتحادیه فوتبال اروپا (یوفا) فهرست نامزدهای جوایز توپ طلای ۲۰۲۶ را اعلام کرد. در مهم‌ترین بخش، ۳۰ بازیکن برای توپ طلای مردان نامزد شدند؛ در این میان نام لیونل مسی در کنار غیبت کریستیانو رونالدو دیده می‌شود.\n\n🔹نامزدهای توپ طلای مردان نیز جود بلینگام، مارک کوکوریا، پائو کوبارسی، عثمان دمبله، برونو فرناندز، لوئیس دیاز، ارلینگ هالند، گابریل ماگالایش، اشرف حکیمی، هری کین، خویچا کواراتسخلیا، لامین یامال، سادیو مانه، مارکینیوش، کیلیان امباپه، لائوتارو مارتینز، مایکل اولیسه، ویلیان پاچو، ژائو نوس، خولیان کینیونز، رودری، نونو مندس، وینیسیوس جونیور، دکلان رایس، لیونل مسی، فابیان روییز، فران تورس، دایو اوپامکانو و ویلیام سالیبا اعلام شدند.\n\n🔹مراسم اهدای توپ طلا ۲۶ اکتبر ۲۰۲۶ در لندن برگزار خواهد شد و برندگان جوایز مختلف از جمله توپ طلای مردان و زنان، یاشین، کوپا، بهترین مربی و بهترین باشگاه معرفی خواهند شد.\n\n🔹ادامه این گزارش را در [سایت](https://iranintl.com/202609082259) بخوانید.\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 356347,
+      "message_link": "https://t.me/IranintlTV/356347",
+      "text": "🔻صالح حردانی، کاپیتان دوم استقلال، به کمیته انضباطی این باشگاه احضار شده و علی تاجرنیا، سرپرست مدیرعاملی استقلال، تاکید کرده است که باشگاه از تصمیم سهراب بختیاری‌زاده درباره این بازیکن حمایت می‌کند.\n\n🔹تاجرنیا در گفتگو با خبرگزاری فارس گفت: «ما در مدیریت باشگاه کاملا از تصمیمات سهراب بختیاری‌زاده حمایت می‌کنیم. علت آن هم این است که سرمربی بیشترین اشراف را به مسائل فنی دارد و باید با اطمینان خاطر اهدافش را پیش ببرد.»\n\n🔹او درباره نحوه رسیدگی به این پرونده گفت: «طبیعی است که به عنوان مدیر فضا را به سمت تعامل پیش ببریم. امیدوارم شرایط به گونه‌ای پیش برود که هم حرف آقای بختیاری‌زاده که به دنبال انضباط است حفظ شود و هم به سمت بهبود شرایط برویم.»\n\n🔹تاجرنیا درباره احضار حردانی به کمیته انضباطی باشگاه نیز گفت: «کمیته انضباطی استقلال متشکل از چهره‌های مستقل قضایی است. فارغ از نظرات، تصمیم این کمیته برای همه ما لازم‌الاجراست و بازیکن، مدیر یا سرمربی آن را دنبال می‌کنند.»\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202609082860) بخوانید\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/17",
       "tehran_time": "19:28:11",
       "gregorian_utc": "2026-09-08T15:58:11+00:00",
       "media_type": "photo",
-      "media_size_bytes": 163073,
-      "media_size_human": "159.25 KB",
+      "media_size_bytes": 177731,
+      "media_size_human": "173.57 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356346_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356346_photo.jpg",
+      "media_local_path": "media/IranintlTV_356347_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356347_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.630046+00:00"
+      "archived_at": "2026-09-08T17:10:36.870724+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:58.886296+00:00"
+      "archived_at": "2026-09-08T17:10:37.133627+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120768,
-      "message_link": "https://t.me/Mellig/120768",
-      "text": "**علی قلهکی تحلیلگر حکومتی:\n\n****از دست رفتن جبهه یمن، موضع ایران را در قبال امارات و عربستان تضعیف خواهد کرد و نباید اشتباه جبهه لبنان درباره حزب‌الله را تکرار کنیم**",
+      "message_id": 120778,
+      "message_link": "https://t.me/Mellig/120778",
+      "text": "🔻سخنگوی قوه‌قضائیه ج.ا:\n\n«محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است.»\n\nحرومزاده ها به خودشونم رحم نمیکنن.\nMellig.net",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "15:44:21",
-      "gregorian_utc": "2026-09-08T12:14:21+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 127397,
-      "media_size_human": "124.41 KB",
+      "tehran_time": "20:07:50",
+      "gregorian_utc": "2026-09-08T16:37:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 203025,
+      "media_size_human": "198.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120768_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120768_photo.jpg",
+      "media_local_path": "media/Mellig_120778_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120778_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T17:00:59.160317+00:00"
+      "archived_at": "2026-09-08T17:10:37.382866+00:00"
     }
   ]
 }
