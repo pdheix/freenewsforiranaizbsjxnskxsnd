@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T19:42:29.971209+00:00",
-  "shamsi_generated": "1405/06/17 19:42:29 تهران",
+  "generated_at": "2026-09-08T19:52:42.909215+00:00",
+  "shamsi_generated": "1405/06/17 19:52:42 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12976,
-      "message_link": "https://t.me/zedTV/12976",
-      "text": "گزارش‌ها از وقوع انفجارهای مهیب در نزدیکی بندر جزیره خارک.\nشنیده شدن صدای انفجار در گناوه؛ محل دقیق اصابت‌ها هنوز نامشخص است.",
+      "message_id": 12983,
+      "message_link": "https://t.me/zedTV/12983",
+      "text": "حمله موشکی نیروهای آمریکا به نفتکش متعلق به رژیم در نزدیکی جزیره خارک؛\nاصابت پرتابه به شناور در محدوده لنگرگاه و در فاصله چهار مایلی ساحل؛\nسکوت مقامات نظامی ایالات متحده درباره جزئیات و خسارات احتمالی این حمله.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:56:54",
-      "gregorian_utc": "2026-09-08T19:26:54+00:00",
+      "tehran_time": "23:12:20",
+      "gregorian_utc": "2026-09-08T19:42:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780498+00:00"
+      "archived_at": "2026-09-08T19:50:33.162618+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356382,
-      "message_link": "https://t.me/IranintlTV/356382",
-      "text": "خبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران، گزارش داد که یک نفتکش کوچک ایرانی در فاصله ۴ مایلی جزیره خارک، هدف حمله موشکی ارتش آمریکا قرار گرفت.\n\nتسنیم نوشت که این نفتکش در محدوده لنگرگاه جزیره خارک مورد اصابت پرتابه نیروهای آمریکایی قرار گرفت.\nhttps://iranintl.com/202609082492",
+      "message_id": 356385,
+      "message_link": "https://t.me/IranintlTV/356385",
+      "text": "ویدیوی ارسالی به ایران اینترنشنال شان می‌دهد گروهی از ایرانیان لندن روز ۱۷ شهریور، همزمان با نود و هشتمین هفته کارزار «نه به اعدام» جلوی دفتر نخست‌وزیری بریتانیا در لندن تجمع کرده و به اعدام‌ها در ایران اعتراض کردند.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "23:00:42",
-      "gregorian_utc": "2026-09-08T19:30:42+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 63979,
-      "media_size_human": "62.48 KB",
+      "tehran_time": "23:20:13",
+      "gregorian_utc": "2026-09-08T19:50:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7192740,
+      "media_size_human": "6.86 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356382_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356382_photo.jpg",
+      "media_local_path": "media/IranintlTV_356385_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356385_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.311387+00:00"
+      "archived_at": "2026-09-08T19:50:33.447082+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:33.631351+00:00"
+      "archived_at": "2026-09-08T19:50:33.760721+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-08T19:40:33.904755+00:00"
+      "archived_at": "2026-09-08T19:50:34.012868+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:34.131465+00:00"
+      "archived_at": "2026-09-08T19:50:34.274942+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12975,
-      "message_link": "https://t.me/zedTV/12975",
-      "text": "هشدار ارتش آمریکا برای تخلیه فوری نفت‌کش‌ها در جزیره خارک.\nاحتمال حمله نظامی و غرق شدن ناوگان نفتی رژیم ایران توسط ایالات متحده.\nتنش‌های نظامی در منطقه به بالاترین سطح خود رسید.",
+      "message_id": 12982,
+      "message_link": "https://t.me/zedTV/12982",
+      "text": "رویترز: اعلام وضعیت آماده‌باش جنگی در سراسر خاورمیانه.\nگزارش‌ها از هشدار حداکثری نظامی در سطح منطقه حکایت دارد.\nتنش‌های نظامی در خاورمیانه به اوج خود رسید.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:56:47",
-      "gregorian_utc": "2026-09-08T19:26:47+00:00",
+      "tehran_time": "23:12:20",
+      "gregorian_utc": "2026-09-08T19:42:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780544+00:00"
+      "archived_at": "2026-09-08T19:50:33.162667+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356381,
-      "message_link": "https://t.me/IranintlTV/356381",
-      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت با وجود گران شدن داروهای اعصاب، هنوز توان پرداخت هزینه آنها را دارد اما برای سایر کسانی که به چنین داروهایی نیاز دارند ابراز نگرانی کرد زیرا به گفته او، قیمت‌ دست‌کم یک قلم از این داروها نسبت به دو ماه گذشته، بیش از ۳۰۰ درصد گران شده است.",
+      "message_id": 356384,
+      "message_link": "https://t.me/IranintlTV/356384",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۷ شهریور**\n\n🔹من توی جزیره خارک هستم، بهم اطلاع دادن، گفتن سه عدد نفت‌کش مورد اصابت قرار گرفته\n\n🔹ساعت ۲۲ و ۳۵ دقیقه سه‌شنبه، صدای دو فروند موشک یا هواپیمای جنگی در آسمان کرمانشاه\n\n🔹ملارد کرج، سه‌شنبه شب، دم پمپ‌بنزین، صدای شلیک تیر میاد؛ مردم با نیروی بسیجی درگیر شدند\n\n🔹من ۱۴ سالمه، ورزش می‌کنم. شهریه‌ی باشگاه انقدر گرون شده که بعضی وقتا آخر ماه شهریه رو می‌دم. انقدر تورم و گرونی زیاده که بعضی وقتا خودم از کارتم به خانواده پول می‌دم. چی داره به سر ملت ایران میاد؟\n\n🔹استامینوفن کدئین، یک خشاب یک میلیون تومان؛ یعنی هر دانه قرص صد هزار تومان شده\n\n🔹امروز با گران شدن بنزین کرایه وانت‌بارها ۴۰ درصد گران شد و راننده‌ها با کرایه‌های قبل بار نمی‌بردن\n\n🔹سلام مگه نگفتن دیگه برق‌ها رو قطع نمی‌کنن؟ میان‌دوآب از ساعت ۲ تا ۴ هر روز برق‌ها قطع می‌شه\n\n🔹عارف گفته ۷۰ سنت می‌خریم، ۳ سنت می‌فروشیم، ولی نمی‌گه ۱۰ درصدش وارداتیه، مابقی تولید خودمونه؛ یعنی ۹۰ درصد قیمت مفت داره به مردم ۱۰ تومن می‌فروشه. خودتی عمو",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:59:46",
-      "gregorian_utc": "2026-09-08T19:29:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4993971,
-      "media_size_human": "4.76 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356381_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356381_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.311448+00:00"
+      "tehran_time": "23:17:13",
+      "gregorian_utc": "2026-09-08T19:47:13+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-08T19:50:33.494708+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.631591+00:00"
+      "archived_at": "2026-09-08T19:50:33.760987+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120793_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120793_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.904821+00:00"
+      "archived_at": "2026-09-08T19:50:34.012946+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:34.131532+00:00"
+      "archived_at": "2026-09-08T19:50:34.275008+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12974,
-      "message_link": "https://t.me/zedTV/12974",
-      "text": "گزارش وقوع انفجارهای پیاپی در سواحل جاسک؛\nشنیده شدن صدای دو انفجار در نزدیکی منطقه سنگ‌سیاه.\nرسانه‌های وابسته به سپاه وقوع انفجار در این منطقه را تایید کردند.",
+      "message_id": 12981,
+      "message_link": "https://t.me/zedTV/12981",
+      "text": "آغاز حملات گسترده ارتش آمریکا به نفتکش‌های رژیم؛\nهدف قرار گرفتن شناورهای جمهوری اسلامی در خلیج فارس و دریای عمان.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:56:38",
-      "gregorian_utc": "2026-09-08T19:26:38+00:00",
+      "tehran_time": "23:12:14",
+      "gregorian_utc": "2026-09-08T19:42:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780575+00:00"
+      "archived_at": "2026-09-08T19:50:33.162699+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356380,
-      "message_link": "https://t.me/IranintlTV/356380",
-      "text": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.\n\nرسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.\nhttps://iranintl.com/202609083306",
+      "message_id": 356383,
+      "message_link": "https://t.me/IranintlTV/356383",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد که مادر امیررضا کرماجانی، معترض کشته‌شده در دی ۱۴۰۴، همزمان با زادروز این جاویدنام بر سر مزار او گفت: «نور خانه‌ام تو بودی»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:55:36",
-      "gregorian_utc": "2026-09-08T19:25:36+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 63543,
-      "media_size_human": "62.05 KB",
+      "tehran_time": "23:14:46",
+      "gregorian_utc": "2026-09-08T19:44:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4103729,
+      "media_size_human": "3.91 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356380_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356380_photo.jpg",
+      "media_local_path": "media/IranintlTV_356383_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356383_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.311524+00:00"
+      "archived_at": "2026-09-08T19:50:33.494822+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.631704+00:00"
+      "archived_at": "2026-09-08T19:50:33.761084+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120792_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120792_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.904874+00:00"
+      "archived_at": "2026-09-08T19:50:34.013001+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131560+00:00"
+      "archived_at": "2026-09-08T19:50:34.275035+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12973,
-      "message_link": "https://t.me/zedTV/12973",
-      "text": "گزارش خبرگزاری‌های داخلی از وقوع چندین انفجار در خلیج فارس.\nصدای انفجارهای پیاپی در حوالی جزیره خارک شنیده شد.",
+      "message_id": 12980,
+      "message_link": "https://t.me/zedTV/12980",
+      "text": "یک نفت‌کش در ۴ مایلی جزیره خارک طعمه حریق شد.\nگزارش‌ها از وقوع آتش‌سوزی در نزدیکی پایانه اصلی صادرات نفت رژیم.\nآسیب به شریان اقتصادی جمهوری اسلامی در خلیج فارس.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:56:30",
-      "gregorian_utc": "2026-09-08T19:26:30+00:00",
+      "tehran_time": "23:12:14",
+      "gregorian_utc": "2026-09-08T19:42:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780628+00:00"
+      "archived_at": "2026-09-08T19:50:33.162734+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356379,
-      "message_link": "https://t.me/IranintlTV/356379",
-      "text": "🔻رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.\n\n🔹با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.\n\n🔹پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.\n\n [@iranintltvsport](https://t.me/iranintltvsport)\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 116.28 MB)",
+      "message_id": 356382,
+      "message_link": "https://t.me/IranintlTV/356382",
+      "text": "خبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران، گزارش داد که یک نفتکش کوچک ایرانی در فاصله ۴ مایلی جزیره خارک، هدف حمله موشکی ارتش آمریکا قرار گرفت.\n\nتسنیم نوشت که این نفتکش در محدوده لنگرگاه جزیره خارک مورد اصابت پرتابه نیروهای آمریکایی قرار گرفت.\nhttps://iranintl.com/202609082492",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:53:20",
-      "gregorian_utc": "2026-09-08T19:23:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 121925756,
-      "media_size_human": "116.28 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 116.28 MB)",
-      "archived_at": "2026-09-08T19:40:33.331516+00:00"
+      "tehran_time": "23:00:42",
+      "gregorian_utc": "2026-09-08T19:30:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 63979,
+      "media_size_human": "62.48 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_356382_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356382_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T19:50:33.494956+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.631810+00:00"
+      "archived_at": "2026-09-08T19:50:33.761186+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120791_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120791_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.904913+00:00"
+      "archived_at": "2026-09-08T19:50:34.013043+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131582+00:00"
+      "archived_at": "2026-09-08T19:50:34.275058+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12972,
-      "message_link": "https://t.me/zedTV/12972",
-      "text": "هشدار ارتش آمریکا به خدمه نفتکش‌های رژیم برای تخلیه پیش از حمله.\nگزارش‌های غیررسمی از هدف قرار گرفتن سه نفتکش جمهوری اسلامی.\nجزئیات دقیق خسارات و تاییدیه رسمی تاکنون منتشر نشده است.",
+      "message_id": 12979,
+      "message_link": "https://t.me/zedTV/12979",
+      "text": "گزارش‌های محلی از وقوع انفجارهای جدید در جاسک و جزیره خارک؛\nتایید شنیده شدن صدای چندین انفجار پیاپی توسط ساکنان منطقه.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:56:18",
-      "gregorian_utc": "2026-09-08T19:26:18+00:00",
+      "tehran_time": "23:12:14",
+      "gregorian_utc": "2026-09-08T19:42:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780654+00:00"
+      "archived_at": "2026-09-08T19:50:33.162759+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356378,
-      "message_link": "https://t.me/IranintlTV/356378",
-      "text": "صدا و سیمای جمهوری اسلامی ویدیویی منتشر کرده که به گفته این رسانه‌، یک شناور زیرسطحی بدون سرنشین آمریکایی را نشان می‌دهد.\n\nبر اساس این گزارش، نیروی دریایی سپاه پاسداران این شناور را نزدیک ورودی تنگه هرمز «توقیف کرده است». رسانه‌های حکومتی این شناور را از نوع «دایو-ال‌دی» ساخت شرکت اندوریل معرفی کردند.\n\nدر سوی دیگر، یک مقام آمریکایی گفت یک شناور زیرسطحی نظامی این کشور بیش از یک روز پیش در خاورمیانه دچار نقص فنی شده بود.\n\nاو افزود این شناور مدلی قدیمی بوده و تجهیزات سونار یا رادار طبقه‌بندی‌شده حمل نمی‌کرده است.\n@iranintltv",
+      "message_id": 356381,
+      "message_link": "https://t.me/IranintlTV/356381",
+      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت با وجود گران شدن داروهای اعصاب، هنوز توان پرداخت هزینه آنها را دارد اما برای سایر کسانی که به چنین داروهایی نیاز دارند ابراز نگرانی کرد زیرا به گفته او، قیمت‌ دست‌کم یک قلم از این داروها نسبت به دو ماه گذشته، بیش از ۳۰۰ درصد گران شده است.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:48:58",
-      "gregorian_utc": "2026-09-08T19:18:58+00:00",
+      "tehran_time": "22:59:46",
+      "gregorian_utc": "2026-09-08T19:29:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 483295,
-      "media_size_human": "471.97 KB",
+      "media_size_bytes": 4993971,
+      "media_size_human": "4.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356378_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356378_video.mp4",
+      "media_local_path": "media/IranintlTV_356381_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356381_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.331710+00:00"
+      "archived_at": "2026-09-08T19:50:33.495010+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:33.631959+00:00"
+      "archived_at": "2026-09-08T19:50:33.761335+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120790_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120790_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.904960+00:00"
+      "archived_at": "2026-09-08T19:50:34.013093+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131602+00:00"
+      "archived_at": "2026-09-08T19:50:34.275078+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12971,
-      "message_link": "https://t.me/zedTV/12971",
-      "text": "طنین آژیر خطر حمله موشکی در چندین استان عربستان سعودی.\nگزارش‌ها از فعال شدن سامانه‌های هشدار در مناطق مختلف پادشاهی سعودی.",
+      "message_id": 12978,
+      "message_link": "https://t.me/zedTV/12978",
+      "text": "تنش‌های بی‌سابقه در خلیج فارس و تهدید جدی امنیت انرژی منطقه.\nافزایش احتمال درگیری نظامی در پی مواضع تهاجمی مقامات تهران.\nبحران در خاورمیانه و خطر نابودی زیرساخت‌های اقتصادی.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:41:55",
-      "gregorian_utc": "2026-09-08T19:11:55+00:00",
+      "tehran_time": "23:11:58",
+      "gregorian_utc": "2026-09-08T19:41:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780688+00:00"
+      "archived_at": "2026-09-08T19:50:33.162791+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356377,
-      "message_link": "https://t.me/IranintlTV/356377",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد که گروهی از زنان عضو خانواده‌های جاویدنامان، به یاد این معترضان کشته‌شده به دست جمهوری اسلامی، شمع روشن کرده و یادشان را گرامی داشتند.",
+      "message_id": 356380,
+      "message_link": "https://t.me/IranintlTV/356380",
+      "text": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.\n\nرسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.\nhttps://iranintl.com/202609083306",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:44:46",
-      "gregorian_utc": "2026-09-08T19:14:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 9020633,
-      "media_size_human": "8.60 MB",
+      "tehran_time": "22:55:36",
+      "gregorian_utc": "2026-09-08T19:25:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 63543,
+      "media_size_human": "62.05 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356377_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356377_video.mp4",
+      "media_local_path": "media/IranintlTV_356380_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.331765+00:00"
+      "archived_at": "2026-09-08T19:50:33.495085+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632023+00:00"
+      "archived_at": "2026-09-08T19:50:33.761399+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120789_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120789_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.904992+00:00"
+      "archived_at": "2026-09-08T19:50:34.013124+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131640+00:00"
+      "archived_at": "2026-09-08T19:50:34.275098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12970,
-      "message_link": "https://t.me/zedTV/12970",
-      "text": "نقص فنی یک فروند زیردریایی بدون سرنشین ارتش آمریکا در منطقه.\nمقام آمریکایی: این وسیله فاقد هرگونه تجهیزات حساس یا طبقه‌بندی شده بود.\nتداوم حضور گسترده نظامی ایالات متحده در آب‌های خاورمیانه.",
+      "message_id": 12977,
+      "message_link": "https://t.me/zedTV/12977",
+      "text": "آغاز عملیات گسترده ارتش آمریکا علیه نفت‌کش‌های رژیم؛\nهدف قرار گرفتن ناوگان نفتی در خلیج فارس و دریای عمان؛\nگسترش حملات نظامی به دارایی‌های دریایی جمهوری اسلامی.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:41:46",
-      "gregorian_utc": "2026-09-08T19:11:46+00:00",
+      "tehran_time": "23:11:52",
+      "gregorian_utc": "2026-09-08T19:41:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780712+00:00"
+      "archived_at": "2026-09-08T19:50:33.162815+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356376,
-      "message_link": "https://t.me/IranintlTV/356376",
-      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال از گرانی اقلام دارویی انتقاد کرد و گفت: «بیمار کم‌درآمدی که نیاز ضروری به دارو دارد باید چه کند؟»",
+      "message_id": 356379,
+      "message_link": "https://t.me/IranintlTV/356379",
+      "text": "🔻رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.\n\n🔹با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.\n\n🔹پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.\n\n [@iranintltvsport](https://t.me/iranintltvsport)\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 116.28 MB)",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:29:46",
-      "gregorian_utc": "2026-09-08T18:59:46+00:00",
+      "tehran_time": "22:53:20",
+      "gregorian_utc": "2026-09-08T19:23:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 9253545,
-      "media_size_human": "8.82 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356376_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356376_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.331804+00:00"
+      "media_size_bytes": 121925756,
+      "media_size_human": "116.28 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 116.28 MB)",
+      "archived_at": "2026-09-08T19:50:33.495227+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632133+00:00"
+      "archived_at": "2026-09-08T19:50:33.761510+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120788_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905032+00:00"
+      "archived_at": "2026-09-08T19:50:34.013165+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131661+00:00"
+      "archived_at": "2026-09-08T19:50:34.275119+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12969,
-      "message_link": "https://t.me/zedTV/12969",
-      "text": "رسانه اسرائیلی: «پهلوی» تنها گزینه پیروزی انقلاب و ثبات اتحاد جهانی علیه رژیم تروریستی است.\nتأکید بر ضرورت رهبری واحد برای سرنگونی قطعی نظام حاکم و تضمین موفقیت مبارزات ملی.\nلزوم همبستگی بین‌المللی حول محور پادشاهی برای پایان دادن به بحران و بازپس‌گیری ایران.",
+      "message_id": 12976,
+      "message_link": "https://t.me/zedTV/12976",
+      "text": "گزارش‌ها از وقوع انفجارهای مهیب در نزدیکی بندر جزیره خارک.\nشنیده شدن صدای انفجار در گناوه؛ محل دقیق اصابت‌ها هنوز نامشخص است.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:24:12",
-      "gregorian_utc": "2026-09-08T18:54:12+00:00",
+      "tehran_time": "22:56:54",
+      "gregorian_utc": "2026-09-08T19:26:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780749+00:00"
+      "archived_at": "2026-09-08T19:50:33.162853+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356375,
-      "message_link": "https://t.me/IranintlTV/356375",
-      "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در اطراف جاسک خبر داد و نوشت: «حوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.»\n\nرسانه وابسته به سپاه نوشت: «منابع محلی می‌گویند صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.»\nhttps://iranintl.com/202609083426",
+      "message_id": 356378,
+      "message_link": "https://t.me/IranintlTV/356378",
+      "text": "صدا و سیمای جمهوری اسلامی ویدیویی منتشر کرده که به گفته این رسانه‌، یک شناور زیرسطحی بدون سرنشین آمریکایی را نشان می‌دهد.\n\nبر اساس این گزارش، نیروی دریایی سپاه پاسداران این شناور را نزدیک ورودی تنگه هرمز «توقیف کرده است». رسانه‌های حکومتی این شناور را از نوع «دایو-ال‌دی» ساخت شرکت اندوریل معرفی کردند.\n\nدر سوی دیگر، یک مقام آمریکایی گفت یک شناور زیرسطحی نظامی این کشور بیش از یک روز پیش در خاورمیانه دچار نقص فنی شده بود.\n\nاو افزود این شناور مدلی قدیمی بوده و تجهیزات سونار یا رادار طبقه‌بندی‌شده حمل نمی‌کرده است.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:27:35",
-      "gregorian_utc": "2026-09-08T18:57:35+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 56961,
-      "media_size_human": "55.63 KB",
+      "tehran_time": "22:48:58",
+      "gregorian_utc": "2026-09-08T19:18:58+00:00",
+      "media_type": "video",
+      "media_size_bytes": 483295,
+      "media_size_human": "471.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356375_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356375_photo.jpg",
+      "media_local_path": "media/IranintlTV_356378_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356378_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.331897+00:00"
+      "archived_at": "2026-09-08T19:50:33.495321+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632163+00:00"
+      "archived_at": "2026-09-08T19:50:33.761542+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120787_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120787_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905061+00:00"
+      "archived_at": "2026-09-08T19:50:34.013195+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131684+00:00"
+      "archived_at": "2026-09-08T19:50:34.275141+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12968,
-      "message_link": "https://t.me/zedTV/12968",
-      "text": "ارتش آمریکا سه نفتکش جمهوری اسلامی را به هدف قرار گرفتن تهدید کرد؛\nافزایش فشارهای نظامی بر شریان‌های اقتصادی رژیم در منطقه.",
+      "message_id": 12975,
+      "message_link": "https://t.me/zedTV/12975",
+      "text": "هشدار ارتش آمریکا برای تخلیه فوری نفت‌کش‌ها در جزیره خارک.\nاحتمال حمله نظامی و غرق شدن ناوگان نفتی رژیم ایران توسط ایالات متحده.\nتنش‌های نظامی در منطقه به بالاترین سطح خود رسید.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:24:11",
-      "gregorian_utc": "2026-09-08T18:54:11+00:00",
+      "tehran_time": "22:56:47",
+      "gregorian_utc": "2026-09-08T19:26:47+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780773+00:00"
+      "archived_at": "2026-09-08T19:50:33.162878+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356374,
-      "message_link": "https://t.me/IranintlTV/356374",
-      "text": "مهدی مهدوی‌آزاد، در برنامه «چشم‌انداز» گفت حضور نیروهای امنیتی، انتظامی و سپاه پاسداران در برخی پمپ‌بنزین‌ها نشان‌دهنده نگرانی حکومت از تکرار اعتراضاتی مشابه آبان ۱۳۹۸ است.\n\nاو افزود جمهوری اسلامی هم‌زمان با کاهش درآمدهای نفتی و بحران بنزین، با دشواری ادامه پرداخت یارانه‌های کنونی و افزایش قیمت سوخت روبه‌روست.\n@iranintltv",
+      "message_id": 356377,
+      "message_link": "https://t.me/IranintlTV/356377",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد که گروهی از زنان عضو خانواده‌های جاویدنامان، به یاد این معترضان کشته‌شده به دست جمهوری اسلامی، شمع روشن کرده و یادشان را گرامی داشتند.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:25:13",
-      "gregorian_utc": "2026-09-08T18:55:13+00:00",
+      "tehran_time": "22:44:46",
+      "gregorian_utc": "2026-09-08T19:14:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 2400368,
-      "media_size_human": "2.29 MB",
+      "media_size_bytes": 9020633,
+      "media_size_human": "8.60 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356374_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356374_video.mp4",
+      "media_local_path": "media/IranintlTV_356377_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356377_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.331967+00:00"
+      "archived_at": "2026-09-08T19:50:33.495363+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632232+00:00"
+      "archived_at": "2026-09-08T19:50:33.761610+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120786_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905091+00:00"
+      "archived_at": "2026-09-08T19:50:34.013222+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131704+00:00"
+      "archived_at": "2026-09-08T19:50:34.275161+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12967,
-      "message_link": "https://t.me/zedTV/12967",
-      "text": "گزارش‌های اولیه از وقوع انفجارهای مهیب در جزیره خارک.\nوقوع انفجارهای پیاپی در این منطقه تایید شد.",
+      "message_id": 12974,
+      "message_link": "https://t.me/zedTV/12974",
+      "text": "گزارش وقوع انفجارهای پیاپی در سواحل جاسک؛\nشنیده شدن صدای دو انفجار در نزدیکی منطقه سنگ‌سیاه.\nرسانه‌های وابسته به سپاه وقوع انفجار در این منطقه را تایید کردند.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:24:06",
-      "gregorian_utc": "2026-09-08T18:54:06+00:00",
+      "tehran_time": "22:56:38",
+      "gregorian_utc": "2026-09-08T19:26:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780795+00:00"
+      "archived_at": "2026-09-08T19:50:33.162900+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356373,
-      "message_link": "https://t.me/IranintlTV/356373",
-      "text": "سخنگوی قرارگاه مرکزی خاتم‌الانبیا با اشاره به تهدید ارتش آمریکا مبنی بر هدف قرار دادن سه فروند نفتکش ایرانی، گفت: «در صورت هرگونه تعرض به کشتی‌های ایرانی، نیروهای مسلح جمهوری اسلامی پایگاه‌ها و منافع آمریکا را در منطقه به شدت هدف قرار خواهند داد.»\n\nهمزمان، رسانه‌های ایران از شنیده شدن صدای انفجار در اطراف جزیره خارک خبر دادند.\nhttps://iranintl.com/202609088590",
+      "message_id": 356376,
+      "message_link": "https://t.me/IranintlTV/356376",
+      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال از گرانی اقلام دارویی انتقاد کرد و گفت: «بیمار کم‌درآمدی که نیاز ضروری به دارو دارد باید چه کند؟»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:24:59",
-      "gregorian_utc": "2026-09-08T18:54:59+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 185884,
-      "media_size_human": "181.53 KB",
+      "tehran_time": "22:29:46",
+      "gregorian_utc": "2026-09-08T18:59:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9253545,
+      "media_size_human": "8.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356373_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356373_photo.jpg",
+      "media_local_path": "media/IranintlTV_356376_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356376_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.332038+00:00"
+      "archived_at": "2026-09-08T19:50:33.495393+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:33.632256+00:00"
+      "archived_at": "2026-09-08T19:50:33.761635+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120785_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120785_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905117+00:00"
+      "archived_at": "2026-09-08T19:50:34.013247+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131723+00:00"
+      "archived_at": "2026-09-08T19:50:34.275181+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12966,
-      "message_link": "https://t.me/zedTV/12966",
-      "text": "درگیری‌های تمام‌عیار در جنوب یمن با بیش از ۳۰۰ کشته از طرفین؛\nهلاکت ۶ ژنرال ارشد شبه‌نظامیان حوثی در نبردهای میدانی؛\nتداوم درگیری‌های گسترده و تلفات سنگین در جبهه‌های جنوبی.",
+      "message_id": 12973,
+      "message_link": "https://t.me/zedTV/12973",
+      "text": "گزارش خبرگزاری‌های داخلی از وقوع چندین انفجار در خلیج فارس.\nصدای انفجارهای پیاپی در حوالی جزیره خارک شنیده شد.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:11:46",
-      "gregorian_utc": "2026-09-08T18:41:46+00:00",
+      "tehran_time": "22:56:30",
+      "gregorian_utc": "2026-09-08T19:26:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780816+00:00"
+      "archived_at": "2026-09-08T19:50:33.162940+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356372,
-      "message_link": "https://t.me/IranintlTV/356372",
-      "text": "علی عبداللهی، رییس ستادکل نیروهای مسلح جمهوری اسلامی در شبکه‌های اجتماعی نوشت که ارتش آمریکا به نفتکش های ایران اخطار تخلیه داده است تا آنها را مورد اصابت قرار دهد.\n\nعبداللهی نوشت: «اعلام می‎‌کنم هرگونه تعرض به نفتکش های ایران موجب هدف قرار گرفتن پایگاه‌های آمریکا در منطقه توسط نیروهای مسلح جمهوری اسلامی خواهد شد.»\nhttps://iranintl.com/202609084820",
+      "message_id": 356375,
+      "message_link": "https://t.me/IranintlTV/356375",
+      "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در اطراف جاسک خبر داد و نوشت: «حوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.»\n\nرسانه وابسته به سپاه نوشت: «منابع محلی می‌گویند صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.»\nhttps://iranintl.com/202609083426",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:24:32",
-      "gregorian_utc": "2026-09-08T18:54:32+00:00",
+      "tehran_time": "22:27:35",
+      "gregorian_utc": "2026-09-08T18:57:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 64701,
-      "media_size_human": "63.18 KB",
+      "media_size_bytes": 56961,
+      "media_size_human": "55.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356372_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356372_photo.jpg",
+      "media_local_path": "media/IranintlTV_356375_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356375_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.332107+00:00"
+      "archived_at": "2026-09-08T19:50:33.495463+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632309+00:00"
+      "archived_at": "2026-09-08T19:50:33.761683+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120784_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120784_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905140+00:00"
+      "archived_at": "2026-09-08T19:50:34.013271+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:34.131745+00:00"
+      "archived_at": "2026-09-08T19:50:34.275203+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12965,
-      "message_link": "https://t.me/zedTV/12965",
-      "text": "شلیک دو فروند موشک ضدکشتی از جاسک به سمت تنگه هرمز.\nگزارش‌ها از پرتاب موشک در جنوب کشور.",
+      "message_id": 12972,
+      "message_link": "https://t.me/zedTV/12972",
+      "text": "هشدار ارتش آمریکا به خدمه نفتکش‌های رژیم برای تخلیه پیش از حمله.\nگزارش‌های غیررسمی از هدف قرار گرفتن سه نفتکش جمهوری اسلامی.\nجزئیات دقیق خسارات و تاییدیه رسمی تاکنون منتشر نشده است.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:11:46",
-      "gregorian_utc": "2026-09-08T18:41:46+00:00",
+      "tehran_time": "22:56:18",
+      "gregorian_utc": "2026-09-08T19:26:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T19:40:32.780836+00:00"
+      "archived_at": "2026-09-08T19:50:33.162962+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356371,
-      "message_link": "https://t.me/IranintlTV/356371",
-      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+      "message_id": 356374,
+      "message_link": "https://t.me/IranintlTV/356374",
+      "text": "مهدی مهدوی‌آزاد، در برنامه «چشم‌انداز» گفت حضور نیروهای امنیتی، انتظامی و سپاه پاسداران در برخی پمپ‌بنزین‌ها نشان‌دهنده نگرانی حکومت از تکرار اعتراضاتی مشابه آبان ۱۳۹۸ است.\n\nاو افزود جمهوری اسلامی هم‌زمان با کاهش درآمدهای نفتی و بحران بنزین، با دشواری ادامه پرداخت یارانه‌های کنونی و افزایش قیمت سوخت روبه‌روست.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "22:17:22",
-      "gregorian_utc": "2026-09-08T18:47:22+00:00",
+      "tehran_time": "22:25:13",
+      "gregorian_utc": "2026-09-08T18:55:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 583542,
-      "media_size_human": "569.87 KB",
+      "media_size_bytes": 2400368,
+      "media_size_human": "2.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356371_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356371_video.mp4",
+      "media_local_path": "media/IranintlTV_356374_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.332143+00:00"
+      "archived_at": "2026-09-08T19:50:33.495526+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.632391+00:00"
+      "archived_at": "2026-09-08T19:50:33.761763+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120783_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120783_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T19:40:33.905166+00:00"
+      "archived_at": "2026-09-08T19:50:34.013297+00:00"
     }
   ]
 }
