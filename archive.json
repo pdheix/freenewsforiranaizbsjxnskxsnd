@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T11:34:37.383685+00:00",
-  "shamsi_generated": "1405/06/17 11:34:37 تهران",
+  "generated_at": "2026-09-08T11:45:48.352458+00:00",
+  "shamsi_generated": "1405/06/17 11:45:48 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.423873+00:00"
+      "archived_at": "2026-09-08T11:40:39.311705+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356301,
-      "message_link": "https://t.me/IranintlTV/356301",
-      "text": "خانواده‌ها و نزدیکان جان‌باختگان اعتراضات دی‌ماه پویشی با عنوان «یک شمع، یک نام، یک یاد» راه‌اندازی کرده‌اند.\n\nاین پویش با روشن کردن شمع و یادآوری نام و خاطره عزیزان جان‌باخته، تلاشی برای زنده نگه داشتن یاد آن‌هاست.\n\nجزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356302,
+      "message_link": "https://t.me/IranintlTV/356302",
+      "text": "پدر جاویدنام نهایت رحیمی دشتی، با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای دخترش شمعی روشن کرد.\nنهایت رحیمی، زن ۳۷ ساله، شامگاه پنج‌شنبه ۱۸ دی‌ ۱۴۰۴ در گرگان کشته شد.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:57:14",
-      "gregorian_utc": "2026-09-08T11:27:14+00:00",
+      "tehran_time": "15:03:17",
+      "gregorian_utc": "2026-09-08T11:33:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 3306314,
-      "media_size_human": "3.15 MB",
+      "media_size_bytes": 10825028,
+      "media_size_human": "10.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356301_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356301_video.mp4",
+      "media_local_path": "media/IranintlTV_356302_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356302_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769774+00:00"
+      "archived_at": "2026-09-08T11:40:39.596573+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.143736+00:00"
+      "archived_at": "2026-09-08T11:40:39.873414+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120764,
-      "message_link": "https://t.me/Mellig/120764",
-      "text": "**🚨خبرفوری \n\nبریتانیا در قانونی جدید در راستای طوفان اقتصادی ایالات متحده فشارهای مالی و تجاری را بر جمهوری اسلامی تشدید می کند.\n\nدولت بریتانیا اعلام کرد، این قانون بخشی از تلاش گسترده تر علیه برنامه هسته ای و دیگر فعالیت های خصمانه جمهوری اسلامی است .**",
+      "message_id": 120765,
+      "message_link": "https://t.me/Mellig/120765",
+      "text": "درود  خسته نیاشی  این همه پرواز تو  خرم اباد سابقه نداشته  خیلی مشکوکه",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:57:02",
-      "gregorian_utc": "2026-09-08T11:27:02+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486503+00:00"
+      "tehran_time": "15:06:02",
+      "gregorian_utc": "2026-09-08T11:36:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 57625,
+      "media_size_human": "56.27 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120765_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120765_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T11:40:40.149764+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.835474+00:00"
+      "archived_at": "2026-09-08T11:40:40.361026+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.423903+00:00"
+      "archived_at": "2026-09-08T11:40:39.311762+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356300,
-      "message_link": "https://t.me/IranintlTV/356300",
-      "text": "مروری بر روزنامه‌های ایران، سه‌شنبه ۱۷ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 356301,
+      "message_link": "https://t.me/IranintlTV/356301",
+      "text": "خانواده‌ها و نزدیکان جان‌باختگان اعتراضات دی‌ماه پویشی با عنوان «یک شمع، یک نام، یک یاد» راه‌اندازی کرده‌اند.\n\nاین پویش با روشن کردن شمع و یادآوری نام و خاطره عزیزان جان‌باخته، تلاشی برای زنده نگه داشتن یاد آن‌هاست.\n\nجزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:49:40",
-      "gregorian_utc": "2026-09-08T11:19:40+00:00",
+      "tehran_time": "14:57:14",
+      "gregorian_utc": "2026-09-08T11:27:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 3856868,
-      "media_size_human": "3.68 MB",
+      "media_size_bytes": 3306314,
+      "media_size_human": "3.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356300_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356300_video.mp4",
+      "media_local_path": "media/IranintlTV_356301_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356301_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769814+00:00"
+      "archived_at": "2026-09-08T11:40:39.596680+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76433_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76433_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.143786+00:00"
+      "archived_at": "2026-09-08T11:40:39.873482+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120763,
-      "message_link": "https://t.me/Mellig/120763",
-      "text": "عرزشی یه تنه رید به موشعلی \n\nعرزشی وقتی میخواد تولید محتوا کنه😂😄😄😄",
+      "message_id": 120764,
+      "message_link": "https://t.me/Mellig/120764",
+      "text": "**🚨خبرفوری \n\nبریتانیا در قانونی جدید در راستای طوفان اقتصادی ایالات متحده فشارهای مالی و تجاری را بر جمهوری اسلامی تشدید می کند.\n\nدولت بریتانیا اعلام کرد، این قانون بخشی از تلاش گسترده تر علیه برنامه هسته ای و دیگر فعالیت های خصمانه جمهوری اسلامی است .**",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:45:59",
-      "gregorian_utc": "2026-09-08T11:15:59+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7139389,
-      "media_size_human": "6.81 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120763_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120763_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486566+00:00"
+      "tehran_time": "14:57:02",
+      "gregorian_utc": "2026-09-08T11:27:02+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-08T11:40:40.149861+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.835535+00:00"
+      "archived_at": "2026-09-08T11:40:40.361098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": "media/zedTV_12931_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12931_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.423960+00:00"
+      "archived_at": "2026-09-08T11:40:39.311845+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356299,
-      "message_link": "https://t.me/IranintlTV/356299",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌ها در ایران می‌گوید: «دستمزد یک روز کار شد یک ساندویچ. ارزشی، حالا هی پرچم بگردان.»",
+      "message_id": 356300,
+      "message_link": "https://t.me/IranintlTV/356300",
+      "text": "مروری بر روزنامه‌های ایران، سه‌شنبه ۱۷ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:33:31",
-      "gregorian_utc": "2026-09-08T11:03:31+00:00",
+      "tehran_time": "14:49:40",
+      "gregorian_utc": "2026-09-08T11:19:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 2595276,
-      "media_size_human": "2.48 MB",
+      "media_size_bytes": 3856868,
+      "media_size_human": "3.68 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356299_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356299_video.mp4",
+      "media_local_path": "media/IranintlTV_356300_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356300_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769836+00:00"
+      "archived_at": "2026-09-08T11:40:39.596745+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.143912+00:00"
+      "archived_at": "2026-09-08T11:40:39.873675+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120762,
-      "message_link": "https://t.me/Mellig/120762",
-      "text": "تلاش یک شرکت پانزی به نام FNDK تمام دارایی‌های کسانی که در اپلیکیشن سرمایه‌هاشون رو گذاشته بودند بالا کشید و خیلی از سردسته‌های این سایت متواری شدن...\n مردم هم بعد از اینکه فهمیدن چه کلاهی سرشون رفته، ریختن تو کل شهر و املاک سردسته‌های این شرکت رو آتیش زدند.\n شخصی به نام عدنان میرشهابی عنصر اصلی این سایت بوده و الان هم فرار کرده\nاز اجتماع جمعیت مال‌باختگان به حدی زیاد بوده که محور آستارا - تلاش مسدود شده.\nMellig.net",
+      "message_id": 120763,
+      "message_link": "https://t.me/Mellig/120763",
+      "text": "عرزشی یه تنه رید به موشعلی \n\nعرزشی وقتی میخواد تولید محتوا کنه😂😄😄😄",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "12:27:45",
-      "gregorian_utc": "2026-09-08T08:57:45+00:00",
+      "tehran_time": "14:45:59",
+      "gregorian_utc": "2026-09-08T11:15:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 3039818,
-      "media_size_human": "2.90 MB",
+      "media_size_bytes": 7139389,
+      "media_size_human": "6.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120762_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120762_video.mp4",
+      "media_local_path": "media/Mellig_120763_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120763_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486613+00:00"
+      "archived_at": "2026-09-08T11:40:40.149937+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835550+00:00"
+      "archived_at": "2026-09-08T11:40:40.361129+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": "media/zedTV_12930_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12930_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.423994+00:00"
+      "archived_at": "2026-09-08T11:40:39.311912+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356298,
-      "message_link": "https://t.me/IranintlTV/356298",
-      "text": "دولت بریتانیا سه‌شنبه ۱۷ شهریور قانون جدیدی برای تشدید تحریم‌ها علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری را افزایش می‌دهد و اختیارات این کشور برای هدف قرار دادن کشتی‌ها را گسترش می‌دهد.\n\nدولت بریتانیا اعلام کرد این قانون بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای جمهوری اسلامی و مقابله با دیگر فعالیت‌های خصمانه آن است.\n\nبر اساس این قانون، دسترسی جمهوری اسلامی به نظام مالی بریتانیا محدودتر خواهد شد و ممنوعیت‌های تجاری به کالاها، فناوری‌ها و خدمات بیشتری گسترش خواهد یافت.\n\nاین قانون همچنین اختیارات بریتانیا برای تحریم کشتی‌ها را افزایش می‌دهد و فرود هواپیماهای ایرانی در این کشور را، به‌جز در موارد مشمول معافیت، ممنوع می‌کند.\nhttps://iranintl.com/202609083082",
+      "message_id": 356299,
+      "message_link": "https://t.me/IranintlTV/356299",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌ها در ایران می‌گوید: «دستمزد یک روز کار شد یک ساندویچ. ارزشی، حالا هی پرچم بگردان.»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:10:24",
-      "gregorian_utc": "2026-09-08T10:40:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 66556,
-      "media_size_human": "65.00 KB",
+      "tehran_time": "14:33:31",
+      "gregorian_utc": "2026-09-08T11:03:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2595276,
+      "media_size_human": "2.48 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356298_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356298_photo.jpg",
+      "media_local_path": "media/IranintlTV_356299_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356299_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769908+00:00"
+      "archived_at": "2026-09-08T11:40:39.596787+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.143960+00:00"
+      "archived_at": "2026-09-08T11:40:39.873772+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120761,
-      "message_link": "https://t.me/Mellig/120761",
-      "text": "درگیری شدید حوثی ها و نیروهای عربستان،اخبار لحظه به لحظه جنگ ۱۶ شهریور ۲۵۸۵🖥😀\n\nMellig.net",
+      "message_id": 120762,
+      "message_link": "https://t.me/Mellig/120762",
+      "text": "تلاش یک شرکت پانزی به نام FNDK تمام دارایی‌های کسانی که در اپلیکیشن سرمایه‌هاشون رو گذاشته بودند بالا کشید و خیلی از سردسته‌های این سایت متواری شدن...\n مردم هم بعد از اینکه فهمیدن چه کلاهی سرشون رفته، ریختن تو کل شهر و املاک سردسته‌های این شرکت رو آتیش زدند.\n شخصی به نام عدنان میرشهابی عنصر اصلی این سایت بوده و الان هم فرار کرده\nاز اجتماع جمعیت مال‌باختگان به حدی زیاد بوده که محور آستارا - تلاش مسدود شده.\nMellig.net",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "12:21:51",
-      "gregorian_utc": "2026-09-08T08:51:51+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 78501439,
-      "media_size_human": "74.86 MB",
+      "tehran_time": "12:27:45",
+      "gregorian_utc": "2026-09-08T08:57:45+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3039818,
+      "media_size_human": "2.90 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120761_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120761_audio.mp3",
+      "media_local_path": "media/Mellig_120762_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120762_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486647+00:00"
+      "archived_at": "2026-09-08T11:40:40.150030+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835564+00:00"
+      "archived_at": "2026-09-08T11:40:40.361156+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": "media/zedTV_12929_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12929_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.424018+00:00"
+      "archived_at": "2026-09-08T11:40:39.311973+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356297,
-      "message_link": "https://t.me/IranintlTV/356297",
-      "text": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی، به گران شدن قیمت بنزین اعتراض می‌کند و می‌گوید: «مگر پزشکیان نگفته بود برای گران شدن بنزین از مردم اجازه می‌گیرد؟ چه اجازه‌ای از ما گرفت؟ تازه بنزین گران شده، قیمت روغن ماشین ۵۰ درصد بالا رفته است. همه‌چیز قرار است گران شود.»",
+      "message_id": 356298,
+      "message_link": "https://t.me/IranintlTV/356298",
+      "text": "دولت بریتانیا سه‌شنبه ۱۷ شهریور قانون جدیدی برای تشدید تحریم‌ها علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری را افزایش می‌دهد و اختیارات این کشور برای هدف قرار دادن کشتی‌ها را گسترش می‌دهد.\n\nدولت بریتانیا اعلام کرد این قانون بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای جمهوری اسلامی و مقابله با دیگر فعالیت‌های خصمانه آن است.\n\nبر اساس این قانون، دسترسی جمهوری اسلامی به نظام مالی بریتانیا محدودتر خواهد شد و ممنوعیت‌های تجاری به کالاها، فناوری‌ها و خدمات بیشتری گسترش خواهد یافت.\n\nاین قانون همچنین اختیارات بریتانیا برای تحریم کشتی‌ها را افزایش می‌دهد و فرود هواپیماهای ایرانی در این کشور را، به‌جز در موارد مشمول معافیت، ممنوع می‌کند.\nhttps://iranintl.com/202609083082",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "14:00:09",
-      "gregorian_utc": "2026-09-08T10:30:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7249334,
-      "media_size_human": "6.91 MB",
+      "tehran_time": "14:10:24",
+      "gregorian_utc": "2026-09-08T10:40:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 66556,
+      "media_size_human": "65.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356297_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356297_video.mp4",
+      "media_local_path": "media/IranintlTV_356298_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356298_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769931+00:00"
+      "archived_at": "2026-09-08T11:40:39.596928+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144012+00:00"
+      "archived_at": "2026-09-08T11:40:39.873874+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120760,
-      "message_link": "https://t.me/Mellig/120760",
-      "text": "🔴 #خبر_فوری\nطبق گزارش ها هم اکنون گسترده‌ترین حمله حوثی‌ها به عربستان سعودی در سال‌های اخیر در حال وقوع است،\nحملات شدید موشکی به سمت فرودگاه ها و تأسیسات نفتی عربستان سعودی در جریان است.",
+      "message_id": 120761,
+      "message_link": "https://t.me/Mellig/120761",
+      "text": "درگیری شدید حوثی ها و نیروهای عربستان،اخبار لحظه به لحظه جنگ ۱۶ شهریور ۲۵۸۵🖥😀\n\nMellig.net",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "04:04:54",
-      "gregorian_utc": "2026-09-08T00:34:54+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486676+00:00"
+      "tehran_time": "12:21:51",
+      "gregorian_utc": "2026-09-08T08:51:51+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 78501439,
+      "media_size_human": "74.86 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120761_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120761_audio.mp3",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T11:40:40.150096+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835577+00:00"
+      "archived_at": "2026-09-08T11:40:40.361181+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424038+00:00"
+      "archived_at": "2026-09-08T11:40:39.312016+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356296,
-      "message_link": "https://t.me/IranintlTV/356296",
-      "text": "اسرائیل برای نخستین‌بار میزبان کنفرانس بین‌المللی هوش مصنوعی فیزیکال در تل‌آویو شد.\n\nاین کنفرانس با همکاری ستاد ملی هوش مصنوعی در دفتر نخست‌وزیری اسرائیل برگزار شد و بر پیوند میان هوش مصنوعی، رباتیک و سامانه‌های خودران تمرکز داشت.\n\nگزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356297,
+      "message_link": "https://t.me/IranintlTV/356297",
+      "text": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی، به گران شدن قیمت بنزین اعتراض می‌کند و می‌گوید: «مگر پزشکیان نگفته بود برای گران شدن بنزین از مردم اجازه می‌گیرد؟ چه اجازه‌ای از ما گرفت؟ تازه بنزین گران شده، قیمت روغن ماشین ۵۰ درصد بالا رفته است. همه‌چیز قرار است گران شود.»",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:55:15",
-      "gregorian_utc": "2026-09-08T10:25:15+00:00",
+      "tehran_time": "14:00:09",
+      "gregorian_utc": "2026-09-08T10:30:09+00:00",
       "media_type": "video",
-      "media_size_bytes": 3163856,
-      "media_size_human": "3.02 MB",
+      "media_size_bytes": 7249334,
+      "media_size_human": "6.91 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356296_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356296_video.mp4",
+      "media_local_path": "media/IranintlTV_356297_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356297_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.769968+00:00"
+      "archived_at": "2026-09-08T11:40:39.596971+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.144093+00:00"
+      "archived_at": "2026-09-08T11:40:39.874029+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120759,
-      "message_link": "https://t.me/Mellig/120759",
-      "text": "اینم سربازان و افسران امریکایی که صدا سیما میگفت ته دریا رفتن\nفیک نیوز های اونوری میگفتن افسرده شدن اگر اینا افسرده شدن ما تو ایران چی شدیم؟",
+      "message_id": 120760,
+      "message_link": "https://t.me/Mellig/120760",
+      "text": "🔴 #خبر_فوری\nطبق گزارش ها هم اکنون گسترده‌ترین حمله حوثی‌ها به عربستان سعودی در سال‌های اخیر در حال وقوع است،\nحملات شدید موشکی به سمت فرودگاه ها و تأسیسات نفتی عربستان سعودی در جریان است.",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "03:03:31",
-      "gregorian_utc": "2026-09-07T23:33:31+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6447802,
-      "media_size_human": "6.15 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120759_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120759_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486695+00:00"
+      "tehran_time": "04:04:54",
+      "gregorian_utc": "2026-09-08T00:34:54+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-08T11:40:40.150155+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835589+00:00"
+      "archived_at": "2026-09-08T11:40:40.361206+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424054+00:00"
+      "archived_at": "2026-09-08T11:40:39.312047+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356295,
-      "message_link": "https://t.me/IranintlTV/356295",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، درباره تغییر ناگهانی جبهه یمن و عقب‌نشینی حوثی‌ها گفت اجماع بین‌المللی برای نجات باب‌المندب، تاکتیک ارتش یمن در تصرف ارتفاعات و ویژگی‌های رهبر جدید این کشور، سه عامل عقب‌راندن حوثی‌ها بودند.\n@iranintltv",
+      "message_id": 356296,
+      "message_link": "https://t.me/IranintlTV/356296",
+      "text": "اسرائیل برای نخستین‌بار میزبان کنفرانس بین‌المللی هوش مصنوعی فیزیکال در تل‌آویو شد.\n\nاین کنفرانس با همکاری ستاد ملی هوش مصنوعی در دفتر نخست‌وزیری اسرائیل برگزار شد و بر پیوند میان هوش مصنوعی، رباتیک و سامانه‌های خودران تمرکز داشت.\n\nگزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:33:14",
-      "gregorian_utc": "2026-09-08T10:03:14+00:00",
+      "tehran_time": "13:55:15",
+      "gregorian_utc": "2026-09-08T10:25:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 3898187,
-      "media_size_human": "3.72 MB",
+      "media_size_bytes": 3163856,
+      "media_size_human": "3.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356295_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356295_video.mp4",
+      "media_local_path": "media/IranintlTV_356296_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356296_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.770002+00:00"
+      "archived_at": "2026-09-08T11:40:39.597041+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144128+00:00"
+      "archived_at": "2026-09-08T11:40:39.874101+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120758,
-      "message_link": "https://t.me/Mellig/120758",
-      "text": "درود جناب میرقادری\n\nسمت خیام شمالی مشهد\n\nهدایت و خواجه ربیع ساعت2:30 دقیقه دارن مدام تیرهوایی میزنن\n\n\n@mellig",
+      "message_id": 120759,
+      "message_link": "https://t.me/Mellig/120759",
+      "text": "اینم سربازان و افسران امریکایی که صدا سیما میگفت ته دریا رفتن\nفیک نیوز های اونوری میگفتن افسرده شدن اگر اینا افسرده شدن ما تو ایران چی شدیم؟",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "02:47:11",
-      "gregorian_utc": "2026-09-07T23:17:11+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486719+00:00"
+      "tehran_time": "03:03:31",
+      "gregorian_utc": "2026-09-07T23:33:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6447802,
+      "media_size_human": "6.15 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120759_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120759_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T11:40:40.150196+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835602+00:00"
+      "archived_at": "2026-09-08T11:40:40.361230+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424080+00:00"
+      "archived_at": "2026-09-08T11:40:39.312089+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356294,
-      "message_link": "https://t.me/IranintlTV/356294",
-      "text": "مسعود پزشکیان، رییس دولت، در شبکه ایکس نوشت: «جمهوری اسلامی همواره با جنگ مخالف بوده و حفظ منافع مردم و امنیت منطقه را در پرهیز از آتش‌افروزی دانسته است.» \n\nرییس دولت جمهوری اسلامی در ادامه افزود: «اما چنانکه تا امروز در برابر تجاوز به دفاع برخاسته، این مقاومت را تا پشیمانی کامل متجاوزان با قوت ادامه خواهد داد.»\n [iranintl.com/202609086168](https://t.co/xE9ykZO21a)",
+      "message_id": 356295,
+      "message_link": "https://t.me/IranintlTV/356295",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، درباره تغییر ناگهانی جبهه یمن و عقب‌نشینی حوثی‌ها گفت اجماع بین‌المللی برای نجات باب‌المندب، تاکتیک ارتش یمن در تصرف ارتفاعات و ویژگی‌های رهبر جدید این کشور، سه عامل عقب‌راندن حوثی‌ها بودند.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:32:11",
-      "gregorian_utc": "2026-09-08T10:02:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 101221,
-      "media_size_human": "98.85 KB",
+      "tehran_time": "13:33:14",
+      "gregorian_utc": "2026-09-08T10:03:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3898187,
+      "media_size_human": "3.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356294_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356294_photo.jpg",
+      "media_local_path": "media/IranintlTV_356295_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356295_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.770051+00:00"
+      "archived_at": "2026-09-08T11:40:39.597105+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144191+00:00"
+      "archived_at": "2026-09-08T11:40:39.874226+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120757,
-      "message_link": "https://t.me/Mellig/120757",
-      "text": "**بمباران مواضع انصارالله توسط جنگنده‌های عربستان سعودی**",
+      "message_id": 120758,
+      "message_link": "https://t.me/Mellig/120758",
+      "text": "درود جناب میرقادری\n\nسمت خیام شمالی مشهد\n\nهدایت و خواجه ربیع ساعت2:30 دقیقه دارن مدام تیرهوایی میزنن\n\n\n@mellig",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "02:38:08",
-      "gregorian_utc": "2026-09-07T23:08:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 540797,
-      "media_size_human": "528.12 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120757_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120757_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486743+00:00"
+      "tehran_time": "02:47:11",
+      "gregorian_utc": "2026-09-07T23:17:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-08T11:40:40.150240+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835615+00:00"
+      "archived_at": "2026-09-08T11:40:40.361257+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424095+00:00"
+      "archived_at": "2026-09-08T11:40:39.312120+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356293,
-      "message_link": "https://t.me/IranintlTV/356293",
-      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به افزایش دوبرابری نرخ سوم بنزین و فروش هر لیتر بنزین با کارت جایگاه‌ها به قیمت ۱۰ هزار تومان، سیاست قیمت‌گذاری سوخت، افت ارزش ریال، بحران خودروهای فرسوده و انحصار خودروسازان را از عوامل تشدید بحران می‌داند.\n\nبه گفته آزرمی، جمهوری اسلامی در نهایت هزینه سیاست‌های ناکارآمد و تورم‌زای خود را از جیب مردم تامین می‌کند.\n@iranintltv",
+      "message_id": 356294,
+      "message_link": "https://t.me/IranintlTV/356294",
+      "text": "مسعود پزشکیان، رییس دولت، در شبکه ایکس نوشت: «جمهوری اسلامی همواره با جنگ مخالف بوده و حفظ منافع مردم و امنیت منطقه را در پرهیز از آتش‌افروزی دانسته است.» \n\nرییس دولت جمهوری اسلامی در ادامه افزود: «اما چنانکه تا امروز در برابر تجاوز به دفاع برخاسته، این مقاومت را تا پشیمانی کامل متجاوزان با قوت ادامه خواهد داد.»\n [iranintl.com/202609086168](https://t.co/xE9ykZO21a)",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:30:46",
-      "gregorian_utc": "2026-09-08T10:00:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3150784,
-      "media_size_human": "3.00 MB",
+      "tehran_time": "13:32:11",
+      "gregorian_utc": "2026-09-08T10:02:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 101221,
+      "media_size_human": "98.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356293_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356293_video.mp4",
+      "media_local_path": "media/IranintlTV_356294_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356294_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.770091+00:00"
+      "archived_at": "2026-09-08T11:40:39.597192+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144210+00:00"
+      "archived_at": "2026-09-08T11:40:39.874269+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120756,
-      "message_link": "https://t.me/Mellig/120756",
-      "text": "",
+      "message_id": 120757,
+      "message_link": "https://t.me/Mellig/120757",
+      "text": "**بمباران مواضع انصارالله توسط جنگنده‌های عربستان سعودی**",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "02:29:49",
-      "gregorian_utc": "2026-09-07T22:59:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 141425,
-      "media_size_human": "138.11 KB",
+      "tehran_time": "02:38:08",
+      "gregorian_utc": "2026-09-07T23:08:08+00:00",
+      "media_type": "video",
+      "media_size_bytes": 540797,
+      "media_size_human": "528.12 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120756_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120756_photo.jpg",
+      "media_local_path": "media/Mellig_120757_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120757_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.486770+00:00"
+      "archived_at": "2026-09-08T11:40:40.150290+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835628+00:00"
+      "archived_at": "2026-09-08T11:40:40.361282+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424110+00:00"
+      "archived_at": "2026-09-08T11:40:39.312148+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356292,
-      "message_link": "https://t.me/IranintlTV/356292",
-      "text": "🔻باشگاه تراکتور به علت آنچه شعارهای «توهین‌آمیز و نژادپرستانه» علیه خداداد عزیزی، مدیر این تیم، و همچنین «تهدید بازیکنانش» خوانده، از باشگاه پرسپولیس به کمیته انضباطی فدراسیون فوتبال شکایت کرد.\n\n🔹باشگاه تراکتور با صدور بیانیه‌ای اعلام کرد که این اتفاقات در جریان دیدار پرسپولیس و ذوب‌آهن در ورزشگاه شهر قدس رخ داده است. این حواشی پس از درگیری میان خداداد عزیزی، مدیر تیم تراکتور، و امید عالیشاه، کاپیتان پیشین پرسپولیس و بازیکن فعلی گل‌گهر، به وجود آمده است.\n\n🔹کمیته انضباطی فدراسیون فوتبال، پس از درگیری و فحاشی در دیدار تراکتور و گل‌گهر، عزیزی را به دلیل بدرفتاری، استفاده از الفاظ رکیک و با توجه به سوابق انضباطی‌اش، به ۴ ماه محرومیت از حضور در ورزشگاه‌ها و ۲ میلیارد تومان جریمه محکوم کرد. همچنین امید عالیشاه، بازیکن گل‌گهر، به ۴ جلسه محرومیت و ۵۰۰ میلیون تومان جریمه محکوم شد.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 356293,
+      "message_link": "https://t.me/IranintlTV/356293",
+      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به افزایش دوبرابری نرخ سوم بنزین و فروش هر لیتر بنزین با کارت جایگاه‌ها به قیمت ۱۰ هزار تومان، سیاست قیمت‌گذاری سوخت، افت ارزش ریال، بحران خودروهای فرسوده و انحصار خودروسازان را از عوامل تشدید بحران می‌داند.\n\nبه گفته آزرمی، جمهوری اسلامی در نهایت هزینه سیاست‌های ناکارآمد و تورم‌زای خود را از جیب مردم تامین می‌کند.\n@iranintltv",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:26:06",
-      "gregorian_utc": "2026-09-08T09:56:06+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 270002,
-      "media_size_human": "263.67 KB",
+      "tehran_time": "13:30:46",
+      "gregorian_utc": "2026-09-08T10:00:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3150784,
+      "media_size_human": "3.00 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356292_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356292_photo.jpg",
+      "media_local_path": "media/IranintlTV_356293_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356293_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.780820+00:00"
+      "archived_at": "2026-09-08T11:40:39.597275+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144250+00:00"
+      "archived_at": "2026-09-08T11:40:39.874367+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120755,
-      "message_link": "https://t.me/Mellig/120755",
-      "text": "خیابان ازادی در تهران صدای تیراندازی میاد",
+      "message_id": 120756,
+      "message_link": "https://t.me/Mellig/120756",
+      "text": "",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "01:54:32",
-      "gregorian_utc": "2026-09-07T22:24:32+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486784+00:00"
+      "tehran_time": "02:29:49",
+      "gregorian_utc": "2026-09-07T22:59:49+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 141425,
+      "media_size_human": "138.11 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120756_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120756_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-08T11:40:40.150331+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835640+00:00"
+      "archived_at": "2026-09-08T11:40:40.361307+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424124+00:00"
+      "archived_at": "2026-09-08T11:40:39.312178+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356291,
-      "message_link": "https://t.me/IranintlTV/356291",
-      "text": "🔻ژوزه مورینیو در آغاز دومین دوره مربیگری خود در رئال مادرید، رقابت‌های فصل جدید لیگ قهرمانان اروپا را در تقابلی ویژه برابر تیم پیشین خود، اینتر میلان، آغاز می‌کند. ۱۶ سال پیش، مورینیو پس از کسب سه‌گانه تاریخی با اینتر، هدایت رئال مادرید را بر عهده گرفت و حالا بار دیگر برابر قهرمان فصل گذشته سری آ قرار می‌گیرد. \n\n🔹رئال مادرید، دارنده ۱۵ عنوان قهرمانی اروپا، پس از نخستین شکست فصل خود برابر رئال بتیس با نتیجه یک بر صفر در لالیگا که با پنالتی ازدست‌رفته کیلیان امباپه همراه بود، به دنبال پیروزی در این دیدار است. \n\n🔹مورینیو در کنفرانس خبری پیش از بازی درباره فشار برای قهرمانی در اروپا گفت: «نه، این دو دوره کاملاً متفاوت است. وقتی در سال ۲۰۱۳ اینجا را ترک کردم، آنچه بردیم را بردیم و آنچه باختیم را باختیم و تمام توانمان را گذاشتیم. تمام شد و رفت.»\n\n🔹در سوی مقابل، اینتر با روحیه‌ای بالا پا به سانتیاگو برنابئو می‌گذارد. نراتزوری مقابل ناپولی کامبک درخشانی داشت و با گل‌های دقایق پایانی مارکوس تورام و لوتارو مارتینز، به پیروزی دراماتیک ۳ بر ۲ رسید. \n\n🔹ادامه این گزارش را در [سایت](https://www.iranintl.com/202609088828) بخوانید.\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 356292,
+      "message_link": "https://t.me/IranintlTV/356292",
+      "text": "🔻باشگاه تراکتور به علت آنچه شعارهای «توهین‌آمیز و نژادپرستانه» علیه خداداد عزیزی، مدیر این تیم، و همچنین «تهدید بازیکنانش» خوانده، از باشگاه پرسپولیس به کمیته انضباطی فدراسیون فوتبال شکایت کرد.\n\n🔹باشگاه تراکتور با صدور بیانیه‌ای اعلام کرد که این اتفاقات در جریان دیدار پرسپولیس و ذوب‌آهن در ورزشگاه شهر قدس رخ داده است. این حواشی پس از درگیری میان خداداد عزیزی، مدیر تیم تراکتور، و امید عالیشاه، کاپیتان پیشین پرسپولیس و بازیکن فعلی گل‌گهر، به وجود آمده است.\n\n🔹کمیته انضباطی فدراسیون فوتبال، پس از درگیری و فحاشی در دیدار تراکتور و گل‌گهر، عزیزی را به دلیل بدرفتاری، استفاده از الفاظ رکیک و با توجه به سوابق انضباطی‌اش، به ۴ ماه محرومیت از حضور در ورزشگاه‌ها و ۲ میلیارد تومان جریمه محکوم کرد. همچنین امید عالیشاه، بازیکن گل‌گهر، به ۴ جلسه محرومیت و ۵۰۰ میلیون تومان جریمه محکوم شد.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/17",
       "tehran_time": "13:26:06",
       "gregorian_utc": "2026-09-08T09:56:06+00:00",
       "media_type": "photo",
-      "media_size_bytes": 245901,
-      "media_size_human": "240.14 KB",
+      "media_size_bytes": 270002,
+      "media_size_human": "263.67 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356291_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356291_photo.jpg",
+      "media_local_path": "media/IranintlTV_356292_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356292_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.780944+00:00"
+      "archived_at": "2026-09-08T11:40:39.608695+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,17 +977,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.144264+00:00"
+      "archived_at": "2026-09-08T11:40:39.874404+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120754,
-      "message_link": "https://t.me/Mellig/120754",
-      "text": "جناب میرقادری پرواز جنگنده از آسمان پرند ساعت 00:58",
+      "message_id": 120755,
+      "message_link": "https://t.me/Mellig/120755",
+      "text": "خیابان ازادی در تهران صدای تیراندازی میاد",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:58:36",
-      "gregorian_utc": "2026-09-07T21:28:36+00:00",
+      "tehran_time": "01:54:32",
+      "gregorian_utc": "2026-09-07T22:24:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486797+00:00"
+      "archived_at": "2026-09-08T11:40:40.150380+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.835653+00:00"
+      "archived_at": "2026-09-08T11:40:40.361332+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:45.424137+00:00"
+      "archived_at": "2026-09-08T11:40:39.312205+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356290,
-      "message_link": "https://t.me/IranintlTV/356290",
-      "text": "دومین روز نشست شورای حکام آژانس بین‌المللی انرژی اتمی از صبح امروز سه‌شنبه ۱۷ شهریور آغاز شد. ۳۵ عضو این شورا قرار است میزان پایبندی جمهوری اسلامی به تعهدات پادمانی و قطعنامه‌های مرتبط با سازمان ملل را بررسی و درباره آن تصمیم‌گیری کنند.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356291,
+      "message_link": "https://t.me/IranintlTV/356291",
+      "text": "🔻ژوزه مورینیو در آغاز دومین دوره مربیگری خود در رئال مادرید، رقابت‌های فصل جدید لیگ قهرمانان اروپا را در تقابلی ویژه برابر تیم پیشین خود، اینتر میلان، آغاز می‌کند. ۱۶ سال پیش، مورینیو پس از کسب سه‌گانه تاریخی با اینتر، هدایت رئال مادرید را بر عهده گرفت و حالا بار دیگر برابر قهرمان فصل گذشته سری آ قرار می‌گیرد. \n\n🔹رئال مادرید، دارنده ۱۵ عنوان قهرمانی اروپا، پس از نخستین شکست فصل خود برابر رئال بتیس با نتیجه یک بر صفر در لالیگا که با پنالتی ازدست‌رفته کیلیان امباپه همراه بود، به دنبال پیروزی در این دیدار است. \n\n🔹مورینیو در کنفرانس خبری پیش از بازی درباره فشار برای قهرمانی در اروپا گفت: «نه، این دو دوره کاملاً متفاوت است. وقتی در سال ۲۰۱۳ اینجا را ترک کردم، آنچه بردیم را بردیم و آنچه باختیم را باختیم و تمام توانمان را گذاشتیم. تمام شد و رفت.»\n\n🔹در سوی مقابل، اینتر با روحیه‌ای بالا پا به سانتیاگو برنابئو می‌گذارد. نراتزوری مقابل ناپولی کامبک درخشانی داشت و با گل‌های دقایق پایانی مارکوس تورام و لوتارو مارتینز، به پیروزی دراماتیک ۳ بر ۲ رسید. \n\n🔹ادامه این گزارش را در [سایت](https://www.iranintl.com/202609088828) بخوانید.\n\n [@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "13:25:21",
-      "gregorian_utc": "2026-09-08T09:55:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2467657,
-      "media_size_human": "2.35 MB",
+      "tehran_time": "13:26:06",
+      "gregorian_utc": "2026-09-08T09:56:06+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 245901,
+      "media_size_human": "240.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356290_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356290_video.mp4",
+      "media_local_path": "media/IranintlTV_356291_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356291_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:45.780991+00:00"
+      "archived_at": "2026-09-08T11:40:39.608893+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,17 +1067,17 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-08T11:30:46.144293+00:00"
+      "archived_at": "2026-09-08T11:40:39.874467+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120753,
-      "message_link": "https://t.me/Mellig/120753",
-      "text": "🔴 #خبر_فوری\nهم اکنون حملات هوایی شدید عربستان سعودی به مواضع حوثی ها در جنوب یمن.",
+      "message_id": 120754,
+      "message_link": "https://t.me/Mellig/120754",
+      "text": "جناب میرقادری پرواز جنگنده از آسمان پرند ساعت 00:58",
       "shamsi_date": "1405/06/17",
-      "tehran_time": "00:58:23",
-      "gregorian_utc": "2026-09-07T21:28:23+00:00",
+      "tehran_time": "00:58:36",
+      "gregorian_utc": "2026-09-07T21:28:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-08T11:30:46.486818+00:00"
+      "archived_at": "2026-09-08T11:40:40.150410+00:00"
     }
   ]
 }
