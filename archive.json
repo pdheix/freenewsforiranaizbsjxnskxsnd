@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:55:28.724292+00:00",
-  "shamsi_generated": "1405/06/18 05:55:28 تهران",
+  "generated_at": "2026-09-09T06:04:59.898383+00:00",
+  "shamsi_generated": "1405/06/18 06:04:59 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446249+00:00"
+      "archived_at": "2026-09-09T06:00:48.606709+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356437,
-      "message_link": "https://t.me/IranintlTV/356437",
-      "text": "علیرضا سلیمی، عضو هیات‌رییسه مجلس، چهارشنبه ۱۸ شهریور در گفت‌وگو با خبرگزاری خانه ملت، اعلام کرد تنها راه مقابله با اسرائیل، «مقاومت، پاسخ کوبنده و سیلی سخت» است.\n\nعضو هیات‌رییسه مجلس با انتقاد از رویکرد دولت لبنان در برابر اسرائیل گفت: «هیچ متولی حاکمیتی در جهان نیست که در هنگام دفاع از تمامیت ارضی کشورش، از حامیان و مدافعان وطن پشتیبانی نکند، بنابراین این نکته به عنوان لکه سیاه در کارنامه سیاسی این دولت باقی خواهد ماند.» \n\nسلیمی همچنین افزود: «جمهوری اسلامی همواره حامی قدرتمند مقاومت بوده و آنها را تنها نگذاشته است و این مسیر حمایتی نیز هرگز متوقف نخواهد شد.»\nhttps://iranintl.com/202609090729",
+      "message_id": 356438,
+      "message_link": "https://t.me/IranintlTV/356438",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، حوثی‌ها را نیروهای نیابتی ایران خواند و گفت واشینگتن تحرکات این گروه و نقش جمهوری اسلامی در فعالیت‌های منطقه‌ای را از نزدیک زیر نظر دارد.\nهم‌زمان، وزارت خارجه امارات متحده عربی و سوریه حملات حوثی‌ها به عربستان سعودی را به‌شدت محکوم کردند و آن را نقض آشکار حاکمیت، امنیت و ثبات عربستان دانستند.\n\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "09:10:43",
-      "gregorian_utc": "2026-09-09T05:40:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 132666,
-      "media_size_human": "129.56 KB",
+      "tehran_time": "09:21:35",
+      "gregorian_utc": "2026-09-09T05:51:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1662008,
+      "media_size_human": "1.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356437_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356437_photo.jpg",
+      "media_local_path": "media/IranintlTV_356438_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356438_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.710025+00:00"
+      "archived_at": "2026-09-09T06:00:48.847758+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.995973+00:00"
+      "archived_at": "2026-09-09T06:00:49.186271+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.263555+00:00"
+      "archived_at": "2026-09-09T06:00:49.420161+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.524724+00:00"
+      "archived_at": "2026-09-09T06:00:49.626622+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446293+00:00"
+      "archived_at": "2026-09-09T06:00:48.606759+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356436,
-      "message_link": "https://t.me/IranintlTV/356436",
-      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
+      "message_id": 356437,
+      "message_link": "https://t.me/IranintlTV/356437",
+      "text": "علیرضا سلیمی، عضو هیات‌رییسه مجلس، چهارشنبه ۱۸ شهریور در گفت‌وگو با خبرگزاری خانه ملت، اعلام کرد تنها راه مقابله با اسرائیل، «مقاومت، پاسخ کوبنده و سیلی سخت» است.\n\nعضو هیات‌رییسه مجلس با انتقاد از رویکرد دولت لبنان در برابر اسرائیل گفت: «هیچ متولی حاکمیتی در جهان نیست که در هنگام دفاع از تمامیت ارضی کشورش، از حامیان و مدافعان وطن پشتیبانی نکند، بنابراین این نکته به عنوان لکه سیاه در کارنامه سیاسی این دولت باقی خواهد ماند.» \n\nسلیمی همچنین افزود: «جمهوری اسلامی همواره حامی قدرتمند مقاومت بوده و آنها را تنها نگذاشته است و این مسیر حمایتی نیز هرگز متوقف نخواهد شد.»\nhttps://iranintl.com/202609090729",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "09:01:38",
-      "gregorian_utc": "2026-09-09T05:31:38+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30194367,
-      "media_size_human": "28.80 MB",
+      "tehran_time": "09:10:43",
+      "gregorian_utc": "2026-09-09T05:40:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 132666,
+      "media_size_human": "129.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356436_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356436_audio.mp3",
+      "media_local_path": "media/IranintlTV_356437_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356437_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711443+00:00"
+      "archived_at": "2026-09-09T06:00:48.847892+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996060+00:00"
+      "archived_at": "2026-09-09T06:00:49.186375+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.263642+00:00"
+      "archived_at": "2026-09-09T06:00:49.420228+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.524783+00:00"
+      "archived_at": "2026-09-09T06:00:49.626690+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446321+00:00"
+      "archived_at": "2026-09-09T06:00:48.606795+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356435,
-      "message_link": "https://t.me/IranintlTV/356435",
-      "text": "صادق بیگدلی، حقوقدان و فعال سیاسی، با اشاره به تحریم ۲۷ شرکت هواپیمایی ایرانی و شبکه شرکت‌های مرتبط با ماهان‌ایر به ایران‌اینترنشنال گفت این اقدامات، انتقال تجهیزات حساس، منابع مالی و نیرو توسط جمهوری اسلامی را دشوارتر و پرهزینه‌تر می‌کند.\n\nبه گفته او، همزمانی فشار بر مسیرهای هوایی و دریایی، تهران را به استفاده گسترده‌تر از مسیرهای زمینی وادار می‌کند؛ مسیرهایی که کندتر، پرهزینه‌تر و از نظر ظرفیت محدودتر هستند.\n@iranintltv",
+      "message_id": 356436,
+      "message_link": "https://t.me/IranintlTV/356436",
+      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "08:36:49",
-      "gregorian_utc": "2026-09-09T05:06:49+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4252583,
-      "media_size_human": "4.06 MB",
+      "tehran_time": "09:01:38",
+      "gregorian_utc": "2026-09-09T05:31:38+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30194367,
+      "media_size_human": "28.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356435_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356435_video.mp4",
+      "media_local_path": "media/IranintlTV_356436_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356436_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711684+00:00"
+      "archived_at": "2026-09-09T06:00:48.856619+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996157+00:00"
+      "archived_at": "2026-09-09T06:00:49.186524+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120803_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120803_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263720+00:00"
+      "archived_at": "2026-09-09T06:00:49.420326+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524808+00:00"
+      "archived_at": "2026-09-09T06:00:49.626721+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446353+00:00"
+      "archived_at": "2026-09-09T06:00:48.606837+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356434,
-      "message_link": "https://t.me/IranintlTV/356434",
-      "text": "عرفان قانعی‌فرد، تحلیلگر خاورمیانه، با اشاره به گسترش حملات جمهوری اسلامی از خلیج فارس تا اردن و عربستان سعودی به ایران‌اینترنشنال گفت همکاری اطلاعاتی و امنیتی آمریکا با کشورهای منطقه وارد مرحله‌ای گسترده شده است.\nاو معتقد است گسترش میدان جنگ از سوی تهران می‌تواند به شکل‌گیری ائتلافی منطقه‌ای علیه جمهوری اسلامی منجر شود.\n@iranintltv",
+      "message_id": 356435,
+      "message_link": "https://t.me/IranintlTV/356435",
+      "text": "صادق بیگدلی، حقوقدان و فعال سیاسی، با اشاره به تحریم ۲۷ شرکت هواپیمایی ایرانی و شبکه شرکت‌های مرتبط با ماهان‌ایر به ایران‌اینترنشنال گفت این اقدامات، انتقال تجهیزات حساس، منابع مالی و نیرو توسط جمهوری اسلامی را دشوارتر و پرهزینه‌تر می‌کند.\n\nبه گفته او، همزمانی فشار بر مسیرهای هوایی و دریایی، تهران را به استفاده گسترده‌تر از مسیرهای زمینی وادار می‌کند؛ مسیرهایی که کندتر، پرهزینه‌تر و از نظر ظرفیت محدودتر هستند.\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "08:30:42",
-      "gregorian_utc": "2026-09-09T05:00:42+00:00",
+      "tehran_time": "08:36:49",
+      "gregorian_utc": "2026-09-09T05:06:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 3758957,
-      "media_size_human": "3.58 MB",
+      "media_size_bytes": 4252583,
+      "media_size_human": "4.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356434_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356434_video.mp4",
+      "media_local_path": "media/IranintlTV_356435_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356435_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711770+00:00"
+      "archived_at": "2026-09-09T06:00:48.856745+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.996289+00:00"
+      "archived_at": "2026-09-09T06:00:49.186681+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120802_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120802_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263775+00:00"
+      "archived_at": "2026-09-09T06:00:49.420414+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524827+00:00"
+      "archived_at": "2026-09-09T06:00:49.626746+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446375+00:00"
+      "archived_at": "2026-09-09T06:00:48.606871+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356433,
-      "message_link": "https://t.me/IranintlTV/356433",
-      "text": "وزارت خزانه‌داری آمریکا اعلام کرد دفتر کنترل دارایی‌های خارجی این کشور (OFAC)، در تازه‌ترین دور تحریم‌ها، ۲۷ شرکت هواپیمایی ایرانی و هفت شرکت مرتبط با بخش هوانوردی را به فهرست تحریم‌ها اضافه کرده است.\n\nشرکت‌های آتا، چابهار، ایران‌ایرتور، آسمان، کیش، کارون، قشم، سپهران، تابان، زاگرس، وارش و فلای‌پرشیا از جمله شرکت‌های تحریم‌شده هستند.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356434,
+      "message_link": "https://t.me/IranintlTV/356434",
+      "text": "عرفان قانعی‌فرد، تحلیلگر خاورمیانه، با اشاره به گسترش حملات جمهوری اسلامی از خلیج فارس تا اردن و عربستان سعودی به ایران‌اینترنشنال گفت همکاری اطلاعاتی و امنیتی آمریکا با کشورهای منطقه وارد مرحله‌ای گسترده شده است.\nاو معتقد است گسترش میدان جنگ از سوی تهران می‌تواند به شکل‌گیری ائتلافی منطقه‌ای علیه جمهوری اسلامی منجر شود.\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "08:28:12",
-      "gregorian_utc": "2026-09-09T04:58:12+00:00",
+      "tehran_time": "08:30:42",
+      "gregorian_utc": "2026-09-09T05:00:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 1793011,
-      "media_size_human": "1.71 MB",
+      "media_size_bytes": 3758957,
+      "media_size_human": "3.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356433_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356433_video.mp4",
+      "media_local_path": "media/IranintlTV_356434_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356434_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711847+00:00"
+      "archived_at": "2026-09-09T06:00:48.856830+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996348+00:00"
+      "archived_at": "2026-09-09T06:00:49.186756+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120801_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120801_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263827+00:00"
+      "archived_at": "2026-09-09T06:00:49.420507+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524847+00:00"
+      "archived_at": "2026-09-09T06:00:49.626769+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446405+00:00"
+      "archived_at": "2026-09-09T06:00:48.606907+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356432,
-      "message_link": "https://t.me/IranintlTV/356432",
-      "text": "محمدصالح جوکار، رییس کمیسیون شوراهای مجلس، به خبرگزاری خانه ملت گفت: «اگر آمریکایی‌ها بخواهند به محاصره دریایی ادامه دهند، قطعا با پاسخ ویرانگر و پشیمان‌کننده مواجه خواهند شد که نمونه آن را در هدف قرار دادن ناوشکن‌هایشان مشاهده کردند.»\n\nاین نماینده مجلس ادامه داد: «سامانه‌های موشکی آمریکا دیگر قادر به رهگیری و هدف قرار دادن موشک‌های ایرانی نیستند و نمی‌توانند برای آمریکا امنیت بیاورند.»\n\nریس کمیسیون شوراهای مجلس افزود: «امروز توان رزمی و موشکی ما حتی نسبت به جنگ ۴۰ روزه بسیار ارتقا یافته و چشمگیر است و آمریکایی‌ها با ایرانی به‌مراتب قدرتمندتر مواجه هستند.»\nhttps://iranintl.com/202609094081",
+      "message_id": 356433,
+      "message_link": "https://t.me/IranintlTV/356433",
+      "text": "وزارت خزانه‌داری آمریکا اعلام کرد دفتر کنترل دارایی‌های خارجی این کشور (OFAC)، در تازه‌ترین دور تحریم‌ها، ۲۷ شرکت هواپیمایی ایرانی و هفت شرکت مرتبط با بخش هوانوردی را به فهرست تحریم‌ها اضافه کرده است.\n\nشرکت‌های آتا، چابهار، ایران‌ایرتور، آسمان، کیش، کارون، قشم، سپهران، تابان، زاگرس، وارش و فلای‌پرشیا از جمله شرکت‌های تحریم‌شده هستند.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "08:27:45",
-      "gregorian_utc": "2026-09-09T04:57:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 137295,
-      "media_size_human": "134.08 KB",
+      "tehran_time": "08:28:12",
+      "gregorian_utc": "2026-09-09T04:58:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1793011,
+      "media_size_human": "1.71 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356432_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356432_photo.jpg",
+      "media_local_path": "media/IranintlTV_356433_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356433_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711955+00:00"
+      "archived_at": "2026-09-09T06:00:48.856909+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996455+00:00"
+      "archived_at": "2026-09-09T06:00:49.186884+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120800_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120800_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263878+00:00"
+      "archived_at": "2026-09-09T06:00:49.420580+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524867+00:00"
+      "archived_at": "2026-09-09T06:00:49.626794+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446427+00:00"
+      "archived_at": "2026-09-09T06:00:48.606939+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356431,
-      "message_link": "https://t.me/IranintlTV/356431",
-      "text": "سرخط خبرهای چهارشنبه ۱۸ شهریور\n@iranintltv",
+      "message_id": 356432,
+      "message_link": "https://t.me/IranintlTV/356432",
+      "text": "محمدصالح جوکار، رییس کمیسیون شوراهای مجلس، به خبرگزاری خانه ملت گفت: «اگر آمریکایی‌ها بخواهند به محاصره دریایی ادامه دهند، قطعا با پاسخ ویرانگر و پشیمان‌کننده مواجه خواهند شد که نمونه آن را در هدف قرار دادن ناوشکن‌هایشان مشاهده کردند.»\n\nاین نماینده مجلس ادامه داد: «سامانه‌های موشکی آمریکا دیگر قادر به رهگیری و هدف قرار دادن موشک‌های ایرانی نیستند و نمی‌توانند برای آمریکا امنیت بیاورند.»\n\nریس کمیسیون شوراهای مجلس افزود: «امروز توان رزمی و موشکی ما حتی نسبت به جنگ ۴۰ روزه بسیار ارتقا یافته و چشمگیر است و آمریکایی‌ها با ایرانی به‌مراتب قدرتمندتر مواجه هستند.»\nhttps://iranintl.com/202609094081",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "07:56:24",
-      "gregorian_utc": "2026-09-09T04:26:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1144752,
-      "media_size_human": "1.09 MB",
+      "tehran_time": "08:27:45",
+      "gregorian_utc": "2026-09-09T04:57:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 137295,
+      "media_size_human": "134.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356431_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356431_video.mp4",
+      "media_local_path": "media/IranintlTV_356432_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356432_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.711997+00:00"
+      "archived_at": "2026-09-09T06:00:48.857022+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996489+00:00"
+      "archived_at": "2026-09-09T06:00:49.186929+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120799_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120799_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263934+00:00"
+      "archived_at": "2026-09-09T06:00:49.420647+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524885+00:00"
+      "archived_at": "2026-09-09T06:00:49.626819+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446467+00:00"
+      "archived_at": "2026-09-09T06:00:48.606981+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356430,
-      "message_link": "https://t.me/IranintlTV/356430",
-      "text": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.\n\nکاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.\n\nکاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.\n\nهم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.\n\nhttps://iranintl.com/202609093167",
+      "message_id": 356431,
+      "message_link": "https://t.me/IranintlTV/356431",
+      "text": "سرخط خبرهای چهارشنبه ۱۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "07:14:05",
-      "gregorian_utc": "2026-09-09T03:44:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 120945,
-      "media_size_human": "118.11 KB",
+      "tehran_time": "07:56:24",
+      "gregorian_utc": "2026-09-09T04:26:24+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1144752,
+      "media_size_human": "1.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356430_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356430_photo.jpg",
+      "media_local_path": "media/IranintlTV_356431_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356431_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.712125+00:00"
+      "archived_at": "2026-09-09T06:00:48.857079+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996557+00:00"
+      "archived_at": "2026-09-09T06:00:49.187009+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120798_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.263975+00:00"
+      "archived_at": "2026-09-09T06:00:49.420790+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524903+00:00"
+      "archived_at": "2026-09-09T06:00:49.626843+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446494+00:00"
+      "archived_at": "2026-09-09T06:00:48.607009+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356429,
-      "message_link": "https://t.me/IranintlTV/356429",
-      "text": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.\nعلی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.\nجمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.\nرویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.\n\nhttps://irani",
+      "message_id": 356430,
+      "message_link": "https://t.me/IranintlTV/356430",
+      "text": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.\n\nکاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.\n\nکاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.\n\nهم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.\n\nhttps://iranintl.com/202609093167",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "06:44:23",
-      "gregorian_utc": "2026-09-09T03:14:23+00:00",
+      "tehran_time": "07:14:05",
+      "gregorian_utc": "2026-09-09T03:44:05+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152424,
-      "media_size_human": "148.85 KB",
+      "media_size_bytes": 120945,
+      "media_size_human": "118.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356429_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356429_photo.jpg",
+      "media_local_path": "media/IranintlTV_356430_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356430_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.712158+00:00"
+      "archived_at": "2026-09-09T06:00:48.857215+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.996597+00:00"
+      "archived_at": "2026-09-09T06:00:49.187039+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.264106+00:00"
+      "archived_at": "2026-09-09T06:00:49.420822+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524921+00:00"
+      "archived_at": "2026-09-09T06:00:49.626866+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446515+00:00"
+      "archived_at": "2026-09-09T06:00:48.607035+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356428,
-      "message_link": "https://t.me/IranintlTV/356428",
-      "text": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.\n\nنیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.\n\nکردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.\nhttps://iranin",
+      "message_id": 356429,
+      "message_link": "https://t.me/IranintlTV/356429",
+      "text": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.\nعلی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.\nجمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.\nرویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.\n\nhttps://irani",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "06:18:03",
-      "gregorian_utc": "2026-09-09T02:48:03+00:00",
+      "tehran_time": "06:44:23",
+      "gregorian_utc": "2026-09-09T03:14:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 177249,
-      "media_size_human": "173.09 KB",
+      "media_size_bytes": 152424,
+      "media_size_human": "148.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356428_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356428_photo.jpg",
+      "media_local_path": "media/IranintlTV_356429_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356429_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.712188+00:00"
+      "archived_at": "2026-09-09T06:00:48.857255+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996652+00:00"
+      "archived_at": "2026-09-09T06:00:49.187100+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.264161+00:00"
+      "archived_at": "2026-09-09T06:00:49.420878+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524939+00:00"
+      "archived_at": "2026-09-09T06:00:49.626889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446535+00:00"
+      "archived_at": "2026-09-09T06:00:48.607060+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356427,
-      "message_link": "https://t.me/IranintlTV/356427",
-      "text": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.\n\nقیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.\n\nبر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.\n\nهم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.\n\nhttps://iranintl.com/202609094124",
+      "message_id": 356428,
+      "message_link": "https://t.me/IranintlTV/356428",
+      "text": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.\n\nنیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.\n\nکردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.\nhttps://iranin",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:38:06",
-      "gregorian_utc": "2026-09-09T02:08:06+00:00",
+      "tehran_time": "06:18:03",
+      "gregorian_utc": "2026-09-09T02:48:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 232237,
-      "media_size_human": "226.79 KB",
+      "media_size_bytes": 177249,
+      "media_size_human": "173.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356427_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356427_photo.jpg",
+      "media_local_path": "media/IranintlTV_356428_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356428_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.712299+00:00"
+      "archived_at": "2026-09-09T06:00:48.857290+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996731+00:00"
+      "archived_at": "2026-09-09T06:00:49.187193+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120795_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120795_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:36.264196+00:00"
+      "archived_at": "2026-09-09T06:00:49.420920+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:36.524958+00:00"
+      "archived_at": "2026-09-09T06:00:49.626914+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T05:50:35.446553+00:00"
+      "archived_at": "2026-09-09T06:00:48.607085+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356426,
-      "message_link": "https://t.me/IranintlTV/356426",
-      "text": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.\n\nاین پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.\n\nپیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.\n\nآسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.\n\nآژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.\n\nhttps://iranintl.com/202609092245",
+      "message_id": 356427,
+      "message_link": "https://t.me/IranintlTV/356427",
+      "text": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.\n\nقیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.\n\nبر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.\n\nهم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.\n\nhttps://iranintl.com/202609094124",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:32:12",
-      "gregorian_utc": "2026-09-09T02:02:12+00:00",
+      "tehran_time": "05:38:06",
+      "gregorian_utc": "2026-09-09T02:08:06+00:00",
       "media_type": "photo",
-      "media_size_bytes": 144395,
-      "media_size_human": "141.01 KB",
+      "media_size_bytes": 232237,
+      "media_size_human": "226.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356426_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356426_photo.jpg",
+      "media_local_path": "media/IranintlTV_356427_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356427_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.712406+00:00"
+      "archived_at": "2026-09-09T06:00:48.857441+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T05:50:35.996790+00:00"
+      "archived_at": "2026-09-09T06:00:49.187260+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-09T05:50:36.264247+00:00"
+      "archived_at": "2026-09-09T06:00:49.420982+00:00"
     }
   ]
 }
