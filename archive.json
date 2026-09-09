@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:24:52.808186+00:00",
-  "shamsi_generated": "1405/06/18 04:24:52 تهران",
+  "generated_at": "2026-09-09T04:35:09.190398+00:00",
+  "shamsi_generated": "1405/06/18 04:35:09 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.125873+00:00"
+      "archived_at": "2026-09-09T04:30:40.153727+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356430,
-      "message_link": "https://t.me/IranintlTV/356430",
-      "text": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.\n\nکاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.\n\nکاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.\n\nهم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.\n\nhttps://iranintl.com/202609093167",
+      "message_id": 356431,
+      "message_link": "https://t.me/IranintlTV/356431",
+      "text": "سرخط خبرهای چهارشنبه ۱۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "07:14:05",
-      "gregorian_utc": "2026-09-09T03:44:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 120945,
-      "media_size_human": "118.11 KB",
+      "tehran_time": "07:56:24",
+      "gregorian_utc": "2026-09-09T04:26:24+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1144752,
+      "media_size_human": "1.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356430_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356430_photo.jpg",
+      "media_local_path": "media/IranintlTV_356431_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356431_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.474840+00:00"
+      "archived_at": "2026-09-09T04:30:40.408336+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.839055+00:00"
+      "archived_at": "2026-09-09T04:30:40.686397+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120803_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120803_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.233942+00:00"
+      "archived_at": "2026-09-09T04:30:40.977240+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.594695+00:00"
+      "archived_at": "2026-09-09T04:30:41.217359+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.125924+00:00"
+      "archived_at": "2026-09-09T04:30:40.153790+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356429,
-      "message_link": "https://t.me/IranintlTV/356429",
-      "text": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.\nعلی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.\nجمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.\nرویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.\n\nhttps://irani",
+      "message_id": 356430,
+      "message_link": "https://t.me/IranintlTV/356430",
+      "text": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.\n\nکاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.\n\nکاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.\n\nهم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.\n\nhttps://iranintl.com/202609093167",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "06:44:23",
-      "gregorian_utc": "2026-09-09T03:14:23+00:00",
+      "tehran_time": "07:14:05",
+      "gregorian_utc": "2026-09-09T03:44:05+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152424,
-      "media_size_human": "148.85 KB",
+      "media_size_bytes": 120945,
+      "media_size_human": "118.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356429_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356429_photo.jpg",
+      "media_local_path": "media/IranintlTV_356430_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356430_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.474906+00:00"
+      "archived_at": "2026-09-09T04:30:40.408522+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.839157+00:00"
+      "archived_at": "2026-09-09T04:30:40.686497+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120802_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120802_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234014+00:00"
+      "archived_at": "2026-09-09T04:30:40.977309+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.594765+00:00"
+      "archived_at": "2026-09-09T04:30:41.217424+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.125960+00:00"
+      "archived_at": "2026-09-09T04:30:40.153823+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356428,
-      "message_link": "https://t.me/IranintlTV/356428",
-      "text": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.\n\nنیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.\n\nکردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.\nhttps://iranin",
+      "message_id": 356429,
+      "message_link": "https://t.me/IranintlTV/356429",
+      "text": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.\nعلی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.\nجمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.\nرویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.\n\nhttps://irani",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "06:18:03",
-      "gregorian_utc": "2026-09-09T02:48:03+00:00",
+      "tehran_time": "06:44:23",
+      "gregorian_utc": "2026-09-09T03:14:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 177249,
-      "media_size_human": "173.09 KB",
+      "media_size_bytes": 152424,
+      "media_size_human": "148.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356428_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356428_photo.jpg",
+      "media_local_path": "media/IranintlTV_356429_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356429_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.474953+00:00"
+      "archived_at": "2026-09-09T04:30:40.408570+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854153+00:00"
+      "archived_at": "2026-09-09T04:30:40.700516+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120801_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120801_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234084+00:00"
+      "archived_at": "2026-09-09T04:30:40.977371+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594796+00:00"
+      "archived_at": "2026-09-09T04:30:41.217452+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126001+00:00"
+      "archived_at": "2026-09-09T04:30:40.153863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356427,
-      "message_link": "https://t.me/IranintlTV/356427",
-      "text": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.\n\nقیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.\n\nبر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.\n\nهم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.\n\nhttps://iranintl.com/202609094124",
+      "message_id": 356428,
+      "message_link": "https://t.me/IranintlTV/356428",
+      "text": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.\n\nنیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.\n\nکردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.\nhttps://iranin",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:38:06",
-      "gregorian_utc": "2026-09-09T02:08:06+00:00",
+      "tehran_time": "06:18:03",
+      "gregorian_utc": "2026-09-09T02:48:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 232237,
-      "media_size_human": "226.79 KB",
+      "media_size_bytes": 177249,
+      "media_size_human": "173.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356427_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356427_photo.jpg",
+      "media_local_path": "media/IranintlTV_356428_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356428_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475085+00:00"
+      "archived_at": "2026-09-09T04:30:40.408607+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.854347+00:00"
+      "archived_at": "2026-09-09T04:30:40.700780+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120800_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120800_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234146+00:00"
+      "archived_at": "2026-09-09T04:30:40.977422+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594822+00:00"
+      "archived_at": "2026-09-09T04:30:41.217474+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126033+00:00"
+      "archived_at": "2026-09-09T04:30:40.153890+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356426,
-      "message_link": "https://t.me/IranintlTV/356426",
-      "text": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.\n\nاین پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.\n\nپیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.\n\nآسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.\n\nآژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.\n\nhttps://iranintl.com/202609092245",
+      "message_id": 356427,
+      "message_link": "https://t.me/IranintlTV/356427",
+      "text": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.\n\nقیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.\n\nبر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.\n\nهم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.\n\nhttps://iranintl.com/202609094124",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:32:12",
-      "gregorian_utc": "2026-09-09T02:02:12+00:00",
+      "tehran_time": "05:38:06",
+      "gregorian_utc": "2026-09-09T02:08:06+00:00",
       "media_type": "photo",
-      "media_size_bytes": 144395,
-      "media_size_human": "141.01 KB",
+      "media_size_bytes": 232237,
+      "media_size_human": "226.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356426_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356426_photo.jpg",
+      "media_local_path": "media/IranintlTV_356427_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356427_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475231+00:00"
+      "archived_at": "2026-09-09T04:30:40.408757+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854430+00:00"
+      "archived_at": "2026-09-09T04:30:40.700872+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120799_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120799_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234215+00:00"
+      "archived_at": "2026-09-09T04:30:40.977485+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594873+00:00"
+      "archived_at": "2026-09-09T04:30:41.217495+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126068+00:00"
+      "archived_at": "2026-09-09T04:30:40.153922+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356425,
-      "message_link": "https://t.me/IranintlTV/356425",
-      "text": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.\n\nپس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.\n\nسپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.\n\nدان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.\n\nنیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.\n\nhttps://iranintl.com/202609090312",
+      "message_id": 356426,
+      "message_link": "https://t.me/IranintlTV/356426",
+      "text": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.\n\nاین پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.\n\nپیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.\n\nآسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.\n\nآژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.\n\nhttps://iranintl.com/202609092245",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:24:24",
-      "gregorian_utc": "2026-09-09T01:54:24+00:00",
+      "tehran_time": "05:32:12",
+      "gregorian_utc": "2026-09-09T02:02:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 193810,
-      "media_size_human": "189.27 KB",
+      "media_size_bytes": 144395,
+      "media_size_human": "141.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356425_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356425_photo.jpg",
+      "media_local_path": "media/IranintlTV_356426_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356426_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475352+00:00"
+      "archived_at": "2026-09-09T04:30:40.408885+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854556+00:00"
+      "archived_at": "2026-09-09T04:30:40.700995+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120798_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234261+00:00"
+      "archived_at": "2026-09-09T04:30:40.977525+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594898+00:00"
+      "archived_at": "2026-09-09T04:30:41.217516+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126098+00:00"
+      "archived_at": "2026-09-09T04:30:40.153947+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356424,
-      "message_link": "https://t.me/IranintlTV/356424",
-      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار ویدیویی در شبکه اجتماعی ایکس نوشت: «نفتکش ریسکو سه‌شنبه، پس از آنکه در واکنش به تلاش‌های سپاه پاسداران برای حمله به یک ناو جنگی نیروی دریایی آمریکا به دست نیروهای سنتکام منهدم شد، در خلیج عمان غرق شد.»\n\nhttps://iranintl.com/202609091998",
+      "message_id": 356425,
+      "message_link": "https://t.me/IranintlTV/356425",
+      "text": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.\n\nپس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.\n\nسپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.\n\nدان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.\n\nنیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.\n\nhttps://iranintl.com/202609090312",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "05:20:07",
-      "gregorian_utc": "2026-09-09T01:50:07+00:00",
+      "tehran_time": "05:24:24",
+      "gregorian_utc": "2026-09-09T01:54:24+00:00",
       "media_type": "photo",
-      "media_size_bytes": 129059,
-      "media_size_human": "126.03 KB",
+      "media_size_bytes": 193810,
+      "media_size_human": "189.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356424_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356424_photo.jpg",
+      "media_local_path": "media/IranintlTV_356425_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356425_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475425+00:00"
+      "archived_at": "2026-09-09T04:30:40.408998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854598+00:00"
+      "archived_at": "2026-09-09T04:30:40.701031+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.234289+00:00"
+      "archived_at": "2026-09-09T04:30:40.977548+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594923+00:00"
+      "archived_at": "2026-09-09T04:30:41.217540+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126140+00:00"
+      "archived_at": "2026-09-09T04:30:40.153987+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356423,
-      "message_link": "https://t.me/IranintlTV/356423",
-      "text": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگوی اختصاصی با ایران‌اینترنشنال، تهدید خبرنگاران رسانه‌های فارسی‌زبان از سوی سپاه پاسداران را «غیرقابل قبول» خواند و بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد.\n\nچیکونی گفت: «کاملا نادرست است که سپاه پاسداران خبرنگاران را صرفا به دلیل انجام کارشان تهدید کند.» او افزود خبرنگاران باید بتوانند بدون دخالت، آزار و ارعاب، رویدادهای داخل ایران را گزارش کنند.\n\nاین سناتور استرالیایی گفت کشورهای جهان باید در کنار مردم ایران و جامعه ایرانیان خارج از کشور بایستند و از تلاش‌های آنها برای محکوم کردن اقدامات حکومت ایران حمایت کنند.\n\nچیکونی همچنین به اقداماتی از جمله اخراج سفیر و دیپلمات‌های ارشد جمهوری اسلامی و اعمال تحریم علیه صدها فرد مرتبط با سپاه پاسداران و حکومت ایران در استرالیا اشاره کرد.\n\nاو افزود: «مردم ایران برای حمایت به دیگر کشورهای جهان چشم دوخته‌اند و می‌توانم بگویم که بسیاری از مردم استرالیا صددرصد در کنار آنها هستند.»\nhttps://iranintl.com/202609098078",
+      "message_id": 356424,
+      "message_link": "https://t.me/IranintlTV/356424",
+      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار ویدیویی در شبکه اجتماعی ایکس نوشت: «نفتکش ریسکو سه‌شنبه، پس از آنکه در واکنش به تلاش‌های سپاه پاسداران برای حمله به یک ناو جنگی نیروی دریایی آمریکا به دست نیروهای سنتکام منهدم شد، در خلیج عمان غرق شد.»\n\nhttps://iranintl.com/202609091998",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "04:55:55",
-      "gregorian_utc": "2026-09-09T01:25:55+00:00",
+      "tehran_time": "05:20:07",
+      "gregorian_utc": "2026-09-09T01:50:07+00:00",
       "media_type": "photo",
-      "media_size_bytes": 95942,
-      "media_size_human": "93.69 KB",
+      "media_size_bytes": 129059,
+      "media_size_human": "126.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356423_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356423_photo.jpg",
+      "media_local_path": "media/IranintlTV_356424_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356424_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475560+00:00"
+      "archived_at": "2026-09-09T04:30:40.409066+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854678+00:00"
+      "archived_at": "2026-09-09T04:30:40.701108+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.234343+00:00"
+      "archived_at": "2026-09-09T04:30:40.977593+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594946+00:00"
+      "archived_at": "2026-09-09T04:30:41.217561+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126169+00:00"
+      "archived_at": "2026-09-09T04:30:40.154013+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356421,
-      "message_link": "https://t.me/IranintlTV/356421",
-      "text": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.\n\nاو نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»\n\nhttps://iranintl.com/202609095816",
+      "message_id": 356423,
+      "message_link": "https://t.me/IranintlTV/356423",
+      "text": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگوی اختصاصی با ایران‌اینترنشنال، تهدید خبرنگاران رسانه‌های فارسی‌زبان از سوی سپاه پاسداران را «غیرقابل قبول» خواند و بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد.\n\nچیکونی گفت: «کاملا نادرست است که سپاه پاسداران خبرنگاران را صرفا به دلیل انجام کارشان تهدید کند.» او افزود خبرنگاران باید بتوانند بدون دخالت، آزار و ارعاب، رویدادهای داخل ایران را گزارش کنند.\n\nاین سناتور استرالیایی گفت کشورهای جهان باید در کنار مردم ایران و جامعه ایرانیان خارج از کشور بایستند و از تلاش‌های آنها برای محکوم کردن اقدامات حکومت ایران حمایت کنند.\n\nچیکونی همچنین به اقداماتی از جمله اخراج سفیر و دیپلمات‌های ارشد جمهوری اسلامی و اعمال تحریم علیه صدها فرد مرتبط با سپاه پاسداران و حکومت ایران در استرالیا اشاره کرد.\n\nاو افزود: «مردم ایران برای حمایت به دیگر کشورهای جهان چشم دوخته‌اند و می‌توانم بگویم که بسیاری از مردم استرالیا صددرصد در کنار آنها هستند.»\nhttps://iranintl.com/202609098078",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "04:16:27",
-      "gregorian_utc": "2026-09-09T00:46:27+00:00",
+      "tehran_time": "04:55:55",
+      "gregorian_utc": "2026-09-09T01:25:55+00:00",
       "media_type": "photo",
-      "media_size_bytes": 133587,
-      "media_size_human": "130.46 KB",
+      "media_size_bytes": 95942,
+      "media_size_human": "93.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356421_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356421_photo.jpg",
+      "media_local_path": "media/IranintlTV_356423_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356423_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475643+00:00"
+      "archived_at": "2026-09-09T04:30:40.409189+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.854707+00:00"
+      "archived_at": "2026-09-09T04:30:40.701131+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120795_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120795_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234384+00:00"
+      "archived_at": "2026-09-09T04:30:40.977624+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594969+00:00"
+      "archived_at": "2026-09-09T04:30:41.217581+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126195+00:00"
+      "archived_at": "2026-09-09T04:30:40.154036+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356420,
-      "message_link": "https://t.me/IranintlTV/356420",
-      "text": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.\nاو در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356421,
+      "message_link": "https://t.me/IranintlTV/356421",
+      "text": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.\n\nاو نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»\n\nhttps://iranintl.com/202609095816",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "04:02:19",
-      "gregorian_utc": "2026-09-09T00:32:19+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1351234,
-      "media_size_human": "1.29 MB",
+      "tehran_time": "04:16:27",
+      "gregorian_utc": "2026-09-09T00:46:27+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 133587,
+      "media_size_human": "130.46 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356420_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356420_video.mp4",
+      "media_local_path": "media/IranintlTV_356421_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356421_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475727+00:00"
+      "archived_at": "2026-09-09T04:30:40.409265+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854767+00:00"
+      "archived_at": "2026-09-09T04:30:40.701184+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-09T04:20:43.234443+00:00"
+      "archived_at": "2026-09-09T04:30:40.977675+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.594992+00:00"
+      "archived_at": "2026-09-09T04:30:41.217603+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126219+00:00"
+      "archived_at": "2026-09-09T04:30:40.154057+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356419,
-      "message_link": "https://t.me/IranintlTV/356419",
-      "text": "چاک شومر، رهبر اقلیت دموکرات در مجلس سنای آمریکا، در شبکه اجتماعی ایکس نوشت که دونالد ترامپ «ما را وارد جنگی بی‌پایان کرده است؛ جنگی که باعث افزایش سرسام‌آور قیمت‌ها در داخل کشور شده و هم‌زمان نیروهای نظامی ما را در خارج از کشور در معرض خطر قرار داده است.»\n\nاو تاکید کرد: «ما باید فورا به این جنگ پایان دهیم.»\n\nhttps://iranintl.com/202609097602",
+      "message_id": 356420,
+      "message_link": "https://t.me/IranintlTV/356420",
+      "text": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.\nاو در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "03:55:47",
-      "gregorian_utc": "2026-09-09T00:25:47+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 143902,
-      "media_size_human": "140.53 KB",
+      "tehran_time": "04:02:19",
+      "gregorian_utc": "2026-09-09T00:32:19+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1351234,
+      "media_size_human": "1.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356419_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356419_photo.jpg",
+      "media_local_path": "media/IranintlTV_356420_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356420_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475802+00:00"
+      "archived_at": "2026-09-09T04:30:40.409332+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854889+00:00"
+      "archived_at": "2026-09-09T04:30:40.701270+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120793_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120793_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234482+00:00"
+      "archived_at": "2026-09-09T04:30:40.977703+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:43.595018+00:00"
+      "archived_at": "2026-09-09T04:30:41.217624+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-09T04:20:42.126245+00:00"
+      "archived_at": "2026-09-09T04:30:40.154078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356418,
-      "message_link": "https://t.me/IranintlTV/356418",
-      "text": "امیرمبارز پرستا، مدیر بخش سلامت پروژه شکوفایی ایران، با اشاره به پیام شاهزاده رضا پهلوی درباره حمایت از خانواده‌های دادخواه گفت شبکه‌های متعددی در حوزه درمان و سلامت روان در خارج از کشور ایجاد شده‌اند که به افراد نیازمند حمایت روانی در ایران خدمات ارایه می‌کنند.\n\nاو افزود حمایت تخصصی روانی از خانواده‌های دادخواه می‌تواند از طریق کادر درمان در داخل ایران و شبکه‌های تخصصی خارج از کشور انجام شود و مهم‌ترین مسئله این است که این خانواده‌ها احساس نکنند تنها هستند.\n@iranintltv",
+      "message_id": 356419,
+      "message_link": "https://t.me/IranintlTV/356419",
+      "text": "چاک شومر، رهبر اقلیت دموکرات در مجلس سنای آمریکا، در شبکه اجتماعی ایکس نوشت که دونالد ترامپ «ما را وارد جنگی بی‌پایان کرده است؛ جنگی که باعث افزایش سرسام‌آور قیمت‌ها در داخل کشور شده و هم‌زمان نیروهای نظامی ما را در خارج از کشور در معرض خطر قرار داده است.»\n\nاو تاکید کرد: «ما باید فورا به این جنگ پایان دهیم.»\n\nhttps://iranintl.com/202609097602",
       "shamsi_date": "1405/06/18",
-      "tehran_time": "03:50:46",
-      "gregorian_utc": "2026-09-09T00:20:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4015811,
-      "media_size_human": "3.83 MB",
+      "tehran_time": "03:55:47",
+      "gregorian_utc": "2026-09-09T00:25:47+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 143902,
+      "media_size_human": "140.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356418_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356418_video.mp4",
+      "media_local_path": "media/IranintlTV_356419_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.475911+00:00"
+      "archived_at": "2026-09-09T04:30:40.409395+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:42.854962+00:00"
+      "archived_at": "2026-09-09T04:30:40.701329+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120792_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120792_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-09T04:20:43.234534+00:00"
+      "archived_at": "2026-09-09T04:30:40.977760+00:00"
     }
   ]
 }
