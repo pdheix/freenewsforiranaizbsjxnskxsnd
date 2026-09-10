@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T14:14:45.610394+00:00",
-  "shamsi_generated": "1405/06/19 14:14:45 تهران",
+  "generated_at": "2026-09-10T14:24:51.238307+00:00",
+  "shamsi_generated": "1405/06/19 14:24:51 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455011+00:00"
+      "archived_at": "2026-09-10T14:20:49.315377+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356674,
-      "message_link": "https://t.me/IranintlTV/356674",
-      "text": "علیرضا عباسی، نماینده کرج، فردیس و اشتهارد در مجلس، پنج‌شنبه ۱۹ شهریور در واکنش به تصویب قطعنامه شورای حکام آژانس بین‌المللی انرژی اتمی گفت بازنگری در عضویت جمهوری اسلامی در پیمان منع گسترش سلاح‌های هسته‌ای، ان‌پی‌تی، در دستور کار قرار خواهد گرفت.\n\nعباسی همچنین گفت: «از این پس، در تنگه هرمز تحریم‌های متقابلی علیه آنان اعمال خواهیم کرد و آنها را به‌شدت پشیمان خواهیم کرد.»\n\nاو قطعنامه شورای حکام را مبتنی بر «ادعاهای پوچ، بی‌اساس و واهی» خواند و گفت بازنگری در عضویت جمهوری اسلامی در ان‌پی‌تی یکی از پاسخ‌ها به تصویب این قطعنامه خواهد بود.\n\nعباسی همچنین آژانس و بازرسان آن را به انتقال اطلاعات مربوط به دانشمندان و تاسیسات هسته‌ای جمهوری اسلامی به آمریکا و اسرائیل متهم کرد و گفت: «گزارش‌های آژانس زمینه‌ساز تحریم، خرابکاری و حمله به تاسیسات هسته‌ای شده‌اند.»\n\nاو با اشاره به تصویب قطعنامه شورای حکام با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع، از روسیه، چین و نیجر به دلیل رای منفی به آن تشکر کرد و به آمریکا، بریتانیا، فرانسه و آلمان، تهیه‌کنندگان قطعنامه، هشدار داد.\nhttps://iranintl.com/202609103667",
+      "message_id": 356677,
+      "message_link": "https://t.me/IranintlTV/356677",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر پرنیان دبیری، معترض کشته‌شده در دی ۱۴۰۴، به پویش «یک شمع، یک نام، یک یاد» پیوست و گفت که دخترش اینک در قلب، ذهن و تک‌تک سلول‌هایش زندگی می‌کند.\n\nاو افزود: «پرنیان من دختر آرامی بود. الگوی من بود. به معنای واقعی مبارزه کرد. زنده بودن را زندگی کرد ولی ضحاک‌های زمانه کشتندش. زندگی‌اش را گرفتند. من به پرنیانم می‌بالم، می‌نازم و افتخار می‌کنم.»",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:36:56",
-      "gregorian_utc": "2026-09-10T14:06:56+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 130077,
-      "media_size_human": "127.03 KB",
+      "tehran_time": "17:45:04",
+      "gregorian_utc": "2026-09-10T14:15:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 23311959,
+      "media_size_human": "22.23 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356674_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356674_photo.jpg",
+      "media_local_path": "media/IranintlTV_356677_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356677_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.877770+00:00"
+      "archived_at": "2026-09-10T14:20:49.665753+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76437_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76437_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.300899+00:00"
+      "archived_at": "2026-09-10T14:20:50.014608+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.076568+00:00"
+      "archived_at": "2026-09-10T14:20:50.367739+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.458557+00:00"
+      "archived_at": "2026-09-10T14:20:50.678296+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455070+00:00"
+      "archived_at": "2026-09-10T14:20:49.315414+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356673,
-      "message_link": "https://t.me/IranintlTV/356673",
-      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت که در خیابان، فراخوان پیوستن به تیپ پیاده کربلا در میان نوجوانان پخش می‌شود.\n\nقرارگاه کربلا یکی از قرارگاه‌های ده‌گانه نیروی زمینی سپاه پاسداران است که در جنوب غربی ایران فعالیت می‌کند.",
+      "message_id": 356676,
+      "message_link": "https://t.me/IranintlTV/356676",
+      "text": "ویژهٔ «برنامه» سالگرد مهسا امینی\nچهارشنبه، ۲۵ شهریور | ساعت ۱۱ شب به وقت تهران\nاگر زن هستید و در ایران زندگی می‌کنید، این «برنامه» برای شماست.\nاز تجربهٔ واقعی خودتان برای ما بگویید:\nاز «زن، زندگی، آزادی» تا امروز، چه چیزی در زندگی‌تان تغییر کرده و چه چیزی هنوز تغییر نکرده است؟\nاین «برنامه» مرور وقایع یا بازگویی تاریخ نیست؛ تریبونی برای ثبت تجربه‌های شخصی زنان داخل ایران است: آنچه به دست آورده‌اند، آنچه از دست داده‌اند، مرزهایی که جابه‌جا شده‌اند و فشارهایی که همچنان ادامه دارند.\nاگر امکان حضور روی خط را ندارید، صدایتان را ضبط کنید و برای «برنامه» بفرستید.\nویژهٔ «برنامه» سالگرد مهسا امینی\nچهارشنبه، ۲۵ شهریور | ساعت ۱۱ شب به وقت تهران\nاز «زن، زندگی، آزادی» تا امروز،\nزندگی شما به‌عنوان یک زن در ایران\nچه تغییری کرده است؟\nدر واتس‌اپ پیام بدهید:\n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:34:51",
-      "gregorian_utc": "2026-09-10T14:04:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 16207387,
-      "media_size_human": "15.46 MB",
+      "tehran_time": "17:44:23",
+      "gregorian_utc": "2026-09-10T14:14:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 168343,
+      "media_size_human": "164.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356673_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356673_video.mp4",
+      "media_local_path": "media/IranintlTV_356676_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356676_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.877854+00:00"
+      "archived_at": "2026-09-10T14:20:49.665916+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76436_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76436_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301008+00:00"
+      "archived_at": "2026-09-10T14:20:50.014707+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.076644+00:00"
+      "archived_at": "2026-09-10T14:20:50.367803+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.458632+00:00"
+      "archived_at": "2026-09-10T14:20:50.678352+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455109+00:00"
+      "archived_at": "2026-09-10T14:20:49.315442+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356671,
-      "message_link": "https://t.me/IranintlTV/356671",
-      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مردم درباره پیامدهای کشتار دی‌ماه و جنگ جاری بر سلامت روان آنها پرسید. حدود ۳۸ هزار نفر در این نظرسنجی شرکت کردند که ۹۴ درصد آنها گفتند خشمشان در مواجهه با مشکلات، بسیار سریع‌تر از سال‌های گذشته برانگیخته می‌شود.\n\nسبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال، از دلایل خشم شرکت‌کنندگان در نظرسنجی می‌گوید\n@iranintltv",
+      "message_id": 356675,
+      "message_link": "https://t.me/IranintlTV/356675",
+      "text": "هوشنگ سهرابی، برادر ۴۵ ساله جاویدنام یاسین سهرابی، ۱۲ شهریور بر اثر فشار روحی دچار ایست قلبی شد و درگذشت.\n\nیک منبع آگاه به ایران‌اینترنشنال گفت مادر جاویدنام یاسین سهرابی پس از درگذشت هوشنگ، دیگر پسرش، در وضعیت روحی نامناسبی قرار دارد.\n\nجزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:27:16",
-      "gregorian_utc": "2026-09-10T13:57:16+00:00",
+      "tehran_time": "17:44:04",
+      "gregorian_utc": "2026-09-10T14:14:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 3239528,
-      "media_size_human": "3.09 MB",
+      "media_size_bytes": 2926622,
+      "media_size_human": "2.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356671_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356671_video.mp4",
+      "media_local_path": "media/IranintlTV_356675_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356675_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.877941+00:00"
+      "archived_at": "2026-09-10T14:20:49.665978+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301196+00:00"
+      "archived_at": "2026-09-10T14:20:50.014886+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120848_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120848_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.076712+00:00"
+      "archived_at": "2026-09-10T14:20:50.367860+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458665+00:00"
+      "archived_at": "2026-09-10T14:20:50.678373+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455148+00:00"
+      "archived_at": "2026-09-10T14:20:49.315467+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356670,
-      "message_link": "https://t.me/IranintlTV/356670",
-      "text": "سرخط خبرهای پنج‌شنبه ۱۹ شهریور\n@iranintltv",
+      "message_id": 356674,
+      "message_link": "https://t.me/IranintlTV/356674",
+      "text": "علیرضا عباسی، نماینده کرج، فردیس و اشتهارد در مجلس، پنج‌شنبه ۱۹ شهریور در واکنش به تصویب قطعنامه شورای حکام آژانس بین‌المللی انرژی اتمی گفت بازنگری در عضویت جمهوری اسلامی در پیمان منع گسترش سلاح‌های هسته‌ای، ان‌پی‌تی، در دستور کار قرار خواهد گرفت.\n\nعباسی همچنین گفت: «از این پس، در تنگه هرمز تحریم‌های متقابلی علیه آنان اعمال خواهیم کرد و آنها را به‌شدت پشیمان خواهیم کرد.»\n\nاو قطعنامه شورای حکام را مبتنی بر «ادعاهای پوچ، بی‌اساس و واهی» خواند و گفت بازنگری در عضویت جمهوری اسلامی در ان‌پی‌تی یکی از پاسخ‌ها به تصویب این قطعنامه خواهد بود.\n\nعباسی همچنین آژانس و بازرسان آن را به انتقال اطلاعات مربوط به دانشمندان و تاسیسات هسته‌ای جمهوری اسلامی به آمریکا و اسرائیل متهم کرد و گفت: «گزارش‌های آژانس زمینه‌ساز تحریم، خرابکاری و حمله به تاسیسات هسته‌ای شده‌اند.»\n\nاو با اشاره به تصویب قطعنامه شورای حکام با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع، از روسیه، چین و نیجر به دلیل رای منفی به آن تشکر کرد و به آمریکا، بریتانیا، فرانسه و آلمان، تهیه‌کنندگان قطعنامه، هشدار داد.\nhttps://iranintl.com/202609103667",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:20:40",
-      "gregorian_utc": "2026-09-10T13:50:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1266220,
-      "media_size_human": "1.21 MB",
+      "tehran_time": "17:36:56",
+      "gregorian_utc": "2026-09-10T14:06:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130077,
+      "media_size_human": "127.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356670_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356670_video.mp4",
+      "media_local_path": "media/IranintlTV_356674_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356674_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.877994+00:00"
+      "archived_at": "2026-09-10T14:20:49.666090+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301286+00:00"
+      "archived_at": "2026-09-10T14:20:50.014958+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.076772+00:00"
+      "archived_at": "2026-09-10T14:20:50.367898+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458691+00:00"
+      "archived_at": "2026-09-10T14:20:50.678391+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455177+00:00"
+      "archived_at": "2026-09-10T14:20:49.315485+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356669,
-      "message_link": "https://t.me/IranintlTV/356669",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد همسر محسن رشیدی خانی آبادی، معترض کشته‌شده در دی ۱۴۰۴، به پویش «یک شمع، یک نام، یک یاد» پیوست و به یاد «جاویدنامان وطن» شمع روشن کرد.",
+      "message_id": 356673,
+      "message_link": "https://t.me/IranintlTV/356673",
+      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت که در خیابان، فراخوان پیوستن به تیپ پیاده کربلا در میان نوجوانان پخش می‌شود.\n\nقرارگاه کربلا یکی از قرارگاه‌های ده‌گانه نیروی زمینی سپاه پاسداران است که در جنوب غربی ایران فعالیت می‌کند.",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:15:07",
-      "gregorian_utc": "2026-09-10T13:45:07+00:00",
+      "tehran_time": "17:34:51",
+      "gregorian_utc": "2026-09-10T14:04:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 5413154,
-      "media_size_human": "5.16 MB",
+      "media_size_bytes": 16207387,
+      "media_size_human": "15.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356669_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356669_video.mp4",
+      "media_local_path": "media/IranintlTV_356673_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356673_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.878035+00:00"
+      "archived_at": "2026-09-10T14:20:49.666121+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301390+00:00"
+      "archived_at": "2026-09-10T14:20:50.015044+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120846_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120846_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.076855+00:00"
+      "archived_at": "2026-09-10T14:20:50.367929+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458716+00:00"
+      "archived_at": "2026-09-10T14:20:50.678411+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455214+00:00"
+      "archived_at": "2026-09-10T14:20:49.315509+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356668,
-      "message_link": "https://t.me/IranintlTV/356668",
-      "text": "پلیس بریتانیا اعلام کرد یک زن ۴۲ ساله و یک مرد ۶۰ ساله را بر اساس قانون امنیت ملی و به اتهام ارتکاب جرایمی در ارتباط با جمهوری اسلامی بازداشت کرده است.\n\nپلیس این کشور اعلام کرد، این دو نفر چهارشنبه ۱۸ شهریور در لندن به اتهام «کمک به نهادهای امنیتی جمهوری اسلامی» بازداشت شدند.\n\nپلیس لندن اعلام کرد این بازداشت‌ها ارتباطی با حملات اوایل سال جاری به مکان‌ها و ساختمان‌های مرتبط با جوامع یهودی و ایرانیان مخالف جمهوری اسلامی در لندن ندارد.\nhttps://iranintl.com/202609109884",
+      "message_id": 356671,
+      "message_link": "https://t.me/IranintlTV/356671",
+      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مردم درباره پیامدهای کشتار دی‌ماه و جنگ جاری بر سلامت روان آنها پرسید. حدود ۳۸ هزار نفر در این نظرسنجی شرکت کردند که ۹۴ درصد آنها گفتند خشمشان در مواجهه با مشکلات، بسیار سریع‌تر از سال‌های گذشته برانگیخته می‌شود.\n\nسبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال، از دلایل خشم شرکت‌کنندگان در نظرسنجی می‌گوید\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:05:00",
-      "gregorian_utc": "2026-09-10T13:35:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 196943,
-      "media_size_human": "192.33 KB",
+      "tehran_time": "17:27:16",
+      "gregorian_utc": "2026-09-10T13:57:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3239528,
+      "media_size_human": "3.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356668_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356668_photo.jpg",
+      "media_local_path": "media/IranintlTV_356671_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356671_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.878130+00:00"
+      "archived_at": "2026-09-10T14:20:49.666175+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:45.301548+00:00"
+      "archived_at": "2026-09-10T14:20:50.015168+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120845_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120845_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.076920+00:00"
+      "archived_at": "2026-09-10T14:20:50.367965+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458739+00:00"
+      "archived_at": "2026-09-10T14:20:50.678429+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455244+00:00"
+      "archived_at": "2026-09-10T14:20:49.315527+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356667,
-      "message_link": "https://t.me/IranintlTV/356667",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد پدر جاویدنام محسن عباسی، از کشته‌شدگان انقلاب ملی ایران، بر مزار فرزندش گفت: «اینطور نیست که جوانان از مردن هراسی نداشته باشند، بلکه از مشکلات زنده بودن می‌ترسند. شرمنده‌ایم.»",
+      "message_id": 356670,
+      "message_link": "https://t.me/IranintlTV/356670",
+      "text": "سرخط خبرهای پنج‌شنبه ۱۹ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "17:03:48",
-      "gregorian_utc": "2026-09-10T13:33:48+00:00",
+      "tehran_time": "17:20:40",
+      "gregorian_utc": "2026-09-10T13:50:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 18957411,
-      "media_size_human": "18.08 MB",
+      "media_size_bytes": 1266220,
+      "media_size_human": "1.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356667_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356667_video.mp4",
+      "media_local_path": "media/IranintlTV_356670_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356670_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.878180+00:00"
+      "archived_at": "2026-09-10T14:20:49.666207+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301621+00:00"
+      "archived_at": "2026-09-10T14:20:50.015222+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.076978+00:00"
+      "archived_at": "2026-09-10T14:20:50.368005+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458762+00:00"
+      "archived_at": "2026-09-10T14:20:50.678446+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455285+00:00"
+      "archived_at": "2026-09-10T14:20:49.315561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356666,
-      "message_link": "https://t.me/IranintlTV/356666",
-      "text": "🔻فدراسیون فوتبال فرانسه اعلام کرد که از نامزدی جیانی اینفانتینو برای انتخاب مجدد به عنوان رییس فیفا در سال آینده حمایت نخواهد کرد. فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، روز پنجشنبه گفت اعتماد این فدراسیون به رییس فیفا از بین رفته است.\n\n🔹این تصمیم به اتفاق آرا در کمیته اجرایی فدراسیون فوتبال فرانسه گرفته شد.\n\n🔹دیالو گفت: «اعتمادی که به رییس فیفا وجود داشت، از بین رفته است. شیوه‌ای که ما برای اداره فوتبال جهان در نظر داریم، دیگر با نحوه اداره آن مطابقت ندارد.»\n\n🔹فدراسیون فوتبال فرانسه در حالی حمایت خود از اینفانتینو را پس گرفته که به گفته دیالو، نحوه مدیریت موضوع فروش سهام مرتبط با جام جهانی و همچنین نگرانی‌های مربوط به شیوه حکمرانی فیفا از دلایل این تصمیم بوده است.\n\n🔹انتخابات ریاست فیفا قرار است ۱۸ مارس ۲۰۲۷ در رباط، پایتخت مراکش، برگزار شود.\n\n@iranintltvsport",
+      "message_id": 356669,
+      "message_link": "https://t.me/IranintlTV/356669",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد همسر محسن رشیدی خانی آبادی، معترض کشته‌شده در دی ۱۴۰۴، به پویش «یک شمع، یک نام، یک یاد» پیوست و به یاد «جاویدنامان وطن» شمع روشن کرد.",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "16:50:16",
-      "gregorian_utc": "2026-09-10T13:20:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 156240,
-      "media_size_human": "152.58 KB",
+      "tehran_time": "17:15:07",
+      "gregorian_utc": "2026-09-10T13:45:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5413154,
+      "media_size_human": "5.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356666_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356666_photo.jpg",
+      "media_local_path": "media/IranintlTV_356669_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356669_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.914526+00:00"
+      "archived_at": "2026-09-10T14:20:49.666237+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301741+00:00"
+      "archived_at": "2026-09-10T14:20:50.015320+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120843_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120843_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.077043+00:00"
+      "archived_at": "2026-09-10T14:20:50.368052+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458787+00:00"
+      "archived_at": "2026-09-10T14:20:50.678462+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455313+00:00"
+      "archived_at": "2026-09-10T14:20:49.315584+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356665,
-      "message_link": "https://t.me/IranintlTV/356665",
-      "text": "صفحه اینستاگرامی سمانه عصاران، مادر جاویدنام کیاوش میرقاسمی، در پی فشارهای نهادهای امنیتی جمهوری اسلامی از دسترس خارج و کنترل آن به اجبار به دست این نهادها افتاد. تمامی پست‌های پیشین این صفحه حذف شده و تنها یک پست به دستور مقامات قضایی روی آن قرار گرفته است.\nاین اقدام در ادامه موج گسترده فشارها، احضارها و سرکوب علیه خانواده‌های دادخواه صورت می‌گیرد. پیش‌تر نیز نهادهای امنیتی با هدف خاموش کردن صدای دادخواهی، مانع از انتشار پست‌های اینستاگرامی توسط خانواده‌های قربانیان شده بودند.\nماه گذشته مادر و خواهر کیاوش میرقاسمی در جریان تداوم این فشارها در خانه خود به دست نیروهای امنیتی بازداشت شده بودند. کیاوش میرقاسمی، دانش‌آموز ۱۸ ساله، در شامگاه ۱۹ دی‌ماه در گرگان با شلیک مستقیم گلوله به قلبش توسط نیروهای حکومتی کشته شد. نهادهای امنیتی تلاش می‌کنند با اعمال محدودیت‌های دیجیتال و بازداشت اعضای خانواده‌ها، مانع از انتشار اخبار و زنده نگه داشتن یاد قربانیان کشتارهای حکومتی شوند.\nhttps://iranintl.com/202609106197",
+      "message_id": 356668,
+      "message_link": "https://t.me/IranintlTV/356668",
+      "text": "پلیس بریتانیا اعلام کرد یک زن ۴۲ ساله و یک مرد ۶۰ ساله را بر اساس قانون امنیت ملی و به اتهام ارتکاب جرایمی در ارتباط با جمهوری اسلامی بازداشت کرده است.\n\nپلیس این کشور اعلام کرد، این دو نفر چهارشنبه ۱۸ شهریور در لندن به اتهام «کمک به نهادهای امنیتی جمهوری اسلامی» بازداشت شدند.\n\nپلیس لندن اعلام کرد این بازداشت‌ها ارتباطی با حملات اوایل سال جاری به مکان‌ها و ساختمان‌های مرتبط با جوامع یهودی و ایرانیان مخالف جمهوری اسلامی در لندن ندارد.\nhttps://iranintl.com/202609109884",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "16:47:53",
-      "gregorian_utc": "2026-09-10T13:17:53+00:00",
+      "tehran_time": "17:05:00",
+      "gregorian_utc": "2026-09-10T13:35:00+00:00",
       "media_type": "photo",
-      "media_size_bytes": 174038,
-      "media_size_human": "169.96 KB",
+      "media_size_bytes": 196943,
+      "media_size_human": "192.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356665_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356665_photo.jpg",
+      "media_local_path": "media/IranintlTV_356668_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356668_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.914739+00:00"
+      "archived_at": "2026-09-10T14:20:49.666302+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301783+00:00"
+      "archived_at": "2026-09-10T14:20:50.015349+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120842_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120842_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.077167+00:00"
+      "archived_at": "2026-09-10T14:20:50.368165+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458810+00:00"
+      "archived_at": "2026-09-10T14:20:50.678479+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455339+00:00"
+      "archived_at": "2026-09-10T14:20:49.315602+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356664,
-      "message_link": "https://t.me/IranintlTV/356664",
-      "text": "در این مستند، مهران عباسیان، خبرنگار ایران‌اینترنشنال، همراه با آزاده رجحان، نماینده پارلمان سوئد، از پارلمان این کشور دیدن می‌کند و درباره نظام سیاسی سوئد، نحوه فعالیت پارلمان و چگونگی برگزاری انتخابات در این کشور گفت‌وگو می‌کند.\n\nمستندی با آزاده رجحان، نماینده پارلمان سوئد در یوتیوب ایران‌اینترنشنال:\nhttps://youtu.be/lfi28uHMQxM\n@iranintltv",
+      "message_id": 356667,
+      "message_link": "https://t.me/IranintlTV/356667",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد پدر جاویدنام محسن عباسی، از کشته‌شدگان انقلاب ملی ایران، بر مزار فرزندش گفت: «اینطور نیست که جوانان از مردن هراسی نداشته باشند، بلکه از مشکلات زنده بودن می‌ترسند. شرمنده‌ایم.»",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "16:47:03",
-      "gregorian_utc": "2026-09-10T13:17:03+00:00",
+      "tehran_time": "17:03:48",
+      "gregorian_utc": "2026-09-10T13:33:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 7633653,
-      "media_size_human": "7.28 MB",
+      "media_size_bytes": 18957411,
+      "media_size_human": "18.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356664_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356664_video.mp4",
+      "media_local_path": "media/IranintlTV_356667_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356667_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.914867+00:00"
+      "archived_at": "2026-09-10T14:20:49.666328+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301887+00:00"
+      "archived_at": "2026-09-10T14:20:50.015409+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120841_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120841_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.077208+00:00"
+      "archived_at": "2026-09-10T14:20:50.368194+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458860+00:00"
+      "archived_at": "2026-09-10T14:20:50.678496+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455364+00:00"
+      "archived_at": "2026-09-10T14:20:49.315618+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356663,
-      "message_link": "https://t.me/IranintlTV/356663",
-      "text": "یک پدر با ارسال پیامی صوتی به ایران اینترنشنال، از هزینه‌ بالای تامین وسایل مدرسه برای دخترش گفت.",
+      "message_id": 356666,
+      "message_link": "https://t.me/IranintlTV/356666",
+      "text": "🔻فدراسیون فوتبال فرانسه اعلام کرد که از نامزدی جیانی اینفانتینو برای انتخاب مجدد به عنوان رییس فیفا در سال آینده حمایت نخواهد کرد. فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، روز پنجشنبه گفت اعتماد این فدراسیون به رییس فیفا از بین رفته است.\n\n🔹این تصمیم به اتفاق آرا در کمیته اجرایی فدراسیون فوتبال فرانسه گرفته شد.\n\n🔹دیالو گفت: «اعتمادی که به رییس فیفا وجود داشت، از بین رفته است. شیوه‌ای که ما برای اداره فوتبال جهان در نظر داریم، دیگر با نحوه اداره آن مطابقت ندارد.»\n\n🔹فدراسیون فوتبال فرانسه در حالی حمایت خود از اینفانتینو را پس گرفته که به گفته دیالو، نحوه مدیریت موضوع فروش سهام مرتبط با جام جهانی و همچنین نگرانی‌های مربوط به شیوه حکمرانی فیفا از دلایل این تصمیم بوده است.\n\n🔹انتخابات ریاست فیفا قرار است ۱۸ مارس ۲۰۲۷ در رباط، پایتخت مراکش، برگزار شود.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "16:45:03",
-      "gregorian_utc": "2026-09-10T13:15:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 13036590,
-      "media_size_human": "12.43 MB",
+      "tehran_time": "16:50:16",
+      "gregorian_utc": "2026-09-10T13:20:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 156240,
+      "media_size_human": "152.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356663_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356663_video.mp4",
+      "media_local_path": "media/IranintlTV_356666_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356666_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.914915+00:00"
+      "archived_at": "2026-09-10T14:20:49.675186+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:45.301920+00:00"
+      "archived_at": "2026-09-10T14:20:50.015430+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120840_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120840_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:46.077282+00:00"
+      "archived_at": "2026-09-10T14:20:50.368251+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.458887+00:00"
+      "archived_at": "2026-09-10T14:20:50.678515+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:44.455388+00:00"
+      "archived_at": "2026-09-10T14:20:49.315634+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356662,
-      "message_link": "https://t.me/IranintlTV/356662",
-      "text": "علیرضا سلیمی، عضو هیات رییسه مجلس، پنج‌شنبه ۱۹ شهریور مخالفت هیات وزیران با گزارش کمیسیون امنیت ملی و سیاست خارجی درباره «طرح مقابله با نفوذ بیگانگان» را غیرقانونی خواند.\n\nسلیمی گفت مصوبات دولت باید در چارچوب قوانین مجلس باشد و هیچ نهادی نمی‌تواند در حوزه قانون‌گذاری مستقل از مجلس عمل کند. او افزود: «این طرح، طرح مجلس است و لایحه دولت نیست؛ بنابراین اقدام دولت در مخالفت با آن غیرقانونی است.»\n\nاو گفت دولت به جای بررسی کارشناسی این طرح، «رویکردی کاملا سیاسی» در پیش گرفته است و افزود اگر ایرادی به طرح وجود دارد، باید در روند بررسی کارشناسی برطرف شود.\n\nسلیمی همچنین با اشاره به پرونده علیرضا اکبری، مقام پیشین جمهوری اسلامی که به اتهام «جاسوسی» اعدام شد، گفت نفوذ در رده‌های بالای امنیتی و اجرایی «یک واقعیت» است و کشورهای دیگر نیز برای مقابله با آن قوانین مشخصی دارند.\n\nسلیمی در ادامه از دولت خواست «به جای رفتارهای پوپولیستی، بر مسائلی از جمله معیشت، تورم، نقدینگی و قیمت دلار تمرکز کند». \nhttps://iranintl.com/202609105573",
+      "message_id": 356665,
+      "message_link": "https://t.me/IranintlTV/356665",
+      "text": "صفحه اینستاگرامی سمانه عصاران، مادر جاویدنام کیاوش میرقاسمی، در پی فشارهای نهادهای امنیتی جمهوری اسلامی از دسترس خارج و کنترل آن به اجبار به دست این نهادها افتاد. تمامی پست‌های پیشین این صفحه حذف شده و تنها یک پست به دستور مقامات قضایی روی آن قرار گرفته است.\nاین اقدام در ادامه موج گسترده فشارها، احضارها و سرکوب علیه خانواده‌های دادخواه صورت می‌گیرد. پیش‌تر نیز نهادهای امنیتی با هدف خاموش کردن صدای دادخواهی، مانع از انتشار پست‌های اینستاگرامی توسط خانواده‌های قربانیان شده بودند.\nماه گذشته مادر و خواهر کیاوش میرقاسمی در جریان تداوم این فشارها در خانه خود به دست نیروهای امنیتی بازداشت شده بودند. کیاوش میرقاسمی، دانش‌آموز ۱۸ ساله، در شامگاه ۱۹ دی‌ماه در گرگان با شلیک مستقیم گلوله به قلبش توسط نیروهای حکومتی کشته شد. نهادهای امنیتی تلاش می‌کنند با اعمال محدودیت‌های دیجیتال و بازداشت اعضای خانواده‌ها، مانع از انتشار اخبار و زنده نگه داشتن یاد قربانیان کشتارهای حکومتی شوند.\nhttps://iranintl.com/202609106197",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "16:42:05",
-      "gregorian_utc": "2026-09-10T13:12:05+00:00",
+      "tehran_time": "16:47:53",
+      "gregorian_utc": "2026-09-10T13:17:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 140679,
-      "media_size_human": "137.38 KB",
+      "media_size_bytes": 174038,
+      "media_size_human": "169.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356662_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356662_photo.jpg",
+      "media_local_path": "media/IranintlTV_356665_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356665_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:44.915065+00:00"
+      "archived_at": "2026-09-10T14:20:49.675327+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T14:10:45.301981+00:00"
+      "archived_at": "2026-09-10T14:20:50.015474+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T14:10:46.077335+00:00"
+      "archived_at": "2026-09-10T14:20:50.368290+00:00"
     }
   ]
 }
