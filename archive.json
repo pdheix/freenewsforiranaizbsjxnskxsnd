@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:02:25.136049+00:00",
-  "shamsi_generated": "1405/06/19 00:02:25 تهران",
+  "generated_at": "2026-09-10T00:12:07.630374+00:00",
+  "shamsi_generated": "1405/06/19 00:12:07 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310244+00:00"
+      "archived_at": "2026-09-10T00:10:33.908915+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356584,
-      "message_link": "https://t.me/IranintlTV/356584",
-      "text": "روشنک از تهران: ما الان زندگی نمی‌کنیم؛ «زنده‌مانی» می‌کنیم\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31Mq\n@iranintltv",
+      "message_id": 356585,
+      "message_link": "https://t.me/IranintlTV/356585",
+      "text": "کمیته تدوین برنامه عدالت انتقالی تیم شاهزاده رضا پهلوی، به ریاست شیرین عبادی، در بیانیه‌ای خطاب به آمران و عاملان اعدام معترضان به دست جمهوری اسلامی هشدار داد که تک‌تک آنها بدون اغماض پاسخ‌گو خواهند شد.\n\nکمیته تدوین برنامه عدالت انتقالی: «از کسانی که دستور صادر می‌کنند تا کسانی که احکام را اجرا می‌کنند، تک‌تک شما پاسخ‌گو خواهید شد. هیچ اغماضی نشان نخواهیم داد و از تمام ابزارهای قانونی موجود برای تعقیب شما و اعمال حداکثر مجازات‌های مجاز طبق قانون استفاده خواهیم کرد.»\n\nکمیته تدوین برنامه عدالت انتقالی: «هر اعدام بر مسوولیت کیفری شما می‌افزاید. تصور نکنید که این جنایت‌ها فراموش خواهند شد، از مجازات مصون خواهید ماند یا مشمول عفو خواهید شد. سکوت ما به معنای آماده شدن ما برای محاکمه شما است.»\n\nhttps://iranintl.com/202609090131",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:30:11",
-      "gregorian_utc": "2026-09-10T00:00:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1962510,
-      "media_size_human": "1.87 MB",
+      "tehran_time": "03:31:00",
+      "gregorian_utc": "2026-09-10T00:01:00+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 126502,
+      "media_size_human": "123.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356584_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356584_video.mp4",
+      "media_local_path": "media/IranintlTV_356585_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356585_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554038+00:00"
+      "archived_at": "2026-09-10T00:10:34.174286+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76437_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76437_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.805831+00:00"
+      "archived_at": "2026-09-10T00:10:34.453124+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.067632+00:00"
+      "archived_at": "2026-09-10T00:10:34.776407+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.278799+00:00"
+      "archived_at": "2026-09-10T00:10:35.042889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310293+00:00"
+      "archived_at": "2026-09-10T00:10:33.908965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356583,
-      "message_link": "https://t.me/IranintlTV/356583",
-      "text": "مریم از تورنتو: شرکت هواپیمایی کار می‌کنم و هیچ شرکتی نمی‌تواند برای ایران بلیت صادر کند\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
+      "message_id": 356584,
+      "message_link": "https://t.me/IranintlTV/356584",
+      "text": "روشنک از تهران: ما الان زندگی نمی‌کنیم؛ «زنده‌مانی» می‌کنیم\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31Mq\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:28:40",
-      "gregorian_utc": "2026-09-09T23:58:40+00:00",
+      "tehran_time": "03:30:11",
+      "gregorian_utc": "2026-09-10T00:00:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 3819321,
-      "media_size_human": "3.64 MB",
+      "media_size_bytes": 1962510,
+      "media_size_human": "1.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356583_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356583_video.mp4",
+      "media_local_path": "media/IranintlTV_356584_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356584_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554122+00:00"
+      "archived_at": "2026-09-10T00:10:34.174380+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76436_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76436_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.805943+00:00"
+      "archived_at": "2026-09-10T00:10:34.453231+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120838_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.067698+00:00"
+      "archived_at": "2026-09-10T00:10:34.776476+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.278866+00:00"
+      "archived_at": "2026-09-10T00:10:35.042964+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310323+00:00"
+      "archived_at": "2026-09-10T00:10:33.909001+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356582,
-      "message_link": "https://t.me/IranintlTV/356582",
-      "text": "جواد مجابی؛ مردی که تا پایان نوشت و نقاشی کرد\n\n«طنز خوشمزگی نیست»؛ برای جواد مجابی، طنز فقط وسیله‌ای برای خنداندن نبود، بلکه راهی برای به پرسش کشیدن قدرت، سنت و باورهای مسلط بود.\n\nجواد مجابی، شاعر، نویسنده، طنزپرداز، روزنامه‌نگار، نقاش و منتقد ادبی و هنری، ۱۴ شهریور از دنیا رفت. او میان شعر و داستان، طنز و سیاست، روزنامه‌نگاری و پژوهش، و کلمه و تصویر پل زد؛ تاریخ طنز و هنر معاصر ایران را ثبت کرد و از آزادی و استقلال نویسنده دفاع کرد.\n\nکامبیز حسینی در «برنامه» یاد جواد مجابی را گرامی می‌دارد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
+      "message_id": 356583,
+      "message_link": "https://t.me/IranintlTV/356583",
+      "text": "مریم از تورنتو: شرکت هواپیمایی کار می‌کنم و هیچ شرکتی نمی‌تواند برای ایران بلیت صادر کند\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:27:06",
-      "gregorian_utc": "2026-09-09T23:57:06+00:00",
+      "tehran_time": "03:28:40",
+      "gregorian_utc": "2026-09-09T23:58:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 4542552,
-      "media_size_human": "4.33 MB",
+      "media_size_bytes": 3819321,
+      "media_size_human": "3.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356582_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356582_video.mp4",
+      "media_local_path": "media/IranintlTV_356583_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356583_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554249+00:00"
+      "archived_at": "2026-09-10T00:10:34.174457+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.806134+00:00"
+      "archived_at": "2026-09-10T00:10:34.453416+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120837_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120837_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.067768+00:00"
+      "archived_at": "2026-09-10T00:10:34.776551+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.278894+00:00"
+      "archived_at": "2026-09-10T00:10:35.042997+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310360+00:00"
+      "archived_at": "2026-09-10T00:10:33.909042+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356581,
-      "message_link": "https://t.me/IranintlTV/356581",
-      "text": "مرکز مطالعات راهبردی و بین‌المللی اعلام کرد تصاویر ماهواره‌ای نشان می‌دهد فعالیت‌های عمرانی در مجموعه زیرزمینی کوه کلنگ گزلا، در نزدیکی تاسیسات هسته‌ای نطنز، در سال ۲۰۲۶ به شکل چشمگیری افزایش یافته است.\n\nبر اساس این گزارش، فعالیت‌ها از حفاری گسترده به سوی ساخت‌وساز احتمالی در بخش‌های داخلی و تقویت ورودی تونل‌ها تغییر کرده و فعالیت جاده‌ای به بالاترین میزان از آغاز ساخت مجموعه رسیده است.\n\nاین مرکز گفت تصاویر ماهواره‌ای نه ادعای اسرائیل درباره انتقال سانتریفیوژها و قطعات آنها به کوه کلنگ گزلا را تایید می‌کنند و نه رد. تحلیلگران افزودند این مجموعه احتمالا هنوز برای غنی‌سازی اورانیوم آماده نیست.\n\nساخت این مجموعه تونلی در دو کیلومتری جنوب تاسیسات نطنز، سال ۲۰۲۰ آغاز شد. آژانس بین‌المللی انرژی اتمی خواستار دسترسی به آن شده است. دونالد ترامپ، رییس‌جمهوری آمریکا، نیز پیش‌تر گفته بود اگر مشخص شود فعالیتی در این مجموعه جریان دارد، آمریکا ممکن است آن را هدف قرار دهد.\n\nhttps://iranintl.com/202609091364",
+      "message_id": 356582,
+      "message_link": "https://t.me/IranintlTV/356582",
+      "text": "جواد مجابی؛ مردی که تا پایان نوشت و نقاشی کرد\n\n«طنز خوشمزگی نیست»؛ برای جواد مجابی، طنز فقط وسیله‌ای برای خنداندن نبود، بلکه راهی برای به پرسش کشیدن قدرت، سنت و باورهای مسلط بود.\n\nجواد مجابی، شاعر، نویسنده، طنزپرداز، روزنامه‌نگار، نقاش و منتقد ادبی و هنری، ۱۴ شهریور از دنیا رفت. او میان شعر و داستان، طنز و سیاست، روزنامه‌نگاری و پژوهش، و کلمه و تصویر پل زد؛ تاریخ طنز و هنر معاصر ایران را ثبت کرد و از آزادی و استقلال نویسنده دفاع کرد.\n\nکامبیز حسینی در «برنامه» یاد جواد مجابی را گرامی می‌دارد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:24:49",
-      "gregorian_utc": "2026-09-09T23:54:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 314804,
-      "media_size_human": "307.43 KB",
+      "tehran_time": "03:27:06",
+      "gregorian_utc": "2026-09-09T23:57:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4542552,
+      "media_size_human": "4.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356581_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356581_photo.jpg",
+      "media_local_path": "media/IranintlTV_356582_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356582_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554402+00:00"
+      "archived_at": "2026-09-10T00:10:34.174564+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.806218+00:00"
+      "archived_at": "2026-09-10T00:10:34.453510+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.067810+00:00"
+      "archived_at": "2026-09-10T00:10:34.776603+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.278918+00:00"
+      "archived_at": "2026-09-10T00:10:35.043024+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310387+00:00"
+      "archived_at": "2026-09-10T00:10:33.909072+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356580,
-      "message_link": "https://t.me/IranintlTV/356580",
-      "text": "حداد عادل: ما باختیم! بد هم باختیم!\n\nحداد عادل دربارهٔ پوشش زنان گفت که کار جمهوری اسلامی از سال ۶۰ نیز سخت‌تر شده و «دشمن» سبک زندگی غربی را در ایران ترویج کرده است.\n\nمدرسه، کتاب درسی، دانشگاه، صداوسیما، قانون، بودجه، مسجد، منبر، گشت ارشاد و نیروی انتظامی، همه در اختیار شما بود؛ اما مردم باز هم خودشان انتخاب کردند.\n\nاین «نفوذ دشمن» نیست؛ شکست سیاستی است که زن را صاحب حق انتخاب نمی‌داند، روسری را «جبهه» می‌بیند و هر تغییری را که حکومت نمی‌پسندد، توطئه می‌نامد.\n\nانحطاط در متفاوت‌بودن شیوهٔ زندگی مردم نیست؛ در فساد، ریا، تبعیض و سوءاستفاده از قدرت است. مردم فریب دشمن را نخورده‌اند؛ از مهندسی شما عبور کرده‌اند.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
+      "message_id": 356581,
+      "message_link": "https://t.me/IranintlTV/356581",
+      "text": "مرکز مطالعات راهبردی و بین‌المللی اعلام کرد تصاویر ماهواره‌ای نشان می‌دهد فعالیت‌های عمرانی در مجموعه زیرزمینی کوه کلنگ گزلا، در نزدیکی تاسیسات هسته‌ای نطنز، در سال ۲۰۲۶ به شکل چشمگیری افزایش یافته است.\n\nبر اساس این گزارش، فعالیت‌ها از حفاری گسترده به سوی ساخت‌وساز احتمالی در بخش‌های داخلی و تقویت ورودی تونل‌ها تغییر کرده و فعالیت جاده‌ای به بالاترین میزان از آغاز ساخت مجموعه رسیده است.\n\nاین مرکز گفت تصاویر ماهواره‌ای نه ادعای اسرائیل درباره انتقال سانتریفیوژها و قطعات آنها به کوه کلنگ گزلا را تایید می‌کنند و نه رد. تحلیلگران افزودند این مجموعه احتمالا هنوز برای غنی‌سازی اورانیوم آماده نیست.\n\nساخت این مجموعه تونلی در دو کیلومتری جنوب تاسیسات نطنز، سال ۲۰۲۰ آغاز شد. آژانس بین‌المللی انرژی اتمی خواستار دسترسی به آن شده است. دونالد ترامپ، رییس‌جمهوری آمریکا، نیز پیش‌تر گفته بود اگر مشخص شود فعالیتی در این مجموعه جریان دارد، آمریکا ممکن است آن را هدف قرار دهد.\n\nhttps://iranintl.com/202609091364",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:23:45",
-      "gregorian_utc": "2026-09-09T23:53:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6731765,
-      "media_size_human": "6.42 MB",
+      "tehran_time": "03:24:49",
+      "gregorian_utc": "2026-09-09T23:54:49+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 314804,
+      "media_size_human": "307.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356580_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356580_video.mp4",
+      "media_local_path": "media/IranintlTV_356581_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356581_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554538+00:00"
+      "archived_at": "2026-09-10T00:10:34.174736+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.817629+00:00"
+      "archived_at": "2026-09-10T00:10:34.481845+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120835_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120835_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.067869+00:00"
+      "archived_at": "2026-09-10T00:10:34.776695+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.278940+00:00"
+      "archived_at": "2026-09-10T00:10:35.043050+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310418+00:00"
+      "archived_at": "2026-09-10T00:10:33.909108+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356579,
-      "message_link": "https://t.me/IranintlTV/356579",
-      "text": "حداد عادل دربارهٔ پوشش زنان گفت که کار جمهوری اسلامی از سال ۶۰ نیز سخت‌تر شده و «دشمن» سبک زندگی غربی را در ایران ترویج کرده است.\n\nمدرسه، کتاب درسی، دانشگاه، صداوسیما، قانون، بودجه، مسجد، منبر، گشت ارشاد و نیروی انتظامی، همه در اختیار شما بود؛ اما مردم باز هم خودشان انتخاب کردند.\n\nاین «نفوذ دشمن» نیست؛ شکست سیاستی است که زن را صاحب حق انتخاب نمی‌داند، روسری را «جبهه» می‌بیند و هر تغییری را که حکومت نمی‌پسندد، توطئه می‌نامد.\n\nانحطاط در متفاوت‌بودن شیوهٔ زندگی مردم نیست؛ در فساد، ریا، تبعیض و سوءاستفاده از قدرت است. مردم فریب دشمن را نخورده‌اند؛ از مهندسی شما عبور کرده‌اند.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n@iranintltv",
+      "message_id": 356580,
+      "message_link": "https://t.me/IranintlTV/356580",
+      "text": "حداد عادل: ما باختیم! بد هم باختیم!\n\nحداد عادل دربارهٔ پوشش زنان گفت که کار جمهوری اسلامی از سال ۶۰ نیز سخت‌تر شده و «دشمن» سبک زندگی غربی را در ایران ترویج کرده است.\n\nمدرسه، کتاب درسی، دانشگاه، صداوسیما، قانون، بودجه، مسجد، منبر، گشت ارشاد و نیروی انتظامی، همه در اختیار شما بود؛ اما مردم باز هم خودشان انتخاب کردند.\n\nاین «نفوذ دشمن» نیست؛ شکست سیاستی است که زن را صاحب حق انتخاب نمی‌داند، روسری را «جبهه» می‌بیند و هر تغییری را که حکومت نمی‌پسندد، توطئه می‌نامد.\n\nانحطاط در متفاوت‌بودن شیوهٔ زندگی مردم نیست؛ در فساد، ریا، تبعیض و سوءاستفاده از قدرت است. مردم فریب دشمن را نخورده‌اند؛ از مهندسی شما عبور کرده‌اند.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:22:19",
-      "gregorian_utc": "2026-09-09T23:52:19+00:00",
+      "tehran_time": "03:23:45",
+      "gregorian_utc": "2026-09-09T23:53:45+00:00",
       "media_type": "video",
       "media_size_bytes": 6731765,
       "media_size_human": "6.42 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356579_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356579_video.mp4",
+      "media_local_path": "media/IranintlTV_356580_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356580_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554639+00:00"
+      "archived_at": "2026-09-10T00:10:34.174862+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.817847+00:00"
+      "archived_at": "2026-09-10T00:10:34.482091+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.067909+00:00"
+      "archived_at": "2026-09-10T00:10:34.776751+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.278964+00:00"
+      "archived_at": "2026-09-10T00:10:35.043076+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310443+00:00"
+      "archived_at": "2026-09-10T00:10:33.909141+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356578,
-      "message_link": "https://t.me/IranintlTV/356578",
-      "text": "چرا آخوندها ظرفیت شوخی ندارند؟\n\nشاکر بوری طنزپردازی است که نه محصول تلویزیون و سینماست و نه وابسته به هیچ گروه سیاسی‌ای؛ ابزار کارش یک تلفن همراه است و رسانه‌اش صفحه‌ای است که میلیون‌ها نفر آن را دنبال می‌کنند. او حرف‌های مسئولان را کنار واقعیت سفره و زندگی مردم می‌گذارد و تناقض را به طنزی تبدیل می‌کند که همه می‌فهمند و برای یکدیگر می‌فرستند.\n\nحالا دادگاه کیفری آبادان، شاکر بوری را به‌دلیل انتشار ویدئویی انتقادی دربارهٔ موسی غضنفرآبادی، نمایندهٔ بم، به اتهام «نشر اکاذیب» به ۱۳ ماه و ۲۰ روز حبس تعزیری و بابت «توهین به نمایندهٔ مجلس» به چهار میلیون و ۵۰۰ هزار تومان جریمه محکوم کرده است.\n\nوقتی طنز صاحبان قدرت را هدف می‌گیرد، حکومت دیگر آن را شوخی نمی‌بیند؛ تهدید می‌بیند.\n\nبه نظر شما چرا جمهوری اسلامی ظرفیت شوخی ندارد؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
+      "message_id": 356579,
+      "message_link": "https://t.me/IranintlTV/356579",
+      "text": "حداد عادل دربارهٔ پوشش زنان گفت که کار جمهوری اسلامی از سال ۶۰ نیز سخت‌تر شده و «دشمن» سبک زندگی غربی را در ایران ترویج کرده است.\n\nمدرسه، کتاب درسی، دانشگاه، صداوسیما، قانون، بودجه، مسجد، منبر، گشت ارشاد و نیروی انتظامی، همه در اختیار شما بود؛ اما مردم باز هم خودشان انتخاب کردند.\n\nاین «نفوذ دشمن» نیست؛ شکست سیاستی است که زن را صاحب حق انتخاب نمی‌داند، روسری را «جبهه» می‌بیند و هر تغییری را که حکومت نمی‌پسندد، توطئه می‌نامد.\n\nانحطاط در متفاوت‌بودن شیوهٔ زندگی مردم نیست؛ در فساد، ریا، تبعیض و سوءاستفاده از قدرت است. مردم فریب دشمن را نخورده‌اند؛ از مهندسی شما عبور کرده‌اند.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:20:06",
-      "gregorian_utc": "2026-09-09T23:50:06+00:00",
+      "tehran_time": "03:22:19",
+      "gregorian_utc": "2026-09-09T23:52:19+00:00",
       "media_type": "video",
-      "media_size_bytes": 4929111,
-      "media_size_human": "4.70 MB",
+      "media_size_bytes": 6731765,
+      "media_size_human": "6.42 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356578_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356578_video.mp4",
+      "media_local_path": "media/IranintlTV_356579_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356579_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554767+00:00"
+      "archived_at": "2026-09-10T00:10:34.174974+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.817938+00:00"
+      "archived_at": "2026-09-10T00:10:34.482183+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.067934+00:00"
+      "archived_at": "2026-09-10T00:10:34.776781+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.278985+00:00"
+      "archived_at": "2026-09-10T00:10:35.043100+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310483+00:00"
+      "archived_at": "2026-09-10T00:10:33.909183+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356577,
-      "message_link": "https://t.me/IranintlTV/356577",
-      "text": "کمیته تدوین مقررات عدالت انتقالی ایران در بیانیه‌ای به آمران و عاملان اعدام معترضان هشدار داد تمامی این جنایات را بدون اغماض پیگیری خواهد کرد و هر اعدام، بر مسئولیت کیفری آنها خواهد افزود.\n\nدر همین ارتباط، افشین الیان، استاد دانشگاه و عضو کمیته تدوین مقررات عدالت انتقالی ایران، بر ضرورت مستندسازی اعدام‌ها و دیگر موارد نقض حقوق بشر در ایران تاکید کرد و گفت همه افرادی که آگاهانه در اجرای اعدام‌ها نقش دارند در آینده با مسئولیت کیفری و پیگرد قانونی روبه‌رو خواهند شد..\n\nاو از شهروندان خواست اسناد و اطلاعات مربوط به آمران و عاملان اعدام‌ها را به‌صورت امن نگهداری کنند و افزود این مدارک هم در روند عدالت انتقالی در ایران و هم در پیگیری‌های قضایی بین‌المللی علیه افرادی که به گفته او مرتکب «جنایت علیه بشریت» شده‌اند، قابل استفاده خواهد بود.\n@iranintltv",
+      "message_id": 356578,
+      "message_link": "https://t.me/IranintlTV/356578",
+      "text": "چرا آخوندها ظرفیت شوخی ندارند؟\n\nشاکر بوری طنزپردازی است که نه محصول تلویزیون و سینماست و نه وابسته به هیچ گروه سیاسی‌ای؛ ابزار کارش یک تلفن همراه است و رسانه‌اش صفحه‌ای است که میلیون‌ها نفر آن را دنبال می‌کنند. او حرف‌های مسئولان را کنار واقعیت سفره و زندگی مردم می‌گذارد و تناقض را به طنزی تبدیل می‌کند که همه می‌فهمند و برای یکدیگر می‌فرستند.\n\nحالا دادگاه کیفری آبادان، شاکر بوری را به‌دلیل انتشار ویدئویی انتقادی دربارهٔ موسی غضنفرآبادی، نمایندهٔ بم، به اتهام «نشر اکاذیب» به ۱۳ ماه و ۲۰ روز حبس تعزیری و بابت «توهین به نمایندهٔ مجلس» به چهار میلیون و ۵۰۰ هزار تومان جریمه محکوم کرده است.\n\nوقتی طنز صاحبان قدرت را هدف می‌گیرد، حکومت دیگر آن را شوخی نمی‌بیند؛ تهدید می‌بیند.\n\nبه نظر شما چرا جمهوری اسلامی ظرفیت شوخی ندارد؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/2ARVJp31MqI\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:16:28",
-      "gregorian_utc": "2026-09-09T23:46:28+00:00",
+      "tehran_time": "03:20:06",
+      "gregorian_utc": "2026-09-09T23:50:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 4858687,
-      "media_size_human": "4.63 MB",
+      "media_size_bytes": 4929111,
+      "media_size_human": "4.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356577_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356577_video.mp4",
+      "media_local_path": "media/IranintlTV_356578_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356578_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554875+00:00"
+      "archived_at": "2026-09-10T00:10:34.175107+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.818064+00:00"
+      "archived_at": "2026-09-10T00:10:34.482318+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120832_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120832_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.067965+00:00"
+      "archived_at": "2026-09-10T00:10:34.776819+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.279005+00:00"
+      "archived_at": "2026-09-10T00:10:35.043123+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310526+00:00"
+      "archived_at": "2026-09-10T00:10:33.909211+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356576,
-      "message_link": "https://t.me/IranintlTV/356576",
-      "text": "معاون سیاسی ـ فرهنگی نهاد رهبری در دانشگاه‌ها اعلام کرده دستورالعمل جدیدی برای کنترل حجاب در دانشگاه‌ها تدوین شده و به‌زودی ابلاغ خواهد شد. او تاکید کرد مقررات این دستورالعمل درباره پوشش دانشجویان باید با قاطعیت اجرا شود.\n\nگفت‌وگو با شهلا شفیق، جامعه‌شناس و نویسنده\n@iranintltv",
+      "message_id": 356577,
+      "message_link": "https://t.me/IranintlTV/356577",
+      "text": "کمیته تدوین مقررات عدالت انتقالی ایران در بیانیه‌ای به آمران و عاملان اعدام معترضان هشدار داد تمامی این جنایات را بدون اغماض پیگیری خواهد کرد و هر اعدام، بر مسئولیت کیفری آنها خواهد افزود.\n\nدر همین ارتباط، افشین الیان، استاد دانشگاه و عضو کمیته تدوین مقررات عدالت انتقالی ایران، بر ضرورت مستندسازی اعدام‌ها و دیگر موارد نقض حقوق بشر در ایران تاکید کرد و گفت همه افرادی که آگاهانه در اجرای اعدام‌ها نقش دارند در آینده با مسئولیت کیفری و پیگرد قانونی روبه‌رو خواهند شد..\n\nاو از شهروندان خواست اسناد و اطلاعات مربوط به آمران و عاملان اعدام‌ها را به‌صورت امن نگهداری کنند و افزود این مدارک هم در روند عدالت انتقالی در ایران و هم در پیگیری‌های قضایی بین‌المللی علیه افرادی که به گفته او مرتکب «جنایت علیه بشریت» شده‌اند، قابل استفاده خواهد بود.\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:16:25",
-      "gregorian_utc": "2026-09-09T23:46:25+00:00",
+      "tehran_time": "03:16:28",
+      "gregorian_utc": "2026-09-09T23:46:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 1450482,
-      "media_size_human": "1.38 MB",
+      "media_size_bytes": 4858687,
+      "media_size_human": "4.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356576_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356576_video.mp4",
+      "media_local_path": "media/IranintlTV_356577_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356577_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554939+00:00"
+      "archived_at": "2026-09-10T00:10:34.175215+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.818101+00:00"
+      "archived_at": "2026-09-10T00:10:34.482362+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-10T00:00:51.068016+00:00"
+      "archived_at": "2026-09-10T00:10:34.776880+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.279026+00:00"
+      "archived_at": "2026-09-10T00:10:35.043146+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310549+00:00"
+      "archived_at": "2026-09-10T00:10:33.909237+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356575,
-      "message_link": "https://t.me/IranintlTV/356575",
+      "message_id": 356576,
+      "message_link": "https://t.me/IranintlTV/356576",
       "text": "معاون سیاسی ـ فرهنگی نهاد رهبری در دانشگاه‌ها اعلام کرده دستورالعمل جدیدی برای کنترل حجاب در دانشگاه‌ها تدوین شده و به‌زودی ابلاغ خواهد شد. او تاکید کرد مقررات این دستورالعمل درباره پوشش دانشجویان باید با قاطعیت اجرا شود.\n\nگفت‌وگو با شهلا شفیق، جامعه‌شناس و نویسنده\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:16:14",
-      "gregorian_utc": "2026-09-09T23:46:14+00:00",
+      "tehran_time": "03:16:25",
+      "gregorian_utc": "2026-09-09T23:46:25+00:00",
       "media_type": "video",
       "media_size_bytes": 1450482,
       "media_size_human": "1.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356575_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356575_video.mp4",
+      "media_local_path": "media/IranintlTV_356576_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356576_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.554997+00:00"
+      "archived_at": "2026-09-10T00:10:34.175284+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.818179+00:00"
+      "archived_at": "2026-09-10T00:10:34.482451+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120830_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120830_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.068048+00:00"
+      "archived_at": "2026-09-10T00:10:34.776921+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.279046+00:00"
+      "archived_at": "2026-09-10T00:10:35.043170+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310571+00:00"
+      "archived_at": "2026-09-10T00:10:33.909262+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356574,
-      "message_link": "https://t.me/IranintlTV/356574",
-      "text": "آرش آرامش، حقوقدان و کارشناس امنیتی، گفت به نظر می‌رسد دولت دونالد ترامپ هنوز درباره راهبرد نهایی خود در قبال جمهوری اسلامی تصمیم قطعی نگرفته است. او افزود آمریکا اکنون میان سه گزینه، شامل تشدید جنگ، ادامه وضعیت فرسایشی یا حرکت به سمت توافق، قرار دارد و هنوز مشخص نیست کدام مسیر را انتخاب خواهد کرد.\n\nاو همچنین گفت ایالات متحده از نظر نظامی توان اجرای عملیات محدود زمینی، از جمله در برخی جزایر راهبردی ایران، را دارد، اما تصمیم‌گیری در این زمینه بیش از آنکه نظامی باشد، به اراده سیاسی دولت آمریکا بستگی دارد.\n@iranintltv",
+      "message_id": 356575,
+      "message_link": "https://t.me/IranintlTV/356575",
+      "text": "معاون سیاسی ـ فرهنگی نهاد رهبری در دانشگاه‌ها اعلام کرده دستورالعمل جدیدی برای کنترل حجاب در دانشگاه‌ها تدوین شده و به‌زودی ابلاغ خواهد شد. او تاکید کرد مقررات این دستورالعمل درباره پوشش دانشجویان باید با قاطعیت اجرا شود.\n\nگفت‌وگو با شهلا شفیق، جامعه‌شناس و نویسنده\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:09:22",
-      "gregorian_utc": "2026-09-09T23:39:22+00:00",
+      "tehran_time": "03:16:14",
+      "gregorian_utc": "2026-09-09T23:46:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 4906010,
-      "media_size_human": "4.68 MB",
+      "media_size_bytes": 1450482,
+      "media_size_human": "1.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356574_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356574_video.mp4",
+      "media_local_path": "media/IranintlTV_356575_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356575_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.555075+00:00"
+      "archived_at": "2026-09-10T00:10:34.175349+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.818205+00:00"
+      "archived_at": "2026-09-10T00:10:34.482481+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120829_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120829_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.068088+00:00"
+      "archived_at": "2026-09-10T00:10:34.776970+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:51.279069+00:00"
+      "archived_at": "2026-09-10T00:10:35.043196+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-10T00:00:50.310593+00:00"
+      "archived_at": "2026-09-10T00:10:33.909286+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356573,
-      "message_link": "https://t.me/IranintlTV/356573",
-      "text": "مارکو روبیو با تاکید بر ادامه فشار اقتصادی بر جمهوری اسلامی گفت تهران همچنان به سوی کشتی‌های نیروی دریایی آمریکا موشک شلیک می‌کند، اما موفق به هدف قرار دادن آنها نمی‌شود.\n\nاو افزود جمهوری اسلامی در مقابل، شب گذشته پنج نفتکش دیگر را از دست داده است.\n\nجزییات بیشتر با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 356574,
+      "message_link": "https://t.me/IranintlTV/356574",
+      "text": "آرش آرامش، حقوقدان و کارشناس امنیتی، گفت به نظر می‌رسد دولت دونالد ترامپ هنوز درباره راهبرد نهایی خود در قبال جمهوری اسلامی تصمیم قطعی نگرفته است. او افزود آمریکا اکنون میان سه گزینه، شامل تشدید جنگ، ادامه وضعیت فرسایشی یا حرکت به سمت توافق، قرار دارد و هنوز مشخص نیست کدام مسیر را انتخاب خواهد کرد.\n\nاو همچنین گفت ایالات متحده از نظر نظامی توان اجرای عملیات محدود زمینی، از جمله در برخی جزایر راهبردی ایران، را دارد، اما تصمیم‌گیری در این زمینه بیش از آنکه نظامی باشد، به اراده سیاسی دولت آمریکا بستگی دارد.\n@iranintltv",
       "shamsi_date": "1405/06/19",
-      "tehran_time": "03:08:16",
-      "gregorian_utc": "2026-09-09T23:38:16+00:00",
+      "tehran_time": "03:09:22",
+      "gregorian_utc": "2026-09-09T23:39:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 2893348,
-      "media_size_human": "2.76 MB",
+      "media_size_bytes": 4906010,
+      "media_size_human": "4.68 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356573_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356573_video.mp4",
+      "media_local_path": "media/IranintlTV_356574_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356574_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.555136+00:00"
+      "archived_at": "2026-09-10T00:10:34.175439+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:50.818258+00:00"
+      "archived_at": "2026-09-10T00:10:34.482544+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120828_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120828_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-10T00:00:51.068155+00:00"
+      "archived_at": "2026-09-10T00:10:34.777046+00:00"
     }
   ]
 }
