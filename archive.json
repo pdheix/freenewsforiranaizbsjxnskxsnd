@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:54:19.700096+00:00",
-  "shamsi_generated": "1405/06/20 14:54:19 تهران",
+  "generated_at": "2026-09-11T15:04:03.787592+00:00",
+  "shamsi_generated": "1405/06/20 15:04:03 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356199+00:00"
+      "archived_at": "2026-09-11T15:00:53.822630+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356847,
-      "message_link": "https://t.me/IranintlTV/356847",
-      "text": "حسن عاملی، امام جمعه اردبیل، در شبکه ایکس نوشت: «باب‌المندب و تنگه هرمز قبل از حمله آمریکا هر دو باز و در خدمت اقتصاد جهان بود؛ حمله ترامپ هر دو را بست و حالا از این به بعد قیمت نفت را ایران تعیین خواهد کرد.»\n\nعاملی همچنین نوشت: «قدرتی بالاتر از بمب اتمی این است.»\nhttps://iranintl.com/202609113782",
+      "message_id": 356848,
+      "message_link": "https://t.me/IranintlTV/356848",
+      "text": "مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، روز جمعه ۲۰ شهریور، در دهلی‌نو به همراه ولادیمیر پوتین، رییس‌جمهور روسیه، سیریل رامافوسا، رییس‌جمهور آفریقای جنوبی، و نارندرا مودی، نخست‌وزیر هند و میزبان این نشست، در کنار رهبران کشورهای عضو گروه بریکس حضور یافت. این مجمع به‌طور سنتی پیش از نشست اصلی سران بریکس برگزار می‌شود که قرار است در آخر هفته برگزار شود.\n@iranintltv",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "18:18:12",
-      "gregorian_utc": "2026-09-11T14:48:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 134094,
-      "media_size_human": "130.95 KB",
+      "tehran_time": "18:20:53",
+      "gregorian_utc": "2026-09-11T14:50:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 656823,
+      "media_size_human": "641.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356847_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356847_photo.jpg",
+      "media_local_path": "media/IranintlTV_356848_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356848_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.593648+00:00"
+      "archived_at": "2026-09-11T15:00:54.151869+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76439_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76439_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.849405+00:00"
+      "archived_at": "2026-09-11T15:00:54.568770+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120892,
-      "message_link": "https://t.me/Mellig/120892",
-      "text": "طوطی ملی گرایان مردم گرا به اسم طلا بخش 1 \n\nhttps://www.youtube.com/shorts/A6uXk63A4XI",
+      "message_id": 120893,
+      "message_link": "https://t.me/Mellig/120893",
+      "text": "",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:54:01",
-      "gregorian_utc": "2026-09-11T14:24:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 11114856,
-      "media_size_human": "10.60 MB",
+      "tehran_time": "18:23:09",
+      "gregorian_utc": "2026-09-11T14:53:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 195206,
+      "media_size_human": "190.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120892_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120892_video.mp4",
+      "media_local_path": "media/Mellig_120893_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120893_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.119804+00:00"
+      "archived_at": "2026-09-11T15:00:54.910671+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.334126+00:00"
+      "archived_at": "2026-09-11T15:00:55.168919+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356253+00:00"
+      "archived_at": "2026-09-11T15:00:53.822686+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356846,
-      "message_link": "https://t.me/IranintlTV/356846",
-      "text": "در ادامه بررسی اعتراضات سراسری دی‌ماه ۱۴۰۴ در برنامه «جغرافیای انقلاب ملی» از ایران‌اینترنشنال، تصاویر و اطلاعات رسیده از استان خراسان جنوبی نشان می‌دهد ده‌ها دانشجوی دانشگاه بیرجند که اولین تجمعات را شکل داده بودند، هدف برخورد، احضار و اخراج از دانشگاه قرار گرفته‌اند.\n﻿سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد.",
+      "message_id": 356847,
+      "message_link": "https://t.me/IranintlTV/356847",
+      "text": "حسن عاملی، امام جمعه اردبیل، در شبکه ایکس نوشت: «باب‌المندب و تنگه هرمز قبل از حمله آمریکا هر دو باز و در خدمت اقتصاد جهان بود؛ حمله ترامپ هر دو را بست و حالا از این به بعد قیمت نفت را ایران تعیین خواهد کرد.»\n\nعاملی همچنین نوشت: «قدرتی بالاتر از بمب اتمی این است.»\nhttps://iranintl.com/202609113782",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "18:14:58",
-      "gregorian_utc": "2026-09-11T14:44:58+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18944010,
-      "media_size_human": "18.07 MB",
+      "tehran_time": "18:18:12",
+      "gregorian_utc": "2026-09-11T14:48:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 134094,
+      "media_size_human": "130.95 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356846_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356846_video.mp4",
+      "media_local_path": "media/IranintlTV_356847_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356847_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.593711+00:00"
+      "archived_at": "2026-09-11T15:00:54.151972+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76438_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76438_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.849482+00:00"
+      "archived_at": "2026-09-11T15:00:54.568858+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120891,
-      "message_link": "https://t.me/Mellig/120891",
-      "text": "با فرارسیدن سال نو یهودی، برای یکایک شما آرزوی سالی شیرین چون عسل، پر از شادی چون دانه‌های بی‌شمار انار و سرشار از صلح و آزادی آرزو داریم.🍎🍯\n\nبه امید پیروزی مردم ایران بر ستمگران ✌️\n\nشانا تووا💙🇮🇱",
+      "message_id": 120892,
+      "message_link": "https://t.me/Mellig/120892",
+      "text": "طوطی ملی گرایان مردم گرا به اسم طلا بخش 1 \n\nhttps://www.youtube.com/shorts/A6uXk63A4XI",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:51:14",
-      "gregorian_utc": "2026-09-11T14:21:14+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 171849,
-      "media_size_human": "167.82 KB",
+      "tehran_time": "17:54:01",
+      "gregorian_utc": "2026-09-11T14:24:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11114856,
+      "media_size_human": "10.60 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120891_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120891_photo.jpg",
+      "media_local_path": "media/Mellig_120892_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120892_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.119859+00:00"
+      "archived_at": "2026-09-11T15:00:54.910746+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.334198+00:00"
+      "archived_at": "2026-09-11T15:00:55.168993+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356290+00:00"
+      "archived_at": "2026-09-11T15:00:53.822724+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356845,
-      "message_link": "https://t.me/IranintlTV/356845",
-      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مردم درباره پیامدهای کشتار دی‌ماه و جنگ جاری بر سلامت روان آنها پرسید. حدود ۳۸ هزار نفر در این نظرسنجی شرکت کردند که ۹۴ درصد آنها گفتند خشمشان در مواجهه با مشکلات، بسیار سریع‌تر از سال‌های گذشته برانگیخته می‌شود.\n\nفرشاد متقی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به این موضوع می‌پردازد\n@iranintltv",
+      "message_id": 356846,
+      "message_link": "https://t.me/IranintlTV/356846",
+      "text": "در ادامه بررسی اعتراضات سراسری دی‌ماه ۱۴۰۴ در برنامه «جغرافیای انقلاب ملی» از ایران‌اینترنشنال، تصاویر و اطلاعات رسیده از استان خراسان جنوبی نشان می‌دهد ده‌ها دانشجوی دانشگاه بیرجند که اولین تجمعات را شکل داده بودند، هدف برخورد، احضار و اخراج از دانشگاه قرار گرفته‌اند.\n﻿سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "18:09:15",
-      "gregorian_utc": "2026-09-11T14:39:15+00:00",
+      "tehran_time": "18:14:58",
+      "gregorian_utc": "2026-09-11T14:44:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 5445208,
-      "media_size_human": "5.19 MB",
+      "media_size_bytes": 18944010,
+      "media_size_human": "18.07 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356845_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356845_video.mp4",
+      "media_local_path": "media/IranintlTV_356846_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356846_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.593807+00:00"
+      "archived_at": "2026-09-11T15:00:54.152043+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76436_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76436_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.849571+00:00"
+      "archived_at": "2026-09-11T15:00:54.568949+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120890,
-      "message_link": "https://t.me/Mellig/120890",
-      "text": "🔴 #خبر_فوری\nرئیس جمهور اوکراین از حملات شدید پهپادی به تأسیسات نفتی روسیه خبر داد.",
+      "message_id": 120891,
+      "message_link": "https://t.me/Mellig/120891",
+      "text": "با فرارسیدن سال نو یهودی، برای یکایک شما آرزوی سالی شیرین چون عسل، پر از شادی چون دانه‌های بی‌شمار انار و سرشار از صلح و آزادی آرزو داریم.🍎🍯\n\nبه امید پیروزی مردم ایران بر ستمگران ✌️\n\nشانا تووا💙🇮🇱",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:33:03",
-      "gregorian_utc": "2026-09-11T14:03:03+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.119917+00:00"
+      "tehran_time": "17:51:14",
+      "gregorian_utc": "2026-09-11T14:21:14+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 171849,
+      "media_size_human": "167.82 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120891_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120891_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-11T15:00:54.910792+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334230+00:00"
+      "archived_at": "2026-09-11T15:00:55.169052+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356334+00:00"
+      "archived_at": "2026-09-11T15:00:53.822764+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356844,
-      "message_link": "https://t.me/IranintlTV/356844",
-      "text": "پیت هگست، وزیر جنگ آمریکا، در مراسم یادبود بیست و پنجمین سالگرد حملات ۱۱ سپتامبر، درباره جنگ ایران گفت: «در شش ماه گذشته، بزرگ‌ترین حکومت حامی تروریسم در جهان را ویران کرده‌ایم. نیروهای ما با یک حکومت دینی اسلامی جنگیده‌اند که نزدیک به نیم قرن خواستار مرگ ما بوده است.»\n\nهگست افزود: «حکومت ایران دهه‌ها از حملات تروریستی علیه آمریکایی‌ها حمایت کرده و هزاران نفر، از جمله همرزمان ما در عراق و افغانستان، را کشت؛ آنها ترامپ را در محاسبات خود ندیده بودند.»\n\nوزیر جنگ ایالات متحده گفت که آمریکا رهبران حکومت ایران را کشت، نیروی هوایی آنها را نابود کرد و نیروی دریایی آنها اکنون در قعر دریا قرار دارد.\n\nهگست با تاکید بر اینکه آمریکا از عدم دستیابی جمهوری اسلامی به سلاح اتمی اطمینان پیدا می‌کند، گفت: «فشار اقتصادی هر روز بر ایران بیشتر می‌شود؛ ما تنگه را کنترل می‌کنیم و این نبرد را به پایان خواهیم رساند.»\nhttps://iranintl.com/202609118842",
+      "message_id": 356845,
+      "message_link": "https://t.me/IranintlTV/356845",
+      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مردم درباره پیامدهای کشتار دی‌ماه و جنگ جاری بر سلامت روان آنها پرسید. حدود ۳۸ هزار نفر در این نظرسنجی شرکت کردند که ۹۴ درصد آنها گفتند خشمشان در مواجهه با مشکلات، بسیار سریع‌تر از سال‌های گذشته برانگیخته می‌شود.\n\nفرشاد متقی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به این موضوع می‌پردازد\n@iranintltv",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:52:15",
-      "gregorian_utc": "2026-09-11T14:22:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 177165,
-      "media_size_human": "173.01 KB",
+      "tehran_time": "18:09:15",
+      "gregorian_utc": "2026-09-11T14:39:15+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5445208,
+      "media_size_human": "5.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356844_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356844_photo.jpg",
+      "media_local_path": "media/IranintlTV_356845_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356845_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.593953+00:00"
+      "archived_at": "2026-09-11T15:00:54.152134+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,17 +347,17 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.849754+00:00"
+      "archived_at": "2026-09-11T15:00:54.569159+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120889,
-      "message_link": "https://t.me/Mellig/120889",
-      "text": "سلام اقا مهدی همین الان تبریز صدای جنگنده با ارتفاع پایین اومد ساعت ۱۶:۵۸",
+      "message_id": 120890,
+      "message_link": "https://t.me/Mellig/120890",
+      "text": "🔴 #خبر_فوری\nرئیس جمهور اوکراین از حملات شدید پهپادی به تأسیسات نفتی روسیه خبر داد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:01:02",
-      "gregorian_utc": "2026-09-11T13:31:02+00:00",
+      "tehran_time": "17:33:03",
+      "gregorian_utc": "2026-09-11T14:03:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.119951+00:00"
+      "archived_at": "2026-09-11T15:00:54.910848+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334256+00:00"
+      "archived_at": "2026-09-11T15:00:55.169080+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356389+00:00"
+      "archived_at": "2026-09-11T15:00:53.822798+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356843,
-      "message_link": "https://t.me/IranintlTV/356843",
-      "text": "یک نیروی حوثی در حالی که در کنار یک خودروی زرهی ساخت آمریکا که از نیروهای وفادار به طارق صالح، فرمانده مورد حمایت امارات و برادرزاده علی عبدالله صالح، رییس‌جمهور فقید یمن، به غنیمت گرفته شده است، از تصرف بندر المخا در ساحل دریای سرخ در غرب یمن ابراز خوشحالی می‌کند. این نیروی حوثی می‌گوید: «نیروهای صالح فرار کرده‌اند و نیروهای حوثی اکنون به سمت منطقه باب‌المندب، تنگه راهبردی در ورودی دریای سرخ، پیشروی کرده‌اند.» این تصاویر که ظاهراً روزهای پنجشنبه و جمعه منتشر شده‌اند، همزمان با پیشروی حوثی‌ها در امتداد ساحل غربی یمن منتشر شده است. \n@iranintltv",
+      "message_id": 356844,
+      "message_link": "https://t.me/IranintlTV/356844",
+      "text": "پیت هگست، وزیر جنگ آمریکا، در مراسم یادبود بیست و پنجمین سالگرد حملات ۱۱ سپتامبر، درباره جنگ ایران گفت: «در شش ماه گذشته، بزرگ‌ترین حکومت حامی تروریسم در جهان را ویران کرده‌ایم. نیروهای ما با یک حکومت دینی اسلامی جنگیده‌اند که نزدیک به نیم قرن خواستار مرگ ما بوده است.»\n\nهگست افزود: «حکومت ایران دهه‌ها از حملات تروریستی علیه آمریکایی‌ها حمایت کرده و هزاران نفر، از جمله همرزمان ما در عراق و افغانستان، را کشت؛ آنها ترامپ را در محاسبات خود ندیده بودند.»\n\nوزیر جنگ ایالات متحده گفت که آمریکا رهبران حکومت ایران را کشت، نیروی هوایی آنها را نابود کرد و نیروی دریایی آنها اکنون در قعر دریا قرار دارد.\n\nهگست با تاکید بر اینکه آمریکا از عدم دستیابی جمهوری اسلامی به سلاح اتمی اطمینان پیدا می‌کند، گفت: «فشار اقتصادی هر روز بر ایران بیشتر می‌شود؛ ما تنگه را کنترل می‌کنیم و این نبرد را به پایان خواهیم رساند.»\nhttps://iranintl.com/202609118842",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:46:52",
-      "gregorian_utc": "2026-09-11T14:16:52+00:00",
-      "media_type": "video",
-      "media_size_bytes": 735090,
-      "media_size_human": "717.86 KB",
+      "tehran_time": "17:52:15",
+      "gregorian_utc": "2026-09-11T14:22:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 177165,
+      "media_size_human": "173.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356843_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356843_video.mp4",
+      "media_local_path": "media/IranintlTV_356844_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356844_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594051+00:00"
+      "archived_at": "2026-09-11T15:00:54.152276+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.849845+00:00"
+      "archived_at": "2026-09-11T15:00:54.569256+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120888,
-      "message_link": "https://t.me/Mellig/120888",
-      "text": "🔴 #خبر_فوری\nلحظاتی پیش حماس در بیانیه ای از ترور رهبر نظامی خود در جنوب غزه توسط اسرائیل خبر داد.",
+      "message_id": 120889,
+      "message_link": "https://t.me/Mellig/120889",
+      "text": "سلام اقا مهدی همین الان تبریز صدای جنگنده با ارتفاع پایین اومد ساعت ۱۶:۵۸",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "16:47:39",
-      "gregorian_utc": "2026-09-11T13:17:39+00:00",
+      "tehran_time": "17:01:02",
+      "gregorian_utc": "2026-09-11T13:31:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.119999+00:00"
+      "archived_at": "2026-09-11T15:00:54.910880+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334280+00:00"
+      "archived_at": "2026-09-11T15:00:55.169105+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356435+00:00"
+      "archived_at": "2026-09-11T15:00:53.822834+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356842,
-      "message_link": "https://t.me/IranintlTV/356842",
-      "text": "یک نیروی حوثی در حالی که در کنار یک خودروی زرهی ساخت آمریکا که از نیروهای وفادار به طارق صالح، فرمانده مورد حمایت امارات و برادرزاده علی عبدالله صالح، رییس‌جمهور فقید یمن، به غنیمت گرفته شده است، از تصرف بندر المخا در ساحل دریای سرخ در غرب یمن ابراز خوشحالی می‌کند. این نیروی حوثی می‌گوید: «نیروهای صالح فرار کرده‌اند و نیروهای حوثی اکنون به سمت منطقه باب‌المندب، تنگه راهبردی در ورودی دریای سرخ، پیشروی کرده‌اند.» این تصاویر که ظاهراً روزهای پنجشنبه و جمعه منتشر شده‌اند، همزمان با پیشروی حوثی‌ها در امتداد ساحل غربی یمن منتشر شده است.\n@iranintltv",
+      "message_id": 356843,
+      "message_link": "https://t.me/IranintlTV/356843",
+      "text": "یک نیروی حوثی در حالی که در کنار یک خودروی زرهی ساخت آمریکا که از نیروهای وفادار به طارق صالح، فرمانده مورد حمایت امارات و برادرزاده علی عبدالله صالح، رییس‌جمهور فقید یمن، به غنیمت گرفته شده است، از تصرف بندر المخا در ساحل دریای سرخ در غرب یمن ابراز خوشحالی می‌کند. این نیروی حوثی می‌گوید: «نیروهای صالح فرار کرده‌اند و نیروهای حوثی اکنون به سمت منطقه باب‌المندب، تنگه راهبردی در ورودی دریای سرخ، پیشروی کرده‌اند.» این تصاویر که ظاهراً روزهای پنجشنبه و جمعه منتشر شده‌اند، همزمان با پیشروی حوثی‌ها در امتداد ساحل غربی یمن منتشر شده است. \n@iranintltv",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:46:02",
-      "gregorian_utc": "2026-09-11T14:16:02+00:00",
+      "tehran_time": "17:46:52",
+      "gregorian_utc": "2026-09-11T14:16:52+00:00",
       "media_type": "video",
       "media_size_bytes": 735090,
       "media_size_human": "717.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356842_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356842_video.mp4",
+      "media_local_path": "media/IranintlTV_356843_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356843_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594144+00:00"
+      "archived_at": "2026-09-11T15:00:54.152372+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,17 +527,17 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.864236+00:00"
+      "archived_at": "2026-09-11T15:00:54.583824+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120887,
-      "message_link": "https://t.me/Mellig/120887",
-      "text": "🔴 #خبر_فوری\nعربستان سعودی در آستانه حمله به یمن،\nطبق گزارش های عربی،\nصدها خودروی زرهی و تانک های ارتش عربستان امروز و فردا از گذرگاه مرزی ال‌ودیعه وارد یمن خواهند شد،\nبیش از 200 کارشناس ارشد نظامی آمریکایی نیز به صورت ناگهانی وارد پایتخت عربستان شدند.",
+      "message_id": 120888,
+      "message_link": "https://t.me/Mellig/120888",
+      "text": "🔴 #خبر_فوری\nلحظاتی پیش حماس در بیانیه ای از ترور رهبر نظامی خود در جنوب غزه توسط اسرائیل خبر داد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "16:33:19",
-      "gregorian_utc": "2026-09-11T13:03:19+00:00",
+      "tehran_time": "16:47:39",
+      "gregorian_utc": "2026-09-11T13:17:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.120070+00:00"
+      "archived_at": "2026-09-11T15:00:54.910927+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334305+00:00"
+      "archived_at": "2026-09-11T15:00:55.169130+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356469+00:00"
+      "archived_at": "2026-09-11T15:00:53.822863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356841,
-      "message_link": "https://t.me/IranintlTV/356841",
-      "text": "مادر جاویدنام حسین کایدی در ویدیویی با اشاره به اینکه فرزندش نزدیک خانه‌اش کشته شد، گفت: «حسین چه خطری برای کسی داشت که سزاوار مرگ بود؟ به چه جرمی باید به قلب پسر ۱۸ ساله‌ام گلوله شلیک می‌شد؟»\nاو گفت: «داغ بچه‌ام رو به خاک نسپردم که حقیقت رو هم به خاک بسپارم» و افزود که تا آخرین نفس پیگیر خون فرزندش خواهد بود.\nحسین کایدی، جوان اهل اندیمشک، شامگاه ۱۹ دی ۱۴۰۴ در مقابل منزلش با شلیک گلوله جنگی ماموران حکومت کشته شد.",
+      "message_id": 356842,
+      "message_link": "https://t.me/IranintlTV/356842",
+      "text": "یک نیروی حوثی در حالی که در کنار یک خودروی زرهی ساخت آمریکا که از نیروهای وفادار به طارق صالح، فرمانده مورد حمایت امارات و برادرزاده علی عبدالله صالح، رییس‌جمهور فقید یمن، به غنیمت گرفته شده است، از تصرف بندر المخا در ساحل دریای سرخ در غرب یمن ابراز خوشحالی می‌کند. این نیروی حوثی می‌گوید: «نیروهای صالح فرار کرده‌اند و نیروهای حوثی اکنون به سمت منطقه باب‌المندب، تنگه راهبردی در ورودی دریای سرخ، پیشروی کرده‌اند.» این تصاویر که ظاهراً روزهای پنجشنبه و جمعه منتشر شده‌اند، همزمان با پیشروی حوثی‌ها در امتداد ساحل غربی یمن منتشر شده است.\n@iranintltv",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:41:50",
-      "gregorian_utc": "2026-09-11T14:11:50+00:00",
+      "tehran_time": "17:46:02",
+      "gregorian_utc": "2026-09-11T14:16:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 76371108,
-      "media_size_human": "72.83 MB",
+      "media_size_bytes": 735090,
+      "media_size_human": "717.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356841_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356841_video.mp4",
+      "media_local_path": "media/IranintlTV_356842_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356842_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594184+00:00"
+      "archived_at": "2026-09-11T15:00:54.152467+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.864501+00:00"
+      "archived_at": "2026-09-11T15:00:54.584087+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120886,
-      "message_link": "https://t.me/Mellig/120886",
-      "text": "۲۵ سال پیش در چنین روزی برج های تجارت جهانی در نیویورک مورد حمله مسلمانان جهادی قرار گرفت و این حادثه مسیر تاریخ جهان و خاورمیانه را تغییر داد\n\nMellig.net",
+      "message_id": 120887,
+      "message_link": "https://t.me/Mellig/120887",
+      "text": "🔴 #خبر_فوری\nعربستان سعودی در آستانه حمله به یمن،\nطبق گزارش های عربی،\nصدها خودروی زرهی و تانک های ارتش عربستان امروز و فردا از گذرگاه مرزی ال‌ودیعه وارد یمن خواهند شد،\nبیش از 200 کارشناس ارشد نظامی آمریکایی نیز به صورت ناگهانی وارد پایتخت عربستان شدند.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "15:55:01",
-      "gregorian_utc": "2026-09-11T12:25:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5699492,
-      "media_size_human": "5.44 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120886_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120886_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.120131+00:00"
+      "tehran_time": "16:33:19",
+      "gregorian_utc": "2026-09-11T13:03:19+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-11T15:00:54.911010+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334329+00:00"
+      "archived_at": "2026-09-11T15:00:55.169154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356512+00:00"
+      "archived_at": "2026-09-11T15:00:53.822910+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356840,
-      "message_link": "https://t.me/IranintlTV/356840",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد پنجشنبه‌شب در استان گلستان، بارش باران موجب آبگرفتگی برخی معابر و خیابان‌ها در شهرهای گالیکش و گنبد کاووس شد.",
+      "message_id": 356841,
+      "message_link": "https://t.me/IranintlTV/356841",
+      "text": "مادر جاویدنام حسین کایدی در ویدیویی با اشاره به اینکه فرزندش نزدیک خانه‌اش کشته شد، گفت: «حسین چه خطری برای کسی داشت که سزاوار مرگ بود؟ به چه جرمی باید به قلب پسر ۱۸ ساله‌ام گلوله شلیک می‌شد؟»\nاو گفت: «داغ بچه‌ام رو به خاک نسپردم که حقیقت رو هم به خاک بسپارم» و افزود که تا آخرین نفس پیگیر خون فرزندش خواهد بود.\nحسین کایدی، جوان اهل اندیمشک، شامگاه ۱۹ دی ۱۴۰۴ در مقابل منزلش با شلیک گلوله جنگی ماموران حکومت کشته شد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:28:01",
-      "gregorian_utc": "2026-09-11T13:58:01+00:00",
+      "tehran_time": "17:41:50",
+      "gregorian_utc": "2026-09-11T14:11:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 15039252,
-      "media_size_human": "14.34 MB",
+      "media_size_bytes": 76371108,
+      "media_size_human": "72.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356840_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356840_video.mp4",
+      "media_local_path": "media/IranintlTV_356841_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356841_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594225+00:00"
+      "archived_at": "2026-09-11T15:00:54.152513+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.864597+00:00"
+      "archived_at": "2026-09-11T15:00:54.584198+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120885,
-      "message_link": "https://t.me/Mellig/120885",
-      "text": "🔴 #خبر_فوری\nآکسیوس:\nدقایقی پیش فرمانده سنتکام برای نشست اضطراری با فرماندهان ارتش عربستان در مورد یمن،\nوارد عربستان سعودی شد.",
+      "message_id": 120886,
+      "message_link": "https://t.me/Mellig/120886",
+      "text": "۲۵ سال پیش در چنین روزی برج های تجارت جهانی در نیویورک مورد حمله مسلمانان جهادی قرار گرفت و این حادثه مسیر تاریخ جهان و خاورمیانه را تغییر داد\n\nMellig.net",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "15:54:01",
-      "gregorian_utc": "2026-09-11T12:24:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.120182+00:00"
+      "tehran_time": "15:55:01",
+      "gregorian_utc": "2026-09-11T12:25:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5699492,
+      "media_size_human": "5.44 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120886_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120886_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-11T15:00:54.911081+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334372+00:00"
+      "archived_at": "2026-09-11T15:00:55.169177+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356541+00:00"
+      "archived_at": "2026-09-11T15:00:53.822940+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356839,
-      "message_link": "https://t.me/IranintlTV/356839",
-      "text": "مراسم رسمی بیست‌وپنجمین سالگرد حملات تروریستی ۱۱ سپتامبر در پنتاگون با حضور دونالد ترامپ، ملانیا ترامپ، پیت هگست، دن کین و خانواده‌های قربانیان در حال برگزار است. در این مراسم نام ۱۸۴ قربانی حمله به پنتاگون خوانده می‌شود.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، از محل برگزاری مراسم یادبود در نیویورک گزارش می‌دهد\n@iranintltv",
+      "message_id": 356840,
+      "message_link": "https://t.me/IranintlTV/356840",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد پنجشنبه‌شب در استان گلستان، بارش باران موجب آبگرفتگی برخی معابر و خیابان‌ها در شهرهای گالیکش و گنبد کاووس شد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:27:15",
-      "gregorian_utc": "2026-09-11T13:57:15+00:00",
+      "tehran_time": "17:28:01",
+      "gregorian_utc": "2026-09-11T13:58:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 5050977,
-      "media_size_human": "4.82 MB",
+      "media_size_bytes": 15039252,
+      "media_size_human": "14.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356839_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356839_video.mp4",
+      "media_local_path": "media/IranintlTV_356840_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356840_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594295+00:00"
+      "archived_at": "2026-09-11T15:00:54.152549+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,17 +797,17 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.864731+00:00"
+      "archived_at": "2026-09-11T15:00:54.584339+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120884,
-      "message_link": "https://t.me/Mellig/120884",
-      "text": "🔴 #خبر_فوری\nگرجستان اعلام کرد تحریم‌‌های جدید آمریکا علیه تمام شرکت‌های هواپیمایی ایران را اجرا می‎کند،\nبدین ترتیب هواپیماهای ایرانی هیچ خدماتی در فرودگاهای گرجستان دریافت نخواهند کرد.",
+      "message_id": 120885,
+      "message_link": "https://t.me/Mellig/120885",
+      "text": "🔴 #خبر_فوری\nآکسیوس:\nدقایقی پیش فرمانده سنتکام برای نشست اضطراری با فرماندهان ارتش عربستان در مورد یمن،\nوارد عربستان سعودی شد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "15:36:31",
-      "gregorian_utc": "2026-09-11T12:06:31+00:00",
+      "tehran_time": "15:54:01",
+      "gregorian_utc": "2026-09-11T12:24:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.120236+00:00"
+      "archived_at": "2026-09-11T15:00:54.911134+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334405+00:00"
+      "archived_at": "2026-09-11T15:00:55.169200+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356567+00:00"
+      "archived_at": "2026-09-11T15:00:53.822967+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356838,
-      "message_link": "https://t.me/IranintlTV/356838",
-      "text": "وای‌نت گزارش داد نمایندگان چند کشور خاورمیانه در گفت‌وگوهای غیرعلنی چهارمین کنفرانس «مید» در واشینگتن، پایان حکومت جمهوری اسلامی را به سود منطقه دانستند، اما ارزیابی کردند تحقق چنین نتیجه‌ای قطعی نیست و به زمان نیاز دارد.\n\nچهارمین کنفرانس «مید» با حضور مقام‌ها و نمایندگانی از ۲۴ کشور در واشینگتن برگزار شد.\n\nبر اساس گزارش وای‌نت، ارزیابی‌های مطرح‌شده در این کنفرانس نشان می‌دهد جمهوری اسلامی به‌شدت تضعیف شده است، اما فروپاشی حکومت قریب‌الوقوع ارزیابی نمی‌شود و این روند ممکن است یک تا سه سال طول بکشد.\n\nوای‌نت نوشت وضعیت اقتصاد ایران در این نشست وخیم ارزیابی شد و شرکت‌کنندگان از کاهش شدید ارزش ریال، تورم بالا و مشکلات حکومت در پرداخت حقوق کارکنان بخش عمومی سخن گفتند. همچنین نشانه‌هایی از شکاف در ساختار سیاسی و نظامی جمهوری اسلامی مطرح شد.\n\nدر این نشست همچنین برآورد شد حدود ۸۰ درصد ایرانیان مخالف حکومت هستند.\n\nوای‌نت در بخش دیگری از گزارش نوشت مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در فضایی همراه با نگرانی فزاینده درباره بقای حکومت، شماری از تندروترین چهره‌های ساختار جمهوری اسلامی را در اطراف خود جمع کرده است.\nhttps",
+      "message_id": 356839,
+      "message_link": "https://t.me/IranintlTV/356839",
+      "text": "مراسم رسمی بیست‌وپنجمین سالگرد حملات تروریستی ۱۱ سپتامبر در پنتاگون با حضور دونالد ترامپ، ملانیا ترامپ، پیت هگست، دن کین و خانواده‌های قربانیان در حال برگزار است. در این مراسم نام ۱۸۴ قربانی حمله به پنتاگون خوانده می‌شود.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، از محل برگزاری مراسم یادبود در نیویورک گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:25:58",
-      "gregorian_utc": "2026-09-11T13:55:58+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 222905,
-      "media_size_human": "217.68 KB",
+      "tehran_time": "17:27:15",
+      "gregorian_utc": "2026-09-11T13:57:15+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5050977,
+      "media_size_human": "4.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356838_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356838_photo.jpg",
+      "media_local_path": "media/IranintlTV_356839_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356839_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594339+00:00"
+      "archived_at": "2026-09-11T15:00:54.152621+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,17 +887,17 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.864776+00:00"
+      "archived_at": "2026-09-11T15:00:54.584386+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120883,
-      "message_link": "https://t.me/Mellig/120883",
-      "text": "🔴 #خبر_فوری\nنتانیاهو:\nمقادیر زیادی تسلیحات را که ایران برای حزب‌الله فرستاده بود،\nاز تپه علی الطاهر خارج کردیم.",
+      "message_id": 120884,
+      "message_link": "https://t.me/Mellig/120884",
+      "text": "🔴 #خبر_فوری\nگرجستان اعلام کرد تحریم‌‌های جدید آمریکا علیه تمام شرکت‌های هواپیمایی ایران را اجرا می‎کند،\nبدین ترتیب هواپیماهای ایرانی هیچ خدماتی در فرودگاهای گرجستان دریافت نخواهند کرد.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "14:22:44",
-      "gregorian_utc": "2026-09-11T10:52:44+00:00",
+      "tehran_time": "15:36:31",
+      "gregorian_utc": "2026-09-11T12:06:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.120282+00:00"
+      "archived_at": "2026-09-11T15:00:54.911189+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334431+00:00"
+      "archived_at": "2026-09-11T15:00:55.169223+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356592+00:00"
+      "archived_at": "2026-09-11T15:00:53.823012+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356837,
-      "message_link": "https://t.me/IranintlTV/356837",
-      "text": "کانال تلگرامی امتداد گزارش داد که با رد اعاده دادرسی ارغوان فلاحی، شهروند ۲۴ ساله، او در خطر اجرای حکم اعدام قرار دارد.\n\nاین زندانی سیاسی ششم بهمن ۱۴۰۳، یک هفته پس از کشته شدن رازینی و مقیسه، دو قاضی دیوان عالی، بازداشت شد و در دادگاه انقلاب اسلامی به اعدام محکوم شد.\n\nبر اساس این گزارش، ارغوان فلاحی در شرایطی به اتهام بغی (قیام مسلحانه) به اعدام محکوم شده که به گفته وکیل او، هیچ سلاحی از وی کشف نشده است.\nhttps://iranintl.com/202609110393",
+      "message_id": 356838,
+      "message_link": "https://t.me/IranintlTV/356838",
+      "text": "وای‌نت گزارش داد نمایندگان چند کشور خاورمیانه در گفت‌وگوهای غیرعلنی چهارمین کنفرانس «مید» در واشینگتن، پایان حکومت جمهوری اسلامی را به سود منطقه دانستند، اما ارزیابی کردند تحقق چنین نتیجه‌ای قطعی نیست و به زمان نیاز دارد.\n\nچهارمین کنفرانس «مید» با حضور مقام‌ها و نمایندگانی از ۲۴ کشور در واشینگتن برگزار شد.\n\nبر اساس گزارش وای‌نت، ارزیابی‌های مطرح‌شده در این کنفرانس نشان می‌دهد جمهوری اسلامی به‌شدت تضعیف شده است، اما فروپاشی حکومت قریب‌الوقوع ارزیابی نمی‌شود و این روند ممکن است یک تا سه سال طول بکشد.\n\nوای‌نت نوشت وضعیت اقتصاد ایران در این نشست وخیم ارزیابی شد و شرکت‌کنندگان از کاهش شدید ارزش ریال، تورم بالا و مشکلات حکومت در پرداخت حقوق کارکنان بخش عمومی سخن گفتند. همچنین نشانه‌هایی از شکاف در ساختار سیاسی و نظامی جمهوری اسلامی مطرح شد.\n\nدر این نشست همچنین برآورد شد حدود ۸۰ درصد ایرانیان مخالف حکومت هستند.\n\nوای‌نت در بخش دیگری از گزارش نوشت مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در فضایی همراه با نگرانی فزاینده درباره بقای حکومت، شماری از تندروترین چهره‌های ساختار جمهوری اسلامی را در اطراف خود جمع کرده است.\nhttps",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:14:04",
-      "gregorian_utc": "2026-09-11T13:44:04+00:00",
+      "tehran_time": "17:25:58",
+      "gregorian_utc": "2026-09-11T13:55:58+00:00",
       "media_type": "photo",
-      "media_size_bytes": 140941,
-      "media_size_human": "137.64 KB",
+      "media_size_bytes": 222905,
+      "media_size_human": "217.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356837_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356837_photo.jpg",
+      "media_local_path": "media/IranintlTV_356838_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594447+00:00"
+      "archived_at": "2026-09-11T15:00:54.152665+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.864859+00:00"
+      "archived_at": "2026-09-11T15:00:54.584481+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120882,
-      "message_link": "https://t.me/Mellig/120882",
-      "text": "کوه علی طاهر کامل سقوط کرد و به دست اسراییل افتاد،اخبار جنگ ۱۹ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 109.69 MB)",
+      "message_id": 120883,
+      "message_link": "https://t.me/Mellig/120883",
+      "text": "🔴 #خبر_فوری\nنتانیاهو:\nمقادیر زیادی تسلیحات را که ایران برای حزب‌الله فرستاده بود،\nاز تپه علی الطاهر خارج کردیم.",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "11:39:10",
-      "gregorian_utc": "2026-09-11T08:09:10+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 115021041,
-      "media_size_human": "109.69 MB",
+      "tehran_time": "14:22:44",
+      "gregorian_utc": "2026-09-11T10:52:44+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 109.69 MB)",
-      "archived_at": "2026-09-11T14:50:36.120346+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-11T15:00:54.911234+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:36.334458+00:00"
+      "archived_at": "2026-09-11T15:00:55.169249+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.356617+00:00"
+      "archived_at": "2026-09-11T15:00:53.823046+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 356836,
-      "message_link": "https://t.me/IranintlTV/356836",
-      "text": "سرخط خبرهای جمعه ۲۰ شهریور\n@iranintltv",
+      "message_id": 356837,
+      "message_link": "https://t.me/IranintlTV/356837",
+      "text": "کانال تلگرامی امتداد گزارش داد که با رد اعاده دادرسی ارغوان فلاحی، شهروند ۲۴ ساله، او در خطر اجرای حکم اعدام قرار دارد.\n\nاین زندانی سیاسی ششم بهمن ۱۴۰۳، یک هفته پس از کشته شدن رازینی و مقیسه، دو قاضی دیوان عالی، بازداشت شد و در دادگاه انقلاب اسلامی به اعدام محکوم شد.\n\nبر اساس این گزارش، ارغوان فلاحی در شرایطی به اتهام بغی (قیام مسلحانه) به اعدام محکوم شده که به گفته وکیل او، هیچ سلاحی از وی کشف نشده است.\nhttps://iranintl.com/202609110393",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "17:11:40",
-      "gregorian_utc": "2026-09-11T13:41:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1156046,
-      "media_size_human": "1.10 MB",
+      "tehran_time": "17:14:04",
+      "gregorian_utc": "2026-09-11T13:44:04+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 140941,
+      "media_size_human": "137.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_356836_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356836_video.mp4",
+      "media_local_path": "media/IranintlTV_356837_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_356837_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:35.594502+00:00"
+      "archived_at": "2026-09-11T15:00:54.152751+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-11T14:50:35.864888+00:00"
+      "archived_at": "2026-09-11T15:00:54.584510+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120881,
-      "message_link": "https://t.me/Mellig/120881",
-      "text": "عرعری ها از مرگ بر عراقچی و قالیباف رسیدن به 😄😄مرگ بر حسن روحانی \n\n✨وقتی عرزشیا رهبر ندارند همین هست همه ی اعضای گروه به جان هم افتادن اهورمزدا را سپاس\n\n\n@mellig",
+      "message_id": 120882,
+      "message_link": "https://t.me/Mellig/120882",
+      "text": "کوه علی طاهر کامل سقوط کرد و به دست اسراییل افتاد،اخبار جنگ ۱۹ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 109.69 MB)",
       "shamsi_date": "1405/06/20",
-      "tehran_time": "10:01:20",
-      "gregorian_utc": "2026-09-11T06:31:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 21412114,
-      "media_size_human": "20.42 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120881_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120881_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-11T14:50:36.120444+00:00"
+      "tehran_time": "11:39:10",
+      "gregorian_utc": "2026-09-11T08:09:10+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 115021041,
+      "media_size_human": "109.69 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 109.69 MB)",
+      "archived_at": "2026-09-11T15:00:54.911405+00:00"
     }
   ]
 }
