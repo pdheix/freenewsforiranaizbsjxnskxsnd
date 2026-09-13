@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T12:15:22.686336+00:00",
-  "shamsi_generated": "1405/06/22 12:15:22 تهران",
+  "generated_at": "2026-09-13T12:25:37.089970+00:00",
+  "shamsi_generated": "1405/06/22 12:25:37 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236245+00:00"
+      "archived_at": "2026-09-13T12:20:43.394329+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_357112_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357112_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537456+00:00"
+      "archived_at": "2026-09-13T12:20:43.799421+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-09-13T12:10:38.855078+00:00"
+      "archived_at": "2026-09-13T12:20:44.192187+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120972,
-      "message_link": "https://t.me/Mellig/120972",
-      "text": "",
+      "message_id": 120974,
+      "message_link": "https://t.me/Mellig/120974",
+      "text": "درود، با آرزوی بهترین ها برای شما\nیک آهنگ ساختم به نام «ایرانُم»\n\nمحبت کنید گوش کنید و اگر مورد پسند بود در گروه قرار بدهید.\n\nسپاسگذارم 🙏🌹",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "13:08:02",
-      "gregorian_utc": "2026-09-13T09:38:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 114968,
-      "media_size_human": "112.27 KB",
+      "tehran_time": "15:49:30",
+      "gregorian_utc": "2026-09-13T12:19:30+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 5301386,
+      "media_size_human": "5.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120972_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120972_photo.jpg",
+      "media_local_path": "media/Mellig_120974_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120974_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153379+00:00"
+      "archived_at": "2026-09-13T12:20:44.555815+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.409784+00:00"
+      "archived_at": "2026-09-13T12:20:44.842979+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236301+00:00"
+      "archived_at": "2026-09-13T12:20:43.394362+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_357111_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357111_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537509+00:00"
+      "archived_at": "2026-09-13T12:20:43.799453+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76439_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76439_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855198+00:00"
+      "archived_at": "2026-09-13T12:20:44.192271+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120971,
-      "message_link": "https://t.me/Mellig/120971",
-      "text": "درود\nمتاسفانه محسن مجیدی، پدر جاویدنام محمدمهدی مجیدی بعد از 8 ماه نتونست دوری فرزندش رو تحمل کنه و ایست قلبی کرد و درگذشت.\n\n5 روز پیش اولین تولد محمدمهدی بود که زنده نبود.\nپدرشم سر این موضوع انقد گریه میکنه و غصه میخوره تا میره پیش پسرش💔",
+      "message_id": 120973,
+      "message_link": "https://t.me/Mellig/120973",
+      "text": "🚨 تصاویر سنتکام از حمله امروز به یک شناور مرتبط با سپاه در تنگه هرمز",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "13:08:02",
-      "gregorian_utc": "2026-09-13T09:38:02+00:00",
+      "tehran_time": "15:42:12",
+      "gregorian_utc": "2026-09-13T12:12:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 624722,
-      "media_size_human": "610.08 KB",
+      "media_size_bytes": 2084597,
+      "media_size_human": "1.99 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120971_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120971_video.mp4",
+      "media_local_path": "media/Mellig_120973_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153434+00:00"
+      "archived_at": "2026-09-13T12:20:44.555846+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.409858+00:00"
+      "archived_at": "2026-09-13T12:20:44.843022+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236339+00:00"
+      "archived_at": "2026-09-13T12:20:43.394381+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_357110_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357110_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537569+00:00"
+      "archived_at": "2026-09-13T12:20:43.799501+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76438_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76438_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855294+00:00"
+      "archived_at": "2026-09-13T12:20:44.192310+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120970,
-      "message_link": "https://t.me/Mellig/120970",
-      "text": "🔴 #خبر_فوری\nاقدام دیوانه وار پوتین در اوکراین،\nطبق گزارش ها ارتش روسیه در حال حملات پهپادی هدفمند به پمپ بنزین های سراسر اوکراین می‌باشد.",
+      "message_id": 120972,
+      "message_link": "https://t.me/Mellig/120972",
+      "text": "",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "12:56:01",
-      "gregorian_utc": "2026-09-13T09:26:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.153516+00:00"
+      "tehran_time": "13:08:02",
+      "gregorian_utc": "2026-09-13T09:38:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 114968,
+      "media_size_human": "112.27 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120972_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120972_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-13T12:20:44.555876+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.409891+00:00"
+      "archived_at": "2026-09-13T12:20:44.843039+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236380+00:00"
+      "archived_at": "2026-09-13T12:20:43.394404+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_357109_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357109_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537690+00:00"
+      "archived_at": "2026-09-13T12:20:43.799577+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76436_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76436_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855393+00:00"
+      "archived_at": "2026-09-13T12:20:44.192367+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120969,
-      "message_link": "https://t.me/Mellig/120969",
-      "text": "در زمان شاه، ساواک از بین افراد بسیار باهوش در بخش های مختلف جامعه به ویژه از بین تحصیل کردگان انتخاب می شدند. اینکه الان تعداد زیادی عکس برای خود درست کرده اند که می خواهیم ساواک باشیم تصور میکنند که ساواک فقط کارش این هست که کسی را بگیرد و شکنجه کند. در واقع علاقه به شکنجه و پاک کردن سوابق سیاه خود در بزهکاری و یا حتی خدمت به آخوند است که برای بسیاری جذاب هست نه خدمت به کشور در نقش مامور سازمان اطلاعات و امنیت کشور!\n\nhttps://x.com/mobarez_nastooh/status/2099062389731901914",
+      "message_id": 120971,
+      "message_link": "https://t.me/Mellig/120971",
+      "text": "درود\nمتاسفانه محسن مجیدی، پدر جاویدنام محمدمهدی مجیدی بعد از 8 ماه نتونست دوری فرزندش رو تحمل کنه و ایست قلبی کرد و درگذشت.\n\n5 روز پیش اولین تولد محمدمهدی بود که زنده نبود.\nپدرشم سر این موضوع انقد گریه میکنه و غصه میخوره تا میره پیش پسرش💔",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "12:39:03",
-      "gregorian_utc": "2026-09-13T09:09:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 89666,
-      "media_size_human": "87.56 KB",
+      "tehran_time": "13:08:02",
+      "gregorian_utc": "2026-09-13T09:38:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 624722,
+      "media_size_human": "610.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120969_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120969_photo.jpg",
+      "media_local_path": "media/Mellig_120971_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120971_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153621+00:00"
+      "archived_at": "2026-09-13T12:20:44.555896+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.409920+00:00"
+      "archived_at": "2026-09-13T12:20:44.843053+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236412+00:00"
+      "archived_at": "2026-09-13T12:20:43.394420+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_357108_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357108_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537802+00:00"
+      "archived_at": "2026-09-13T12:20:43.799646+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76419_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76419_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855605+00:00"
+      "archived_at": "2026-09-13T12:20:44.192500+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120968,
-      "message_link": "https://t.me/Mellig/120968",
-      "text": "🔴 #خبر_فوری\nفرماندار جزیره قشم:\nصبح امروز یک کشتی تجاری ایران در جزیره هنگام مورد حمله موشکی قرار گرفت و 4 نفر کشته و زخمی شدند.",
+      "message_id": 120970,
+      "message_link": "https://t.me/Mellig/120970",
+      "text": "🔴 #خبر_فوری\nاقدام دیوانه وار پوتین در اوکراین،\nطبق گزارش ها ارتش روسیه در حال حملات پهپادی هدفمند به پمپ بنزین های سراسر اوکراین می‌باشد.",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "12:20:46",
-      "gregorian_utc": "2026-09-13T08:50:46+00:00",
+      "tehran_time": "12:56:01",
+      "gregorian_utc": "2026-09-13T09:26:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.153677+00:00"
+      "archived_at": "2026-09-13T12:20:44.555947+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.409949+00:00"
+      "archived_at": "2026-09-13T12:20:44.843067+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236450+00:00"
+      "archived_at": "2026-09-13T12:20:43.394446+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_357107_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357107_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.537846+00:00"
+      "archived_at": "2026-09-13T12:20:43.799669+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76415_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76415_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855705+00:00"
+      "archived_at": "2026-09-13T12:20:44.192558+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120967,
-      "message_link": "https://t.me/Mellig/120967",
-      "text": "پروژه فرار مغزها بدست آخوندهای اجنبی چهل و هشت ساله دارد اجرا میشود. \nجمهوری اشغالگر اجنبی اسلامی آنقدر وقیح است که بصورت کاملا علنی با مردم ایران دشمنی می کند. \nهموطن، باید به این اشغال، حقارت و بردگی پایان دهیم. \nMellig.net",
+      "message_id": 120969,
+      "message_link": "https://t.me/Mellig/120969",
+      "text": "در زمان شاه، ساواک از بین افراد بسیار باهوش در بخش های مختلف جامعه به ویژه از بین تحصیل کردگان انتخاب می شدند. اینکه الان تعداد زیادی عکس برای خود درست کرده اند که می خواهیم ساواک باشیم تصور میکنند که ساواک فقط کارش این هست که کسی را بگیرد و شکنجه کند. در واقع علاقه به شکنجه و پاک کردن سوابق سیاه خود در بزهکاری و یا حتی خدمت به آخوند است که برای بسیاری جذاب هست نه خدمت به کشور در نقش مامور سازمان اطلاعات و امنیت کشور!\n\nhttps://x.com/mobarez_nastooh/status/2099062389731901914",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "11:53:05",
-      "gregorian_utc": "2026-09-13T08:23:05+00:00",
-      "media_type": "video",
-      "media_size_bytes": 25286607,
-      "media_size_human": "24.12 MB",
+      "tehran_time": "12:39:03",
+      "gregorian_utc": "2026-09-13T09:09:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 89666,
+      "media_size_human": "87.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120967_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120967_video.mp4",
+      "media_local_path": "media/Mellig_120969_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120969_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153753+00:00"
+      "archived_at": "2026-09-13T12:20:44.556005+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.409976+00:00"
+      "archived_at": "2026-09-13T12:20:44.843081+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236480+00:00"
+      "archived_at": "2026-09-13T12:20:43.394462+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_357106_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357106_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.549719+00:00"
+      "archived_at": "2026-09-13T12:20:43.809585+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,17 +617,17 @@
       "media_local_path": "media/satlastnews_76414_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76414_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.855821+00:00"
+      "archived_at": "2026-09-13T12:20:44.192627+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120966,
-      "message_link": "https://t.me/Mellig/120966",
-      "text": "🔴 #خبر_فوری\nحمله موشکی ایران به یک نفتکش در تنگه هرمز،\nسازمان عملیات تجارت دریایی بریتانیا اعلام کرد:\nساعاتی پیش یک نفتکش در تنگه هرمز مورد اصابت یک موشک کروز ضد کشتی ایران قرار گرفت،\nآسیب گسترده ای به نفتکش وارد شده است.",
+      "message_id": 120968,
+      "message_link": "https://t.me/Mellig/120968",
+      "text": "🔴 #خبر_فوری\nفرماندار جزیره قشم:\nصبح امروز یک کشتی تجاری ایران در جزیره هنگام مورد حمله موشکی قرار گرفت و 4 نفر کشته و زخمی شدند.",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "04:58:12",
-      "gregorian_utc": "2026-09-13T01:28:12+00:00",
+      "tehran_time": "12:20:46",
+      "gregorian_utc": "2026-09-13T08:50:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.153818+00:00"
+      "archived_at": "2026-09-13T12:20:44.556035+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.410003+00:00"
+      "archived_at": "2026-09-13T12:20:44.843094+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236527+00:00"
+      "archived_at": "2026-09-13T12:20:43.394505+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_357105_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357105_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.549885+00:00"
+      "archived_at": "2026-09-13T12:20:43.809697+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.855989+00:00"
+      "archived_at": "2026-09-13T12:20:44.192722+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120965,
-      "message_link": "https://t.me/Mellig/120965",
-      "text": "درود مبارز جان \nبی وقفه ده ماه هست که هر هفته  تیم ما در شهر نورنبرگ آلمان برنامه برگزار میکند .\nتا شاه نیاد به ایران \nوعده ما خیابان\n\nپرفورمنس اعتراضی شهر نورنبرگ آلمان \n12.09.2026\nتا شاه نیاد به ایران \nوعده ما خیابان\nپاینده ایران \nجاوید شاه",
+      "message_id": 120967,
+      "message_link": "https://t.me/Mellig/120967",
+      "text": "پروژه فرار مغزها بدست آخوندهای اجنبی چهل و هشت ساله دارد اجرا میشود. \nجمهوری اشغالگر اجنبی اسلامی آنقدر وقیح است که بصورت کاملا علنی با مردم ایران دشمنی می کند. \nهموطن، باید به این اشغال، حقارت و بردگی پایان دهیم. \nMellig.net",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "03:27:17",
-      "gregorian_utc": "2026-09-12T23:57:17+00:00",
+      "tehran_time": "11:53:05",
+      "gregorian_utc": "2026-09-13T08:23:05+00:00",
       "media_type": "video",
-      "media_size_bytes": 56335503,
-      "media_size_human": "53.73 MB",
+      "media_size_bytes": 25286607,
+      "media_size_human": "24.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120965_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120965_video.mp4",
+      "media_local_path": "media/Mellig_120967_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120967_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153860+00:00"
+      "archived_at": "2026-09-13T12:20:44.556073+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.410029+00:00"
+      "archived_at": "2026-09-13T12:20:44.843106+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236562+00:00"
+      "archived_at": "2026-09-13T12:20:43.394523+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_357104_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357104_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.549963+00:00"
+      "archived_at": "2026-09-13T12:20:43.809750+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76412_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76412_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.856064+00:00"
+      "archived_at": "2026-09-13T12:20:44.192764+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120964,
-      "message_link": "https://t.me/Mellig/120964",
-      "text": "تمام پول‌های بلوکه شده ایران در جهان",
+      "message_id": 120966,
+      "message_link": "https://t.me/Mellig/120966",
+      "text": "🔴 #خبر_فوری\nحمله موشکی ایران به یک نفتکش در تنگه هرمز،\nسازمان عملیات تجارت دریایی بریتانیا اعلام کرد:\nساعاتی پیش یک نفتکش در تنگه هرمز مورد اصابت یک موشک کروز ضد کشتی ایران قرار گرفت،\nآسیب گسترده ای به نفتکش وارد شده است.",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "03:21:02",
-      "gregorian_utc": "2026-09-12T23:51:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123238,
-      "media_size_human": "120.35 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120964_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120964_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153903+00:00"
+      "tehran_time": "04:58:12",
+      "gregorian_utc": "2026-09-13T01:28:12+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-13T12:20:44.556108+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.410054+00:00"
+      "archived_at": "2026-09-13T12:20:44.843119+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236591+00:00"
+      "archived_at": "2026-09-13T12:20:43.394538+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_357103_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357103_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.549999+00:00"
+      "archived_at": "2026-09-13T12:20:43.809775+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76411_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.856197+00:00"
+      "archived_at": "2026-09-13T12:20:44.192838+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120963,
-      "message_link": "https://t.me/Mellig/120963",
-      "text": "هرچی هست زدن توی ساندیس این عرزشی ها رد دادن حسابی\n\n\nخیلی خطرناکه حسن 😁😄😄😄😄😄\n\n\n\n@mellig",
+      "message_id": 120965,
+      "message_link": "https://t.me/Mellig/120965",
+      "text": "درود مبارز جان \nبی وقفه ده ماه هست که هر هفته  تیم ما در شهر نورنبرگ آلمان برنامه برگزار میکند .\nتا شاه نیاد به ایران \nوعده ما خیابان\n\nپرفورمنس اعتراضی شهر نورنبرگ آلمان \n12.09.2026\nتا شاه نیاد به ایران \nوعده ما خیابان\nپاینده ایران \nجاوید شاه",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "03:07:47",
-      "gregorian_utc": "2026-09-12T23:37:47+00:00",
+      "tehran_time": "03:27:17",
+      "gregorian_utc": "2026-09-12T23:57:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 9058813,
-      "media_size_human": "8.64 MB",
+      "media_size_bytes": 56335503,
+      "media_size_human": "53.73 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120963_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120963_video.mp4",
+      "media_local_path": "media/Mellig_120965_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120965_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:39.153973+00:00"
+      "archived_at": "2026-09-13T12:20:44.556128+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.410079+00:00"
+      "archived_at": "2026-09-13T12:20:44.843131+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236618+00:00"
+      "archived_at": "2026-09-13T12:20:43.394551+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_357102_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357102_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.550072+00:00"
+      "archived_at": "2026-09-13T12:20:43.809825+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.856255+00:00"
+      "archived_at": "2026-09-13T12:20:44.192860+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120962,
-      "message_link": "https://t.me/Mellig/120962",
-      "text": "🚨🚨🚨**صدای انفجار به دلیل پرتاب موشک ضد کشتی به سمت تنگه هرمز بوده**",
+      "message_id": 120964,
+      "message_link": "https://t.me/Mellig/120964",
+      "text": "تمام پول‌های بلوکه شده ایران در جهان",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "01:53:15",
-      "gregorian_utc": "2026-09-12T22:23:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.154032+00:00"
+      "tehran_time": "03:21:02",
+      "gregorian_utc": "2026-09-12T23:51:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 123238,
+      "media_size_human": "120.35 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120964_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120964_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-13T12:20:44.556149+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.410107+00:00"
+      "archived_at": "2026-09-13T12:20:44.843145+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:38.236646+00:00"
+      "archived_at": "2026-09-13T12:20:43.394564+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_357101_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357101_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.550116+00:00"
+      "archived_at": "2026-09-13T12:20:43.809854+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-13T12:10:38.856342+00:00"
+      "archived_at": "2026-09-13T12:20:44.192906+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120961,
-      "message_link": "https://t.me/Mellig/120961",
-      "text": "🔴 #خبر_فوری\nگزارش‌هایی مبنی بر تبادل آتش شدید بین نیروی دریایی سپاه و نیروی دریایی ایالات متحده آمریکا در تنگه هرمز منتشر شده است.",
+      "message_id": 120963,
+      "message_link": "https://t.me/Mellig/120963",
+      "text": "هرچی هست زدن توی ساندیس این عرزشی ها رد دادن حسابی\n\n\nخیلی خطرناکه حسن 😁😄😄😄😄😄\n\n\n\n@mellig",
       "shamsi_date": "1405/06/22",
-      "tehran_time": "01:51:22",
-      "gregorian_utc": "2026-09-12T22:21:22+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-13T12:10:39.154085+00:00"
+      "tehran_time": "03:07:47",
+      "gregorian_utc": "2026-09-12T23:37:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9058813,
+      "media_size_human": "8.64 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120963_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120963_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-13T12:20:44.556184+00:00"
     }
   ]
 }
