@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:07:01.720104+00:00",
-  "shamsi_generated": "1405/06/23 13:07:01 تهران",
+  "generated_at": "2026-09-14T13:19:14.285304+00:00",
+  "shamsi_generated": "1405/06/23 13:19:14 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13393,
-      "message_link": "https://t.me/zedTV/13393",
-      "text": "خبرگزاری دولتی ایرنا: احتمال آغاز حملات هوایی آمریکا به مناطق جنوبی ایران از امشب.\nگزارش رسانه‌های وابسته به سپاه از وقوع درگیری‌های نظامی احتمالی در ساعات پیش رو.",
+      "message_id": 13394,
+      "message_link": "https://t.me/zedTV/13394",
+      "text": "ممانعت از ورود محمد اسلامی به وین؛ رئیس سازمان انرژی اتمی رژیم از حضور در نشست آژانس بازماند.\nاتریش تحت فشار دولت ترامپ و به دلیل تحریم‌های بین‌المللی، از صدور ویزا برای اسلامی خودداری کرد.\nتاکید واشینگتن در کنفرانس آژانس بر ضرورت جلوگیری از دستیابی رژیم به سلاح هسته‌ای.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "16:18:16",
-      "gregorian_utc": "2026-09-14T12:48:16+00:00",
+      "tehran_time": "16:31:59",
+      "gregorian_utc": "2026-09-14T13:01:59+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.328991+00:00"
+      "archived_at": "2026-09-14T13:14:42.984290+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357280,
-      "message_link": "https://t.me/IranintlTV/357280",
-      "text": "صفحه اینستاگرام رستوران «دستپخت بی بی» در تهران، به دلیل انتشار یک استوری با نوشته «هیچی کتلت بی بی نمیشه» به همراه موسیقی متن «بی بی گل» از معین، به اتهام «انتشار محتوای مجرمانه»، با دستور قضایی مسدود شد. \n\nپیش‌تر نیز در سال ۱۴۰۱ نواب ابراهیمی، آشپز، در پی انتشار دستور پخت کتلت در اینستاگرام خود همزمان با سالگرد کشته شدن قاسم سلیمانی، بازداشت شده بود.\n\n\nhttps://iranintl.com/202609148091",
+      "message_id": 357282,
+      "message_link": "https://t.me/IranintlTV/357282",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها  در ایران می‌گوید: «۸۰۰ هزار تومان دادن تا پیاز، گوجه‌فرنگی و سیب‌زمینی بخرم. زمان شاه با این پول می‌شد نصف یک شهر را خرید.»",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "16:11:18",
-      "gregorian_utc": "2026-09-14T12:41:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 201375,
-      "media_size_human": "196.66 KB",
+      "tehran_time": "16:34:07",
+      "gregorian_utc": "2026-09-14T13:04:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5120001,
+      "media_size_human": "4.88 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357280_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357280_photo.jpg",
+      "media_local_path": "media/IranintlTV_357282_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357282_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.698758+00:00"
+      "archived_at": "2026-09-14T13:14:43.309907+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.161704+00:00"
+      "archived_at": "2026-09-14T13:14:43.589379+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_121009_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121009_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605022+00:00"
+      "archived_at": "2026-09-14T13:14:44.065552+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,14 +113,14 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.966953+00:00"
+      "archived_at": "2026-09-14T13:14:44.352267+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13392,
-      "message_link": "https://t.me/zedTV/13392",
-      "text": "دلار ۲۳۵،۲۰۰ و یورو ۲۷۲،۱۰۰ تومان؛ تداوم سقوط ارزش پول ملی.\nسکه امامی ۲۳۴.۵ میلیون و طلا ۲۳.۴ میلیون تومان؛ تشدید بحران معیشتی.\nآشفتگی بازار در پی ناکارآمدی رژیم در مهار فروپاشی اقتصادی.",
+      "message_id": 13393,
+      "message_link": "https://t.me/zedTV/13393",
+      "text": "خبرگزاری دولتی ایرنا: احتمال آغاز حملات هوایی آمریکا به مناطق جنوبی ایران از امشب.\nگزارش رسانه‌های وابسته به سپاه از وقوع درگیری‌های نظامی احتمالی در ساعات پیش رو.",
       "shamsi_date": "1405/06/23",
       "tehran_time": "16:18:16",
       "gregorian_utc": "2026-09-14T12:48:16+00:00",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329029+00:00"
+      "archived_at": "2026-09-14T13:14:42.984341+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357279,
-      "message_link": "https://t.me/IranintlTV/357279",
-      "text": "یسرائیل کاتز، وزیر دفاع اسرائیل، اعلام کرد کنترل ارتفاعات علی الطاهر بر عهده ارتش این کشور است و هر فردی که به این منطقه در جنوب لبنان نزدیک شود، نابود خواهد شد.\n\nجزییات بیشتر در گفت‌وگو با می فرحات، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357281,
+      "message_link": "https://t.me/IranintlTV/357281",
+      "text": "در حالی که مقام‌های جمهوری اسلامی از باز بودن مرزهای دیگر عراق و ایران، از جمله مهران و خسروی، گزارش می‌دهند، یک شهروند از بسته بودن مرز خسروی و سردرگمی رانندگان خودروهای سنگین در این مرز گزارش داده است. هم‌زمان، روزنامه شرق در گزارشی نوشت تشدید تحریم‌های آمریکا و افزایش فشار بر شبکه‌های مالی و حمل‌ونقل، مسیرهای جایگزین تجارت خارجی ایران را تنگ‌تر کرده و انتقال پول و کالا را پرهزینه‌تر ساخته است.\n\nگفت‌وگو با مهتاب قلی‌زاده، روزنامه‌نگار اقتصادی\n@iranintltv",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "16:06:27",
-      "gregorian_utc": "2026-09-14T12:36:27+00:00",
+      "tehran_time": "16:33:11",
+      "gregorian_utc": "2026-09-14T13:03:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 3185508,
-      "media_size_human": "3.04 MB",
+      "media_size_bytes": 3314630,
+      "media_size_human": "3.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357279_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357279_video.mp4",
+      "media_local_path": "media/IranintlTV_357281_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357281_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.698834+00:00"
+      "archived_at": "2026-09-14T13:14:43.310044+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76447_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76447_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.161796+00:00"
+      "archived_at": "2026-09-14T13:14:43.589496+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_121008_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121008_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605081+00:00"
+      "archived_at": "2026-09-14T13:14:44.065624+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.967006+00:00"
+      "archived_at": "2026-09-14T13:14:44.352335+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13391,
-      "message_link": "https://t.me/zedTV/13391",
-      "text": "حملات سنگین جنگنده‌های سعودی به قایق‌های نظامی حوثی‌ها در دریای سرخ؛\nکشته شدن بیش از ۱۰ شبه‌نظامی وابسته به رژیم ایران در این عملیات؛\nانهدام تجهیزات دریایی حوثی‌ها در پی ضربات هوایی گسترده.",
+      "message_id": 13392,
+      "message_link": "https://t.me/zedTV/13392",
+      "text": "دلار ۲۳۵،۲۰۰ و یورو ۲۷۲،۱۰۰ تومان؛ تداوم سقوط ارزش پول ملی.\nسکه امامی ۲۳۴.۵ میلیون و طلا ۲۳.۴ میلیون تومان؛ تشدید بحران معیشتی.\nآشفتگی بازار در پی ناکارآمدی رژیم در مهار فروپاشی اقتصادی.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "16:18:12",
-      "gregorian_utc": "2026-09-14T12:48:12+00:00",
+      "tehran_time": "16:18:16",
+      "gregorian_utc": "2026-09-14T12:48:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329054+00:00"
+      "archived_at": "2026-09-14T13:14:42.984373+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357278,
-      "message_link": "https://t.me/IranintlTV/357278",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، مزار مهساژینا امینی را در دوشنبه ۲۳ شهریور نشان می‌دهد و می‌گوید: «راهت را ادامه می‌دهیم. زن، زندگی، آزادی»\n﻿مهسا امینی، ۲۱ ساله و اهل سقز، ۲۲ شهریور ۱۴۰۱ به دلیل حجاب از سوی گشت ارشاد در تهران بازداشت و پس از ضرب و شتم دچار مرگ مغزی شد. او ۲۵ شهریور درگذشت.",
+      "message_id": 357280,
+      "message_link": "https://t.me/IranintlTV/357280",
+      "text": "صفحه اینستاگرام رستوران «دستپخت بی بی» در تهران، به دلیل انتشار یک استوری با نوشته «هیچی کتلت بی بی نمیشه» به همراه موسیقی متن «بی بی گل» از معین، به اتهام «انتشار محتوای مجرمانه»، با دستور قضایی مسدود شد. \n\nپیش‌تر نیز در سال ۱۴۰۱ نواب ابراهیمی، آشپز، در پی انتشار دستور پخت کتلت در اینستاگرام خود همزمان با سالگرد کشته شدن قاسم سلیمانی، بازداشت شده بود.\n\n\nhttps://iranintl.com/202609148091",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:49:17",
-      "gregorian_utc": "2026-09-14T12:19:17+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3972224,
-      "media_size_human": "3.79 MB",
+      "tehran_time": "16:11:18",
+      "gregorian_utc": "2026-09-14T12:41:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 201375,
+      "media_size_human": "196.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357278_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357278_video.mp4",
+      "media_local_path": "media/IranintlTV_357280_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357280_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.698865+00:00"
+      "archived_at": "2026-09-14T13:14:43.310148+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.161931+00:00"
+      "archived_at": "2026-09-14T13:14:43.589667+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_121007_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121007_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605110+00:00"
+      "archived_at": "2026-09-14T13:14:44.065661+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967027+00:00"
+      "archived_at": "2026-09-14T13:14:44.352362+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13390,
-      "message_link": "https://t.me/zedTV/13390",
-      "text": "نماینده کنگره آمریکا: رژیم ایران تمایلی به توافق ندارد.\nواشینگتن: تهران از دستیابی به هرگونه تفاهمی خودداری می‌کند.",
+      "message_id": 13391,
+      "message_link": "https://t.me/zedTV/13391",
+      "text": "حملات سنگین جنگنده‌های سعودی به قایق‌های نظامی حوثی‌ها در دریای سرخ؛\nکشته شدن بیش از ۱۰ شبه‌نظامی وابسته به رژیم ایران در این عملیات؛\nانهدام تجهیزات دریایی حوثی‌ها در پی ضربات هوایی گسترده.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "16:18:03",
-      "gregorian_utc": "2026-09-14T12:48:03+00:00",
+      "tehran_time": "16:18:12",
+      "gregorian_utc": "2026-09-14T12:48:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329081+00:00"
+      "archived_at": "2026-09-14T13:14:42.984407+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357277,
-      "message_link": "https://t.me/IranintlTV/357277",
-      "text": "علی فالح الزیدی، نخست‌وزیر عراق، با امانوئل مکرون، رییس‌جمهوری فرانسه، در پاریس دیدار کرد. این دیدار یک روز پس از بسته شدن گذرگاه‌های مرزی ایران از سوی عراق انجام شده است. هم‌زمان، یک دادگاه کیفری در بغداد علیه امید حاجی احمد، تاجر عراقی‌ـ‌بریتانیایی، به دلیل فروش غیرقانونی نفت ایران و جابه‌جایی کشتی‌به‌کشتی آن، حکم بازداشت و مصادره اموال صادر کرد.\n\nتروسکه صادقی و ساجده شریفی، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند\n@iranintltv",
+      "message_id": 357279,
+      "message_link": "https://t.me/IranintlTV/357279",
+      "text": "یسرائیل کاتز، وزیر دفاع اسرائیل، اعلام کرد کنترل ارتفاعات علی الطاهر بر عهده ارتش این کشور است و هر فردی که به این منطقه در جنوب لبنان نزدیک شود، نابود خواهد شد.\n\nجزییات بیشتر در گفت‌وگو با می فرحات، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:40:20",
-      "gregorian_utc": "2026-09-14T12:10:20+00:00",
+      "tehran_time": "16:06:27",
+      "gregorian_utc": "2026-09-14T12:36:27+00:00",
       "media_type": "video",
-      "media_size_bytes": 4367285,
-      "media_size_human": "4.16 MB",
+      "media_size_bytes": 3185508,
+      "media_size_human": "3.04 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357277_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357277_video.mp4",
+      "media_local_path": "media/IranintlTV_357279_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357279_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.698928+00:00"
+      "archived_at": "2026-09-14T13:14:43.310216+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76445_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76445_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.161958+00:00"
+      "archived_at": "2026-09-14T13:14:43.589704+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_121006_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121006_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605147+00:00"
+      "archived_at": "2026-09-14T13:14:44.065709+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967045+00:00"
+      "archived_at": "2026-09-14T13:14:44.352385+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13389,
-      "message_link": "https://t.me/zedTV/13389",
-      "text": "بحران معیشت: قیمت لاستیک خودرو به ۴۰ میلیون و قبض برق به ۶ میلیون تومان جهش یافت.\nفروپاشی خدمات: نایاب شدن لوازم اولیه پزشکی در شیراز و تشکیل کلاس‌های ۵۰ نفره در سیستان و بلوچستان.\nغارت سیستماتیک: صدور جریمه‌های ساختگی رانندگی و افزایش ۴۵ درصدی تعرفه تلفن و اینترنت.",
+      "message_id": 13390,
+      "message_link": "https://t.me/zedTV/13390",
+      "text": "نماینده کنگره آمریکا: رژیم ایران تمایلی به توافق ندارد.\nواشینگتن: تهران از دستیابی به هرگونه تفاهمی خودداری می‌کند.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:50:58",
-      "gregorian_utc": "2026-09-14T12:20:58+00:00",
+      "tehran_time": "16:18:03",
+      "gregorian_utc": "2026-09-14T12:48:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329101+00:00"
+      "archived_at": "2026-09-14T13:14:42.984433+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357276,
-      "message_link": "https://t.me/IranintlTV/357276",
-      "text": "هادی احمدی، مدیر روابط عمومی انجمن داروسازان ایران گفت با حذف ارز ترجیحی و افزایش نرخ ارز، هزینه تامین مواد اولیه دارویی حدود پنج برابر شده است. او افزود قیمت داروهای ایرانی از ابتدای سال حدود ۱۵۰ درصد، داروهای خارجی ۴۰۰ تا ۵۰۰ درصد و مکمل‌ها حدود ۳۰۰ تا ۴۰۰ درصد افزایش یافته است.\n\nگفت‌وگو با آرزو کریمی، روزنامه‌نگار اقتصادی",
+      "message_id": 357278,
+      "message_link": "https://t.me/IranintlTV/357278",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، مزار مهساژینا امینی را در دوشنبه ۲۳ شهریور نشان می‌دهد و می‌گوید: «راهت را ادامه می‌دهیم. زن، زندگی، آزادی»\n﻿مهسا امینی، ۲۱ ساله و اهل سقز، ۲۲ شهریور ۱۴۰۱ به دلیل حجاب از سوی گشت ارشاد در تهران بازداشت و پس از ضرب و شتم دچار مرگ مغزی شد. او ۲۵ شهریور درگذشت.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:38:29",
-      "gregorian_utc": "2026-09-14T12:08:29+00:00",
+      "tehran_time": "15:49:17",
+      "gregorian_utc": "2026-09-14T12:19:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 27332795,
-      "media_size_human": "26.07 MB",
+      "media_size_bytes": 3972224,
+      "media_size_human": "3.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357276_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357276_video.mp4",
+      "media_local_path": "media/IranintlTV_357278_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357278_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.698954+00:00"
+      "archived_at": "2026-09-14T13:14:43.310250+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76444_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76444_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.161981+00:00"
+      "archived_at": "2026-09-14T13:14:43.589737+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_121005_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121005_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605179+00:00"
+      "archived_at": "2026-09-14T13:14:44.065762+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967064+00:00"
+      "archived_at": "2026-09-14T13:14:44.352408+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13388,
-      "message_link": "https://t.me/zedTV/13388",
-      "text": "اسرائیل هیوم: درخواست ولیعهد عربستان از موساد و ارتش اسرائیل برای مقابله با حوثی‌ها.\nاحتمال پیوستن قریب‌الوقوع عربستان سعودی به پیمان ابراهیم در سایه همکاری‌های امنیتی جدید.",
+      "message_id": 13389,
+      "message_link": "https://t.me/zedTV/13389",
+      "text": "بحران معیشت: قیمت لاستیک خودرو به ۴۰ میلیون و قبض برق به ۶ میلیون تومان جهش یافت.\nفروپاشی خدمات: نایاب شدن لوازم اولیه پزشکی در شیراز و تشکیل کلاس‌های ۵۰ نفره در سیستان و بلوچستان.\nغارت سیستماتیک: صدور جریمه‌های ساختگی رانندگی و افزایش ۴۵ درصدی تعرفه تلفن و اینترنت.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:50:07",
-      "gregorian_utc": "2026-09-14T12:20:07+00:00",
+      "tehran_time": "15:50:58",
+      "gregorian_utc": "2026-09-14T12:20:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329125+00:00"
+      "archived_at": "2026-09-14T13:14:42.984461+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357275,
-      "message_link": "https://t.me/IranintlTV/357275",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۲۳ شهریور:**\n\n🔹سال ۱۴۰۲ چهار حلقه لاستیک ایرانی خریدم با اجرت نصب شد دو میلیون و ۶۰۰ هزار تومان. امروز رفتم همان‌ها رو بخرم خود لاستیک و اجرتش رو قیمت دادن ۴۰ میلیون تومان.\n\n🔹دیگه نمی‌دونن چطوری پول از جیب مردم بکشن بیرون؛ دارن ماشین‌ها رو الکی و سنگین جریمه می‌کنند. ماشینم تو خونه‌مون بوده و یه بار یک میلیون و یه بار ۹۰۰ هزار تومن تو دو هفته برام جریمه نوشته شده. راهنمایی‌ورانندگی هم که می‌رم، قبول نمی‌کنند.\n\n🔹از شیراز پیام می‌دم و پرسنل علوم پزشکی هستم. گاز استریل برای پانسمان، سرنگ ۱۰، آنژیوکت صورتی برای وصل سرم و دستکش لاتکس موجود نیست و سهمیه‌بندی شده. درخواست ۵۰ تا می‌دیم؛ ۱۰ تا میاد.\n\n🔹من یه دانش‌آموز هنرستانی سال یازدهم هستم و برای مهرماه باید وسایلی رو تهیه کنم که قیمت‌هاشون روزبه‌روز داره بیشتر و نجومی می‌شه. هر چقدر پول جمع می‌کنم که برم چندتا بخرم فردا قیمت‌هاشون تغییر می‌کنه.\n\n🔹من یه پسرم که آرزوم توی ایران شده فقط اینکه یه موتور داشته باشم. کارگری می‌کنم، هر ماه پول جمع می‌کنم، اما تا برم بخرم کمِ کم پنج میلیون اومده رو قیمتش.\n\n🔹تعرفه تلفن ثابت به همراه را ۴۵ درصد گران کرده‌اند و تا کارکرد خط به ۱۰۰ هزار تومان برسد، تلفن قطع می‌شود. خطی که به‌دلیل بدهی قطع می‌شود، پس از پرداخت، برخلاف گذشته که ۱۰ دقیقه‌ای وصل می‌شد، چند روزه و با پیگیری شاید وصل شود!\n\n🔹قبض برقی که ۴۰۰ هزار تومان می‌اومد، در دوره جدید شش میلیون تومان اومده. بعد از مراجعه به اداره برق وحیدیه برای ثبت تجدیدنظر یا تقسیط قبض که در سایت خودشون جزو گزینه‌های موجوده، مسئول مربوطه این درخواست را رد کرد.\n\n🔹در بعضی مدارس سیستان و بلوچستان نزدیک ۵۰ دانش‌آموز در یک کلاس حضور دارند. از یک طرف آموزش و پرورش معلم کافی ندارد و از طرف دیگر، کلاس‌ها ظرفیت و امکانات پذیرش این جمعیت را ندارند. خیلی از دانش‌آموزان هنوز ثبت‌نام نشده‌اند.\n\n🔹در واوان اسلامشهر رفتم قرص ویتامین بگیرم، شده دو میلیون و ۲۰۰ هزار تومان.",
+      "message_id": 357277,
+      "message_link": "https://t.me/IranintlTV/357277",
+      "text": "علی فالح الزیدی، نخست‌وزیر عراق، با امانوئل مکرون، رییس‌جمهوری فرانسه، در پاریس دیدار کرد. این دیدار یک روز پس از بسته شدن گذرگاه‌های مرزی ایران از سوی عراق انجام شده است. هم‌زمان، یک دادگاه کیفری در بغداد علیه امید حاجی احمد، تاجر عراقی‌ـ‌بریتانیایی، به دلیل فروش غیرقانونی نفت ایران و جابه‌جایی کشتی‌به‌کشتی آن، حکم بازداشت و مصادره اموال صادر کرد.\n\nتروسکه صادقی و ساجده شریفی، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند\n@iranintltv",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:35:03",
-      "gregorian_utc": "2026-09-14T12:05:03+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.793133+00:00"
+      "tehran_time": "15:40:20",
+      "gregorian_utc": "2026-09-14T12:10:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4367285,
+      "media_size_human": "4.16 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_357277_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357277_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-14T13:14:43.310337+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76443_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76443_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162004+00:00"
+      "archived_at": "2026-09-14T13:14:43.589782+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_121004_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121004_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605204+00:00"
+      "archived_at": "2026-09-14T13:14:44.065794+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967082+00:00"
+      "archived_at": "2026-09-14T13:14:44.352429+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13387,
-      "message_link": "https://t.me/zedTV/13387",
-      "text": "بازگشایی مجدد گذرگاه مرزی شلمچه؛\nاز سرگیری ترددها پس از وقفه دو روزه در این مرز.",
+      "message_id": 13388,
+      "message_link": "https://t.me/zedTV/13388",
+      "text": "اسرائیل هیوم: درخواست ولیعهد عربستان از موساد و ارتش اسرائیل برای مقابله با حوثی‌ها.\nاحتمال پیوستن قریب‌الوقوع عربستان سعودی به پیمان ابراهیم در سایه همکاری‌های امنیتی جدید.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:35:36",
-      "gregorian_utc": "2026-09-14T12:05:36+00:00",
+      "tehran_time": "15:50:07",
+      "gregorian_utc": "2026-09-14T12:20:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329144+00:00"
+      "archived_at": "2026-09-14T13:14:42.984485+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357274,
-      "message_link": "https://t.me/IranintlTV/357274",
-      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم بریتانیا یکشنبه ۲۲ شهریور مقابل ساختمان نخست‌وزیری در لندن تجمع کردند و خواستار بسته شدن سفارت جمهوری اسلامی شدند.",
+      "message_id": 357276,
+      "message_link": "https://t.me/IranintlTV/357276",
+      "text": "هادی احمدی، مدیر روابط عمومی انجمن داروسازان ایران گفت با حذف ارز ترجیحی و افزایش نرخ ارز، هزینه تامین مواد اولیه دارویی حدود پنج برابر شده است. او افزود قیمت داروهای ایرانی از ابتدای سال حدود ۱۵۰ درصد، داروهای خارجی ۴۰۰ تا ۵۰۰ درصد و مکمل‌ها حدود ۳۰۰ تا ۴۰۰ درصد افزایش یافته است.\n\nگفت‌وگو با آرزو کریمی، روزنامه‌نگار اقتصادی",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:33:56",
-      "gregorian_utc": "2026-09-14T12:03:56+00:00",
+      "tehran_time": "15:38:29",
+      "gregorian_utc": "2026-09-14T12:08:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 9659735,
-      "media_size_human": "9.21 MB",
+      "media_size_bytes": 27332795,
+      "media_size_human": "26.07 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357274_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357274_video.mp4",
+      "media_local_path": "media/IranintlTV_357276_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357276_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793259+00:00"
+      "archived_at": "2026-09-14T13:14:43.310370+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76442_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76442_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162025+00:00"
+      "archived_at": "2026-09-14T13:14:43.589811+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_121003_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121003_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605244+00:00"
+      "archived_at": "2026-09-14T13:14:44.065845+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967099+00:00"
+      "archived_at": "2026-09-14T13:14:44.352449+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13386,
-      "message_link": "https://t.me/zedTV/13386",
-      "text": "تلاش سپاه و بابک زنجانی برای مهار اعتراضات مرزی از طریق توزیع سازمان‌یافته کالا در خوزستان.\nهدف از طرح‌های رفاهی فریب‌کارانه، ایجاد لایه‌های حمایتی و جلوگیری از خیزش‌های مردمی در مناطق حساس.\nنظارت کامل اطلاعات سپاه بر پروژه‌های اقتصادی جهت حفظ کنترل امنیتی در زمان بحران.",
+      "message_id": 13387,
+      "message_link": "https://t.me/zedTV/13387",
+      "text": "بازگشایی مجدد گذرگاه مرزی شلمچه؛\nاز سرگیری ترددها پس از وقفه دو روزه در این مرز.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:35:23",
-      "gregorian_utc": "2026-09-14T12:05:23+00:00",
+      "tehran_time": "15:35:36",
+      "gregorian_utc": "2026-09-14T12:05:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329177+00:00"
+      "archived_at": "2026-09-14T13:14:42.984524+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357273,
-      "message_link": "https://t.me/IranintlTV/357273",
-      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، با اشاره به حذف سهمیه بنزین یارانه‌ای خودروهای نوشماره بالای یک میلیارد تومان گفت دولت به‌جای افزایش یک‌باره قیمت بنزین، گام‌به‌گام سهمیه‌های ارزان‌تر را کاهش می‌دهد.\nاو افزود دولت به سمتی حرکت می‌کند که بنزین ۱۰ هزار تومانی به‌تدریج جایگزین سهمیه‌های هزار و ۵۰۰ و سه هزار تومانی شود و یارانه سوخت را از جلوی مردم بردارد، از معیشت مردم کم کند و درآمدش را به جیب خودش اضافه کند.",
+      "message_id": 357275,
+      "message_link": "https://t.me/IranintlTV/357275",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۲۳ شهریور:**\n\n🔹سال ۱۴۰۲ چهار حلقه لاستیک ایرانی خریدم با اجرت نصب شد دو میلیون و ۶۰۰ هزار تومان. امروز رفتم همان‌ها رو بخرم خود لاستیک و اجرتش رو قیمت دادن ۴۰ میلیون تومان.\n\n🔹دیگه نمی‌دونن چطوری پول از جیب مردم بکشن بیرون؛ دارن ماشین‌ها رو الکی و سنگین جریمه می‌کنند. ماشینم تو خونه‌مون بوده و یه بار یک میلیون و یه بار ۹۰۰ هزار تومن تو دو هفته برام جریمه نوشته شده. راهنمایی‌ورانندگی هم که می‌رم، قبول نمی‌کنند.\n\n🔹از شیراز پیام می‌دم و پرسنل علوم پزشکی هستم. گاز استریل برای پانسمان، سرنگ ۱۰، آنژیوکت صورتی برای وصل سرم و دستکش لاتکس موجود نیست و سهمیه‌بندی شده. درخواست ۵۰ تا می‌دیم؛ ۱۰ تا میاد.\n\n🔹من یه دانش‌آموز هنرستانی سال یازدهم هستم و برای مهرماه باید وسایلی رو تهیه کنم که قیمت‌هاشون روزبه‌روز داره بیشتر و نجومی می‌شه. هر چقدر پول جمع می‌کنم که برم چندتا بخرم فردا قیمت‌هاشون تغییر می‌کنه.\n\n🔹من یه پسرم که آرزوم توی ایران شده فقط اینکه یه موتور داشته باشم. کارگری می‌کنم، هر ماه پول جمع می‌کنم، اما تا برم بخرم کمِ کم پنج میلیون اومده رو قیمتش.\n\n🔹تعرفه تلفن ثابت به همراه را ۴۵ درصد گران کرده‌اند و تا کارکرد خط به ۱۰۰ هزار تومان برسد، تلفن قطع می‌شود. خطی که به‌دلیل بدهی قطع می‌شود، پس از پرداخت، برخلاف گذشته که ۱۰ دقیقه‌ای وصل می‌شد، چند روزه و با پیگیری شاید وصل شود!\n\n🔹قبض برقی که ۴۰۰ هزار تومان می‌اومد، در دوره جدید شش میلیون تومان اومده. بعد از مراجعه به اداره برق وحیدیه برای ثبت تجدیدنظر یا تقسیط قبض که در سایت خودشون جزو گزینه‌های موجوده، مسئول مربوطه این درخواست را رد کرد.\n\n🔹در بعضی مدارس سیستان و بلوچستان نزدیک ۵۰ دانش‌آموز در یک کلاس حضور دارند. از یک طرف آموزش و پرورش معلم کافی ندارد و از طرف دیگر، کلاس‌ها ظرفیت و امکانات پذیرش این جمعیت را ندارند. خیلی از دانش‌آموزان هنوز ثبت‌نام نشده‌اند.\n\n🔹در واوان اسلامشهر رفتم قرص ویتامین بگیرم، شده دو میلیون و ۲۰۰ هزار تومان.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:14:35",
-      "gregorian_utc": "2026-09-14T11:44:35+00:00",
-      "media_type": "video",
-      "media_size_bytes": 24712161,
-      "media_size_human": "23.57 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357273_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357273_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793300+00:00"
+      "tehran_time": "15:35:03",
+      "gregorian_utc": "2026-09-14T12:05:03+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-14T13:14:43.321705+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76441_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76441_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162099+00:00"
+      "archived_at": "2026-09-14T13:14:43.589908+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.605278+00:00"
+      "archived_at": "2026-09-14T13:14:44.065889+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967115+00:00"
+      "archived_at": "2026-09-14T13:14:44.352470+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13385,
-      "message_link": "https://t.me/zedTV/13385",
-      "text": "هشدار وزیر دفاع اسرائیل: هر کسی که به علی طاهر نزدیک شود، کشته خواهد شد.\nتأکید بر برخورد قاطع با افراد مرتبط با اهداف نظامی در منطقه.",
+      "message_id": 13386,
+      "message_link": "https://t.me/zedTV/13386",
+      "text": "تلاش سپاه و بابک زنجانی برای مهار اعتراضات مرزی از طریق توزیع سازمان‌یافته کالا در خوزستان.\nهدف از طرح‌های رفاهی فریب‌کارانه، ایجاد لایه‌های حمایتی و جلوگیری از خیزش‌های مردمی در مناطق حساس.\nنظارت کامل اطلاعات سپاه بر پروژه‌های اقتصادی جهت حفظ کنترل امنیتی در زمان بحران.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "15:19:42",
-      "gregorian_utc": "2026-09-14T11:49:42+00:00",
+      "tehran_time": "15:35:23",
+      "gregorian_utc": "2026-09-14T12:05:23+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329196+00:00"
+      "archived_at": "2026-09-14T13:14:42.984549+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357272,
-      "message_link": "https://t.me/IranintlTV/357272",
-      "text": "کریس رایت، وزیر انرژی آمریکا در پاسخ به الجزیره اعلام کرد که نفتکش‌ها با اسکورت نیروی دریایی آمریکا از تنگه هرمز عبور می‌کنند و اهرم فشار از جمهوری اسلامی گرفته شده است.\n\nوزیر انرژی آمریکا، گفت که هیچ برنامه‌ای برای غنی‌سازی اورانیوم در عربستان سعودی وجود ندارد.\nhttps://iranintl.com/202609146409",
+      "message_id": 357274,
+      "message_link": "https://t.me/IranintlTV/357274",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم بریتانیا یکشنبه ۲۲ شهریور مقابل ساختمان نخست‌وزیری در لندن تجمع کردند و خواستار بسته شدن سفارت جمهوری اسلامی شدند.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:58:30",
-      "gregorian_utc": "2026-09-14T11:28:30+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 225617,
-      "media_size_human": "220.33 KB",
+      "tehran_time": "15:33:56",
+      "gregorian_utc": "2026-09-14T12:03:56+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9659735,
+      "media_size_human": "9.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357272_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357272_photo.jpg",
+      "media_local_path": "media/IranintlTV_357274_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357274_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793418+00:00"
+      "archived_at": "2026-09-14T13:14:43.321830+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-09-14T13:01:03.162129+00:00"
+      "archived_at": "2026-09-14T13:14:43.589937+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_121001_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121001_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605320+00:00"
+      "archived_at": "2026-09-14T13:14:44.065940+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967130+00:00"
+      "archived_at": "2026-09-14T13:14:44.352490+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13384,
-      "message_link": "https://t.me/zedTV/13384",
-      "text": "محمدباقر قالیباف از سمت نماینده ویژه در امور چین برکنار شد.\nمحمد مخبر به عنوان جایگزین وی در این مسئولیت منصوب شد.\nتغییر در چیدمان مهره‌های دیپلماتیک جمهوری اسلامی.",
+      "message_id": 13385,
+      "message_link": "https://t.me/zedTV/13385",
+      "text": "هشدار وزیر دفاع اسرائیل: هر کسی که به علی طاهر نزدیک شود، کشته خواهد شد.\nتأکید بر برخورد قاطع با افراد مرتبط با اهداف نظامی در منطقه.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:48:43",
-      "gregorian_utc": "2026-09-14T11:18:43+00:00",
+      "tehran_time": "15:19:42",
+      "gregorian_utc": "2026-09-14T11:49:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329214+00:00"
+      "archived_at": "2026-09-14T13:14:42.984572+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357271,
-      "message_link": "https://t.me/IranintlTV/357271",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۲۳ شهریور\n@iranintlTV",
+      "message_id": 357273,
+      "message_link": "https://t.me/IranintlTV/357273",
+      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، با اشاره به حذف سهمیه بنزین یارانه‌ای خودروهای نوشماره بالای یک میلیارد تومان گفت دولت به‌جای افزایش یک‌باره قیمت بنزین، گام‌به‌گام سهمیه‌های ارزان‌تر را کاهش می‌دهد.\nاو افزود دولت به سمتی حرکت می‌کند که بنزین ۱۰ هزار تومانی به‌تدریج جایگزین سهمیه‌های هزار و ۵۰۰ و سه هزار تومانی شود و یارانه سوخت را از جلوی مردم بردارد، از معیشت مردم کم کند و درآمدش را به جیب خودش اضافه کند.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:46:31",
-      "gregorian_utc": "2026-09-14T11:16:31+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30009231,
-      "media_size_human": "28.62 MB",
+      "tehran_time": "15:14:35",
+      "gregorian_utc": "2026-09-14T11:44:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 24712161,
+      "media_size_human": "23.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357271_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357271_audio.mp3",
+      "media_local_path": "media/IranintlTV_357273_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357273_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793469+00:00"
+      "archived_at": "2026-09-14T13:14:43.321875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76439_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76439_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162166+00:00"
+      "archived_at": "2026-09-14T13:14:43.589985+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_121000_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121000_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.605373+00:00"
+      "archived_at": "2026-09-14T13:14:44.065991+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967146+00:00"
+      "archived_at": "2026-09-14T13:14:44.352510+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13383,
-      "message_link": "https://t.me/zedTV/13383",
-      "text": "شهریه ۲۵ میلیونی مدارس و جهش قیمت قطعات خودرو؛ قطعی مکرر برق در شازند و بلاتکلیفی ۱۵ ساله مسکن مهر.\nفروپاشی معیشت با تخم‌مرغ ۸۳۰ هزار تومانی؛ استقرار تجهیزات سنگین نظامی در کرمانشاه و تخلیه خدمات مرزی.\nدروغ‌پردازی رژیم درباره تحصیل رایگان و تامین انرژی؛ بحران اقتصادی و بن‌بست معیشتی در سراسر کشور.",
+      "message_id": 13384,
+      "message_link": "https://t.me/zedTV/13384",
+      "text": "محمدباقر قالیباف از سمت نماینده ویژه در امور چین برکنار شد.\nمحمد مخبر به عنوان جایگزین وی در این مسئولیت منصوب شد.\nتغییر در چیدمان مهره‌های دیپلماتیک جمهوری اسلامی.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:33:17",
-      "gregorian_utc": "2026-09-14T11:03:17+00:00",
+      "tehran_time": "14:48:43",
+      "gregorian_utc": "2026-09-14T11:18:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:02.329230+00:00"
+      "archived_at": "2026-09-14T13:14:42.984593+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357270,
-      "message_link": "https://t.me/IranintlTV/357270",
-      "text": "مروری بر روزنامه‌های ایران، دوشنبه ۲۳ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 357272,
+      "message_link": "https://t.me/IranintlTV/357272",
+      "text": "کریس رایت، وزیر انرژی آمریکا در پاسخ به الجزیره اعلام کرد که نفتکش‌ها با اسکورت نیروی دریایی آمریکا از تنگه هرمز عبور می‌کنند و اهرم فشار از جمهوری اسلامی گرفته شده است.\n\nوزیر انرژی آمریکا، گفت که هیچ برنامه‌ای برای غنی‌سازی اورانیوم در عربستان سعودی وجود ندارد.\nhttps://iranintl.com/202609146409",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:37:03",
-      "gregorian_utc": "2026-09-14T11:07:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3839419,
-      "media_size_human": "3.66 MB",
+      "tehran_time": "14:58:30",
+      "gregorian_utc": "2026-09-14T11:28:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 225617,
+      "media_size_human": "220.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357270_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357270_video.mp4",
+      "media_local_path": "media/IranintlTV_357272_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357272_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793511+00:00"
+      "archived_at": "2026-09-14T13:14:43.321968+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76438_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76438_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162203+00:00"
+      "archived_at": "2026-09-14T13:14:43.590038+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.605408+00:00"
+      "archived_at": "2026-09-14T13:14:44.066035+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,43 +1013,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.967163+00:00"
+      "archived_at": "2026-09-14T13:14:44.352532+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13382,
-      "message_link": "https://t.me/zedTV/13382",
-      "text": "انتشار تصاویر ماهواره‌ای سنتکام از قایق‌های تندرو سپاه در جزیره خارک.\nفاش شدن استتار ناشیانه تجهیزات دریایی رژیم در میان درختان منطقه.\nرصد دقیق و شناسایی مخفیگاه‌های پنهان سپاه توسط ایالات متحده.",
+      "message_id": 13383,
+      "message_link": "https://t.me/zedTV/13383",
+      "text": "شهریه ۲۵ میلیونی مدارس و جهش قیمت قطعات خودرو؛ قطعی مکرر برق در شازند و بلاتکلیفی ۱۵ ساله مسکن مهر.\nفروپاشی معیشت با تخم‌مرغ ۸۳۰ هزار تومانی؛ استقرار تجهیزات سنگین نظامی در کرمانشاه و تخلیه خدمات مرزی.\nدروغ‌پردازی رژیم درباره تحصیل رایگان و تامین انرژی؛ بحران اقتصادی و بن‌بست معیشتی در سراسر کشور.",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:31:44",
-      "gregorian_utc": "2026-09-14T11:01:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 137737,
-      "media_size_human": "134.51 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_13382_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13382_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.329289+00:00"
+      "tehran_time": "14:33:17",
+      "gregorian_utc": "2026-09-14T11:03:17+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-14T13:14:42.984613+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357269,
-      "message_link": "https://t.me/IranintlTV/357269",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های شدید در ایران می‌گوید نیم کیلو گوشت چرخ‌کرده را به قیمت ۷۰۰ هزار تومان خریده است: «لعنت به جمهوری اسلامی»",
+      "message_id": 357271,
+      "message_link": "https://t.me/IranintlTV/357271",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۲۳ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/23",
-      "tehran_time": "14:32:02",
-      "gregorian_utc": "2026-09-14T11:02:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5504933,
-      "media_size_human": "5.25 MB",
+      "tehran_time": "14:46:31",
+      "gregorian_utc": "2026-09-14T11:16:31+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30009231,
+      "media_size_human": "28.62 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357269_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357269_video.mp4",
+      "media_local_path": "media/IranintlTV_357271_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357271_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:02.793535+00:00"
+      "archived_at": "2026-09-14T13:14:43.322023+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76436_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76436_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-14T13:01:03.162259+00:00"
+      "archived_at": "2026-09-14T13:14:43.590111+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-14T13:01:03.605437+00:00"
+      "archived_at": "2026-09-14T13:14:44.066073+00:00"
     }
   ]
 }
