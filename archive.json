@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T07:32:58.293487+00:00",
-  "shamsi_generated": "1405/06/26 07:32:58 تهران",
+  "generated_at": "2026-09-17T07:44:01.320515+00:00",
+  "shamsi_generated": "1405/06/26 07:44:01 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,38 +24,38 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13601,
-      "message_link": "https://t.me/zedTV/13601",
-      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
+      "message_id": 13602,
+      "message_link": "https://t.me/zedTV/13602",
+      "text": "ترامپ خطاب به رسانه‌ها: به آنچه در قبال ایران رخ خواهد داد توجه کنید.\nرئیس‌جمهور آمریکا: شاهد یک پایان بسیار خوب خواهیم بود.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "10:29:38",
-      "gregorian_utc": "2026-09-17T06:59:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18999023,
-      "media_size_human": "18.12 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_13601_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13601_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.338241+00:00"
+      "tehran_time": "11:08:48",
+      "gregorian_utc": "2026-09-17T07:38:48+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-17T07:40:37.304953+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357761,
-      "message_link": "https://t.me/IranintlTV/357761",
-      "text": "پیمان فلسفی، نماینده تهران در مجلس شورای اسلامی، گفت که جمهوری اسلامی با تکیه بر ایمان و توانمندی‌های دفاعی پنهان، هرگونه تهدید نظامی آمریکا در منطقه را خنثی خواهد کرد و تحریم‌های اقتصادی تنها باعث قدرتمندتر شدن اراده ما شده است.\n\nفلسفی گفت: «رویکرد دشمن بر پایه خدعه، نیرنگ و فریب است. آن‌ها هرگاه تحت فشار اقتصادی قرار می‌گیرند، به دنبال راهکارهای موقت و دروغین هستند، اما ملت ایران هرگز با این بادها نمی‌لرزد.»\n\nنماینده مجلس افزود: «دشمن به دلیل مشاهده قابلیت‌های دفاعی جمهوری اسلامی، از ورود به جنگ نظامی واهمه دارد. اگرچه رزمندگان ما هنوز تمام توانمندی‌های خود را رونمایی نکرده‌اند، اما هرگونه خطای محاسباتی دشمن، منجر به آسیب‌هایی خواهد شد که تصورش را هم نمی‌کنند.»\nhttps://iranintl.com/202609171457",
+      "message_id": 357764,
+      "message_link": "https://t.me/IranintlTV/357764",
+      "text": "ویدیوی ارسالی به ایران اینترنشنال وضعیت مسافران «فلای کیش» در استانبول پس از تحریم شرکت‌های هواپیمایی ایران را نشان می‌دهد. فرستنده می‌گوید که بامداد پنجشنبه، خارج از محدوده همیشگی و شرایط معمول فرودگاه استانبول، مسافران باید از راهروی زیرین وارد هواپیما شوند.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "10:39:44",
-      "gregorian_utc": "2026-09-17T07:09:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162374,
-      "media_size_human": "158.57 KB",
+      "tehran_time": "11:07:51",
+      "gregorian_utc": "2026-09-17T07:37:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9326333,
+      "media_size_human": "8.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357761_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357761_photo.jpg",
+      "media_local_path": "media/IranintlTV_357764_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357764_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637140+00:00"
+      "archived_at": "2026-09-17T07:40:37.689627+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76461_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76461_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.967594+00:00"
+      "archived_at": "2026-09-17T07:40:38.094699+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,43 +91,43 @@
       "media_local_path": "media/Mellig_121115_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121115_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.288810+00:00"
+      "archived_at": "2026-09-17T07:40:38.497637+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13600,
-      "message_link": "https://t.me/zedTV/13600",
-      "text": "محکومیت الکساندر گرانفسکی به ۱۳ سال حبس به اتهام جاسوسی و خرابکاری برای جمهوری اسلامی.\nماموریت‌های متهم شامل آتش‌سوزی عمدی و شناسایی تاسیسات انرژی تحت هدایت عوامل رژیم.\nگزارش نهادهای امنیتی از افزایش چهار برابری بازداشت‌های مرتبط با شبکه‌های جاسوسی وابسته به تهران.",
+      "message_id": 13601,
+      "message_link": "https://t.me/zedTV/13601",
+      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:24:18",
-      "gregorian_utc": "2026-09-17T05:54:18+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338274+00:00"
+      "tehran_time": "10:29:38",
+      "gregorian_utc": "2026-09-17T06:59:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18999023,
+      "media_size_human": "18.12 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_13601_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13601_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-17T07:40:37.305058+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357760,
-      "message_link": "https://t.me/IranintlTV/357760",
-      "text": "گروهی از ایرانیان کلگری در چهارمین سالگرد جان‌باختن مهسا امینی، کنار درخت یادبود کیان پیرفلک گرد هم آمدند و با روشن کردن شمع، یاد او و دیگر جان‌باختگان خیزش «زن، زندگی، آزادی» را گرامی داشتند.\n\nاین مراسم بخشی از برنامه‌های «هفته مهسا» است که با هدف گرامیداشت جان‌باختگان و همبستگی با مردم ایران برگزار می‌شود.\n\nحاضران رشد درخت یادبود کیان پیرفلک را نمادی از ریشه‌دار شدن خواست آزادی دانستند؛ خواستی که به گفته آنان از خیزش «زن، زندگی، آزادی» تا قیام ملی و «انقلاب ملی ایران» ادامه یافته است.\n\nگزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357763,
+      "message_link": "https://t.me/IranintlTV/357763",
+      "text": "محمد اولیایی‌فرد، حقوقدان، با اشاره به گزارش درباره سرکوب جنبش «زن، زندگی، آزادی» گفت مجموعه شواهد نشان می‌دهد جمهوری اسلامی سیاستی سازمان‌یافته برای سرکوب داشته و کشتار، شکنجه، تجاوز و آزار جنسی معترضان مصداق «جنایت علیه بشریت» است.\n\nاو افزود این گزارش با ارائه اسامی افرادی از مقامات ارشد تا استانداران و فرمانداران می‌تواند مبنایی برای تحقیقات درباره مسئولیت افراد در این جنایات باشد.\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "10:36:15",
-      "gregorian_utc": "2026-09-17T07:06:15+00:00",
+      "tehran_time": "11:03:32",
+      "gregorian_utc": "2026-09-17T07:33:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 1424010,
-      "media_size_human": "1.36 MB",
+      "media_size_bytes": 4290322,
+      "media_size_human": "4.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357760_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357760_video.mp4",
+      "media_local_path": "media/IranintlTV_357763_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357763_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637221+00:00"
+      "archived_at": "2026-09-17T07:40:37.689724+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.967731+00:00"
+      "archived_at": "2026-09-17T07:40:38.094803+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_121114_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121114_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.288871+00:00"
+      "archived_at": "2026-09-17T07:40:38.497704+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13599,
-      "message_link": "https://t.me/zedTV/13599",
-      "text": "بیداری وجدان عمومی در پی قتل نیکا شاکرمی ۱۶ ساله و تضاد روایت‌های حکومتی با واقعیت.\nتردید ورزشکاران و نخبگان نسبت به ادامه زندگی عادی در سایه سرکوب و جان‌باختن معترضان.\nتداوم زنجیره نام‌های قربانیان؛ بازگشت به دوران پیش از قیام ناممکن شده است.",
+      "message_id": 13600,
+      "message_link": "https://t.me/zedTV/13600",
+      "text": "محکومیت الکساندر گرانفسکی به ۱۳ سال حبس به اتهام جاسوسی و خرابکاری برای جمهوری اسلامی.\nماموریت‌های متهم شامل آتش‌سوزی عمدی و شناسایی تاسیسات انرژی تحت هدایت عوامل رژیم.\nگزارش نهادهای امنیتی از افزایش چهار برابری بازداشت‌های مرتبط با شبکه‌های جاسوسی وابسته به تهران.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "08:10:14",
-      "gregorian_utc": "2026-09-17T04:40:14+00:00",
+      "tehran_time": "09:24:18",
+      "gregorian_utc": "2026-09-17T05:54:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338299+00:00"
+      "archived_at": "2026-09-17T07:40:37.305087+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357759,
-      "message_link": "https://t.me/IranintlTV/357759",
-      "text": "مستند «نازا» که در هشتادوسومین جشنواره فیلم ونیز به نمایش درآمد، با روایت ۲۴ افسر و سرباز اسرائیلی از نحوه انتخاب اهداف و عملیات نظامی در غزه، واکنش گسترده مقام‌های سیاسی و نظامی اسرائیل را برانگیخته است.\n\nاین مستند حاصل بیش از سه سال روزنامه‌نگاری تحقیقی است و در یکی از مصاحبه‌های فیلم ادعا می‌شود حمله‌ای برای کشتن یک عضو حماس با پیش‌بینی کشته شدن ۵۰۰ غیرنظامی تایید شده بود. ارتش اسرائیل این ادعا را رد کرده و روایت‌های فیلم را تحریف واقعیت و حاوی اتهام‌های نادرست علیه سربازان و فرماندهان خود خوانده است.\n\nسازندگان «نازا» در مقابل بر اهمیت دیده شدن این مستند، به‌ویژه از سوی اسرائیلی‌ها، تاکید کرده‌اند. \n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357762,
+      "message_link": "https://t.me/IranintlTV/357762",
+      "text": "محمدرضا صباغیان بافقی، عضو کمیسیون امور داخلی مجلس، درباره بررسی خروج از پیمان منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی) در مجلس، به خبرگزاری خانه ملت، گفت: «باید شهامتی را که به خرج داده شد و با تدبیر درست تنگه هرمز بسته شد، در بحث خروج از ان‌پی‌تی انجام دهیم.»\n\nصباغیان بافقی درباره تغییر دکترین هسته‌ای جمهوری اسلامی گفت: «اگر سلاحی قوی‌تر از سلاح‌های دشمن را نداریم، حداقل باید سلاحی مانند سلاح‌های آنها داشته باشیم. بنابراین تغییر دکترین برای ایجاد بازدارندگی مقابل آمریکا و اسرائیل باید در دستور کار قرار گیرد.»\nhttps://iranintl.com/202609175657",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "10:06:17",
-      "gregorian_utc": "2026-09-17T06:36:17+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2986718,
-      "media_size_human": "2.85 MB",
+      "tehran_time": "11:02:20",
+      "gregorian_utc": "2026-09-17T07:32:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 238755,
+      "media_size_human": "233.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357759_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357759_video.mp4",
+      "media_local_path": "media/IranintlTV_357762_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637293+00:00"
+      "archived_at": "2026-09-17T07:40:37.689818+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76459_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76459_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.967801+00:00"
+      "archived_at": "2026-09-17T07:40:38.094900+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121113_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121113_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.288913+00:00"
+      "archived_at": "2026-09-17T07:40:38.497755+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13598,
-      "message_link": "https://t.me/zedTV/13598",
-      "text": "سقوط ۲۵ درصدی ارزش ریال و دلار ۲۳۵ هزار تومانی؛ هزینه معیشت از ۹۱ میلیون تومان فراتر رفت.\nتورم سه‌برابری در بخش درمان و افشای قاچاق ۳۵ میلیارد دلاری در بدنه اقتصادی.\nتداوم فیلترینگ اینترنت و بحران ایمنی شهری؛ بن‌بست کامل معیشتی برای شهروندان.",
+      "message_id": 13599,
+      "message_link": "https://t.me/zedTV/13599",
+      "text": "بیداری وجدان عمومی در پی قتل نیکا شاکرمی ۱۶ ساله و تضاد روایت‌های حکومتی با واقعیت.\nتردید ورزشکاران و نخبگان نسبت به ادامه زندگی عادی در سایه سرکوب و جان‌باختن معترضان.\nتداوم زنجیره نام‌های قربانیان؛ بازگشت به دوران پیش از قیام ناممکن شده است.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "08:10:10",
-      "gregorian_utc": "2026-09-17T04:40:10+00:00",
+      "tehran_time": "08:10:14",
+      "gregorian_utc": "2026-09-17T04:40:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338320+00:00"
+      "archived_at": "2026-09-17T07:40:37.305114+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357758,
-      "message_link": "https://t.me/IranintlTV/357758",
-      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به گزارش سی‌ان‌ان درباره احتمال انتقال اطلاعات ماهواره‌ای روسیه به جمهوری اسلامی پیش از حمله به پایگاه شاهزاده سلطان گفت اگر این همکاری اطلاعاتی تایید شود، نقش روسیه از حمایت سیاسی و همکاری نظامی فراتر می‌رود و مسکو عملا وارد زنجیره اطلاعاتی و هدف‌گیری جمهوری اسلامی می‌شود.\n@iranintltv",
+      "message_id": 357761,
+      "message_link": "https://t.me/IranintlTV/357761",
+      "text": "پیمان فلسفی، نماینده تهران در مجلس شورای اسلامی، گفت که جمهوری اسلامی با تکیه بر ایمان و توانمندی‌های دفاعی پنهان، هرگونه تهدید نظامی آمریکا در منطقه را خنثی خواهد کرد و تحریم‌های اقتصادی تنها باعث قدرتمندتر شدن اراده ما شده است.\n\nفلسفی گفت: «رویکرد دشمن بر پایه خدعه، نیرنگ و فریب است. آن‌ها هرگاه تحت فشار اقتصادی قرار می‌گیرند، به دنبال راهکارهای موقت و دروغین هستند، اما ملت ایران هرگز با این بادها نمی‌لرزد.»\n\nنماینده مجلس افزود: «دشمن به دلیل مشاهده قابلیت‌های دفاعی جمهوری اسلامی، از ورود به جنگ نظامی واهمه دارد. اگرچه رزمندگان ما هنوز تمام توانمندی‌های خود را رونمایی نکرده‌اند، اما هرگونه خطای محاسباتی دشمن، منجر به آسیب‌هایی خواهد شد که تصورش را هم نمی‌کنند.»\nhttps://iranintl.com/202609171457",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:52:13",
-      "gregorian_utc": "2026-09-17T06:22:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3453995,
-      "media_size_human": "3.29 MB",
+      "tehran_time": "10:39:44",
+      "gregorian_utc": "2026-09-17T07:09:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162374,
+      "media_size_human": "158.57 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357758_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357758_video.mp4",
+      "media_local_path": "media/IranintlTV_357761_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357761_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637342+00:00"
+      "archived_at": "2026-09-17T07:40:37.689920+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76458_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76458_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.967843+00:00"
+      "archived_at": "2026-09-17T07:40:38.094953+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.288957+00:00"
+      "archived_at": "2026-09-17T07:40:38.497804+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13597,
-      "message_link": "https://t.me/zedTV/13597",
-      "text": "تداوم میراث قیام «زن، زندگی، آزادی»؛ نفی قاطع حجاب اجباری و سلطه ایدئولوژیک بر اراده ملت.\nایستادگی برای کرامت انسانی و دموکراسی در پیوند با تجارب گذشته و نفی هرگونه استبداد.\nتاکید بر ضرورت عبور از ساختار فعلی برای رسیدن به حاکمیت ملی و آزادی پایدار.",
+      "message_id": 13598,
+      "message_link": "https://t.me/zedTV/13598",
+      "text": "سقوط ۲۵ درصدی ارزش ریال و دلار ۲۳۵ هزار تومانی؛ هزینه معیشت از ۹۱ میلیون تومان فراتر رفت.\nتورم سه‌برابری در بخش درمان و افشای قاچاق ۳۵ میلیارد دلاری در بدنه اقتصادی.\nتداوم فیلترینگ اینترنت و بحران ایمنی شهری؛ بن‌بست کامل معیشتی برای شهروندان.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "08:10:08",
-      "gregorian_utc": "2026-09-17T04:40:08+00:00",
+      "tehran_time": "08:10:10",
+      "gregorian_utc": "2026-09-17T04:40:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338337+00:00"
+      "archived_at": "2026-09-17T07:40:37.305136+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357757,
-      "message_link": "https://t.me/IranintlTV/357757",
-      "text": "امیر گیتی، خبرنگار ایران‌اینترنشنال، با اشاره به اظهارات دونالد ترامپ درباره تمایل جمهوری اسلامی به مذاکره و تاثیر فشارهای اقتصادی گفت حکومت زمانی در برابر خواسته‌های ترامپ عقب‌نشینی خواهد کرد که منابع مالی مورد نیاز برای پرداخت به نیروهای نیابتی، نیروهای سرکوب و وفادارانش و همچنین منافع اقتصادی خود را در خطر ببیند.\n\nاو افزود فشار اقتصادی بر جمهوری اسلامی افزایش یافته، اما هنوز به نقطه‌ای نرسیده است که حکومت در برابر خواسته‌های ترامپ «کمر خم کند».\n@iranintltv",
+      "message_id": 357760,
+      "message_link": "https://t.me/IranintlTV/357760",
+      "text": "گروهی از ایرانیان کلگری در چهارمین سالگرد جان‌باختن مهسا امینی، کنار درخت یادبود کیان پیرفلک گرد هم آمدند و با روشن کردن شمع، یاد او و دیگر جان‌باختگان خیزش «زن، زندگی، آزادی» را گرامی داشتند.\n\nاین مراسم بخشی از برنامه‌های «هفته مهسا» است که با هدف گرامیداشت جان‌باختگان و همبستگی با مردم ایران برگزار می‌شود.\n\nحاضران رشد درخت یادبود کیان پیرفلک را نمادی از ریشه‌دار شدن خواست آزادی دانستند؛ خواستی که به گفته آنان از خیزش «زن، زندگی، آزادی» تا قیام ملی و «انقلاب ملی ایران» ادامه یافته است.\n\nگزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:37:51",
-      "gregorian_utc": "2026-09-17T06:07:51+00:00",
+      "tehran_time": "10:36:15",
+      "gregorian_utc": "2026-09-17T07:06:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 2868211,
-      "media_size_human": "2.74 MB",
+      "media_size_bytes": 1424010,
+      "media_size_human": "1.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357757_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357757_video.mp4",
+      "media_local_path": "media/IranintlTV_357760_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357760_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637396+00:00"
+      "archived_at": "2026-09-17T07:40:37.689992+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76457_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76457_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968024+00:00"
+      "archived_at": "2026-09-17T07:40:38.095179+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.288974+00:00"
+      "archived_at": "2026-09-17T07:40:38.497823+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13596,
-      "message_link": "https://t.me/zedTV/13596",
-      "text": "مانور جنگنده‌های اسرائیلی در مرزهای غربی و انهدام رادارهای پدافندی در آذربایجان و زنجان.\nاستفاده از پرواز جنگنده‌ها به عنوان پوشش برای حملات پهپادی به زیرساخت‌های نظامی.\nتخریب شبکه‌ راداری ایران جهت زمینه‌سازی برای عملیات غافلگیرانه گسترده.",
+      "message_id": 13597,
+      "message_link": "https://t.me/zedTV/13597",
+      "text": "تداوم میراث قیام «زن، زندگی، آزادی»؛ نفی قاطع حجاب اجباری و سلطه ایدئولوژیک بر اراده ملت.\nایستادگی برای کرامت انسانی و دموکراسی در پیوند با تجارب گذشته و نفی هرگونه استبداد.\nتاکید بر ضرورت عبور از ساختار فعلی برای رسیدن به حاکمیت ملی و آزادی پایدار.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "03:38:48",
-      "gregorian_utc": "2026-09-17T00:08:48+00:00",
+      "tehran_time": "08:10:08",
+      "gregorian_utc": "2026-09-17T04:40:08+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338361+00:00"
+      "archived_at": "2026-09-17T07:40:37.305165+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357756,
-      "message_link": "https://t.me/IranintlTV/357756",
-      "text": "مجتبی یوسفی، عضو کمیسیون عمران مجلس، گفت: «افزایش قیمت نفت می‌تواند عاملی بازدارنده در برابر آمریکای بدعهد و پیمان‌شکن باشد، اما متاسفانه برخی موضع‌گیری‌های مسئولان دولتی و حتی وزیر امور خارجه در بزنگاه‌ها و لحظات مهم موجب کاهش قیمت نفت می‌شود.»\n\nنماینده اهواز گفت: «امروز نرخ نفت یک عامل تعیین کننده و دست برتر ما در محور مقاومت است و می‌توانیم از این ظرفیت برای تحت فشار قرار دادن اقتصاد غرب و آمریکا استفاده کنیم.\n\nیوسفی درباره تفاهم‌نامه اسلام‌آباد گفت: «وقتی آمریکا از معاهده خارج شده و خلف وعده کرده، ماندن در توافق نه دیپلماسی عزت‌مدارانه است و نه عاقلانه؛ این موضوع ما را به یاد برجام می‌اندازد.»\nhttps://iranintl.com/202609172485",
+      "message_id": 357759,
+      "message_link": "https://t.me/IranintlTV/357759",
+      "text": "مستند «نازا» که در هشتادوسومین جشنواره فیلم ونیز به نمایش درآمد، با روایت ۲۴ افسر و سرباز اسرائیلی از نحوه انتخاب اهداف و عملیات نظامی در غزه، واکنش گسترده مقام‌های سیاسی و نظامی اسرائیل را برانگیخته است.\n\nاین مستند حاصل بیش از سه سال روزنامه‌نگاری تحقیقی است و در یکی از مصاحبه‌های فیلم ادعا می‌شود حمله‌ای برای کشتن یک عضو حماس با پیش‌بینی کشته شدن ۵۰۰ غیرنظامی تایید شده بود. ارتش اسرائیل این ادعا را رد کرده و روایت‌های فیلم را تحریف واقعیت و حاوی اتهام‌های نادرست علیه سربازان و فرماندهان خود خوانده است.\n\nسازندگان «نازا» در مقابل بر اهمیت دیده شدن این مستند، به‌ویژه از سوی اسرائیلی‌ها، تاکید کرده‌اند. \n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:26:50",
-      "gregorian_utc": "2026-09-17T05:56:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 111627,
-      "media_size_human": "109.01 KB",
+      "tehran_time": "10:06:17",
+      "gregorian_utc": "2026-09-17T06:36:17+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2986718,
+      "media_size_human": "2.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357756_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357756_photo.jpg",
+      "media_local_path": "media/IranintlTV_357759_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357759_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637465+00:00"
+      "archived_at": "2026-09-17T07:40:37.690066+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76456_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76456_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968047+00:00"
+      "archived_at": "2026-09-17T07:40:38.095205+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_121110_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121110_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.288993+00:00"
+      "archived_at": "2026-09-17T07:40:38.497845+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13595,
-      "message_link": "https://t.me/zedTV/13595",
-      "text": "آکسیوس: ترامپ با سران کشورهای خلیج فارس درباره ایران گفتگو می‌کند.\nنشست دیپلماتیک در نیویورک پیرامون تحولات جمهوری اسلامی.\nرایزنی‌های واشینگتن و متحدان منطقه‌ای درباره تهران.",
+      "message_id": 13596,
+      "message_link": "https://t.me/zedTV/13596",
+      "text": "مانور جنگنده‌های اسرائیلی در مرزهای غربی و انهدام رادارهای پدافندی در آذربایجان و زنجان.\nاستفاده از پرواز جنگنده‌ها به عنوان پوشش برای حملات پهپادی به زیرساخت‌های نظامی.\nتخریب شبکه‌ راداری ایران جهت زمینه‌سازی برای عملیات غافلگیرانه گسترده.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "03:38:40",
-      "gregorian_utc": "2026-09-17T00:08:40+00:00",
+      "tehran_time": "03:38:48",
+      "gregorian_utc": "2026-09-17T00:08:48+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338376+00:00"
+      "archived_at": "2026-09-17T07:40:37.305186+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357755,
-      "message_link": "https://t.me/IranintlTV/357755",
-      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، با اشاره به تصویب طرح تمدید پنج‌ساله قانون تحریم‌های ایران در مجلس نمایندگان آمریکا که تحریم سرمایه‌گذاری در بخش انرژی و ارائه برخی کالا و خدمات به صنایع نفت و پتروشیمی را در بر می‌گیرد، گفت این قانون قدیمی‌ترین ستون تحریم‌های انرژی ایران است.\n\nاو افزود این قانون اثر بازدارندگی دارد و شرکت‌های بزرگ نفتی مانند شل و توتال به دلیل وجود آن وارد بخش پالایشگاهی جمهوری اسلامی نمی‌شوند.\n@iranintltv",
+      "message_id": 357758,
+      "message_link": "https://t.me/IranintlTV/357758",
+      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به گزارش سی‌ان‌ان درباره احتمال انتقال اطلاعات ماهواره‌ای روسیه به جمهوری اسلامی پیش از حمله به پایگاه شاهزاده سلطان گفت اگر این همکاری اطلاعاتی تایید شود، نقش روسیه از حمایت سیاسی و همکاری نظامی فراتر می‌رود و مسکو عملا وارد زنجیره اطلاعاتی و هدف‌گیری جمهوری اسلامی می‌شود.\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:25:08",
-      "gregorian_utc": "2026-09-17T05:55:08+00:00",
+      "tehran_time": "09:52:13",
+      "gregorian_utc": "2026-09-17T06:22:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 3204947,
-      "media_size_human": "3.06 MB",
+      "media_size_bytes": 3453995,
+      "media_size_human": "3.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357755_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357755_video.mp4",
+      "media_local_path": "media/IranintlTV_357758_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357758_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637523+00:00"
+      "archived_at": "2026-09-17T07:40:37.690120+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76455_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76455_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968067+00:00"
+      "archived_at": "2026-09-17T07:40:38.095226+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_121109_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121109_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.289023+00:00"
+      "archived_at": "2026-09-17T07:40:38.497887+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13594,
-      "message_link": "https://t.me/zedTV/13594",
-      "text": "ترامپ: افزایش نرخ بهره ربطی به جنگ در ایران ندارد و با هدف تخریب سیاسی من انجام می‌شود.\nرئیس‌جمهور سابق آمریکا: مخالفان در حالی نرخ‌ها را بالا می‌برند که ما بهترین اقتصاد تاریخ را داریم.",
+      "message_id": 13595,
+      "message_link": "https://t.me/zedTV/13595",
+      "text": "آکسیوس: ترامپ با سران کشورهای خلیج فارس درباره ایران گفتگو می‌کند.\nنشست دیپلماتیک در نیویورک پیرامون تحولات جمهوری اسلامی.\nرایزنی‌های واشینگتن و متحدان منطقه‌ای درباره تهران.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "03:23:31",
-      "gregorian_utc": "2026-09-16T23:53:31+00:00",
+      "tehran_time": "03:38:40",
+      "gregorian_utc": "2026-09-17T00:08:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338399+00:00"
+      "archived_at": "2026-09-17T07:40:37.305212+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357754,
-      "message_link": "https://t.me/IranintlTV/357754",
-      "text": "نیویورک‌تایمز به نقل از مقام‌های آمریکایی گزارش داد که افسران اطلاعاتی آمریکا در گزارش‌های داخلی درباره احتمال جاسوسی چین در ارتباط با فروش احتمالی ده‌ها فروند جنگنده پیشرفته اف-۳۵ به عربستان سعودی ابراز نگرانی کرده‌اند. ارزش این قرارداد ۲۴ میلیارد دلار است.\n\nعربستان سعودی و آمریکا چندین دهه همکاری نظامی داشته‌اند و ریاض با فاصله زیاد بزرگ‌ترین خریدار تسلیحات و تجهیزات دفاعی آمریکایی است.\n\nاما عربستان سعودی موشک‌های بالستیک را از چین خریداری می‌کند و ارتش چین به عربستان سعودی در زمینه ساخت موشک‌های بالستیک، ایجاد تاسیسات تولید و بهبود عملیات موشکی کمک می‌کند.\n\nیک مقام آمریکایی گفت گزارش اطلاعاتی اخیر وزارت دفاع آمریکا تاکید کرده است که تنها افسران و پیمانکاران سعودی و آمریکایی باید به محل‌هایی که فناوری اف-۳۵ در آنها نگهداری می‌شود دسترسی داشته باشند. مقام‌های وزارت دفاع آمریکا به‌ویژه درباره حفاظت از فناوری پیشرفته راداری و نظارتی اف-۳۵ ابراز نگرانی کرده‌اند.\nhttps://iranintl.com/202609174094",
+      "message_id": 357757,
+      "message_link": "https://t.me/IranintlTV/357757",
+      "text": "امیر گیتی، خبرنگار ایران‌اینترنشنال، با اشاره به اظهارات دونالد ترامپ درباره تمایل جمهوری اسلامی به مذاکره و تاثیر فشارهای اقتصادی گفت حکومت زمانی در برابر خواسته‌های ترامپ عقب‌نشینی خواهد کرد که منابع مالی مورد نیاز برای پرداخت به نیروهای نیابتی، نیروهای سرکوب و وفادارانش و همچنین منافع اقتصادی خود را در خطر ببیند.\n\nاو افزود فشار اقتصادی بر جمهوری اسلامی افزایش یافته، اما هنوز به نقطه‌ای نرسیده است که حکومت در برابر خواسته‌های ترامپ «کمر خم کند».\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "09:06:04",
-      "gregorian_utc": "2026-09-17T05:36:04+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 142246,
-      "media_size_human": "138.91 KB",
+      "tehran_time": "09:37:51",
+      "gregorian_utc": "2026-09-17T06:07:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2868211,
+      "media_size_human": "2.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357754_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357754_photo.jpg",
+      "media_local_path": "media/IranintlTV_357757_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357757_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637607+00:00"
+      "archived_at": "2026-09-17T07:40:37.690181+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76454_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76454_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968086+00:00"
+      "archived_at": "2026-09-17T07:40:38.095247+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_121108_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121108_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.289042+00:00"
+      "archived_at": "2026-09-17T07:40:38.497909+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13593,
-      "message_link": "https://t.me/zedTV/13593",
-      "text": "مجلس نمایندگان آمریکا به تشدید تحریم‌های رژیم ایران و روسیه رأی مثبت داد.\nلایحه جدید شامل وضع تعرفه‌های سنگین و افزایش فشارهای اقتصادی است.\nتلاش قانون‌گذاران آمریکایی برای فلج کردن منابع مالی جمهوری اسلامی.",
+      "message_id": 13594,
+      "message_link": "https://t.me/zedTV/13594",
+      "text": "ترامپ: افزایش نرخ بهره ربطی به جنگ در ایران ندارد و با هدف تخریب سیاسی من انجام می‌شود.\nرئیس‌جمهور سابق آمریکا: مخالفان در حالی نرخ‌ها را بالا می‌برند که ما بهترین اقتصاد تاریخ را داریم.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "02:08:19",
-      "gregorian_utc": "2026-09-16T22:38:19+00:00",
+      "tehran_time": "03:23:31",
+      "gregorian_utc": "2026-09-16T23:53:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338415+00:00"
+      "archived_at": "2026-09-17T07:40:37.305232+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357753,
-      "message_link": "https://t.me/IranintlTV/357753",
-      "text": "کانال تلگرامی عباس عراقچی، وزیر خارجه جمهوری اسلامی، صبح پنجشنبه ۲۶ شهریور گزارش داد که وزیر خارجه جمهوری اسلامی روز گذشته و در جریان سفر به پکن، جداگانه با عاصم منیر، رییس ستادکل ارتش پاکستان، و هاکان فیدان، وزیر خارجه ترکیه، به‌صورت تلفنی گفت‌وگو کرده است.\n\nبر اساس این گزارش، تحولات منطقه‌ای و موضوعات مورد توجه میان جمهوری اسلامی و این کشورها، محور گفت‌وگوی عراقچی با منیر و فیدان بوده است.\nhttps://iranintl.com/202609177489",
+      "message_id": 357756,
+      "message_link": "https://t.me/IranintlTV/357756",
+      "text": "مجتبی یوسفی، عضو کمیسیون عمران مجلس، گفت: «افزایش قیمت نفت می‌تواند عاملی بازدارنده در برابر آمریکای بدعهد و پیمان‌شکن باشد، اما متاسفانه برخی موضع‌گیری‌های مسئولان دولتی و حتی وزیر امور خارجه در بزنگاه‌ها و لحظات مهم موجب کاهش قیمت نفت می‌شود.»\n\nنماینده اهواز گفت: «امروز نرخ نفت یک عامل تعیین کننده و دست برتر ما در محور مقاومت است و می‌توانیم از این ظرفیت برای تحت فشار قرار دادن اقتصاد غرب و آمریکا استفاده کنیم.\n\nیوسفی درباره تفاهم‌نامه اسلام‌آباد گفت: «وقتی آمریکا از معاهده خارج شده و خلف وعده کرده، ماندن در توافق نه دیپلماسی عزت‌مدارانه است و نه عاقلانه؛ این موضوع ما را به یاد برجام می‌اندازد.»\nhttps://iranintl.com/202609172485",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "08:14:23",
-      "gregorian_utc": "2026-09-17T04:44:23+00:00",
+      "tehran_time": "09:26:50",
+      "gregorian_utc": "2026-09-17T05:56:50+00:00",
       "media_type": "photo",
-      "media_size_bytes": 253601,
-      "media_size_human": "247.66 KB",
+      "media_size_bytes": 111627,
+      "media_size_human": "109.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357753_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357753_photo.jpg",
+      "media_local_path": "media/IranintlTV_357756_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357756_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637674+00:00"
+      "archived_at": "2026-09-17T07:40:37.690258+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76453_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76453_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968172+00:00"
+      "archived_at": "2026-09-17T07:40:38.095352+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.289069+00:00"
+      "archived_at": "2026-09-17T07:40:38.497941+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13592,
-      "message_link": "https://t.me/zedTV/13592",
-      "text": "♦️ گزارش‌ها از وقوع یک رویداد «بسیار مهم» در این لحظات حکایت دارد.\n♦️ تداوم رصد لحظه‌ای تحولات جاری و رویداد در حال شکل‌گیری.\n♦️ پیگیری ابعاد اتفاقی که هم‌اکنون در حال رخ دادن است.",
+      "message_id": 13593,
+      "message_link": "https://t.me/zedTV/13593",
+      "text": "مجلس نمایندگان آمریکا به تشدید تحریم‌های رژیم ایران و روسیه رأی مثبت داد.\nلایحه جدید شامل وضع تعرفه‌های سنگین و افزایش فشارهای اقتصادی است.\nتلاش قانون‌گذاران آمریکایی برای فلج کردن منابع مالی جمهوری اسلامی.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "00:53:33",
-      "gregorian_utc": "2026-09-16T21:23:33+00:00",
+      "tehran_time": "02:08:19",
+      "gregorian_utc": "2026-09-16T22:38:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338429+00:00"
+      "archived_at": "2026-09-17T07:40:37.305250+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357752,
-      "message_link": "https://t.me/IranintlTV/357752",
-      "text": "رویترز پنجشنبه ۲۶ شهریور بر اساس داده‌های کشتیرانی گزارش داد که تردد کشتی‌های حامل کالا در تنگه هرمز روز چهارشنبه به ۳ فروند کاهش یافت.\n\nبر اساس گزارش رویترز، این میزان بسیار کمتر از میانگین روزانه حدود ۱۷ فروند در طول ۱۰ روز گذشته بود.\nhttps://iranintl.com/202609178910",
+      "message_id": 357755,
+      "message_link": "https://t.me/IranintlTV/357755",
+      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، با اشاره به تصویب طرح تمدید پنج‌ساله قانون تحریم‌های ایران در مجلس نمایندگان آمریکا که تحریم سرمایه‌گذاری در بخش انرژی و ارائه برخی کالا و خدمات به صنایع نفت و پتروشیمی را در بر می‌گیرد، گفت این قانون قدیمی‌ترین ستون تحریم‌های انرژی ایران است.\n\nاو افزود این قانون اثر بازدارندگی دارد و شرکت‌های بزرگ نفتی مانند شل و توتال به دلیل وجود آن وارد بخش پالایشگاهی جمهوری اسلامی نمی‌شوند.\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "07:56:46",
-      "gregorian_utc": "2026-09-17T04:26:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 207855,
-      "media_size_human": "202.98 KB",
+      "tehran_time": "09:25:08",
+      "gregorian_utc": "2026-09-17T05:55:08+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3204947,
+      "media_size_human": "3.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357752_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357752_photo.jpg",
+      "media_local_path": "media/IranintlTV_357755_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357755_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637718+00:00"
+      "archived_at": "2026-09-17T07:40:37.690316+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.968238+00:00"
+      "archived_at": "2026-09-17T07:40:38.095434+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.289098+00:00"
+      "archived_at": "2026-09-17T07:40:38.497978+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13591,
-      "message_link": "https://t.me/zedTV/13591",
-      "text": "شناسایی برنامه جاسوسی رژیم ایران توسط بریتانیا، آمریکا و هلند؛\nهدف قرار دادن مخالفان و منتقدان خارج از کشور توسط دستگاه‌های امنیتی؛\nافشای ابعاد جدیدی از تلاش‌های فرامرزی تهران برای سرکوب معترضان.",
+      "message_id": 13592,
+      "message_link": "https://t.me/zedTV/13592",
+      "text": "♦️ گزارش‌ها از وقوع یک رویداد «بسیار مهم» در این لحظات حکایت دارد.\n♦️ تداوم رصد لحظه‌ای تحولات جاری و رویداد در حال شکل‌گیری.\n♦️ پیگیری ابعاد اتفاقی که هم‌اکنون در حال رخ دادن است.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "00:38:48",
-      "gregorian_utc": "2026-09-16T21:08:48+00:00",
+      "tehran_time": "00:53:33",
+      "gregorian_utc": "2026-09-16T21:23:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338444+00:00"
+      "archived_at": "2026-09-17T07:40:37.305266+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357751,
-      "message_link": "https://t.me/IranintlTV/357751",
-      "text": "سرخط خبرهای پنج‌شنبه ۲۶ شهریور\n@iranintltv",
+      "message_id": 357754,
+      "message_link": "https://t.me/IranintlTV/357754",
+      "text": "نیویورک‌تایمز به نقل از مقام‌های آمریکایی گزارش داد که افسران اطلاعاتی آمریکا در گزارش‌های داخلی درباره احتمال جاسوسی چین در ارتباط با فروش احتمالی ده‌ها فروند جنگنده پیشرفته اف-۳۵ به عربستان سعودی ابراز نگرانی کرده‌اند. ارزش این قرارداد ۲۴ میلیارد دلار است.\n\nعربستان سعودی و آمریکا چندین دهه همکاری نظامی داشته‌اند و ریاض با فاصله زیاد بزرگ‌ترین خریدار تسلیحات و تجهیزات دفاعی آمریکایی است.\n\nاما عربستان سعودی موشک‌های بالستیک را از چین خریداری می‌کند و ارتش چین به عربستان سعودی در زمینه ساخت موشک‌های بالستیک، ایجاد تاسیسات تولید و بهبود عملیات موشکی کمک می‌کند.\n\nیک مقام آمریکایی گفت گزارش اطلاعاتی اخیر وزارت دفاع آمریکا تاکید کرده است که تنها افسران و پیمانکاران سعودی و آمریکایی باید به محل‌هایی که فناوری اف-۳۵ در آنها نگهداری می‌شود دسترسی داشته باشند. مقام‌های وزارت دفاع آمریکا به‌ویژه درباره حفاظت از فناوری پیشرفته راداری و نظارتی اف-۳۵ ابراز نگرانی کرده‌اند.\nhttps://iranintl.com/202609174094",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "07:51:13",
-      "gregorian_utc": "2026-09-17T04:21:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1248289,
-      "media_size_human": "1.19 MB",
+      "tehran_time": "09:06:04",
+      "gregorian_utc": "2026-09-17T05:36:04+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142246,
+      "media_size_human": "138.91 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357751_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357751_video.mp4",
+      "media_local_path": "media/IranintlTV_357754_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357754_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637746+00:00"
+      "archived_at": "2026-09-17T07:40:37.690412+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.968609+00:00"
+      "archived_at": "2026-09-17T07:40:38.095929+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_121105_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121105_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:44.289117+00:00"
+      "archived_at": "2026-09-17T07:40:38.498001+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13590,
-      "message_link": "https://t.me/zedTV/13590",
-      "text": "گزارش تایم از تداوم ۷ ماهه عملیات نظامی علیه جمهوری اسلامی.\nانتقال اهرم‌های فشار رژیم از تنگه هرمز به باب‌المندب.\nتغییر کانون درگیری‌ها در پی تداوم فشارهای همه‌جانبه.",
+      "message_id": 13591,
+      "message_link": "https://t.me/zedTV/13591",
+      "text": "شناسایی برنامه جاسوسی رژیم ایران توسط بریتانیا، آمریکا و هلند؛\nهدف قرار دادن مخالفان و منتقدان خارج از کشور توسط دستگاه‌های امنیتی؛\nافشای ابعاد جدیدی از تلاش‌های فرامرزی تهران برای سرکوب معترضان.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "00:25:10",
-      "gregorian_utc": "2026-09-16T20:55:10+00:00",
+      "tehran_time": "00:38:48",
+      "gregorian_utc": "2026-09-16T21:08:48+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338458+00:00"
+      "archived_at": "2026-09-17T07:40:37.305282+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357750,
-      "message_link": "https://t.me/IranintlTV/357750",
-      "text": "رویترز گزارش داد بحران اقتصادی ناشی از جنگ در ایران، هزاران مهاجر افغانستانی را به بازگشت به کشورشان واداشته است. شماری از بازگشت‌کنندگان گفته‌اند ماه‌ها در ایران بیکار بوده‌اند و افزایش قیمت‌ها و کاهش ارزش ریال، بخش عمده پس‌انداز آنها را از بین برده است.\n\nبر اساس داده‌های مرکز آمار ایران، قیمت مصرف‌کننده نسبت به سال گذشته نزدیک به ۹۰ درصد و قیمت مواد غذایی حدود ۱۳۰ درصد افزایش یافته است. رویترز تشدید تحریم‌ها و محاصره دریایی آمریکا را نیز از عوامل وخامت شرایط اقتصادی دانست.\n\nداده‌های سازمان بین‌المللی مهاجرت نشان می‌دهد میانگین درآمد افغانستانی‌های تازه‌بازگشته نزدیک به یک‌سوم کاهش یافته و تنها ۲۹ درصد آنها پس‌انداز دارند. بیش از دو میلیون افغانستانی نیز طی دو سال گذشته ایران را ترک کرده‌اند.\n\nبازگشت به افغانستان برای زنان و دختران با محدودیت‌های طالبان در زمینه تحصیل، اشتغال و رفت‌وآمد همراه است. ستایش، دختر ۱۵ ساله‌ای که همراه خانواده‌اش از ایران بازگشته، گفت: «اگر می‌توانستم، برمی‌گشتم؛ برای درس خواندنم، برای دوستانم.»\n\nhttps://iranintl.com/202609173090",
+      "message_id": 357753,
+      "message_link": "https://t.me/IranintlTV/357753",
+      "text": "کانال تلگرامی عباس عراقچی، وزیر خارجه جمهوری اسلامی، صبح پنجشنبه ۲۶ شهریور گزارش داد که وزیر خارجه جمهوری اسلامی روز گذشته و در جریان سفر به پکن، جداگانه با عاصم منیر، رییس ستادکل ارتش پاکستان، و هاکان فیدان، وزیر خارجه ترکیه، به‌صورت تلفنی گفت‌وگو کرده است.\n\nبر اساس این گزارش، تحولات منطقه‌ای و موضوعات مورد توجه میان جمهوری اسلامی و این کشورها، محور گفت‌وگوی عراقچی با منیر و فیدان بوده است.\nhttps://iranintl.com/202609177489",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "07:33:59",
-      "gregorian_utc": "2026-09-17T04:03:59+00:00",
+      "tehran_time": "08:14:23",
+      "gregorian_utc": "2026-09-17T04:44:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 203239,
-      "media_size_human": "198.48 KB",
+      "media_size_bytes": 253601,
+      "media_size_human": "247.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357750_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357750_photo.jpg",
+      "media_local_path": "media/IranintlTV_357753_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357753_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637826+00:00"
+      "archived_at": "2026-09-17T07:40:37.690468+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.968681+00:00"
+      "archived_at": "2026-09-17T07:40:38.096011+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-17T07:30:44.289151+00:00"
+      "archived_at": "2026-09-17T07:40:38.498041+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13589,
-      "message_link": "https://t.me/zedTV/13589",
-      "text": "اعلام مجازات حبس و حذف یارانه‌های برق برای استخراج‌کنندگان غیرمجاز ارز دیجیتال.\nاعمال تعرفه آزاد یک‌ساله در مراکز استخراج در پی تشدید بحران انرژی.\nمصرف منابع معادل ۴ استان توسط شبکه‌های داخلی همزمان با فشار بر معیشت عمومی.",
+      "message_id": 13590,
+      "message_link": "https://t.me/zedTV/13590",
+      "text": "گزارش تایم از تداوم ۷ ماهه عملیات نظامی علیه جمهوری اسلامی.\nانتقال اهرم‌های فشار رژیم از تنگه هرمز به باب‌المندب.\nتغییر کانون درگیری‌ها در پی تداوم فشارهای همه‌جانبه.",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "00:24:55",
-      "gregorian_utc": "2026-09-16T20:54:55+00:00",
+      "tehran_time": "00:25:10",
+      "gregorian_utc": "2026-09-16T20:55:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338470+00:00"
+      "archived_at": "2026-09-17T07:40:37.305298+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357749,
-      "message_link": "https://t.me/IranintlTV/357749",
-      "text": "تایمز اسرائیل گزارش داد دادگاه منطقه‌ای لود الکساندر گرانوفسکی، ساکن پتاح تیکوا، را به اتهام جاسوسی، تخریب اموال و آتش‌افروزی به نمایندگی از جمهوری اسلامی به ۱۳ سال و نیم زندان محکوم کرد.\n\nبر اساس این گزارش، گرانوفسکی در ازای دریافت پول از یک عامل ایرانی، ۹ خودرو را به آتش کشید، شعارهای ضدحکومتی نوشت و محله محل سکونت بنی گانتز، وزیر دفاع سابق اسرائیل، را زیر نظر گرفت. دادستانی منطقه مرکزی اسرائیل این حکم را سنگین‌ترین مجازات صادرشده تاکنون برای فعالیت به نمایندگی از ایران اعلام کرد.\n\nتایمز اسرائیل همچنین گزارش داد دادگاهی در اورشلیم چهار فلسطینی اهل شرق این شهر را که در چارچوب توافق قضایی به مشارکت در طرحی دیگر برای ایران اعتراف کرده بودند، مجرم شناخت.\n\nدو نفر از متهمان همراه با دیگر مظنونان از ورودی موسسه علوم وایزمن فیلم‌برداری کردند و سپس مطلع شدند این اقدام با طرحی برای ترور یک دانشمند مرتبط است، اما اقدامی برای جلوگیری از آن نکردند.\n\nاسرائیل طی دو سال گذشته ده‌ها نفر را به ظن فعالیت برای جمهوری اسلامی در ازای دریافت پول بازداشت کرده است.\n\nhttps://iranintl.com/202609172852",
+      "message_id": 357752,
+      "message_link": "https://t.me/IranintlTV/357752",
+      "text": "رویترز پنجشنبه ۲۶ شهریور بر اساس داده‌های کشتیرانی گزارش داد که تردد کشتی‌های حامل کالا در تنگه هرمز روز چهارشنبه به ۳ فروند کاهش یافت.\n\nبر اساس گزارش رویترز، این میزان بسیار کمتر از میانگین روزانه حدود ۱۷ فروند در طول ۱۰ روز گذشته بود.\nhttps://iranintl.com/202609178910",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "07:27:56",
-      "gregorian_utc": "2026-09-17T03:57:56+00:00",
+      "tehran_time": "07:56:46",
+      "gregorian_utc": "2026-09-17T04:26:46+00:00",
       "media_type": "photo",
-      "media_size_bytes": 157690,
-      "media_size_human": "153.99 KB",
+      "media_size_bytes": 207855,
+      "media_size_human": "202.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357749_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357749_photo.jpg",
+      "media_local_path": "media/IranintlTV_357752_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357752_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637907+00:00"
+      "archived_at": "2026-09-17T07:40:37.690513+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76447_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76447_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968736+00:00"
+      "archived_at": "2026-09-17T07:40:38.096077+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.289166+00:00"
+      "archived_at": "2026-09-17T07:40:38.498057+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13588,
-      "message_link": "https://t.me/zedTV/13588",
-      "text": "رویترز: دیدار مقامات واشینگتن با هیئتی از حوثی‌های وابسته به رژیم در عمان.\nتوقف حمایت هوایی آمریکا از نیروهای تحت حمایت عربستان در ازای باز ماندن تنگه باب‌المندب.\nتوافق برای تضمین امنیت دریانوردی بین‌المللی در سایه بحران‌های منطقه‌ای.",
-      "shamsi_date": "1405/06/25",
-      "tehran_time": "23:53:19",
-      "gregorian_utc": "2026-09-16T20:23:19+00:00",
+      "message_id": 13589,
+      "message_link": "https://t.me/zedTV/13589",
+      "text": "اعلام مجازات حبس و حذف یارانه‌های برق برای استخراج‌کنندگان غیرمجاز ارز دیجیتال.\nاعمال تعرفه آزاد یک‌ساله در مراکز استخراج در پی تشدید بحران انرژی.\nمصرف منابع معادل ۴ استان توسط شبکه‌های داخلی همزمان با فشار بر معیشت عمومی.",
+      "shamsi_date": "1405/06/26",
+      "tehran_time": "00:24:55",
+      "gregorian_utc": "2026-09-16T20:54:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338488+00:00"
+      "archived_at": "2026-09-17T07:40:37.305314+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357748,
-      "message_link": "https://t.me/IranintlTV/357748",
-      "text": "انور ابراهیم، نخست‌وزیر مالزی، چهارشنبه ۲۵ شهریور در واکنش به رهگیری یک پهپاد در نزدیکی مکه گفت هرگونه تلاش برای تهدید امنیت و حرمت مقدس‌ترین شهر مسلمانان «کاملا غیرقابل قبول» است.\n\nاو از اقدام سریع عربستان سعودی برای حفاظت از ساکنان و زائران مکه قدردانی کرد و خواستار خویشتن‌داری، توقف حملات به مناطق غیرنظامی و حل‌وفصل تنش‌ها از طریق گفت‌وگو شد.\n\nائتلاف به رهبری عربستان سعودی اعلام کرد این پهپاد را پیش از ورود به حریم هوایی مکه رهگیری و منهدم کرده و این حمله را به حوثی‌ها نسبت داده است. حوثی‌ها دست داشتن در این حمله را رد کرده‌اند.\n\nhttps://iranintl.com/202609174376",
+      "message_id": 357751,
+      "message_link": "https://t.me/IranintlTV/357751",
+      "text": "سرخط خبرهای پنج‌شنبه ۲۶ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "07:01:02",
-      "gregorian_utc": "2026-09-17T03:31:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 157752,
-      "media_size_human": "154.05 KB",
+      "tehran_time": "07:51:13",
+      "gregorian_utc": "2026-09-17T04:21:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1248289,
+      "media_size_human": "1.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357748_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357748_photo.jpg",
+      "media_local_path": "media/IranintlTV_357751_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357751_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.637966+00:00"
+      "archived_at": "2026-09-17T07:40:37.690540+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.968842+00:00"
+      "archived_at": "2026-09-17T07:40:38.096207+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.289179+00:00"
+      "archived_at": "2026-09-17T07:40:38.498072+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13587,
-      "message_link": "https://t.me/zedTV/13587",
-      "text": "تداوم حضور زنان در فضاهای عمومی بدون حجاب اجباری؛ شکست ادعاهای رژیم درباره فروپاشی نظم اجتماعی.\nجنبش «زن، زندگی، آزادی» و به چالش کشیدن اقتدار حاکمیت بر بدن و اراده ملت.\nبحران مشروعیت جمهوری اسلامی در پی استفاده از خشونت برای تحمیل ارزش‌های سیاسی.",
+      "message_id": 13588,
+      "message_link": "https://t.me/zedTV/13588",
+      "text": "رویترز: دیدار مقامات واشینگتن با هیئتی از حوثی‌های وابسته به رژیم در عمان.\nتوقف حمایت هوایی آمریکا از نیروهای تحت حمایت عربستان در ازای باز ماندن تنگه باب‌المندب.\nتوافق برای تضمین امنیت دریانوردی بین‌المللی در سایه بحران‌های منطقه‌ای.",
       "shamsi_date": "1405/06/25",
-      "tehran_time": "23:26:02",
-      "gregorian_utc": "2026-09-16T19:56:02+00:00",
+      "tehran_time": "23:53:19",
+      "gregorian_utc": "2026-09-16T20:23:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:43.338502+00:00"
+      "archived_at": "2026-09-17T07:40:37.305330+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357747,
-      "message_link": "https://t.me/IranintlTV/357747",
-      "text": "یاسمین انصاری، نماینده دموکرات آریزونا در مجلس نمایندگان آمریکا، در چهارمین سالگرد کشته شدن مهسا ژینا امینی، یاد او را گرامی داشت و گفت جنبش «زن، زندگی، آزادی» که با مرگ او شکل گرفت، همچنان مبارزه برای آزادی و حقوق بشر در ایران را ادامه می‌دهد.\n\nانصاری همچنین به کشته شدن هزاران معترض در اعتراضات امسال، زندانیان سیاسی و اعدام‌ها اشاره کرد و گفت مردم ایران میان «حکومتی سرکوبگر» و «جنگی ویرانگر و غیرقانونی» گرفتار شده‌اند.\n\nاو افزود نباید از تلاش برای آینده‌ای بهتر برای مردم ایران که به گفته او عاری از «حکومت اقتدارگرا و جنگ» باشد، دست کشید.\n\nانصاری نماینده حوزه سوم آریزونا و نخستین دموکرات ایرانی‌تبار در کنگره آمریکا است.\n\nhttps://iranintl.com/202609173918",
+      "message_id": 357750,
+      "message_link": "https://t.me/IranintlTV/357750",
+      "text": "رویترز گزارش داد بحران اقتصادی ناشی از جنگ در ایران، هزاران مهاجر افغانستانی را به بازگشت به کشورشان واداشته است. شماری از بازگشت‌کنندگان گفته‌اند ماه‌ها در ایران بیکار بوده‌اند و افزایش قیمت‌ها و کاهش ارزش ریال، بخش عمده پس‌انداز آنها را از بین برده است.\n\nبر اساس داده‌های مرکز آمار ایران، قیمت مصرف‌کننده نسبت به سال گذشته نزدیک به ۹۰ درصد و قیمت مواد غذایی حدود ۱۳۰ درصد افزایش یافته است. رویترز تشدید تحریم‌ها و محاصره دریایی آمریکا را نیز از عوامل وخامت شرایط اقتصادی دانست.\n\nداده‌های سازمان بین‌المللی مهاجرت نشان می‌دهد میانگین درآمد افغانستانی‌های تازه‌بازگشته نزدیک به یک‌سوم کاهش یافته و تنها ۲۹ درصد آنها پس‌انداز دارند. بیش از دو میلیون افغانستانی نیز طی دو سال گذشته ایران را ترک کرده‌اند.\n\nبازگشت به افغانستان برای زنان و دختران با محدودیت‌های طالبان در زمینه تحصیل، اشتغال و رفت‌وآمد همراه است. ستایش، دختر ۱۵ ساله‌ای که همراه خانواده‌اش از ایران بازگشته، گفت: «اگر می‌توانستم، برمی‌گشتم؛ برای درس خواندنم، برای دوستانم.»\n\nhttps://iranintl.com/202609173090",
       "shamsi_date": "1405/06/26",
-      "tehran_time": "06:55:29",
-      "gregorian_utc": "2026-09-17T03:25:29+00:00",
+      "tehran_time": "07:33:59",
+      "gregorian_utc": "2026-09-17T04:03:59+00:00",
       "media_type": "photo",
-      "media_size_bytes": 134488,
-      "media_size_human": "131.34 KB",
+      "media_size_bytes": 203239,
+      "media_size_human": "198.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357747_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357747_photo.jpg",
+      "media_local_path": "media/IranintlTV_357750_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357750_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.638029+00:00"
+      "archived_at": "2026-09-17T07:40:37.690633+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76445_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76445_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-17T07:30:43.968865+00:00"
+      "archived_at": "2026-09-17T07:40:38.096230+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-17T07:30:44.289199+00:00"
+      "archived_at": "2026-09-17T07:40:38.498087+00:00"
     }
   ]
 }
