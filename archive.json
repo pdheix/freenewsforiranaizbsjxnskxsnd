@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T08:23:33.149652+00:00",
-  "shamsi_generated": "1405/06/27 08:23:33 تهران",
+  "generated_at": "2026-09-18T08:33:51.968908+00:00",
+  "shamsi_generated": "1405/06/27 08:33:51 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13684,
-      "message_link": "https://t.me/zedTV/13684",
-      "text": "تغییر نشان آبی حساب ایکس شاهزاده رضا پهلوی به خاکستری.\nاختصاص نشان ویژه مقامات دولتی و رسمی به حساب کاربری شاهزاده.\nتحولی در وضعیت شناسایی بین‌المللی رهبر مخالفان رژیم ایران.",
+      "message_id": 13686,
+      "message_link": "https://t.me/zedTV/13686",
+      "text": "کاخ سفید گزارش سازمان ملل درباره ادعای جنایات جنگی در حملات به ایران را رد کرد.\nواشینگتن: شورای حقوق بشر دهه‌هاست هیچ دستاوردی نداشته و اظهاراتش بی‌اساس است.\nآمریکا: جمهوری اسلامی تنها طرفی است که در این جنگ مرتکب جنایت جنگی شده است.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:25:20",
-      "gregorian_utc": "2026-09-18T07:55:20+00:00",
+      "tehran_time": "11:54:09",
+      "gregorian_utc": "2026-09-18T08:24:09+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418205+00:00"
+      "archived_at": "2026-09-18T08:30:45.188566+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357938,
-      "message_link": "https://t.me/IranintlTV/357938",
-      "text": "یک ویدیوی منتشرشده در رسانه‌های جمهوری اسلامی نشان می‌دهد جمعه ۲۷ شهریور در راهپیمایی «رزمایش جان‌فدایان» حکومت، تابوت‌هایی نمادین با عکس‌های دونالد ترامپ، رییس‌جمهوری آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به نمایش گذاشته شد.\n@iranintltv",
+      "message_id": 357939,
+      "message_link": "https://t.me/IranintlTV/357939",
+      "text": "مهدی چمران، رییس شورای شهر تهران، در حاشیه همایش «جانفدایان ایران» گفت: «مردم با هر سن و سال و سلیقه و هر هیکلی آمده‌اند تا نشان بدهند پشتیبان کشور و رهبرمان هستیم.» \n\nاو ادامه داد: «دشمن باید روی خودش را کم کند و قطعا در سراشیبی سقوط قرار دارد و اگر همین راه را ادامه دهد، چیزی جز پس‌گردنی‌های سخت‌تر برای‌شان نخواهد داشت.»\n [iranintl.com/202609183115](https://t.co/pMSWd3H7C3)",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:34:38",
-      "gregorian_utc": "2026-09-18T08:04:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 339927,
-      "media_size_human": "331.96 KB",
+      "tehran_time": "11:57:26",
+      "gregorian_utc": "2026-09-18T08:27:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 120133,
+      "media_size_human": "117.32 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357938_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357938_video.mp4",
+      "media_local_path": "media/IranintlTV_357939_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357939_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.769531+00:00"
+      "archived_at": "2026-09-18T08:30:45.455975+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76465_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76465_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192322+00:00"
+      "archived_at": "2026-09-18T08:30:45.773415+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_121149_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121149_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.692793+00:00"
+      "archived_at": "2026-09-18T08:30:46.069358+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13683,
-      "message_link": "https://t.me/zedTV/13683",
-      "text": "فلاحت‌پیشه: روابط با چین و روسیه تنها یک «سراب راهبردی» است.\nپکن در میانجی‌گری احتمالی، با واشینگتن و اعراب هماهنگ خواهد بود.\nرژیم ایران برای قدرت‌های جهانی صرفاً نقش یک «دیوار آتش» را دارد.",
+      "message_id": 13685,
+      "message_link": "https://t.me/zedTV/13685",
+      "text": "گزارش نیروی دریایی بریتانیا از هدف قرار دادن یک کشتی در تنگه هرمز.\nوقوع آتش‌سوزی در این شناور در پی این عملیات.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:10:30",
-      "gregorian_utc": "2026-09-18T07:40:30+00:00",
+      "tehran_time": "11:53:52",
+      "gregorian_utc": "2026-09-18T08:23:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418255+00:00"
+      "archived_at": "2026-09-18T08:30:45.188642+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357937,
-      "message_link": "https://t.me/IranintlTV/357937",
-      "text": "🔻تسنیم گزارش داده که علیرضا بیرانوند، دروازه‌بان تراکتور و تیم ملی فوتبال، پس از پایان دوران خدمت سربازی، قصد دارد، فصل آینده در استقلال بازی کند‌.\n\n🔹براساس این گزارش، بیرانوند که تا پایان فصل با تراکتور قرارداد دارد، قرار است اول مهر یا اول آبان برای گذراندن خدمت سربازی راهی شیراز شود. تاریخ دقیق اعزام او هنوز مشخص نشده است.\n\n🔹این دروازه‌بان قصد دارد پیش از پیوستن به فجر سپاسی، قراردادش را با تراکتور فسخ کند. با توجه به بسته شدن پنجره نقل‌وانتقالات لیگ برتر، بیرانوند از ابتدای نیم‌فصل دوم می‌تواند برای فجر سپاسی به میدان برود.\n\n🔹آنطور که تسنیم نوشته مدت خدمت سربازی او به دلیل متاهل بودن و داشتن فرزند کاهش خواهد یافت و پیش‌بینی می‌شود تا پایان فصل جاری به اتمام برسد.\n\n@iranintltvsport",
+      "message_id": 357938,
+      "message_link": "https://t.me/IranintlTV/357938",
+      "text": "یک ویدیوی منتشرشده در رسانه‌های جمهوری اسلامی نشان می‌دهد جمعه ۲۷ شهریور در راهپیمایی «رزمایش جان‌فدایان» حکومت، تابوت‌هایی نمادین با عکس‌های دونالد ترامپ، رییس‌جمهوری آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به نمایش گذاشته شد.\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:16:29",
-      "gregorian_utc": "2026-09-18T07:46:29+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 156521,
-      "media_size_human": "152.85 KB",
+      "tehran_time": "11:34:38",
+      "gregorian_utc": "2026-09-18T08:04:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 339927,
+      "media_size_human": "331.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357937_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357937_photo.jpg",
+      "media_local_path": "media/IranintlTV_357938_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357938_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.780475+00:00"
+      "archived_at": "2026-09-18T08:30:45.456074+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76464_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76464_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192371+00:00"
+      "archived_at": "2026-09-18T08:30:45.773468+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_121148_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121148_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.692900+00:00"
+      "archived_at": "2026-09-18T08:30:46.069467+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13682,
-      "message_link": "https://t.me/zedTV/13682",
-      "text": "بحران معیشتی گندم‌کاران؛ تنها نیمی از مطالبات کشاورزان به صورت اقساطی پرداخت شده است.\nانباشت بدهی سنگین بابت نهاده‌ها و خدمات کشاورزی در آستانه آغاز فصل کشت زمستانه.\nاستیصال و خشم تولیدکنندگان از سوءمدیریت اقتصادی و بی‌کفایتی رژیم در تامین بودجه.",
+      "message_id": 13684,
+      "message_link": "https://t.me/zedTV/13684",
+      "text": "تغییر نشان آبی حساب ایکس شاهزاده رضا پهلوی به خاکستری.\nاختصاص نشان ویژه مقامات دولتی و رسمی به حساب کاربری شاهزاده.\nتحولی در وضعیت شناسایی بین‌المللی رهبر مخالفان رژیم ایران.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:10:24",
-      "gregorian_utc": "2026-09-18T07:40:24+00:00",
+      "tehran_time": "11:25:20",
+      "gregorian_utc": "2026-09-18T07:55:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418298+00:00"
+      "archived_at": "2026-09-18T08:30:45.188682+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357936,
-      "message_link": "https://t.me/IranintlTV/357936",
-      "text": "علیرضا سلیمی، عضو هیات رییسه مجلس، اعلام کرد «موفقیت‌های جبهه مقاومت در جبهه یمن»، آمریکا و متحدانش را شگفت‌زده کرده و آن‌ها فکر نمی‌کردند که جبهه مقاومت «در این عرصه به این شکل پیروز شود.»\n\nاین نماینده مجلس افزود: «کشورهایی که از آمریکا تبعیت می‌کنند باید بدانند که هزینه سنگین این رفتار خود را پرداخت خواهند کرد.»\n\nعلیرضا سلیمی همچنین گفت: «آمریکا هم در مورد ایران، هم در مورد یمن و هم در مورد حزب‌الله لبنان دچار اشتباه محاسباتی شده و پیروزی‌های جبهه مقاومت این کشور را گیج و سردرگم کرده است.»\nhttps://iranintl.com/202609183145",
+      "message_id": 357937,
+      "message_link": "https://t.me/IranintlTV/357937",
+      "text": "🔻تسنیم گزارش داده که علیرضا بیرانوند، دروازه‌بان تراکتور و تیم ملی فوتبال، پس از پایان دوران خدمت سربازی، قصد دارد، فصل آینده در استقلال بازی کند‌.\n\n🔹براساس این گزارش، بیرانوند که تا پایان فصل با تراکتور قرارداد دارد، قرار است اول مهر یا اول آبان برای گذراندن خدمت سربازی راهی شیراز شود. تاریخ دقیق اعزام او هنوز مشخص نشده است.\n\n🔹این دروازه‌بان قصد دارد پیش از پیوستن به فجر سپاسی، قراردادش را با تراکتور فسخ کند. با توجه به بسته شدن پنجره نقل‌وانتقالات لیگ برتر، بیرانوند از ابتدای نیم‌فصل دوم می‌تواند برای فجر سپاسی به میدان برود.\n\n🔹آنطور که تسنیم نوشته مدت خدمت سربازی او به دلیل متاهل بودن و داشتن فرزند کاهش خواهد یافت و پیش‌بینی می‌شود تا پایان فصل جاری به اتمام برسد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:10:57",
-      "gregorian_utc": "2026-09-18T07:40:57+00:00",
+      "tehran_time": "11:16:29",
+      "gregorian_utc": "2026-09-18T07:46:29+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152165,
-      "media_size_human": "148.60 KB",
+      "media_size_bytes": 156521,
+      "media_size_human": "152.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357936_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357936_photo.jpg",
+      "media_local_path": "media/IranintlTV_357937_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357937_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.780675+00:00"
+      "archived_at": "2026-09-18T08:30:45.467129+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76463_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76463_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192456+00:00"
+      "archived_at": "2026-09-18T08:30:45.773557+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121147_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121147_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.692976+00:00"
+      "archived_at": "2026-09-18T08:30:46.069541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13681,
-      "message_link": "https://t.me/zedTV/13681",
-      "text": "موافقت واشینگتن با فروش جنگنده‌های اف-۳۵ به عربستان سعودی؛\nارزش قرارداد تسلیحاتی ریاض ۲۴.۳ میلیارد دلار اعلام شد.\nتغییر توازن قوای هوایی در منطقه با ورود جنگنده‌های «لایتنینگ ۲».",
+      "message_id": 13683,
+      "message_link": "https://t.me/zedTV/13683",
+      "text": "فلاحت‌پیشه: روابط با چین و روسیه تنها یک «سراب راهبردی» است.\nپکن در میانجی‌گری احتمالی، با واشینگتن و اعراب هماهنگ خواهد بود.\nرژیم ایران برای قدرت‌های جهانی صرفاً نقش یک «دیوار آتش» را دارد.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:10:21",
-      "gregorian_utc": "2026-09-18T07:40:21+00:00",
+      "tehran_time": "11:10:30",
+      "gregorian_utc": "2026-09-18T07:40:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418339+00:00"
+      "archived_at": "2026-09-18T08:30:45.188723+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357935,
-      "message_link": "https://t.me/IranintlTV/357935",
-      "text": "ویدیوی منتشرشده در رسانه‌ها نشان می‌دهد در باغستان یکی از سطل‌های زباله شهرداری به دلیل مشکل نفی روی کودک زباله‌گردی که در حال جست‌وجوی ضایعات در آن بوده، افتاده است.",
+      "message_id": 357936,
+      "message_link": "https://t.me/IranintlTV/357936",
+      "text": "علیرضا سلیمی، عضو هیات رییسه مجلس، اعلام کرد «موفقیت‌های جبهه مقاومت در جبهه یمن»، آمریکا و متحدانش را شگفت‌زده کرده و آن‌ها فکر نمی‌کردند که جبهه مقاومت «در این عرصه به این شکل پیروز شود.»\n\nاین نماینده مجلس افزود: «کشورهایی که از آمریکا تبعیت می‌کنند باید بدانند که هزینه سنگین این رفتار خود را پرداخت خواهند کرد.»\n\nعلیرضا سلیمی همچنین گفت: «آمریکا هم در مورد ایران، هم در مورد یمن و هم در مورد حزب‌الله لبنان دچار اشتباه محاسباتی شده و پیروزی‌های جبهه مقاومت این کشور را گیج و سردرگم کرده است.»\nhttps://iranintl.com/202609183145",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "11:02:51",
-      "gregorian_utc": "2026-09-18T07:32:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6490563,
-      "media_size_human": "6.19 MB",
+      "tehran_time": "11:10:57",
+      "gregorian_utc": "2026-09-18T07:40:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 152165,
+      "media_size_human": "148.60 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357935_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357935_video.mp4",
+      "media_local_path": "media/IranintlTV_357936_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357936_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.780743+00:00"
+      "archived_at": "2026-09-18T08:30:45.467273+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.192492+00:00"
+      "archived_at": "2026-09-18T08:30:45.773593+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693013+00:00"
+      "archived_at": "2026-09-18T08:30:46.069575+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13680,
-      "message_link": "https://t.me/zedTV/13680",
-      "text": "افشای شلیک مستقیم مأموران به بازداشت‌شدگان در حاشیه بزرگراه‌ها و پارک‌های خلوت؛\nضرب و شتم و شلیک به پای شهروندان پس از بازداشت و تلاش برای اخذ اعترافات اجباری؛\nگزارش‌ها از ابعاد گسترده خشونت نظام‌مند نهادهای امنیتی علیه مردم حکایت دارد.",
+      "message_id": 13682,
+      "message_link": "https://t.me/zedTV/13682",
+      "text": "بحران معیشتی گندم‌کاران؛ تنها نیمی از مطالبات کشاورزان به صورت اقساطی پرداخت شده است.\nانباشت بدهی سنگین بابت نهاده‌ها و خدمات کشاورزی در آستانه آغاز فصل کشت زمستانه.\nاستیصال و خشم تولیدکنندگان از سوءمدیریت اقتصادی و بی‌کفایتی رژیم در تامین بودجه.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:58:01",
-      "gregorian_utc": "2026-09-18T07:28:01+00:00",
+      "tehran_time": "11:10:24",
+      "gregorian_utc": "2026-09-18T07:40:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418370+00:00"
+      "archived_at": "2026-09-18T08:30:45.188756+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357934,
-      "message_link": "https://t.me/IranintlTV/357934",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به نمایش تابوت‌هایی با تصاویر دونالد ترامپ و بنیامین نتانیاهو از سوی حامیان جمهوری اسلامی در خیابان‌ها گفت «ادای پیروزی درآوردن جای پیروزی را نمی‌گیرد».\n\nاو افزود جمهوری اسلامی با این نمایش‌ها در پی ایجاد «توهم و سراب پیروزی» برای حامیان خود است.\n@iranintltv",
+      "message_id": 357935,
+      "message_link": "https://t.me/IranintlTV/357935",
+      "text": "ویدیوی منتشرشده در رسانه‌ها نشان می‌دهد در باغستان یکی از سطل‌های زباله شهرداری به دلیل مشکل نفی روی کودک زباله‌گردی که در حال جست‌وجوی ضایعات در آن بوده، افتاده است.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:54:46",
-      "gregorian_utc": "2026-09-18T07:24:46+00:00",
+      "tehran_time": "11:02:51",
+      "gregorian_utc": "2026-09-18T07:32:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 2954691,
-      "media_size_human": "2.82 MB",
+      "media_size_bytes": 6490563,
+      "media_size_human": "6.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357934_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357934_video.mp4",
+      "media_local_path": "media/IranintlTV_357935_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357935_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.780824+00:00"
+      "archived_at": "2026-09-18T08:30:45.467329+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76461_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76461_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192638+00:00"
+      "archived_at": "2026-09-18T08:30:45.773748+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693042+00:00"
+      "archived_at": "2026-09-18T08:30:46.069639+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13679,
-      "message_link": "https://t.me/zedTV/13679",
-      "text": "وزیر دفاع ایتالیا: اعزام ناوهای جنگی به تنگه باب‌المندب.\nتضمین امنیت دریانوردی و عبور آزاد کشتی‌ها در آبراه‌های راهبردی.\nگسترش حضور نظامی بین‌المللی برای مقابله با ناامنی در منطقه.",
+      "message_id": 13681,
+      "message_link": "https://t.me/zedTV/13681",
+      "text": "موافقت واشینگتن با فروش جنگنده‌های اف-۳۵ به عربستان سعودی؛\nارزش قرارداد تسلیحاتی ریاض ۲۴.۳ میلیارد دلار اعلام شد.\nتغییر توازن قوای هوایی در منطقه با ورود جنگنده‌های «لایتنینگ ۲».",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:57:50",
-      "gregorian_utc": "2026-09-18T07:27:50+00:00",
+      "tehran_time": "11:10:21",
+      "gregorian_utc": "2026-09-18T07:40:21+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418407+00:00"
+      "archived_at": "2026-09-18T08:30:45.188792+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357933,
-      "message_link": "https://t.me/IranintlTV/357933",
-      "text": "🔻مسابقه دوی ۱۰ کیلومتر تهران صبح جمعه ۲۷ شهریور برگزار شد و هزاران زن و مرد در این مسابقه حضور پیدا کردند و با یکدیگر رقابت کردند. نکته قابل توجه حضور زنان بدون حجاب اجباری در این مسابقه بود.\n\n🔹پیشتر مسابقه نیمه ماراتن ماهان‌ران که قرار بود در کرمان برگزار شود، با اعتراض حوزه علمیه استان کرمان به دویدن زنان و مردان در کنار هم روبرو شد و این مسابقه با فشار نهادهای حکومتی لغو شد.\n\n🔹همچنین حضور زنان بدون حجاب اجباری در ماراتن کیش، باعث واکنش مقامات سیاسی و مذهبی جمهوری اسلامی از جمله مسعود پزشکیان شده بود.\n\n@iranintltvsport",
+      "message_id": 357934,
+      "message_link": "https://t.me/IranintlTV/357934",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به نمایش تابوت‌هایی با تصاویر دونالد ترامپ و بنیامین نتانیاهو از سوی حامیان جمهوری اسلامی در خیابان‌ها گفت «ادای پیروزی درآوردن جای پیروزی را نمی‌گیرد».\n\nاو افزود جمهوری اسلامی با این نمایش‌ها در پی ایجاد «توهم و سراب پیروزی» برای حامیان خود است.\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:35:22",
-      "gregorian_utc": "2026-09-18T07:05:22+00:00",
+      "tehran_time": "10:54:46",
+      "gregorian_utc": "2026-09-18T07:24:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 42474764,
-      "media_size_human": "40.51 MB",
+      "media_size_bytes": 2954691,
+      "media_size_human": "2.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357933_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357933_video.mp4",
+      "media_local_path": "media/IranintlTV_357934_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357934_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.780930+00:00"
+      "archived_at": "2026-09-18T08:30:45.467414+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.192738+00:00"
+      "archived_at": "2026-09-18T08:30:45.773842+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693070+00:00"
+      "archived_at": "2026-09-18T08:30:46.069676+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13678,
-      "message_link": "https://t.me/zedTV/13678",
-      "text": "بازداشت چهار شهروند دیگر در ارومیه؛ مجید ابتهاج، وحید شبانی، بهدار اسدی و صالح دربوبه چچیک بازداشت شدند.\nبا احتساب بازداشت فرهنگ دهقان، شمار بازداشتی‌های اخیر در ارومیه به پنج تن افزایش یافت.\nتداوم موج بازداشت‌های گسترده و فشارهای امنیتی در ارومیه.",
+      "message_id": 13680,
+      "message_link": "https://t.me/zedTV/13680",
+      "text": "افشای شلیک مستقیم مأموران به بازداشت‌شدگان در حاشیه بزرگراه‌ها و پارک‌های خلوت؛\nضرب و شتم و شلیک به پای شهروندان پس از بازداشت و تلاش برای اخذ اعترافات اجباری؛\nگزارش‌ها از ابعاد گسترده خشونت نظام‌مند نهادهای امنیتی علیه مردم حکایت دارد.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:57:40",
-      "gregorian_utc": "2026-09-18T07:27:40+00:00",
+      "tehran_time": "10:58:01",
+      "gregorian_utc": "2026-09-18T07:28:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418436+00:00"
+      "archived_at": "2026-09-18T08:30:45.188821+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357932,
-      "message_link": "https://t.me/IranintlTV/357932",
-      "text": "الاخبار، جمعه ۲۷ شهریور به نقل از منابع مطلع گزارش داد عربستان سعودی از طریق عمان پیشنهاد آتش‌بس دو هفته‌ای و گفت‌وگوی مستقیم با حوثی‌ها را ارائه کرده است.\n\nاین رسانه همچنین نوشت که این پیشنهاد «برای رسیدن دو طرف به توافقی جامع مطرح شده است.»\n\nبه گزارش الاخبار، حوثی‌های تحت حمایت جمهوری اسلامی، خواهان «پایان کامل محاصره هوایی، زمینی و دریایی یمن، خروج نظامی، امنیتی و سیاسی عربستان سعودی از یمن و تامین مالی صندوقی برای پرداخت غرامت هستند.»\n\nدر این گزارش آمده است مقام‌های ریاض به متحدان عربستان سعودی گفته‌اند اطلاعاتی درباره قصد حوثی‌ها برای حمله به مارب، تسلط بر استان‌های مارب و جوف و استقرار در مرز عربستان دارند.\nhttps://iranintl.com/202609186378",
+      "message_id": 357933,
+      "message_link": "https://t.me/IranintlTV/357933",
+      "text": "🔻مسابقه دوی ۱۰ کیلومتر تهران صبح جمعه ۲۷ شهریور برگزار شد و هزاران زن و مرد در این مسابقه حضور پیدا کردند و با یکدیگر رقابت کردند. نکته قابل توجه حضور زنان بدون حجاب اجباری در این مسابقه بود.\n\n🔹پیشتر مسابقه نیمه ماراتن ماهان‌ران که قرار بود در کرمان برگزار شود، با اعتراض حوزه علمیه استان کرمان به دویدن زنان و مردان در کنار هم روبرو شد و این مسابقه با فشار نهادهای حکومتی لغو شد.\n\n🔹همچنین حضور زنان بدون حجاب اجباری در ماراتن کیش، باعث واکنش مقامات سیاسی و مذهبی جمهوری اسلامی از جمله مسعود پزشکیان شده بود.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:33:33",
-      "gregorian_utc": "2026-09-18T07:03:33+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 251584,
-      "media_size_human": "245.69 KB",
+      "tehran_time": "10:35:22",
+      "gregorian_utc": "2026-09-18T07:05:22+00:00",
+      "media_type": "video",
+      "media_size_bytes": 42474764,
+      "media_size_human": "40.51 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357932_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357932_photo.jpg",
+      "media_local_path": "media/IranintlTV_357933_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357933_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781049+00:00"
+      "archived_at": "2026-09-18T08:30:45.467535+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76459_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76459_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192817+00:00"
+      "archived_at": "2026-09-18T08:30:45.773920+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693095+00:00"
+      "archived_at": "2026-09-18T08:30:46.069703+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13677,
-      "message_link": "https://t.me/zedTV/13677",
-      "text": "هشدار نسبت به استفاده ابزاری رژیم از دانش‌آموزان به عنوان سپر انسانی در مدارس.\nفراخوان خانواده‌ها برای بایکوت کلاس‌های حضوری جهت حفظ جان فرزندان.\nتداوم اصرار بر بازگشایی مراکز آموزشی در اوج بحران‌های نظامی و امنیتی.",
+      "message_id": 13679,
+      "message_link": "https://t.me/zedTV/13679",
+      "text": "وزیر دفاع ایتالیا: اعزام ناوهای جنگی به تنگه باب‌المندب.\nتضمین امنیت دریانوردی و عبور آزاد کشتی‌ها در آبراه‌های راهبردی.\nگسترش حضور نظامی بین‌المللی برای مقابله با ناامنی در منطقه.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:57:30",
-      "gregorian_utc": "2026-09-18T07:27:30+00:00",
+      "tehran_time": "10:57:50",
+      "gregorian_utc": "2026-09-18T07:27:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418486+00:00"
+      "archived_at": "2026-09-18T08:30:45.188861+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357931,
-      "message_link": "https://t.me/IranintlTV/357931",
-      "text": "حال‌وش گزارش داد بامداد جمعه در محدوده خیابان دانشگاه و دانشجو زاهدان حدود دو ساعت تیراندازی رگباری رخ داد و سرنشینان یک پژو ۴۰۵ هدف قرار گرفتند؛ به گفته منابع این رسانه، یک فرد مسلح، سه نیروی نظامی و دو زن رهگذر مجروح شدند.\n\nگفت‌‌وگو با سامان رحمتیان، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357932,
+      "message_link": "https://t.me/IranintlTV/357932",
+      "text": "الاخبار، جمعه ۲۷ شهریور به نقل از منابع مطلع گزارش داد عربستان سعودی از طریق عمان پیشنهاد آتش‌بس دو هفته‌ای و گفت‌وگوی مستقیم با حوثی‌ها را ارائه کرده است.\n\nاین رسانه همچنین نوشت که این پیشنهاد «برای رسیدن دو طرف به توافقی جامع مطرح شده است.»\n\nبه گزارش الاخبار، حوثی‌های تحت حمایت جمهوری اسلامی، خواهان «پایان کامل محاصره هوایی، زمینی و دریایی یمن، خروج نظامی، امنیتی و سیاسی عربستان سعودی از یمن و تامین مالی صندوقی برای پرداخت غرامت هستند.»\n\nدر این گزارش آمده است مقام‌های ریاض به متحدان عربستان سعودی گفته‌اند اطلاعاتی درباره قصد حوثی‌ها برای حمله به مارب، تسلط بر استان‌های مارب و جوف و استقرار در مرز عربستان دارند.\nhttps://iranintl.com/202609186378",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:31:41",
-      "gregorian_utc": "2026-09-18T07:01:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1655721,
-      "media_size_human": "1.58 MB",
+      "tehran_time": "10:33:33",
+      "gregorian_utc": "2026-09-18T07:03:33+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 251584,
+      "media_size_human": "245.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357931_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357931_video.mp4",
+      "media_local_path": "media/IranintlTV_357932_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357932_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781130+00:00"
+      "archived_at": "2026-09-18T08:30:45.467725+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76458_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76458_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.192882+00:00"
+      "archived_at": "2026-09-18T08:30:45.773983+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693151+00:00"
+      "archived_at": "2026-09-18T08:30:46.069758+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13676,
-      "message_link": "https://t.me/zedTV/13676",
-      "text": "شکاف نجومی دستمزدها؛ درآمد ۱۵ میلیاردی قلعه‌نویی در مقابل حقوق ۱۶ میلیونی کارگران.\n۷۵ سال کار مداوم یک کارگر برابر با تنها یک ماه درآمد سرمربی تیم ملی.\nتعمیق فقر و تبعیض سیستماتیک در سایه مدیریت فاسد اقتصادی.",
+      "message_id": 13678,
+      "message_link": "https://t.me/zedTV/13678",
+      "text": "بازداشت چهار شهروند دیگر در ارومیه؛ مجید ابتهاج، وحید شبانی، بهدار اسدی و صالح دربوبه چچیک بازداشت شدند.\nبا احتساب بازداشت فرهنگ دهقان، شمار بازداشتی‌های اخیر در ارومیه به پنج تن افزایش یافت.\nتداوم موج بازداشت‌های گسترده و فشارهای امنیتی در ارومیه.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:57:11",
-      "gregorian_utc": "2026-09-18T07:27:11+00:00",
+      "tehran_time": "10:57:40",
+      "gregorian_utc": "2026-09-18T07:27:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418515+00:00"
+      "archived_at": "2026-09-18T08:30:45.188890+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357930,
-      "message_link": "https://t.me/IranintlTV/357930",
-      "text": "مجموعه تازه سارا رگنسبورگر، طراح ایرانی‌، با عنوان «دیاسپورا، هنر تعلق داشتن» در هفته مد لندن به نمایش درآمده است؛ مجموعه‌ای که با تلفیق طراحی مدرن غربی و نشانه‌هایی از فرهنگ ایرانی، تجربه زندگی میان دو فرهنگ و جست‌وجوی حس تعلق را روایت می‌کند.\n\nگزارش محبوبه هزاره، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357931,
+      "message_link": "https://t.me/IranintlTV/357931",
+      "text": "حال‌وش گزارش داد بامداد جمعه در محدوده خیابان دانشگاه و دانشجو زاهدان حدود دو ساعت تیراندازی رگباری رخ داد و سرنشینان یک پژو ۴۰۵ هدف قرار گرفتند؛ به گفته منابع این رسانه، یک فرد مسلح، سه نیروی نظامی و دو زن رهگذر مجروح شدند.\n\nگفت‌‌وگو با سامان رحمتیان، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:16:07",
-      "gregorian_utc": "2026-09-18T06:46:07+00:00",
+      "tehran_time": "10:31:41",
+      "gregorian_utc": "2026-09-18T07:01:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 1753983,
-      "media_size_human": "1.67 MB",
+      "media_size_bytes": 1655721,
+      "media_size_human": "1.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357930_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357930_video.mp4",
+      "media_local_path": "media/IranintlTV_357931_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357931_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781205+00:00"
+      "archived_at": "2026-09-18T08:30:45.467825+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76457_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76457_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.193146+00:00"
+      "archived_at": "2026-09-18T08:30:45.774250+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": "media/Mellig_121141_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121141_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.693198+00:00"
+      "archived_at": "2026-09-18T08:30:46.069805+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13675,
-      "message_link": "https://t.me/zedTV/13675",
-      "text": "نابودی اقتصاد و معیشت شهروندان در پی بحران‌های جاری؛ بازار در آستانه فروپاشی کامل.\nفراخوان برای سازماندهی قیام و اعتصابات سراسری با مشارکت فعالان سیاسی و مدنی.\nتاکید بر لزوم آغاز اعتراضات گسترده جهت مقابله با شرایط وخیم اقتصادی کشور.",
+      "message_id": 13677,
+      "message_link": "https://t.me/zedTV/13677",
+      "text": "هشدار نسبت به استفاده ابزاری رژیم از دانش‌آموزان به عنوان سپر انسانی در مدارس.\nفراخوان خانواده‌ها برای بایکوت کلاس‌های حضوری جهت حفظ جان فرزندان.\nتداوم اصرار بر بازگشایی مراکز آموزشی در اوج بحران‌های نظامی و امنیتی.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:56:55",
-      "gregorian_utc": "2026-09-18T07:26:55+00:00",
+      "tehran_time": "10:57:30",
+      "gregorian_utc": "2026-09-18T07:27:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418543+00:00"
+      "archived_at": "2026-09-18T08:30:45.188918+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357929,
-      "message_link": "https://t.me/IranintlTV/357929",
-      "text": "شورای پذیرش دانشکده‌های حقوق آمریکا، موسوم به ال‌اس‌ای‌سی، دسترسی شماری از داوطلبان دارای تابعیت یا پیشینه ایرانی به آزمون ورودی دانشکده‌های حقوق را مسدود و ثبت‌نام آنها را لغو کرده است.\n\nاین اقدام نگرانی گسترده‌ای در میان جامعه ایرانیان کانادا درباره تاثیر تحریم‌های آمریکا بر فرصت‌های تحصیلی آنها ایجاد کرده است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357930,
+      "message_link": "https://t.me/IranintlTV/357930",
+      "text": "مجموعه تازه سارا رگنسبورگر، طراح ایرانی‌، با عنوان «دیاسپورا، هنر تعلق داشتن» در هفته مد لندن به نمایش درآمده است؛ مجموعه‌ای که با تلفیق طراحی مدرن غربی و نشانه‌هایی از فرهنگ ایرانی، تجربه زندگی میان دو فرهنگ و جست‌وجوی حس تعلق را روایت می‌کند.\n\nگزارش محبوبه هزاره، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:08:42",
-      "gregorian_utc": "2026-09-18T06:38:42+00:00",
+      "tehran_time": "10:16:07",
+      "gregorian_utc": "2026-09-18T06:46:07+00:00",
       "media_type": "video",
-      "media_size_bytes": 1274799,
-      "media_size_human": "1.22 MB",
+      "media_size_bytes": 1753983,
+      "media_size_human": "1.67 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357929_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357929_video.mp4",
+      "media_local_path": "media/IranintlTV_357930_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357930_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781284+00:00"
+      "archived_at": "2026-09-18T08:30:45.467905+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76456_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76456_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.193197+00:00"
+      "archived_at": "2026-09-18T08:30:45.774293+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,43 +739,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693236+00:00"
+      "archived_at": "2026-09-18T08:30:46.069832+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13674,
-      "message_link": "https://t.me/zedTV/13674",
-      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
+      "message_id": 13676,
+      "message_link": "https://t.me/zedTV/13676",
+      "text": "شکاف نجومی دستمزدها؛ درآمد ۱۵ میلیاردی قلعه‌نویی در مقابل حقوق ۱۶ میلیونی کارگران.\n۷۵ سال کار مداوم یک کارگر برابر با تنها یک ماه درآمد سرمربی تیم ملی.\nتعمیق فقر و تبعیض سیستماتیک در سایه مدیریت فاسد اقتصادی.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:29:37",
-      "gregorian_utc": "2026-09-18T06:59:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18999023,
-      "media_size_human": "18.12 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_13674_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13674_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.418680+00:00"
+      "tehran_time": "10:57:11",
+      "gregorian_utc": "2026-09-18T07:27:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-18T08:30:45.188943+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357928,
-      "message_link": "https://t.me/IranintlTV/357928",
-      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی در موسسه واشینگتن، با اشاره به تجهیز پایگاه نظامی چین در جیبوتی به تجهیزات ارتباطی جدید گفت این تجهیزات می‌تواند امکان مکان‌یابی کشتی‌ها و رصد تحرکات دریایی، به‌ویژه نیروهای آمریکایی، را برای چین فراهم کند.\n\nاو افزود بررسی سیگنال‌ها و تغییرات ترافیک رادیویی می‌تواند به چین در شناسایی تغییر آرایش نیروها و شناخت نحوه عملیات ناوگروه‌های آمریکا کمک کند.\n@iranintltv",
+      "message_id": 357929,
+      "message_link": "https://t.me/IranintlTV/357929",
+      "text": "شورای پذیرش دانشکده‌های حقوق آمریکا، موسوم به ال‌اس‌ای‌سی، دسترسی شماری از داوطلبان دارای تابعیت یا پیشینه ایرانی به آزمون ورودی دانشکده‌های حقوق را مسدود و ثبت‌نام آنها را لغو کرده است.\n\nاین اقدام نگرانی گسترده‌ای در میان جامعه ایرانیان کانادا درباره تاثیر تحریم‌های آمریکا بر فرصت‌های تحصیلی آنها ایجاد کرده است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:05:29",
-      "gregorian_utc": "2026-09-18T06:35:29+00:00",
+      "tehran_time": "10:08:42",
+      "gregorian_utc": "2026-09-18T06:38:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 3822025,
-      "media_size_human": "3.64 MB",
+      "media_size_bytes": 1274799,
+      "media_size_human": "1.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357928_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357928_video.mp4",
+      "media_local_path": "media/IranintlTV_357929_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357929_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781368+00:00"
+      "archived_at": "2026-09-18T08:30:45.467997+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76455_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76455_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.193238+00:00"
+      "archived_at": "2026-09-18T08:30:45.774331+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_121139_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121139_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.693312+00:00"
+      "archived_at": "2026-09-18T08:30:46.069908+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13673,
-      "message_link": "https://t.me/zedTV/13673",
-      "text": "شبکه ۱۱ اسرائیل: مذاکرات محرمانه کویت و اسرائیل در پی حملات جمهوری اسلامی.\nرایزنی‌های دیپلماتیک برای مقابله با پیامدهای اقدامات نظامی رژیم تهران.",
+      "message_id": 13675,
+      "message_link": "https://t.me/zedTV/13675",
+      "text": "نابودی اقتصاد و معیشت شهروندان در پی بحران‌های جاری؛ بازار در آستانه فروپاشی کامل.\nفراخوان برای سازماندهی قیام و اعتصابات سراسری با مشارکت فعالان سیاسی و مدنی.\nتاکید بر لزوم آغاز اعتراضات گسترده جهت مقابله با شرایط وخیم اقتصادی کشور.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:54:50",
-      "gregorian_utc": "2026-09-18T06:24:50+00:00",
+      "tehran_time": "10:56:55",
+      "gregorian_utc": "2026-09-18T07:26:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418716+00:00"
+      "archived_at": "2026-09-18T08:30:45.188968+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357927,
-      "message_link": "https://t.me/IranintlTV/357927",
-      "text": "همسر جاویدنام پارسا لوینیان همراه با پویش دیگر خانواده‌های جاویدنام به یاد او شمعی روشن کرد. پارسا لوینیان، مکانیک ۳۱ ساله خودرو و اهل اصفهان بود که در انقلاب ملی دی‌ماه با گلوله ماموران کشته شد.",
+      "message_id": 357928,
+      "message_link": "https://t.me/IranintlTV/357928",
+      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی در موسسه واشینگتن، با اشاره به تجهیز پایگاه نظامی چین در جیبوتی به تجهیزات ارتباطی جدید گفت این تجهیزات می‌تواند امکان مکان‌یابی کشتی‌ها و رصد تحرکات دریایی، به‌ویژه نیروهای آمریکایی، را برای چین فراهم کند.\n\nاو افزود بررسی سیگنال‌ها و تغییرات ترافیک رادیویی می‌تواند به چین در شناسایی تغییر آرایش نیروها و شناخت نحوه عملیات ناوگروه‌های آمریکا کمک کند.\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "10:05:09",
-      "gregorian_utc": "2026-09-18T06:35:09+00:00",
+      "tehran_time": "10:05:29",
+      "gregorian_utc": "2026-09-18T06:35:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 6490563,
-      "media_size_human": "6.19 MB",
+      "media_size_bytes": 3822025,
+      "media_size_human": "3.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357927_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357927_video.mp4",
+      "media_local_path": "media/IranintlTV_357928_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357928_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781408+00:00"
+      "archived_at": "2026-09-18T08:30:45.468084+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76454_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76454_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.193276+00:00"
+      "archived_at": "2026-09-18T08:30:45.774367+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,43 +883,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 122.01 MB)",
-      "archived_at": "2026-09-18T08:20:35.693382+00:00"
+      "archived_at": "2026-09-18T08:30:46.069978+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13672,
-      "message_link": "https://t.me/zedTV/13672",
-      "text": "حمله سپاه پاسداران به یک نفتکش با پرچم توگو در تنگه هرمز؛\nاین شناور تحت حفاظت ارتش آمریکا در حال عبور از این آبراه بود؛\nتداوم اخلال رژیم در امنیت دریانوردی و تجارت بین‌المللی.",
+      "message_id": 13674,
+      "message_link": "https://t.me/zedTV/13674",
+      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:40:16",
-      "gregorian_utc": "2026-09-18T06:10:16+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418743+00:00"
+      "tehran_time": "10:29:37",
+      "gregorian_utc": "2026-09-18T06:59:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18999023,
+      "media_size_human": "18.12 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_13674_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13674_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-18T08:30:45.189083+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357925,
-      "message_link": "https://t.me/IranintlTV/357925",
-      "text": "🔻به گزارش رسانه‌های داخل ایران، فدراسیون بین‌المللی فیتنس و بدنسازی (IFBB) با ارسال نامه‌ای رسمی، نتیجه انتخابات اخیر ریاست فدراسیون بدنسازی ایران را به دلیل تخلف به رسمیت نشناخت و فدراسیون و رییس آن را تعلیق کرد.\n\n🔹علت اصلی این تصمیم، وجود «بی‌نظمی‌های قابل‌توجه» در مجمع انتخاباتی ۲۰ مرداد و فراهم نبودن فرصت برابر برای تمامی نامزدها عنوان شده است.\n\n🔹بر اساس این گزارش، IFBB اعلام کرده است که مجتبی ملکی را به‌عنوان رییس جدید به رسمیت نمی‌شناسد. در نامه فدراسیون جهانی آمده است که عبدالمهدی نصیرزاده، رییس پیشین فدراسیون و عضو کمیته اجرایی IFBB، امکان حضور در انتخابات را پیدا نکرده است. همچنین نصیرزاده و صادق هاشمی، برخلاف تاییدیه رسمی IFBB، از حق رای در مجمع عمومی محروم شده‌اند.\n\n🔹فدراسیون جهانی تاکید کرده است که این تعلیق تا زمان اصلاح شرایط ادامه خواهد داشت. با این حال، ورزشکاران، مربیان و داوران ایرانی همچنان می‌توانند در رویدادها و مسابقات بین‌المللی شرکت کنند؛ مشروط بر اینکه تمامی امور ثبت‌نام و مشارکت خود را صرفا از طریق دو عضو ایرانی کمیته اجرایی IFBB، یعنی نصیرزاده و هاشمی، پیگیری کنند.\n\n@iranintltvsport",
+      "message_id": 357927,
+      "message_link": "https://t.me/IranintlTV/357927",
+      "text": "همسر جاویدنام پارسا لوینیان همراه با پویش دیگر خانواده‌های جاویدنام به یاد او شمعی روشن کرد. پارسا لوینیان، مکانیک ۳۱ ساله خودرو و اهل اصفهان بود که در انقلاب ملی دی‌ماه با گلوله ماموران کشته شد.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:53:21",
-      "gregorian_utc": "2026-09-18T06:23:21+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 152884,
-      "media_size_human": "149.30 KB",
+      "tehran_time": "10:05:09",
+      "gregorian_utc": "2026-09-18T06:35:09+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6490563,
+      "media_size_human": "6.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357925_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357925_photo.jpg",
+      "media_local_path": "media/IranintlTV_357927_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357927_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781590+00:00"
+      "archived_at": "2026-09-18T08:30:45.468122+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76453_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76453_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.193419+00:00"
+      "archived_at": "2026-09-18T08:30:45.774508+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.693414+00:00"
+      "archived_at": "2026-09-18T08:30:46.070009+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13671,
-      "message_link": "https://t.me/zedTV/13671",
-      "text": "فروپاشی گسترده اقتصادی و تورم افسارگسیخته در سراسر کشور؛\nتثبیت نافرمانی مدنی و حجاب اختیاری در سایه شکست روایت‌های حکومتی؛\nتداوم شکاف‌های عمیق اجتماعی و آمادگی نسل جوان برای دگرگونی‌های ساختاری.",
+      "message_id": 13673,
+      "message_link": "https://t.me/zedTV/13673",
+      "text": "شبکه ۱۱ اسرائیل: مذاکرات محرمانه کویت و اسرائیل در پی حملات جمهوری اسلامی.\nرایزنی‌های دیپلماتیک برای مقابله با پیامدهای اقدامات نظامی رژیم تهران.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:25:08",
-      "gregorian_utc": "2026-09-18T05:55:08+00:00",
+      "tehran_time": "09:54:50",
+      "gregorian_utc": "2026-09-18T06:24:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418774+00:00"
+      "archived_at": "2026-09-18T08:30:45.189121+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357924,
-      "message_link": "https://t.me/IranintlTV/357924",
-      "text": "تغییر سیاست‌های مهاجرتی آمریکا مسیر پناهندگی ایرانیان را دشوارتر کرده است. گزارشی تازه نشان می‌دهد نرخ پذیرش پرونده‌های پناهندگی ایرانیان امسال به ۳۸ درصد کاهش یافته و در سال ۲۰۲۶ هیچ پرونده‌ای از نوکیشان مسیحی ایرانی پذیرفته نشده است.\n\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 357925,
+      "message_link": "https://t.me/IranintlTV/357925",
+      "text": "🔻به گزارش رسانه‌های داخل ایران، فدراسیون بین‌المللی فیتنس و بدنسازی (IFBB) با ارسال نامه‌ای رسمی، نتیجه انتخابات اخیر ریاست فدراسیون بدنسازی ایران را به دلیل تخلف به رسمیت نشناخت و فدراسیون و رییس آن را تعلیق کرد.\n\n🔹علت اصلی این تصمیم، وجود «بی‌نظمی‌های قابل‌توجه» در مجمع انتخاباتی ۲۰ مرداد و فراهم نبودن فرصت برابر برای تمامی نامزدها عنوان شده است.\n\n🔹بر اساس این گزارش، IFBB اعلام کرده است که مجتبی ملکی را به‌عنوان رییس جدید به رسمیت نمی‌شناسد. در نامه فدراسیون جهانی آمده است که عبدالمهدی نصیرزاده، رییس پیشین فدراسیون و عضو کمیته اجرایی IFBB، امکان حضور در انتخابات را پیدا نکرده است. همچنین نصیرزاده و صادق هاشمی، برخلاف تاییدیه رسمی IFBB، از حق رای در مجمع عمومی محروم شده‌اند.\n\n🔹فدراسیون جهانی تاکید کرده است که این تعلیق تا زمان اصلاح شرایط ادامه خواهد داشت. با این حال، ورزشکاران، مربیان و داوران ایرانی همچنان می‌توانند در رویدادها و مسابقات بین‌المللی شرکت کنند؛ مشروط بر اینکه تمامی امور ثبت‌نام و مشارکت خود را صرفا از طریق دو عضو ایرانی کمیته اجرایی IFBB، یعنی نصیرزاده و هاشمی، پیگیری کنند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:52:45",
-      "gregorian_utc": "2026-09-18T06:22:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3444639,
-      "media_size_human": "3.29 MB",
+      "tehran_time": "09:53:21",
+      "gregorian_utc": "2026-09-18T06:23:21+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 152884,
+      "media_size_human": "149.30 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357924_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357924_video.mp4",
+      "media_local_path": "media/IranintlTV_357925_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357925_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781669+00:00"
+      "archived_at": "2026-09-18T08:30:45.468293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.193535+00:00"
+      "archived_at": "2026-09-18T08:30:45.774643+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": "media/Mellig_121136_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121136_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:35.693473+00:00"
+      "archived_at": "2026-09-18T08:30:46.070070+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13670,
-      "message_link": "https://t.me/zedTV/13670",
-      "text": "صدور احکام اعدام برای شش فعال مدنی و معترض به فقر؛ محکومیت مجدد مسعود فرهیخته به حبس.\nوخامت حال هاشم خواستار و رضا امانی‌فر در زندان؛ تداوم محرومیت از درمان و فشارهای امنیتی.\nفراخوان اتحاد معلمان و کارگران برای تجمع اعتراضی در رشت؛ فریاد آزادی برای زندانیان سیاسی.",
+      "message_id": 13672,
+      "message_link": "https://t.me/zedTV/13672",
+      "text": "حمله سپاه پاسداران به یک نفتکش با پرچم توگو در تنگه هرمز؛\nاین شناور تحت حفاظت ارتش آمریکا در حال عبور از این آبراه بود؛\nتداوم اخلال رژیم در امنیت دریانوردی و تجارت بین‌المللی.",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:24:52",
-      "gregorian_utc": "2026-09-18T05:54:52+00:00",
+      "tehran_time": "09:40:16",
+      "gregorian_utc": "2026-09-18T06:10:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:34.418800+00:00"
+      "archived_at": "2026-09-18T08:30:45.189149+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 357923,
-      "message_link": "https://t.me/IranintlTV/357923",
-      "text": "بر اساس تصاویری که از همایش «جانفدایان ایران» در تهران منتشر شده، در این مراسم که جمعه ۲۷ شهریور در حال برگزاری است، تابوت‌هایی با تصاویر دونالد ترامپ، رییس‌جمهوری ایالات متحده و بنیامین نتانیاهو، نخست‌وزیر اسرائیل به نمایش گذاشته شده است.\n\nدر مصاحبه‌هایی که با حاضران در این مراسم انجام شده، شماری از آن‌ها بر پیگیری انتقام از ترامپ و نتانیاهو به‌دلیل کشتن علی خامنه‌ای تاکید کرده‌اند.\n\nدر مراسم‌های مشابهی که در ماه‌های اخیر در نقاط مختلف ایران برگزار شده نیز تصاویری از «اعدام نمادین» ترامپ و نتانیاهو و همچنین دست‌نوشته‌هایی با مضمون انتقام به نمایش درآمده بود.\nhttps://iranintl.com/202609181681",
+      "message_id": 357924,
+      "message_link": "https://t.me/IranintlTV/357924",
+      "text": "تغییر سیاست‌های مهاجرتی آمریکا مسیر پناهندگی ایرانیان را دشوارتر کرده است. گزارشی تازه نشان می‌دهد نرخ پذیرش پرونده‌های پناهندگی ایرانیان امسال به ۳۸ درصد کاهش یافته و در سال ۲۰۲۶ هیچ پرونده‌ای از نوکیشان مسیحی ایرانی پذیرفته نشده است.\n\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/27",
-      "tehran_time": "09:30:57",
-      "gregorian_utc": "2026-09-18T06:00:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 239563,
-      "media_size_human": "233.95 KB",
+      "tehran_time": "09:52:45",
+      "gregorian_utc": "2026-09-18T06:22:45+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3444639,
+      "media_size_human": "3.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_357923_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357923_photo.jpg",
+      "media_local_path": "media/IranintlTV_357924_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_357924_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-18T08:20:34.781770+00:00"
+      "archived_at": "2026-09-18T08:30:45.468369+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-18T08:20:35.194127+00:00"
+      "archived_at": "2026-09-18T08:30:45.775222+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-18T08:20:35.693533+00:00"
+      "archived_at": "2026-09-18T08:30:46.070132+00:00"
     }
   ]
 }
