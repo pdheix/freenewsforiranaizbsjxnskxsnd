@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T07:04:59.147747+00:00",
-  "shamsi_generated": "1405/06/28 07:04:59 تهران",
+  "generated_at": "2026-09-19T07:13:32.796510+00:00",
+  "shamsi_generated": "1405/06/28 07:13:32 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,38 +24,38 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13734,
-      "message_link": "https://t.me/zedTV/13734",
-      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
+      "message_id": 13735,
+      "message_link": "https://t.me/zedTV/13735",
+      "text": "رژه نمایشی حامیان رژیم؛ تکرار الگوهای تاریخی در آستانه سقوط دیکتاتورها.\nتحلیلگران رژه اخیر را مشابه تجمعات پیش از فروپاشی چائوشسکو، صدام و اسد می‌دانند.\nپایان اشغال ایران توسط فرقه حاکم؛ شمارش معکوس برای سقوط نهایی آغاز شد.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "10:29:37",
-      "gregorian_utc": "2026-09-19T06:59:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18999023,
-      "media_size_human": "18.12 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_13734_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13734_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.229202+00:00"
+      "tehran_time": "10:39:06",
+      "gregorian_utc": "2026-09-19T07:09:06+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-19T07:10:34.456560+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358079,
-      "message_link": "https://t.me/IranintlTV/358079",
-      "text": "علی دادپی، اقتصاددان، با اشاره به لغو مجوز بانک ملت در استانبول گفت این بانک یکی از کانال‌های مستقیم بانکی میان ایران و ترکیه بود و بسته شدن آن، مبادلات را بیشتر به سمت تهاتر کالا و کانال‌های غیررسمی سوق می‌دهد.\n\nاو افزود با کاهش کانال‌های بانکی، ورود ارز به بازار داخلی نیز کمتر می‌شود و گفت جمهوری اسلامی «گام‌به‌گام با محاصره اقتصادی» مواجه است و کانال‌های منطقه‌ای آن رفته‌رفته بسته می‌شوند.\n@iranintltv",
+      "message_id": 358080,
+      "message_link": "https://t.me/IranintlTV/358080",
+      "text": "پیت هگست، وزیر جنگ آمریکا گزارش واشینگتن‌پست درباره بالاتر بودن شمار نظامیان آمریکایی کشته‌شده در جنگ با جمهوری اسلامی را تکذیب کرد. او در پیامی در شبکه ایکس، این گزارش را «جعلی» و «دروغی کامل» خواند و گفت عملکرد این روزنامه حتی از رسانه‌های حکومتی جمهوری اسلامی نیز بدتر است.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "10:28:59",
-      "gregorian_utc": "2026-09-19T06:58:59+00:00",
+      "tehran_time": "10:38:49",
+      "gregorian_utc": "2026-09-19T07:08:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 3486958,
-      "media_size_human": "3.33 MB",
+      "media_size_bytes": 1740909,
+      "media_size_human": "1.66 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358079_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358079_video.mp4",
+      "media_local_path": "media/IranintlTV_358080_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358080_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.545196+00:00"
+      "archived_at": "2026-09-19T07:10:34.751643+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76465_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76465_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.880893+00:00"
+      "archived_at": "2026-09-19T07:10:35.105388+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,43 +91,43 @@
       "media_local_path": "media/Mellig_121172_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121172_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:45.208608+00:00"
+      "archived_at": "2026-09-19T07:10:35.429490+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13733,
-      "message_link": "https://t.me/zedTV/13733",
-      "text": "نظرسنجی فاکس‌نیوز: ۷۱ درصد آمریکایی‌ها دولت ترامپ را فاقد استراتژی مشخص برای پایان جنگ با رژیم می‌دانند.\nاکثریت شرکت‌کنندگان آغاز اقدام نظامی علیه جمهوری اسلامی را یک اشتباه ارزیابی کردند.\nتمرکز افکار عمومی آمریکا از موضوع جنگ به سمت بحران‌های اقتصادی و هزینه‌های زندگی تغییر یافته است.",
+      "message_id": 13734,
+      "message_link": "https://t.me/zedTV/13734",
+      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "10:09:53",
-      "gregorian_utc": "2026-09-19T06:39:53+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229237+00:00"
+      "tehran_time": "10:29:37",
+      "gregorian_utc": "2026-09-19T06:59:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18999023,
+      "media_size_human": "18.12 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_13734_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13734_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-19T07:10:34.456688+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358078,
-      "message_link": "https://t.me/IranintlTV/358078",
-      "text": "در پی برگزاری مسابقه ماراتن در بوستان ولایت تهران و حضور برخی زنان بدون حجاب اجباری، مدیرکل ورزش و جوانان استان تهران گفت مجوز برگزاری این رویداد از سوی شورای تامین استان صادر شده بود و پیش از آغاز مسابقه، از شرکت‌کنندگان تعهد رعایت «شئونات اسلامی» گرفته شده بود.\n\nحبیب ستوده‌نژاد در گفت‌وگو با خبرگزاری تسنیم گفت با ورزشکارانی که «خاطی» شناخته شوند، برخورد قانونی و انضباطی خواهد شد.\n\nاو افزود عوامل اجرایی برگزارکننده و نیروهای حراست در طول مسیر حضور داشتند و هر زمان که لازم بود، به شرکت‌کنندگان تذکر می‌دادند. به گفته ستوده‌نژاد، حتی از حضور برخی زنان در مسابقه جلوگیری شده است.\n\nمدیرکل ورزش و جوانان استان تهران همچنین گفت حدود ۹۵ درصد شرکت‌کنندگان مسائل موردنظر را رعایت کردند و به دیگر ورزشکاران نیز در طول مسیر تذکر داده شد.\nhttps://iranintl.com/202609199738",
+      "message_id": 358079,
+      "message_link": "https://t.me/IranintlTV/358079",
+      "text": "علی دادپی، اقتصاددان، با اشاره به لغو مجوز بانک ملت در استانبول گفت این بانک یکی از کانال‌های مستقیم بانکی میان ایران و ترکیه بود و بسته شدن آن، مبادلات را بیشتر به سمت تهاتر کالا و کانال‌های غیررسمی سوق می‌دهد.\n\nاو افزود با کاهش کانال‌های بانکی، ورود ارز به بازار داخلی نیز کمتر می‌شود و گفت جمهوری اسلامی «گام‌به‌گام با محاصره اقتصادی» مواجه است و کانال‌های منطقه‌ای آن رفته‌رفته بسته می‌شوند.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "10:08:54",
-      "gregorian_utc": "2026-09-19T06:38:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 166399,
-      "media_size_human": "162.50 KB",
+      "tehran_time": "10:28:59",
+      "gregorian_utc": "2026-09-19T06:58:59+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3486958,
+      "media_size_human": "3.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358078_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358078_photo.jpg",
+      "media_local_path": "media/IranintlTV_358079_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358079_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.545312+00:00"
+      "archived_at": "2026-09-19T07:10:34.751819+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76464_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76464_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.880924+00:00"
+      "archived_at": "2026-09-19T07:10:35.105447+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208661+00:00"
+      "archived_at": "2026-09-19T07:10:35.429571+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13732,
-      "message_link": "https://t.me/zedTV/13732",
-      "text": "احتمال تداوم قطعی گسترده برق در فصل زمستان.\nبحران ناترازی انرژی و ناتوانی در تأمین نیازهای اولیه.\nافزایش فشار بر معیشت و زندگی روزمره شهروندان.",
+      "message_id": 13733,
+      "message_link": "https://t.me/zedTV/13733",
+      "text": "نظرسنجی فاکس‌نیوز: ۷۱ درصد آمریکایی‌ها دولت ترامپ را فاقد استراتژی مشخص برای پایان جنگ با رژیم می‌دانند.\nاکثریت شرکت‌کنندگان آغاز اقدام نظامی علیه جمهوری اسلامی را یک اشتباه ارزیابی کردند.\nتمرکز افکار عمومی آمریکا از موضوع جنگ به سمت بحران‌های اقتصادی و هزینه‌های زندگی تغییر یافته است.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:54:28",
-      "gregorian_utc": "2026-09-19T06:24:28+00:00",
+      "tehran_time": "10:09:53",
+      "gregorian_utc": "2026-09-19T06:39:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229257+00:00"
+      "archived_at": "2026-09-19T07:10:34.456731+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358077,
-      "message_link": "https://t.me/IranintlTV/358077",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر جاویدنام مسعود رنگرزانی در زادروز او بر سر مزار فرزندش گفت: «پسرم تو برای رفتن خیلی جوان بودی. قسم به خون یاران، ایستاده‌ایم تا پایان.»\n\nمسعود رنگرزانی ۱۹ دی ۱۴۰۴ در اسلامشهر به دست سرگوبگران در سن ۳۰ سالگی کشته شد.",
+      "message_id": 358078,
+      "message_link": "https://t.me/IranintlTV/358078",
+      "text": "در پی برگزاری مسابقه ماراتن در بوستان ولایت تهران و حضور برخی زنان بدون حجاب اجباری، مدیرکل ورزش و جوانان استان تهران گفت مجوز برگزاری این رویداد از سوی شورای تامین استان صادر شده بود و پیش از آغاز مسابقه، از شرکت‌کنندگان تعهد رعایت «شئونات اسلامی» گرفته شده بود.\n\nحبیب ستوده‌نژاد در گفت‌وگو با خبرگزاری تسنیم گفت با ورزشکارانی که «خاطی» شناخته شوند، برخورد قانونی و انضباطی خواهد شد.\n\nاو افزود عوامل اجرایی برگزارکننده و نیروهای حراست در طول مسیر حضور داشتند و هر زمان که لازم بود، به شرکت‌کنندگان تذکر می‌دادند. به گفته ستوده‌نژاد، حتی از حضور برخی زنان در مسابقه جلوگیری شده است.\n\nمدیرکل ورزش و جوانان استان تهران همچنین گفت حدود ۹۵ درصد شرکت‌کنندگان مسائل موردنظر را رعایت کردند و به دیگر ورزشکاران نیز در طول مسیر تذکر داده شد.\nhttps://iranintl.com/202609199738",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "10:01:20",
-      "gregorian_utc": "2026-09-19T06:31:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10075274,
-      "media_size_human": "9.61 MB",
+      "tehran_time": "10:08:54",
+      "gregorian_utc": "2026-09-19T06:38:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 166399,
+      "media_size_human": "162.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358077_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358077_video.mp4",
+      "media_local_path": "media/IranintlTV_358078_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358078_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.545341+00:00"
+      "archived_at": "2026-09-19T07:10:34.752037+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76463_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76463_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.880987+00:00"
+      "archived_at": "2026-09-19T07:10:35.105546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208704+00:00"
+      "archived_at": "2026-09-19T07:10:35.429641+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13731,
-      "message_link": "https://t.me/zedTV/13731",
-      "text": "تلاش تریبون‌های حکومتی برای پیوند دادن گرانی به پوشش زنان.\nواکنش تند شهروندان به استفاده از خرافات مذهبی جهت توجیه فروپاشی اقتصادی.\nافزایش انزجار عمومی از فرار مسئولین از بحران معیشتی با ابزار مذهب.",
+      "message_id": 13732,
+      "message_link": "https://t.me/zedTV/13732",
+      "text": "احتمال تداوم قطعی گسترده برق در فصل زمستان.\nبحران ناترازی انرژی و ناتوانی در تأمین نیازهای اولیه.\nافزایش فشار بر معیشت و زندگی روزمره شهروندان.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:54:10",
-      "gregorian_utc": "2026-09-19T05:24:10+00:00",
+      "tehran_time": "09:54:28",
+      "gregorian_utc": "2026-09-19T06:24:28+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229280+00:00"
+      "archived_at": "2026-09-19T07:10:34.456773+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358076,
-      "message_link": "https://t.me/IranintlTV/358076",
-      "text": "مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی، با اشاره به خطای هوش مصنوعی در یک گزارش نظامی آمریکا گفت اطلاعات نادرست در قالب یک گزارش رسمی ارائه شد و ظاهر رسمی آن نیز برخی مقام‌ها را گمراه کرد؛ خطایی که می‌توانست به درگیری و افزایش سطح تنش منجر شود، اما راستی‌آزمایی دوباره اطلاعات از سوی یک عامل انسانی مانع از بروز درگیری شد.\n\nاو افزود هنوز راهکار جامعی برای جلوگیری از چنین خطاهایی وجود ندارد و در کاربردهای حساس، به‌ویژه نظامی، بررسی و راستی‌آزمایی انسانی ضروری است.\n@iranintltv",
+      "message_id": 358077,
+      "message_link": "https://t.me/IranintlTV/358077",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد مادر جاویدنام مسعود رنگرزانی در زادروز او بر سر مزار فرزندش گفت: «پسرم تو برای رفتن خیلی جوان بودی. قسم به خون یاران، ایستاده‌ایم تا پایان.»\n\nمسعود رنگرزانی ۱۹ دی ۱۴۰۴ در اسلامشهر به دست سرگوبگران در سن ۳۰ سالگی کشته شد.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:56:57",
-      "gregorian_utc": "2026-09-19T06:26:57+00:00",
+      "tehran_time": "10:01:20",
+      "gregorian_utc": "2026-09-19T06:31:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 4083342,
-      "media_size_human": "3.89 MB",
+      "media_size_bytes": 10075274,
+      "media_size_human": "9.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358076_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358076_video.mp4",
+      "media_local_path": "media/IranintlTV_358077_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358077_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.545397+00:00"
+      "archived_at": "2026-09-19T07:10:34.752108+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.881006+00:00"
+      "archived_at": "2026-09-19T07:10:35.105591+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208745+00:00"
+      "archived_at": "2026-09-19T07:10:35.429715+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13730,
-      "message_link": "https://t.me/zedTV/13730",
-      "text": "مولوی عبدالحمید: جنبش مهسا نتیجه بی‌توجهی به خواسته‌های ملت است؛ از ورود نیروهای نیابتی به کشور جلوگیری کنید.\nانتقاد تند از افزایش اعدام‌های سیاسی علیه شهروندان بلوچ و کرد در سایه فقر و بحران معیشتی.\nتاکید بر ضرورت تکیه بر مردم ایران به جای سرکوب و استفاده از نیروهای غیرایرانی.",
+      "message_id": 13731,
+      "message_link": "https://t.me/zedTV/13731",
+      "text": "تلاش تریبون‌های حکومتی برای پیوند دادن گرانی به پوشش زنان.\nواکنش تند شهروندان به استفاده از خرافات مذهبی جهت توجیه فروپاشی اقتصادی.\nافزایش انزجار عمومی از فرار مسئولین از بحران معیشتی با ابزار مذهب.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:24:51",
-      "gregorian_utc": "2026-09-19T04:54:51+00:00",
+      "tehran_time": "08:54:10",
+      "gregorian_utc": "2026-09-19T05:24:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229313+00:00"
+      "archived_at": "2026-09-19T07:10:34.456805+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358075,
-      "message_link": "https://t.me/IranintlTV/358075",
-      "text": "🔻زیبا افلاطون، کاپیتان تیم ملی بسکتبال زنان ایران در بازی‌های آسیایی ۱۹۷۴ در گفتگو با آیدین مقیمی، ایران اینترنشنال، در ویژه برنامه بازی‌های آسیایی ۲۰۲۶ گفت یکی از دلایل اصلی او برای مهاجرت از ایران، حجاب اجباری بوده است.\n\n🔹بسکتبال زنان از بازی‌های آسیایی ۱۹۷۴ تهران وارد این رقابت‌ها شد و تیم پنج‌نفره ایران نیز تنها حضور خود در تاریخ این بازی‌ها را تجربه کرد. تیم ایران که پیش از آن به مقام چهارم قهرمانی آسیا رسیده بود، با ترکیبی از بازیکنان جوان و به کاپیتانی زیبا افلاطون در این رقابت‌ها شرکت کرد.⁩\n\n@iranintltvsport",
+      "message_id": 358076,
+      "message_link": "https://t.me/IranintlTV/358076",
+      "text": "مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی، با اشاره به خطای هوش مصنوعی در یک گزارش نظامی آمریکا گفت اطلاعات نادرست در قالب یک گزارش رسمی ارائه شد و ظاهر رسمی آن نیز برخی مقام‌ها را گمراه کرد؛ خطایی که می‌توانست به درگیری و افزایش سطح تنش منجر شود، اما راستی‌آزمایی دوباره اطلاعات از سوی یک عامل انسانی مانع از بروز درگیری شد.\n\nاو افزود هنوز راهکار جامعی برای جلوگیری از چنین خطاهایی وجود ندارد و در کاربردهای حساس، به‌ویژه نظامی، بررسی و راستی‌آزمایی انسانی ضروری است.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:50:44",
-      "gregorian_utc": "2026-09-19T06:20:44+00:00",
+      "tehran_time": "09:56:57",
+      "gregorian_utc": "2026-09-19T06:26:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 6495147,
-      "media_size_human": "6.19 MB",
+      "media_size_bytes": 4083342,
+      "media_size_human": "3.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358075_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358075_video.mp4",
+      "media_local_path": "media/IranintlTV_358076_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358076_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559417+00:00"
+      "archived_at": "2026-09-19T07:10:34.752317+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76461_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76461_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881085+00:00"
+      "archived_at": "2026-09-19T07:10:35.105721+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": "media/Mellig_121168_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121168_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:45.208776+00:00"
+      "archived_at": "2026-09-19T07:10:35.429774+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13729,
-      "message_link": "https://t.me/zedTV/13729",
-      "text": "گزارش‌ها از باج‌گیری سازمان‌یافته از شهروندان فاقد شناسنامه در نزدیکی پاسگاه زاهدان-زابل.\nهمدستی عوامل رژیم با دلالان برای اخاذی مبالغ کلان و سکه طلا از خانواده‌های بازداشت‌شدگان.\nفشار اقتصادی مضاعف بر مردم سیستان و بلوچستان در سایه فساد نهادینه نیروهای امنیتی.",
+      "message_id": 13730,
+      "message_link": "https://t.me/zedTV/13730",
+      "text": "مولوی عبدالحمید: جنبش مهسا نتیجه بی‌توجهی به خواسته‌های ملت است؛ از ورود نیروهای نیابتی به کشور جلوگیری کنید.\nانتقاد تند از افزایش اعدام‌های سیاسی علیه شهروندان بلوچ و کرد در سایه فقر و بحران معیشتی.\nتاکید بر ضرورت تکیه بر مردم ایران به جای سرکوب و استفاده از نیروهای غیرایرانی.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:24:22",
-      "gregorian_utc": "2026-09-19T04:54:22+00:00",
+      "tehran_time": "08:24:51",
+      "gregorian_utc": "2026-09-19T04:54:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229340+00:00"
+      "archived_at": "2026-09-19T07:10:34.456848+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358074,
-      "message_link": "https://t.me/IranintlTV/358074",
-      "text": "پگاه بنی‌هاشمی، پژوهشگر ارشد حقوق در دانشگاه شیکاگو، با اشاره به اعدام معترضان گفت تجربه ۴۷ سال گذشته نشان می‌دهد اعدام‌های سیاسی نتوانسته‌اند تاثیر بازدارنده موثری بر اعتراضات بعدی داشته باشند و مردم در دوره‌های مختلف بار دیگر در برابر آنچه ظلم می‌دانند، ایستاده‌اند.\n\nاو افزود بحران‌های منطقه‌ای و منافع سیاسی کشورها باعث شده مسائل حقوق بشری ایران بارها تحت‌الشعاع قرار بگیرد و از اولویت جامعه جهانی خارج شود.\n@iranintltv",
+      "message_id": 358075,
+      "message_link": "https://t.me/IranintlTV/358075",
+      "text": "🔻زیبا افلاطون، کاپیتان تیم ملی بسکتبال زنان ایران در بازی‌های آسیایی ۱۹۷۴ در گفتگو با آیدین مقیمی، ایران اینترنشنال، در ویژه برنامه بازی‌های آسیایی ۲۰۲۶ گفت یکی از دلایل اصلی او برای مهاجرت از ایران، حجاب اجباری بوده است.\n\n🔹بسکتبال زنان از بازی‌های آسیایی ۱۹۷۴ تهران وارد این رقابت‌ها شد و تیم پنج‌نفره ایران نیز تنها حضور خود در تاریخ این بازی‌ها را تجربه کرد. تیم ایران که پیش از آن به مقام چهارم قهرمانی آسیا رسیده بود، با ترکیبی از بازیکنان جوان و به کاپیتانی زیبا افلاطون در این رقابت‌ها شرکت کرد.⁩\n\n@iranintltvsport",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:41:14",
-      "gregorian_utc": "2026-09-19T06:11:14+00:00",
+      "tehran_time": "09:50:44",
+      "gregorian_utc": "2026-09-19T06:20:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 3738968,
-      "media_size_human": "3.57 MB",
+      "media_size_bytes": 6495147,
+      "media_size_human": "6.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358074_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358074_video.mp4",
+      "media_local_path": "media/IranintlTV_358075_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358075_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559525+00:00"
+      "archived_at": "2026-09-19T07:10:34.766010+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.881137+00:00"
+      "archived_at": "2026-09-19T07:10:35.105822+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208791+00:00"
+      "archived_at": "2026-09-19T07:10:35.429804+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13728,
-      "message_link": "https://t.me/zedTV/13728",
-      "text": "وزارت خزانه‌داری آمریکا تحریم‌های گسترده‌ای علیه شبکه‌های مالی هواپیمایی ماهان در امارات و ترکیه اعمال کرد.\nتوقف پروازهای ماهان به عمان و ترکیه؛ ۳۶ نهاد و شرکت هواپیمایی جدید در لیست سیاه واشینگتن قرار گرفتند.\nتشدید «انسداد اقتصادی» علیه شریان‌های مالی رژیم ایران و بازوهای لجستیکی سپاه در خارج از کشور.",
+      "message_id": 13729,
+      "message_link": "https://t.me/zedTV/13729",
+      "text": "گزارش‌ها از باج‌گیری سازمان‌یافته از شهروندان فاقد شناسنامه در نزدیکی پاسگاه زاهدان-زابل.\nهمدستی عوامل رژیم با دلالان برای اخاذی مبالغ کلان و سکه طلا از خانواده‌های بازداشت‌شدگان.\nفشار اقتصادی مضاعف بر مردم سیستان و بلوچستان در سایه فساد نهادینه نیروهای امنیتی.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:09:37",
-      "gregorian_utc": "2026-09-19T04:39:37+00:00",
+      "tehran_time": "08:24:22",
+      "gregorian_utc": "2026-09-19T04:54:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229358+00:00"
+      "archived_at": "2026-09-19T07:10:34.456878+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358073,
-      "message_link": "https://t.me/IranintlTV/358073",
-      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۲۸ شهریور\n@iranintlTV",
+      "message_id": 358074,
+      "message_link": "https://t.me/IranintlTV/358074",
+      "text": "پگاه بنی‌هاشمی، پژوهشگر ارشد حقوق در دانشگاه شیکاگو، با اشاره به اعدام معترضان گفت تجربه ۴۷ سال گذشته نشان می‌دهد اعدام‌های سیاسی نتوانسته‌اند تاثیر بازدارنده موثری بر اعتراضات بعدی داشته باشند و مردم در دوره‌های مختلف بار دیگر در برابر آنچه ظلم می‌دانند، ایستاده‌اند.\n\nاو افزود بحران‌های منطقه‌ای و منافع سیاسی کشورها باعث شده مسائل حقوق بشری ایران بارها تحت‌الشعاع قرار بگیرد و از اولویت جامعه جهانی خارج شود.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:31:33",
-      "gregorian_utc": "2026-09-19T06:01:33+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30206596,
-      "media_size_human": "28.81 MB",
+      "tehran_time": "09:41:14",
+      "gregorian_utc": "2026-09-19T06:11:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3738968,
+      "media_size_human": "3.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358073_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358073_audio.mp3",
+      "media_local_path": "media/IranintlTV_358074_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358074_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559574+00:00"
+      "archived_at": "2026-09-19T07:10:34.766215+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76459_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76459_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881179+00:00"
+      "archived_at": "2026-09-19T07:10:35.105902+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208838+00:00"
+      "archived_at": "2026-09-19T07:10:35.429889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13727,
-      "message_link": "https://t.me/zedTV/13727",
-      "text": "بازگشت مدیریت‌شده ایرانیان؛ ابزار تبلیغاتی نهادهای امنیتی به جای گشایش سیاسی.\nفعالان مدنی: آزادی زندانیان سیاسی و رفع حصر، معیار اصلی تغییر واقعی است.\nادامه گزینش سیاسی رژیم؛ حق مخالفت با ساختار قدرت همچنان به رسمیت شناخته نمی‌شود.",
+      "message_id": 13728,
+      "message_link": "https://t.me/zedTV/13728",
+      "text": "وزارت خزانه‌داری آمریکا تحریم‌های گسترده‌ای علیه شبکه‌های مالی هواپیمایی ماهان در امارات و ترکیه اعمال کرد.\nتوقف پروازهای ماهان به عمان و ترکیه؛ ۳۶ نهاد و شرکت هواپیمایی جدید در لیست سیاه واشینگتن قرار گرفتند.\nتشدید «انسداد اقتصادی» علیه شریان‌های مالی رژیم ایران و بازوهای لجستیکی سپاه در خارج از کشور.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:09:30",
-      "gregorian_utc": "2026-09-19T04:39:30+00:00",
+      "tehran_time": "08:09:37",
+      "gregorian_utc": "2026-09-19T04:39:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229380+00:00"
+      "archived_at": "2026-09-19T07:10:34.456915+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358071,
-      "message_link": "https://t.me/IranintlTV/358071",
-      "text": "قوه قضاییه جمهوری اسلامی اعلام کرد حکم اعدام حسین پدران، زندانی سیاسی که با اتهام‌هایی مرتبط با جنگ ۱۲ روزه در اصفهان بازداشت شده بود، اجرا شده است.\n\nقوه قضاییه جمهوری اسلامی اعلام کرد حسین پدران «تلاش کرده بود» اطلاعات سایت‌های نظامی حساس کشور در استان اصفهان را در اختیار «سازمان موساد» قرار دهد.\nhttps://iranintl.com/202609194424",
+      "message_id": 358073,
+      "message_link": "https://t.me/IranintlTV/358073",
+      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۲۸ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:21:37",
-      "gregorian_utc": "2026-09-19T05:51:37+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 153955,
-      "media_size_human": "150.35 KB",
+      "tehran_time": "09:31:33",
+      "gregorian_utc": "2026-09-19T06:01:33+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30206596,
+      "media_size_human": "28.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358071_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358071_photo.jpg",
+      "media_local_path": "media/IranintlTV_358073_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358073_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559642+00:00"
+      "archived_at": "2026-09-19T07:10:34.766300+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76458_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76458_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881212+00:00"
+      "archived_at": "2026-09-19T07:10:35.105970+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_121165_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121165_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:45.208863+00:00"
+      "archived_at": "2026-09-19T07:10:35.429944+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13726,
-      "message_link": "https://t.me/zedTV/13726",
-      "text": "سقوط معیشت و شهریه‌های ۲۲۰ میلیونی؛ تورم افسارگسیخته طبقه متوسط را به مرز بقا رسانده است.\nبحران در تأمین واکسن و سقوط ۵۰ درصدی گردشگری؛ سایه جنگ و قطعی اینترنت بر زندگی روزمره.\nگرانی نجومی اقلام اولیه و نوشت‌افزار؛ فقر و تبعیض آموزشی مانع تحصیل نسل جوان شده است.",
+      "message_id": 13727,
+      "message_link": "https://t.me/zedTV/13727",
+      "text": "بازگشت مدیریت‌شده ایرانیان؛ ابزار تبلیغاتی نهادهای امنیتی به جای گشایش سیاسی.\nفعالان مدنی: آزادی زندانیان سیاسی و رفع حصر، معیار اصلی تغییر واقعی است.\nادامه گزینش سیاسی رژیم؛ حق مخالفت با ساختار قدرت همچنان به رسمیت شناخته نمی‌شود.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:55:52",
-      "gregorian_utc": "2026-09-19T04:25:52+00:00",
+      "tehran_time": "08:09:30",
+      "gregorian_utc": "2026-09-19T04:39:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229398+00:00"
+      "archived_at": "2026-09-19T07:10:34.456947+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358070,
-      "message_link": "https://t.me/IranintlTV/358070",
-      "text": "🔻در هفته نخست لیگ برتر فوتبال زنان ایران، تیم‌های استقلال، پرسپولیس، سپاهان و گل‌گهر پیروز شدند و خاتون بم هم در برابر ایستا البرز، با تساوی بدون گل، متوقف شد.\n\n🔹گزارش رها پوربخش، ایران اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/e-hduDa9nL8\n\n@iranintltvsport",
+      "message_id": 358071,
+      "message_link": "https://t.me/IranintlTV/358071",
+      "text": "قوه قضاییه جمهوری اسلامی اعلام کرد حکم اعدام حسین پدران، زندانی سیاسی که با اتهام‌هایی مرتبط با جنگ ۱۲ روزه در اصفهان بازداشت شده بود، اجرا شده است.\n\nقوه قضاییه جمهوری اسلامی اعلام کرد حسین پدران «تلاش کرده بود» اطلاعات سایت‌های نظامی حساس کشور در استان اصفهان را در اختیار «سازمان موساد» قرار دهد.\nhttps://iranintl.com/202609194424",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:11:27",
-      "gregorian_utc": "2026-09-19T05:41:27+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2895658,
-      "media_size_human": "2.76 MB",
+      "tehran_time": "09:21:37",
+      "gregorian_utc": "2026-09-19T05:51:37+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 153955,
+      "media_size_human": "150.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358070_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358070_video.mp4",
+      "media_local_path": "media/IranintlTV_358071_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358071_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559694+00:00"
+      "archived_at": "2026-09-19T07:10:34.766403+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76457_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76457_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881398+00:00"
+      "archived_at": "2026-09-19T07:10:35.106274+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-19T07:00:45.208890+00:00"
+      "archived_at": "2026-09-19T07:10:35.429995+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13725,
-      "message_link": "https://t.me/zedTV/13725",
-      "text": "هگست گزارش واشینگتن‌پست درباره آمار تلفات نیروهای آمریکایی در جنگ با ایران را «دروغ محض» دانست.\nوزیر دفاع آمریکا ادعای کشته شدن ۲۲ نظامی را رد کرد؛ آمار رسمی پنتاگون ۱۸ نفر باقی مانده است.\nپنتاگون این گزارش را ساختگی توصیف کرده و بر صحت داده‌های رسمی خود تأکید ورزید.",
+      "message_id": 13726,
+      "message_link": "https://t.me/zedTV/13726",
+      "text": "سقوط معیشت و شهریه‌های ۲۲۰ میلیونی؛ تورم افسارگسیخته طبقه متوسط را به مرز بقا رسانده است.\nبحران در تأمین واکسن و سقوط ۵۰ درصدی گردشگری؛ سایه جنگ و قطعی اینترنت بر زندگی روزمره.\nگرانی نجومی اقلام اولیه و نوشت‌افزار؛ فقر و تبعیض آموزشی مانع تحصیل نسل جوان شده است.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:55:35",
-      "gregorian_utc": "2026-09-19T04:25:35+00:00",
+      "tehran_time": "07:55:52",
+      "gregorian_utc": "2026-09-19T04:25:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229413+00:00"
+      "archived_at": "2026-09-19T07:10:34.456975+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358069,
-      "message_link": "https://t.me/IranintlTV/358069",
-      "text": "🔻محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک درباره پیروزی استقلال در برابر السد در لیگ نخبگان آسیا گفت: «استقلال نمی‌تواند در لیگ برتر مثل لیگ نخبگان بازی کند، چون نوع بازی تیم‌های ایرانی متفاوت است. دفاع منسجم استقلال اجازه نمی‌داد بازیکنان السد، به راحتی بازی کنند.»\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/e-hduDa9nL8\n\n@iranintltvsport",
+      "message_id": 358070,
+      "message_link": "https://t.me/IranintlTV/358070",
+      "text": "🔻در هفته نخست لیگ برتر فوتبال زنان ایران، تیم‌های استقلال، پرسپولیس، سپاهان و گل‌گهر پیروز شدند و خاتون بم هم در برابر ایستا البرز، با تساوی بدون گل، متوقف شد.\n\n🔹گزارش رها پوربخش، ایران اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/e-hduDa9nL8\n\n@iranintltvsport",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:11:21",
-      "gregorian_utc": "2026-09-19T05:41:21+00:00",
+      "tehran_time": "09:11:27",
+      "gregorian_utc": "2026-09-19T05:41:27+00:00",
       "media_type": "video",
-      "media_size_bytes": 2438176,
-      "media_size_human": "2.33 MB",
+      "media_size_bytes": 2895658,
+      "media_size_human": "2.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358069_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358069_video.mp4",
+      "media_local_path": "media/IranintlTV_358070_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358070_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559741+00:00"
+      "archived_at": "2026-09-19T07:10:34.766495+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76456_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76456_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881422+00:00"
+      "archived_at": "2026-09-19T07:10:35.106324+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-19T07:00:45.208923+00:00"
+      "archived_at": "2026-09-19T07:10:35.430058+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13724,
-      "message_link": "https://t.me/zedTV/13724",
-      "text": "لغو مجوز فعالیت بانک ملت در استانبول توسط نهاد ناظر بانکی ترکیه؛\nانسداد شریان‌های مالی جمهوری اسلامی در پی تشدید فشارهای اقتصادی بین‌المللی؛\nگسترش انزوای بانکی رژیم و محدودیت‌های جدید در سیستم مالی منطقه.",
+      "message_id": 13725,
+      "message_link": "https://t.me/zedTV/13725",
+      "text": "هگست گزارش واشینگتن‌پست درباره آمار تلفات نیروهای آمریکایی در جنگ با ایران را «دروغ محض» دانست.\nوزیر دفاع آمریکا ادعای کشته شدن ۲۲ نظامی را رد کرد؛ آمار رسمی پنتاگون ۱۸ نفر باقی مانده است.\nپنتاگون این گزارش را ساختگی توصیف کرده و بر صحت داده‌های رسمی خود تأکید ورزید.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:55:28",
-      "gregorian_utc": "2026-09-19T04:25:28+00:00",
+      "tehran_time": "07:55:35",
+      "gregorian_utc": "2026-09-19T04:25:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229426+00:00"
+      "archived_at": "2026-09-19T07:10:34.457001+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358068,
-      "message_link": "https://t.me/IranintlTV/358068",
-      "text": "عرفان قانعی‌فرد، تحلیلگر مسائل خاورمیانه، با اشاره به گزارش‌ها درباره افزایش هزینه جنگ و فشار بر توان نظامی آمریکا گفت افزایش هزینه‌های انسانی و نظامی، محاسبات راهبردی واشینگتن را تغییر نمی‌دهد و تا زمانی که هدف و راهبرد سیاسی روشن باشد، آمریکا توان ادامه عملیات را دارد.\n\nاو افزود بخشی از آمار مربوط به مجروحان و هزینه‌های جنگ به دلایل امنیتی تا پایان جنگ به‌طور کامل اعلام نمی‌شود و پس از پایان جنگ امکان شفافیت بیشتر درباره این هزینه‌ها فراهم خواهد شد.\n@iranintltv",
+      "message_id": 358069,
+      "message_link": "https://t.me/IranintlTV/358069",
+      "text": "🔻محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک درباره پیروزی استقلال در برابر السد در لیگ نخبگان آسیا گفت: «استقلال نمی‌تواند در لیگ برتر مثل لیگ نخبگان بازی کند، چون نوع بازی تیم‌های ایرانی متفاوت است. دفاع منسجم استقلال اجازه نمی‌داد بازیکنان السد، به راحتی بازی کنند.»\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/e-hduDa9nL8\n\n@iranintltvsport",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "09:09:24",
-      "gregorian_utc": "2026-09-19T05:39:24+00:00",
+      "tehran_time": "09:11:21",
+      "gregorian_utc": "2026-09-19T05:41:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 3767252,
-      "media_size_human": "3.59 MB",
+      "media_size_bytes": 2438176,
+      "media_size_human": "2.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358068_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358068_video.mp4",
+      "media_local_path": "media/IranintlTV_358069_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358069_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559791+00:00"
+      "archived_at": "2026-09-19T07:10:34.766588+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76455_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76455_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881441+00:00"
+      "archived_at": "2026-09-19T07:10:35.106364+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_121162_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121162_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:45.208957+00:00"
+      "archived_at": "2026-09-19T07:10:35.430147+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13723,
-      "message_link": "https://t.me/zedTV/13723",
-      "text": "لغو مجوز فعالیت شعب بانک ملت در ترکیه توسط نهاد ناظر بانکی این کشور؛\nتوقف عملیات مالی رژیم در پی فشارهای تحریمی آمریکا و محدودیت‌های هوانوردی؛\nگسترش انسداد بانکی و تشدید انزوای اقتصادی جمهوری اسلامی در منطقه.",
+      "message_id": 13724,
+      "message_link": "https://t.me/zedTV/13724",
+      "text": "لغو مجوز فعالیت بانک ملت در استانبول توسط نهاد ناظر بانکی ترکیه؛\nانسداد شریان‌های مالی جمهوری اسلامی در پی تشدید فشارهای اقتصادی بین‌المللی؛\nگسترش انزوای بانکی رژیم و محدودیت‌های جدید در سیستم مالی منطقه.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "03:08:22",
-      "gregorian_utc": "2026-09-18T23:38:22+00:00",
+      "tehran_time": "07:55:28",
+      "gregorian_utc": "2026-09-19T04:25:28+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229440+00:00"
+      "archived_at": "2026-09-19T07:10:34.457026+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358067,
-      "message_link": "https://t.me/IranintlTV/358067",
-      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دونالد ترامپ بر اینکه جمهوری اسلامی هرگز به سلاح هسته‌ای دست نخواهد یافت و جنگ «به‌زودی» پایان می‌یابد، گفت ترامپ جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای را یک پیروزی می‌داند و افزایش قیمت بنزین را هزینه‌ای برای رسیدن به این هدف توصیف می‌کند.\n\nاو افزود ترامپ توضیح نداده منظورش از پایان زودهنگام جنگ چیست، اما با توجه به دیدارهای پیش‌روی او در حاشیه مجمع عمومی سازمان ملل، ممکن است در روزهای آینده مشخص شود مسیر به سمت توافق می‌رود یا افزایش فشار بر جمهوری اسلامی.\n@iranintltv",
+      "message_id": 358068,
+      "message_link": "https://t.me/IranintlTV/358068",
+      "text": "عرفان قانعی‌فرد، تحلیلگر مسائل خاورمیانه، با اشاره به گزارش‌ها درباره افزایش هزینه جنگ و فشار بر توان نظامی آمریکا گفت افزایش هزینه‌های انسانی و نظامی، محاسبات راهبردی واشینگتن را تغییر نمی‌دهد و تا زمانی که هدف و راهبرد سیاسی روشن باشد، آمریکا توان ادامه عملیات را دارد.\n\nاو افزود بخشی از آمار مربوط به مجروحان و هزینه‌های جنگ به دلایل امنیتی تا پایان جنگ به‌طور کامل اعلام نمی‌شود و پس از پایان جنگ امکان شفافیت بیشتر درباره این هزینه‌ها فراهم خواهد شد.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "08:59:41",
-      "gregorian_utc": "2026-09-19T05:29:41+00:00",
+      "tehran_time": "09:09:24",
+      "gregorian_utc": "2026-09-19T05:39:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 3591940,
-      "media_size_human": "3.43 MB",
+      "media_size_bytes": 3767252,
+      "media_size_human": "3.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358067_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358067_video.mp4",
+      "media_local_path": "media/IranintlTV_358068_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358068_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559845+00:00"
+      "archived_at": "2026-09-19T07:10:34.766683+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76454_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76454_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881461+00:00"
+      "archived_at": "2026-09-19T07:10:35.106402+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.208981+00:00"
+      "archived_at": "2026-09-19T07:10:35.430198+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13722,
-      "message_link": "https://t.me/zedTV/13722",
-      "text": "گزارش‌های مردمی از وقوع چهار انفجار در کرج.\nسه صدای مهیب پیاپی و سپس یک انفجار دیگر شنیده شد.\nتداوم وضعیت غیرعادی در مناطق مختلف این شهر.",
+      "message_id": 13723,
+      "message_link": "https://t.me/zedTV/13723",
+      "text": "لغو مجوز فعالیت شعب بانک ملت در ترکیه توسط نهاد ناظر بانکی این کشور؛\nتوقف عملیات مالی رژیم در پی فشارهای تحریمی آمریکا و محدودیت‌های هوانوردی؛\nگسترش انسداد بانکی و تشدید انزوای اقتصادی جمهوری اسلامی در منطقه.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "01:39:13",
-      "gregorian_utc": "2026-09-18T22:09:13+00:00",
+      "tehran_time": "03:08:22",
+      "gregorian_utc": "2026-09-18T23:38:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229453+00:00"
+      "archived_at": "2026-09-19T07:10:34.457051+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358066,
-      "message_link": "https://t.me/IranintlTV/358066",
-      "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، در انتقاد از سخنان برخی مقام‌های حکومت که «حجاب را موضوعی فرهنگی» دانسته‌اند، در یادداشتی نوشت: «وضعیت عریان‌نمایی در خیابان‌های تهران نسبت به سال‌های گذشته حتی موجب انزجار افراد غیرمذهبی شده است.»\n\nکیهان در ادامه نوشت: «آری، حجاب یک موضوع فرهنگی است، اما چرا در دو سال گذشته هیچ اقدام فرهنگی برای بهبود وضعیت حجاب از سوی دولت انجام نشده است؟»\n\nاین روزنامه اضافه کرد: «ای کاش تمام تلاش دولت این بود که با اقدامات فرهنگی که مدعی آن هستند، وضعیت حجاب را بهبود می‌دادند؛ که نه‌تنها این کار را نکردند، بلکه امروزه در خیابان‌های تهران با پدیده عریان‌نمایی مواجه هستیم.»\nhttps://iranintl.com/202609194290",
+      "message_id": 358067,
+      "message_link": "https://t.me/IranintlTV/358067",
+      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دونالد ترامپ بر اینکه جمهوری اسلامی هرگز به سلاح هسته‌ای دست نخواهد یافت و جنگ «به‌زودی» پایان می‌یابد، گفت ترامپ جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای را یک پیروزی می‌داند و افزایش قیمت بنزین را هزینه‌ای برای رسیدن به این هدف توصیف می‌کند.\n\nاو افزود ترامپ توضیح نداده منظورش از پایان زودهنگام جنگ چیست، اما با توجه به دیدارهای پیش‌روی او در حاشیه مجمع عمومی سازمان ملل، ممکن است در روزهای آینده مشخص شود مسیر به سمت توافق می‌رود یا افزایش فشار بر جمهوری اسلامی.\n@iranintltv",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:59:38",
-      "gregorian_utc": "2026-09-19T04:29:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 192902,
-      "media_size_human": "188.38 KB",
+      "tehran_time": "08:59:41",
+      "gregorian_utc": "2026-09-19T05:29:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3591940,
+      "media_size_human": "3.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358066_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358066_photo.jpg",
+      "media_local_path": "media/IranintlTV_358067_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358067_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559914+00:00"
+      "archived_at": "2026-09-19T07:10:34.766789+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76453_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76453_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.881547+00:00"
+      "archived_at": "2026-09-19T07:10:35.106545+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.209004+00:00"
+      "archived_at": "2026-09-19T07:10:35.430245+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13721,
-      "message_link": "https://t.me/zedTV/13721",
-      "text": "خیانت روشنفکران چپ و مارکسیست‌های اسلامی در انحراف مسیر تمدن ایران؛\nافشای پیوند ریشه‌دار جنبش‌های کمونیستی با جامعه روحانیت.\nحاکمیت فعلی، میراث‌دار تفکر ضدتوسعه و ستایش‌گر فقر و بندگی.",
+      "message_id": 13722,
+      "message_link": "https://t.me/zedTV/13722",
+      "text": "گزارش‌های مردمی از وقوع چهار انفجار در کرج.\nسه صدای مهیب پیاپی و سپس یک انفجار دیگر شنیده شد.\nتداوم وضعیت غیرعادی در مناطق مختلف این شهر.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "01:23:52",
-      "gregorian_utc": "2026-09-18T21:53:52+00:00",
+      "tehran_time": "01:39:13",
+      "gregorian_utc": "2026-09-18T22:09:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229468+00:00"
+      "archived_at": "2026-09-19T07:10:34.457104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358065,
-      "message_link": "https://t.me/IranintlTV/358065",
-      "text": "نهاد ناظر بانکی ترکیه مجوز فعالیت شعبه مرکزی بانک ملت ایران در استانبول را لغو کرد. این تصمیم هم‌زمان با افزایش فشار تحریمی آمریکا بر تهران گرفته شده، اما در اطلاعیه روزنامه رسمی ترکیه، تحریم‌های آمریکا دلیل این اقدام اعلام نشده است.\n\nبه گزارش رویترز، اطلاعیه منتشر‌شده در روزنامه رسمی ترکیه در روز شنبه ۱۹ سپتامبر، از لغو مجوز فعالیت «شعبه مرکزی ترکیه بانک ملت در استانبول، با دفتر مرکزی در تهران» خبر می‌دهد. این خبرگزاری تاکید کرده است که اطلاعیه به اقدامات آمریکا یا مشکلات عملیاتی مشخصی در بانک اشاره نمی‌کند.\n\nاین تصمیم جمعه در فهرست مصوبات سازمان تنظیم مقررات و نظارت بانکی ترکیه، موسوم به بی‌دی‌دی‌کی، نیز ثبت شد و عنوان این مصوبه مشخصاً به لغو مجوز شعبه مرکزی بانک ملت در استانبول اشاره دارد.\n\nhttps://iranintl.com/202609195509",
+      "message_id": 358066,
+      "message_link": "https://t.me/IranintlTV/358066",
+      "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، در انتقاد از سخنان برخی مقام‌های حکومت که «حجاب را موضوعی فرهنگی» دانسته‌اند، در یادداشتی نوشت: «وضعیت عریان‌نمایی در خیابان‌های تهران نسبت به سال‌های گذشته حتی موجب انزجار افراد غیرمذهبی شده است.»\n\nکیهان در ادامه نوشت: «آری، حجاب یک موضوع فرهنگی است، اما چرا در دو سال گذشته هیچ اقدام فرهنگی برای بهبود وضعیت حجاب از سوی دولت انجام نشده است؟»\n\nاین روزنامه اضافه کرد: «ای کاش تمام تلاش دولت این بود که با اقدامات فرهنگی که مدعی آن هستند، وضعیت حجاب را بهبود می‌دادند؛ که نه‌تنها این کار را نکردند، بلکه امروزه در خیابان‌های تهران با پدیده عریان‌نمایی مواجه هستیم.»\nhttps://iranintl.com/202609194290",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:44:23",
-      "gregorian_utc": "2026-09-19T04:14:23+00:00",
+      "tehran_time": "07:59:38",
+      "gregorian_utc": "2026-09-19T04:29:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 139983,
-      "media_size_human": "136.70 KB",
+      "media_size_bytes": 192902,
+      "media_size_human": "188.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358065_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358065_photo.jpg",
+      "media_local_path": "media/IranintlTV_358066_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358066_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.559981+00:00"
+      "archived_at": "2026-09-19T07:10:34.766900+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.881614+00:00"
+      "archived_at": "2026-09-19T07:10:35.106658+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": "media/Mellig_121159_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121159_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:45.209025+00:00"
+      "archived_at": "2026-09-19T07:10:35.430286+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13720,
-      "message_link": "https://t.me/zedTV/13720",
-      "text": "بحران معیشتی پرستاران؛ ماه‌ها معوقات مزدی و حذف کمک‌هزینه‌های مسکن و رفاهی.\nکمبود شدید کادر درمان و فشار مضاعف کار اجباری؛ تجهیزات بیمارستانی در آستانه فروپاشی.\nتداوم بی‌توجهی سیستماتیک به مطالبات؛ فریاد اعتراض کادر درمان علیه بی‌عدالتی و استثمار.",
+      "message_id": 13721,
+      "message_link": "https://t.me/zedTV/13721",
+      "text": "خیانت روشنفکران چپ و مارکسیست‌های اسلامی در انحراف مسیر تمدن ایران؛\nافشای پیوند ریشه‌دار جنبش‌های کمونیستی با جامعه روحانیت.\nحاکمیت فعلی، میراث‌دار تفکر ضدتوسعه و ستایش‌گر فقر و بندگی.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "00:24:39",
-      "gregorian_utc": "2026-09-18T20:54:39+00:00",
+      "tehran_time": "01:23:52",
+      "gregorian_utc": "2026-09-18T21:53:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.229481+00:00"
+      "archived_at": "2026-09-19T07:10:34.457132+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358064,
-      "message_link": "https://t.me/IranintlTV/358064",
-      "text": "سرخط خبرهای شنبه ۲۸ شهریور\n@iranintltv",
+      "message_id": 358065,
+      "message_link": "https://t.me/IranintlTV/358065",
+      "text": "نهاد ناظر بانکی ترکیه مجوز فعالیت شعبه مرکزی بانک ملت ایران در استانبول را لغو کرد. این تصمیم هم‌زمان با افزایش فشار تحریمی آمریکا بر تهران گرفته شده، اما در اطلاعیه روزنامه رسمی ترکیه، تحریم‌های آمریکا دلیل این اقدام اعلام نشده است.\n\nبه گزارش رویترز، اطلاعیه منتشر‌شده در روزنامه رسمی ترکیه در روز شنبه ۱۹ سپتامبر، از لغو مجوز فعالیت «شعبه مرکزی ترکیه بانک ملت در استانبول، با دفتر مرکزی در تهران» خبر می‌دهد. این خبرگزاری تاکید کرده است که اطلاعیه به اقدامات آمریکا یا مشکلات عملیاتی مشخصی در بانک اشاره نمی‌کند.\n\nاین تصمیم جمعه در فهرست مصوبات سازمان تنظیم مقررات و نظارت بانکی ترکیه، موسوم به بی‌دی‌دی‌کی، نیز ثبت شد و عنوان این مصوبه مشخصاً به لغو مجوز شعبه مرکزی بانک ملت در استانبول اشاره دارد.\n\nhttps://iranintl.com/202609195509",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "07:40:25",
-      "gregorian_utc": "2026-09-19T04:10:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1010272,
-      "media_size_human": "986.59 KB",
+      "tehran_time": "07:44:23",
+      "gregorian_utc": "2026-09-19T04:14:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 139983,
+      "media_size_human": "136.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358064_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358064_video.mp4",
+      "media_local_path": "media/IranintlTV_358065_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358065_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-19T07:00:44.560007+00:00"
+      "archived_at": "2026-09-19T07:10:34.767013+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:44.881982+00:00"
+      "archived_at": "2026-09-19T07:10:35.107240+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-19T07:00:45.209051+00:00"
+      "archived_at": "2026-09-19T07:10:35.430338+00:00"
     }
   ]
 }
