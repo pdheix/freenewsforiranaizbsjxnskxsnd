@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T05:27:14.036816+00:00",
-  "shamsi_generated": "1405/06/29 05:27:14 تهران",
+  "generated_at": "2026-09-20T05:38:06.564843+00:00",
+  "shamsi_generated": "1405/06/29 05:38:06 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13769,
-      "message_link": "https://t.me/zedTV/13769",
-      "text": "برخاستن هواپیمای E-11A نیروی هوایی آمریکا از عربستان سعودی؛\nفعالیت این پرنده نظامی به عنوان گره ارتباطی هوایی میدان نبرد.",
+      "message_id": 13771,
+      "message_link": "https://t.me/zedTV/13771",
+      "text": "سقوط ۵۰ درصدی قدرت خرید کارگران؛ جهش ۳۵۷ درصدی قیمت موبایل و بحران نقدینگی دارو.\nبن‌بست در آموزش: کلاس‌های بدون معلم، سقوط رتبه علمی و حذف اقلام اساسی از سفره مردم.\nپروازهای ۹۰ میلیونی و بحران مسکن؛ فلج شدن معیشت شهروندان در سایه ناکارآمدی رژیم.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "03:08:36",
-      "gregorian_utc": "2026-09-19T23:38:36+00:00",
+      "tehran_time": "08:56:03",
+      "gregorian_utc": "2026-09-20T05:26:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539441+00:00"
+      "archived_at": "2026-09-20T05:30:47.207290+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358199,
-      "message_link": "https://t.me/IranintlTV/358199",
-      "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، در یادداشتی نوشت: «برخلاف آنچه دشمنان ادعا می‌کنند و بعضی هم در داخل کشور، همان‌ها را نشخوار می‌نمایند و البته بعضی مسئولین هم با اهداف خاص که در این سال‌ها سکه‌ای رایج شده، به بیان درمی‌آورند، ایران از نظر اقتصادی وضعیت بحرانی ندارد و به آن نزدیک هم نیست.»\n\nکیهان در بخشی از این یادداشت اضافه کرد: «دشمن خبیث برخلاف بخش نظامی، در بخش اقتصادی، هنوز سودای از بین بردن ایران را در سر دارد و از آن‌جا که این سودای خبیثانه می‌تواند منشا حوادثی شود، باید به راهبرد محوریت بخشیدن به فشارهای اقتصادی در کارزار با ایران توجه نمود و در صدد مقابله هم برآمد.»\n\nاین روزنامه افزود: «ما هرگز از مسئولان ارشد توقع پوشیده داشتن حقایق نداریم، اما توقع ناتوان‌نمایی ایران که حتما دروغی شاخدار است را هم از آنان نداریم.»\nhttps://iranintl.com/202609204325",
+      "message_id": 358200,
+      "message_link": "https://t.me/IranintlTV/358200",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: کوروش، لنگرگاه هویت ایرانی\n@iranintlTV",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:36:42",
-      "gregorian_utc": "2026-09-20T05:06:42+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 276759,
-      "media_size_human": "270.27 KB",
+      "tehran_time": "08:57:46",
+      "gregorian_utc": "2026-09-20T05:27:46+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 18738661,
+      "media_size_human": "17.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358199_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358199_photo.jpg",
+      "media_local_path": "media/IranintlTV_358200_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358200_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.799841+00:00"
+      "archived_at": "2026-09-20T05:30:47.613645+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76469_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76469_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.064750+00:00"
+      "archived_at": "2026-09-20T05:30:47.988241+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_121212_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121212_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356091+00:00"
+      "archived_at": "2026-09-20T05:30:48.386892+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13768,
-      "message_link": "https://t.me/zedTV/13768",
-      "text": "هشدار وزارت خارجه آمریکا درباره وخامت ناگهانی اوضاع امنیتی در منطقه.\nتأکید واشنگتن بر افزایش تنش‌ها و تهدیدات ناشی از جمهوری اسلامی.\nدرخواست از شهروندان آمریکایی برای احتیاط حداکثری در سفرهای خاورمیانه.",
+      "message_id": 13770,
+      "message_link": "https://t.me/zedTV/13770",
+      "text": "سیاوش محمودی؛ نماد مظلومیت و پایداری در برابر سرکوب.\nتداوم دادخواهی لیلی مهدوی برای فرزند جاویدنام خود.\nتأکید بر مطالبه حقیقت و عدالت در پی جان‌باختن این جوان معترض.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:38:47",
-      "gregorian_utc": "2026-09-19T23:08:47+00:00",
+      "tehran_time": "08:55:47",
+      "gregorian_utc": "2026-09-20T05:25:47+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539492+00:00"
+      "archived_at": "2026-09-20T05:30:47.207320+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358198,
-      "message_link": "https://t.me/IranintlTV/358198",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «نسل سیاسی جدید ایران، نسل خیزش‌های چهارگانه و انقلاب ملی شیر و خورشید، بهای سنگینی پرداخته است؛ از جان‌باختن و زندان تا اخراج از دانشگاه، زخمی‌شدن و حکم‌های اعدامی که همچنان ادامه دارد. با وجود همه این هزینه‌ها، این نسل نه به عقب بازگشته و نه سر خم کرده است؛ شعارش در برابر جمهوری اسلامی «سر خم قدغن» است و برای ایستادگی بر آن، از جان خود نیز می‌گذرد.»\n@iranintltv",
+      "message_id": 358199,
+      "message_link": "https://t.me/IranintlTV/358199",
+      "text": "روزنامه کیهان که زیر نظر نماینده رهبر جمهوری اسلامی منتشر می‌شود، در یادداشتی نوشت: «برخلاف آنچه دشمنان ادعا می‌کنند و بعضی هم در داخل کشور، همان‌ها را نشخوار می‌نمایند و البته بعضی مسئولین هم با اهداف خاص که در این سال‌ها سکه‌ای رایج شده، به بیان درمی‌آورند، ایران از نظر اقتصادی وضعیت بحرانی ندارد و به آن نزدیک هم نیست.»\n\nکیهان در بخشی از این یادداشت اضافه کرد: «دشمن خبیث برخلاف بخش نظامی، در بخش اقتصادی، هنوز سودای از بین بردن ایران را در سر دارد و از آن‌جا که این سودای خبیثانه می‌تواند منشا حوادثی شود، باید به راهبرد محوریت بخشیدن به فشارهای اقتصادی در کارزار با ایران توجه نمود و در صدد مقابله هم برآمد.»\n\nاین روزنامه افزود: «ما هرگز از مسئولان ارشد توقع پوشیده داشتن حقایق نداریم، اما توقع ناتوان‌نمایی ایران که حتما دروغی شاخدار است را هم از آنان نداریم.»\nhttps://iranintl.com/202609204325",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:27:45",
-      "gregorian_utc": "2026-09-20T04:57:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 798184,
-      "media_size_human": "779.48 KB",
+      "tehran_time": "08:36:42",
+      "gregorian_utc": "2026-09-20T05:06:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 276759,
+      "media_size_human": "270.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358198_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358198_video.mp4",
+      "media_local_path": "media/IranintlTV_358199_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358199_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.799951+00:00"
+      "archived_at": "2026-09-20T05:30:47.613762+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76468_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76468_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.064818+00:00"
+      "archived_at": "2026-09-20T05:30:47.988281+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_121211_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121211_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356182+00:00"
+      "archived_at": "2026-09-20T05:30:48.386941+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13767,
-      "message_link": "https://t.me/zedTV/13767",
-      "text": "هشدار امنیتی سفارت‌های آمریکا در اسرائیل، کویت، بحرین، قطر و اردن.\nاحتمال انسداد حریم هوایی منطقه در پی تحولات اخیر.\nآماده‌باش اتباع ایالات متحده برای اختلالات احتمالی در سفرها.",
+      "message_id": 13769,
+      "message_link": "https://t.me/zedTV/13769",
+      "text": "برخاستن هواپیمای E-11A نیروی هوایی آمریکا از عربستان سعودی؛\nفعالیت این پرنده نظامی به عنوان گره ارتباطی هوایی میدان نبرد.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "01:53:49",
-      "gregorian_utc": "2026-09-19T22:23:49+00:00",
+      "tehran_time": "03:08:36",
+      "gregorian_utc": "2026-09-19T23:38:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539529+00:00"
+      "archived_at": "2026-09-20T05:30:47.207338+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358197,
-      "message_link": "https://t.me/IranintlTV/358197",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «کوروش لنگرگاه هویت ملی و یکی از ارکان گفتمان انقلاب ملی شیر و خورشید است؛ انقلابی که جرقه‌های آن از آبان ۱۳۹۵ و روز کوروش آغاز شد، در خیزش‌های چهارگانه ۹۶، آبان ۹۸، مهسا و دی‌ماه ۱۴۰۴ ادامه یافت و هنوز ادامه دارد. حالا نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان تلاش می‌کند، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
+      "message_id": 358198,
+      "message_link": "https://t.me/IranintlTV/358198",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «نسل سیاسی جدید ایران، نسل خیزش‌های چهارگانه و انقلاب ملی شیر و خورشید، بهای سنگینی پرداخته است؛ از جان‌باختن و زندان تا اخراج از دانشگاه، زخمی‌شدن و حکم‌های اعدامی که همچنان ادامه دارد. با وجود همه این هزینه‌ها، این نسل نه به عقب بازگشته و نه سر خم کرده است؛ شعارش در برابر جمهوری اسلامی «سر خم قدغن» است و برای ایستادگی بر آن، از جان خود نیز می‌گذرد.»\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:21:26",
-      "gregorian_utc": "2026-09-20T04:51:26+00:00",
+      "tehran_time": "08:27:45",
+      "gregorian_utc": "2026-09-20T04:57:45+00:00",
       "media_type": "video",
-      "media_size_bytes": 825580,
-      "media_size_human": "806.23 KB",
+      "media_size_bytes": 798184,
+      "media_size_human": "779.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358197_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358197_video.mp4",
+      "media_local_path": "media/IranintlTV_358198_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358198_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800076+00:00"
+      "archived_at": "2026-09-20T05:30:47.613814+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76467_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76467_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.064886+00:00"
+      "archived_at": "2026-09-20T05:30:47.988316+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121210_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121210_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356226+00:00"
+      "archived_at": "2026-09-20T05:30:48.386962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13766,
-      "message_link": "https://t.me/zedTV/13766",
-      "text": "واکاوی پیشینه تاریخی ادعای «ایثارگری» و تردید در سوابق مدعیان فداکاری.\nبازخوانی واقعه کوفه: عدم همراهی ۴۰ هزار مدعی «جان‌فدایی» در بزنگاه تاریخی.\nتحلیل شکاف میان شعارهای مذهبی و واقعیت‌های رفتاری در طول تاریخ.",
+      "message_id": 13768,
+      "message_link": "https://t.me/zedTV/13768",
+      "text": "هشدار وزارت خارجه آمریکا درباره وخامت ناگهانی اوضاع امنیتی در منطقه.\nتأکید واشنگتن بر افزایش تنش‌ها و تهدیدات ناشی از جمهوری اسلامی.\nدرخواست از شهروندان آمریکایی برای احتیاط حداکثری در سفرهای خاورمیانه.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "00:38:37",
-      "gregorian_utc": "2026-09-19T21:08:37+00:00",
+      "tehran_time": "02:38:47",
+      "gregorian_utc": "2026-09-19T23:08:47+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539568+00:00"
+      "archived_at": "2026-09-20T05:30:47.207359+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358196,
-      "message_link": "https://t.me/IranintlTV/358196",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «امروز دو تصویر از ایران روبه‌روی یکدیگر قرار گرفته‌اند: جمهوری اسلامی جنایتکار و فاسد و در طرف مقابل آن، نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
+      "message_id": 358197,
+      "message_link": "https://t.me/IranintlTV/358197",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «کوروش لنگرگاه هویت ملی و یکی از ارکان گفتمان انقلاب ملی شیر و خورشید است؛ انقلابی که جرقه‌های آن از آبان ۱۳۹۵ و روز کوروش آغاز شد، در خیزش‌های چهارگانه ۹۶، آبان ۹۸، مهسا و دی‌ماه ۱۴۰۴ ادامه یافت و هنوز ادامه دارد. حالا نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان تلاش می‌کند، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:18:50",
-      "gregorian_utc": "2026-09-20T04:48:50+00:00",
+      "tehran_time": "08:21:26",
+      "gregorian_utc": "2026-09-20T04:51:26+00:00",
       "media_type": "video",
-      "media_size_bytes": 712484,
-      "media_size_human": "695.79 KB",
+      "media_size_bytes": 825580,
+      "media_size_human": "806.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358196_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358196_video.mp4",
+      "media_local_path": "media/IranintlTV_358197_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358197_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800172+00:00"
+      "archived_at": "2026-09-20T05:30:47.613864+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-20T05:21:10.064959+00:00"
+      "archived_at": "2026-09-20T05:30:47.988353+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356274+00:00"
+      "archived_at": "2026-09-20T05:30:48.386984+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13765,
-      "message_link": "https://t.me/zedTV/13765",
-      "text": "درخواست رسمی عربستان از پاکستان و ترکیه برای فعال‌سازی پیمان دفاعی مکه.\nفشار برای آغاز عملیات نظامی فوری علیه شبه‌نظامیان حوثی در یمن.\nواکنش ریاض به حمله اخیر علیه فرودگاه بین‌المللی این کشور.",
+      "message_id": 13767,
+      "message_link": "https://t.me/zedTV/13767",
+      "text": "هشدار امنیتی سفارت‌های آمریکا در اسرائیل، کویت، بحرین، قطر و اردن.\nاحتمال انسداد حریم هوایی منطقه در پی تحولات اخیر.\nآماده‌باش اتباع ایالات متحده برای اختلالات احتمالی در سفرها.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "00:09:11",
-      "gregorian_utc": "2026-09-19T20:39:11+00:00",
+      "tehran_time": "01:53:49",
+      "gregorian_utc": "2026-09-19T22:23:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539599+00:00"
+      "archived_at": "2026-09-20T05:30:47.207374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358195,
-      "message_link": "https://t.me/IranintlTV/358195",
-      "text": "در پی برگزاری ماراتن در بوستان ولایت تهران که در آن برخی زنان بدون حجاب اجباری شرکت کردند، مدیریت حوزه علمیه تهران در بیانیه‌ای از قوه قضاییه خواست تا «با قاطعیت، دقت، سرعت و بدون ملاحظه» با هر فرد یا مجموعه‌ای که در برگزاری این برنامه نقش داشته است، «برخورد بازدارنده» داشته باشد.\n\nمدیریت حوزه علمیه تهران در بخش دیگری از این بیانیه اعلام کرد که مطالبه‌گری در این زمینه را نه امری جناحی و سیاسی، بلکه وظیفه‌ای دینی، انقلابی، اجتماعی و وحدت‌آفرین می‌داند و اجازه نخواهد داد «عادی‌سازی هنجارشکنی، به‌تدریج قبح قانون‌شکنی و بی‌حرمتی به ارزش‌های اسلامی را در جامعه از میان ببرد.»\nhttps://iranintl.com/202609200364",
+      "message_id": 358196,
+      "message_link": "https://t.me/IranintlTV/358196",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «امروز دو تصویر از ایران روبه‌روی یکدیگر قرار گرفته‌اند: جمهوری اسلامی جنایتکار و فاسد و در طرف مقابل آن، نسلی که برای سرنگونی جمهوری اسلامی و ساختن ایرانی آزاد، سکولار، دموکراتیک، پیشرفته و متعلق به همه ایرانیان، به ریشه‌های هویتی خود بازگشته است. برای این نسل، کوروش لنگرگاه هویتی و تکیه‌گاهی برای حرکت به‌سوی آینده است؛ از همین رو شاهزاده رضا پهلوی را «کوروش» خطاب می‌کند.»\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:08:38",
-      "gregorian_utc": "2026-09-20T04:38:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 210450,
-      "media_size_human": "205.52 KB",
+      "tehran_time": "08:18:50",
+      "gregorian_utc": "2026-09-20T04:48:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 712484,
+      "media_size_human": "695.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358195_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358195_photo.jpg",
+      "media_local_path": "media/IranintlTV_358196_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358196_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800288+00:00"
+      "archived_at": "2026-09-20T05:30:47.613931+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76465_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76465_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.065002+00:00"
+      "archived_at": "2026-09-20T05:30:47.988373+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-20T05:21:10.356336+00:00"
+      "archived_at": "2026-09-20T05:30:48.387013+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13764,
-      "message_link": "https://t.me/zedTV/13764",
-      "text": "امارات بیش از ۲۰۰ کانتینر یخچال‌دار میوه و سبزیجات صادراتی ایران را بازگرداند.\nتوقف پذیرش محموله‌های کشاورزی جمهوری اسلامی در بنادر امارات متحده عربی.\nتشدید انزوای اقتصادی و بن‌بست در صادرات محصولات غیرنفتی ایران.",
-      "shamsi_date": "1405/06/28",
-      "tehran_time": "23:55:20",
-      "gregorian_utc": "2026-09-19T20:25:20+00:00",
+      "message_id": 13766,
+      "message_link": "https://t.me/zedTV/13766",
+      "text": "واکاوی پیشینه تاریخی ادعای «ایثارگری» و تردید در سوابق مدعیان فداکاری.\nبازخوانی واقعه کوفه: عدم همراهی ۴۰ هزار مدعی «جان‌فدایی» در بزنگاه تاریخی.\nتحلیل شکاف میان شعارهای مذهبی و واقعیت‌های رفتاری در طول تاریخ.",
+      "shamsi_date": "1405/06/29",
+      "tehran_time": "00:38:37",
+      "gregorian_utc": "2026-09-19T21:08:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539635+00:00"
+      "archived_at": "2026-09-20T05:30:47.207393+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358194,
-      "message_link": "https://t.me/IranintlTV/358194",
-      "text": "سرخط خبرهای یک‌شنبه ۲۹ شهریور\n@iranintltv",
+      "message_id": 358195,
+      "message_link": "https://t.me/IranintlTV/358195",
+      "text": "در پی برگزاری ماراتن در بوستان ولایت تهران که در آن برخی زنان بدون حجاب اجباری شرکت کردند، مدیریت حوزه علمیه تهران در بیانیه‌ای از قوه قضاییه خواست تا «با قاطعیت، دقت، سرعت و بدون ملاحظه» با هر فرد یا مجموعه‌ای که در برگزاری این برنامه نقش داشته است، «برخورد بازدارنده» داشته باشد.\n\nمدیریت حوزه علمیه تهران در بخش دیگری از این بیانیه اعلام کرد که مطالبه‌گری در این زمینه را نه امری جناحی و سیاسی، بلکه وظیفه‌ای دینی، انقلابی، اجتماعی و وحدت‌آفرین می‌داند و اجازه نخواهد داد «عادی‌سازی هنجارشکنی، به‌تدریج قبح قانون‌شکنی و بی‌حرمتی به ارزش‌های اسلامی را در جامعه از میان ببرد.»\nhttps://iranintl.com/202609200364",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "08:02:32",
-      "gregorian_utc": "2026-09-20T04:32:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1107345,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "08:08:38",
+      "gregorian_utc": "2026-09-20T04:38:38+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 210450,
+      "media_size_human": "205.52 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358194_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358194_video.mp4",
+      "media_local_path": "media/IranintlTV_358195_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358195_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800342+00:00"
+      "archived_at": "2026-09-20T05:30:47.613987+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76464_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76464_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.065063+00:00"
+      "archived_at": "2026-09-20T05:30:47.988392+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356396+00:00"
+      "archived_at": "2026-09-20T05:30:48.387043+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13763,
-      "message_link": "https://t.me/zedTV/13763",
-      "text": "آمادگی ترکیه برای ارسال تجهیزات نظامی به عربستان جهت مقابله با حملات شبه‌نظامیان حوثی.\nفعال‌سازی ظرفیت‌های دفاعی «پیمان مکه» در واکنش به تهدیدات علیه تمامیت ارضی ریاض.\nتلاش متحدان منطقه‌ای برای مهار تنش‌آفرینی‌های نیابتی جمهوری اسلامی در منطقه.",
-      "shamsi_date": "1405/06/28",
-      "tehran_time": "22:54:42",
-      "gregorian_utc": "2026-09-19T19:24:42+00:00",
+      "message_id": 13765,
+      "message_link": "https://t.me/zedTV/13765",
+      "text": "درخواست رسمی عربستان از پاکستان و ترکیه برای فعال‌سازی پیمان دفاعی مکه.\nفشار برای آغاز عملیات نظامی فوری علیه شبه‌نظامیان حوثی در یمن.\nواکنش ریاض به حمله اخیر علیه فرودگاه بین‌المللی این کشور.",
+      "shamsi_date": "1405/06/29",
+      "tehran_time": "00:09:11",
+      "gregorian_utc": "2026-09-19T20:39:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539665+00:00"
+      "archived_at": "2026-09-20T05:30:47.207407+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358193,
-      "message_link": "https://t.me/IranintlTV/358193",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، شامگاه شنبه ۲۹ شهریور پس از ترک زودتر از موعد کمپ دیوید در ایالت مریلند، به کاخ سفید بازگشت.\nترامپ قرار بود شب را در کمپ دیوید بماند، اما برنامه خود را تغییر داد و زودتر به واشینگتن بازگشت.\nبنا به همین گزارشها بازگشت ترامپ در شرایطی صورت گرفته که دولت او در حال بررسی گام‌های بعدی در جنگ با حکومت ایران است.\nاین تغییر برنامه همچنین در آستانه سفر ترامپ به نیویورک برای شرکت در نشست مجمع عمومی سازمان ملل متحد انجام شده است.\nدلیل بازگشت زودهنگام ترامپ از کمپ دیوید اعلام نشده است.\n\nhttps://iranintl.com/202609201274",
+      "message_id": 358194,
+      "message_link": "https://t.me/IranintlTV/358194",
+      "text": "سرخط خبرهای یک‌شنبه ۲۹ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "07:22:00",
-      "gregorian_utc": "2026-09-20T03:52:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 203629,
-      "media_size_human": "198.86 KB",
+      "tehran_time": "08:02:32",
+      "gregorian_utc": "2026-09-20T04:32:32+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1107345,
+      "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358193_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358193_photo.jpg",
+      "media_local_path": "media/IranintlTV_358194_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358194_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800439+00:00"
+      "archived_at": "2026-09-20T05:30:47.614009+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76463_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76463_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.065136+00:00"
+      "archived_at": "2026-09-20T05:30:47.988424+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_121206_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121206_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356440+00:00"
+      "archived_at": "2026-09-20T05:30:48.387063+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13762,
-      "message_link": "https://t.me/zedTV/13762",
-      "text": "آغاز نشست «کوروش ۲»؛ پخش زنده از شبکه مبارز ملی و ایران اینترنشنال.\nشاهزاده رضا پهلوی آخرین سخنران این نشست خواهد بود.",
+      "message_id": 13764,
+      "message_link": "https://t.me/zedTV/13764",
+      "text": "امارات بیش از ۲۰۰ کانتینر یخچال‌دار میوه و سبزیجات صادراتی ایران را بازگرداند.\nتوقف پذیرش محموله‌های کشاورزی جمهوری اسلامی در بنادر امارات متحده عربی.\nتشدید انزوای اقتصادی و بن‌بست در صادرات محصولات غیرنفتی ایران.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "22:54:42",
-      "gregorian_utc": "2026-09-19T19:24:42+00:00",
+      "tehran_time": "23:55:20",
+      "gregorian_utc": "2026-09-19T20:25:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539710+00:00"
+      "archived_at": "2026-09-20T05:30:47.207433+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358192,
-      "message_link": "https://t.me/IranintlTV/358192",
-      "text": "وزارت خارجه آمریکا با اشاره به خطر تشدید سریع تنش‌ها و ادامه درگیری میان حوثی‌ها و عربستان سعودی، از شهروندان خود در ۹ کشور خاورمیانه خواست «هوشیاری بیشتری» داشته باشند. این وزارت‌خانه همچنین از احتمال لغو پروازها، بسته شدن حریم هوایی و دیگر اختلال‌ها در سفر به این کشورها خبر داد.\nاین هشدار امنیتی در ارتباط با عراق، بحرین، عمان، عربستان سعودی، ایران، قطر، لبنان، کویت و اردن صادر شده است. \n\nhttps://iranintl.com/202609207272",
+      "message_id": 358193,
+      "message_link": "https://t.me/IranintlTV/358193",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، شامگاه شنبه ۲۹ شهریور پس از ترک زودتر از موعد کمپ دیوید در ایالت مریلند، به کاخ سفید بازگشت.\nترامپ قرار بود شب را در کمپ دیوید بماند، اما برنامه خود را تغییر داد و زودتر به واشینگتن بازگشت.\nبنا به همین گزارشها بازگشت ترامپ در شرایطی صورت گرفته که دولت او در حال بررسی گام‌های بعدی در جنگ با حکومت ایران است.\nاین تغییر برنامه همچنین در آستانه سفر ترامپ به نیویورک برای شرکت در نشست مجمع عمومی سازمان ملل متحد انجام شده است.\nدلیل بازگشت زودهنگام ترامپ از کمپ دیوید اعلام نشده است.\n\nhttps://iranintl.com/202609201274",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "04:44:30",
-      "gregorian_utc": "2026-09-20T01:14:30+00:00",
+      "tehran_time": "07:22:00",
+      "gregorian_utc": "2026-09-20T03:52:00+00:00",
       "media_type": "photo",
-      "media_size_bytes": 201642,
-      "media_size_human": "196.92 KB",
+      "media_size_bytes": 203629,
+      "media_size_human": "198.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358192_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358192_photo.jpg",
+      "media_local_path": "media/IranintlTV_358193_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358193_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800530+00:00"
+      "archived_at": "2026-09-20T05:30:47.614063+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.065166+00:00"
+      "archived_at": "2026-09-20T05:30:47.988438+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356468+00:00"
+      "archived_at": "2026-09-20T05:30:48.387076+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13761,
-      "message_link": "https://t.me/zedTV/13761",
-      "text": "ادعای رئیس کمیسیون پارلمانی درباره خروج گسترده نیروهای آمریکایی.\nمقام رژیم مدعی فرار ۹ هزار سرباز ایالات متحده از منطقه شد.",
+      "message_id": 13763,
+      "message_link": "https://t.me/zedTV/13763",
+      "text": "آمادگی ترکیه برای ارسال تجهیزات نظامی به عربستان جهت مقابله با حملات شبه‌نظامیان حوثی.\nفعال‌سازی ظرفیت‌های دفاعی «پیمان مکه» در واکنش به تهدیدات علیه تمامیت ارضی ریاض.\nتلاش متحدان منطقه‌ای برای مهار تنش‌آفرینی‌های نیابتی جمهوری اسلامی در منطقه.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "22:40:11",
-      "gregorian_utc": "2026-09-19T19:10:11+00:00",
+      "tehran_time": "22:54:42",
+      "gregorian_utc": "2026-09-19T19:24:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539739+00:00"
+      "archived_at": "2026-09-20T05:30:47.207447+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358191,
-      "message_link": "https://t.me/IranintlTV/358191",
-      "text": "ملیسا لنتسمن، نماینده حزب محافظه‌کار کانادا، در سخنرانی در رویداد کوروش کبیر در تورنتو گفت که معتقد است مخالفان کنونی جمهوری اسلامی خواهند توانست روزی در یک «ایران آزاد» در چنین رویدادی گرد هم بیایند.\nاو گفت: «با تلاش‌های شما، روزی خواهیم توانست این گردهمایی را در تهران، در ایرانی آزاد، برگزار کنیم.»\nاین نماینده حزب محافظه‌کار کانادا گفت: «حکومت ممکن است ابزار سرکوب را در اختیار داشته باشد، اما شما چیزی به‌مراتب قدرتمندتر دارید. و می‌خواهم این را به یاد داشته باشید، آن هم چیزی که از زبان یک سیاستمدار کانادایی می‌شنوید: هزاران سال تاریخ، حقیقت، عزم مردم و سر باز زدن از اینکه بیش از این زیر ستم باشند.\nلنتسمن خطاب به شاهزاده رضا پهلوی گفت: «همان‌طور که کوروش کبیر الگویی درخشان برای نسل‌های ایرانیان به جا گذاشت، شما نیز اثر خود را بر آینده تمدن بر جای خواهید گذاشت.»\nلنتسمن تاکید کرد محافظه‌کاران کانادا همواره در کنار ایرانیانی خواهند ایستاد که برای آزادی مبارزه می‌کنند.\nاو خطاب به حاضران گفت: «همچون شیر به غرش ادامه دهید، همچون خورشید به درخشیدن ادامه دهید و شعله آزادی را زنده نگه دارید.»\nhttps://iranintl.com/20",
+      "message_id": 358192,
+      "message_link": "https://t.me/IranintlTV/358192",
+      "text": "وزارت خارجه آمریکا با اشاره به خطر تشدید سریع تنش‌ها و ادامه درگیری میان حوثی‌ها و عربستان سعودی، از شهروندان خود در ۹ کشور خاورمیانه خواست «هوشیاری بیشتری» داشته باشند. این وزارت‌خانه همچنین از احتمال لغو پروازها، بسته شدن حریم هوایی و دیگر اختلال‌ها در سفر به این کشورها خبر داد.\nاین هشدار امنیتی در ارتباط با عراق، بحرین، عمان، عربستان سعودی، ایران، قطر، لبنان، کویت و اردن صادر شده است. \n\nhttps://iranintl.com/202609207272",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "03:35:46",
-      "gregorian_utc": "2026-09-20T00:05:46+00:00",
+      "tehran_time": "04:44:30",
+      "gregorian_utc": "2026-09-20T01:14:30+00:00",
       "media_type": "photo",
-      "media_size_bytes": 128321,
-      "media_size_human": "125.31 KB",
+      "media_size_bytes": 201642,
+      "media_size_human": "196.92 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358191_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358191_photo.jpg",
+      "media_local_path": "media/IranintlTV_358192_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358192_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800679+00:00"
+      "archived_at": "2026-09-20T05:30:47.614104+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76461_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76461_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.074698+00:00"
+      "archived_at": "2026-09-20T05:30:47.988501+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": "media/Mellig_121204_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121204_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356537+00:00"
+      "archived_at": "2026-09-20T05:30:48.387111+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13760,
-      "message_link": "https://t.me/zedTV/13760",
-      "text": "سنتکام: جلوگیری از عبور بیش از یک میلیارد بشکه نفت؛ رژیم حتی یک قطره نفت نفروخت.\nانسداد کامل مسیرهای صادراتی و تسلط نیروهای ایالات متحده بر تنگه هرمز.\nرد ادعای رسانه‌های رژیم مبنی بر درآمدهای میلیاردی در سایه محاصره دریایی.",
+      "message_id": 13762,
+      "message_link": "https://t.me/zedTV/13762",
+      "text": "آغاز نشست «کوروش ۲»؛ پخش زنده از شبکه مبارز ملی و ایران اینترنشنال.\nشاهزاده رضا پهلوی آخرین سخنران این نشست خواهد بود.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "22:40:03",
-      "gregorian_utc": "2026-09-19T19:10:03+00:00",
+      "tehran_time": "22:54:42",
+      "gregorian_utc": "2026-09-19T19:24:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539767+00:00"
+      "archived_at": "2026-09-20T05:30:47.207461+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358190,
-      "message_link": "https://t.me/IranintlTV/358190",
-      "text": "ایوار فرهادی، تحلیلگر سیاسی و عضو جبهه هفت آبان، گفت چهار اصل مطرح‌شده از سوی شاهزاده رضا پهلوی، شامل حفظ تمامیت ارضی ایران، جدایی دین از حکومت، آزادی‌های فردی و حق مردم برای تعیین شکل حکومت، می‌تواند مبنای همکاری جریان‌های مختلف مخالف جمهوری اسلامی باشد. او افزود کسانی که این اصول را نمی‌پذیرند، نمی‌توانند نقشی مثبت در روند سرنگونی جمهوری اسلامی ایفا کنند.\n\nفرهادی همچنین گفت همکاری با کشورهای دیگر باید بر پایه منافع ملی ایران باشد و تاکید کرد گروه‌های مخالف در حال سازمان‌دهی هستند. او افزود جمهوری اسلامی در ضعیف‌ترین وضعیت خود قرار دارد، اما رسیدن به هدف نیازمند ادامه سازمان‌دهی و حفظ انسجام مخالفان است.\n@iranintltv",
+      "message_id": 358191,
+      "message_link": "https://t.me/IranintlTV/358191",
+      "text": "ملیسا لنتسمن، نماینده حزب محافظه‌کار کانادا، در سخنرانی در رویداد کوروش کبیر در تورنتو گفت که معتقد است مخالفان کنونی جمهوری اسلامی خواهند توانست روزی در یک «ایران آزاد» در چنین رویدادی گرد هم بیایند.\nاو گفت: «با تلاش‌های شما، روزی خواهیم توانست این گردهمایی را در تهران، در ایرانی آزاد، برگزار کنیم.»\nاین نماینده حزب محافظه‌کار کانادا گفت: «حکومت ممکن است ابزار سرکوب را در اختیار داشته باشد، اما شما چیزی به‌مراتب قدرتمندتر دارید. و می‌خواهم این را به یاد داشته باشید، آن هم چیزی که از زبان یک سیاستمدار کانادایی می‌شنوید: هزاران سال تاریخ، حقیقت، عزم مردم و سر باز زدن از اینکه بیش از این زیر ستم باشند.\nلنتسمن خطاب به شاهزاده رضا پهلوی گفت: «همان‌طور که کوروش کبیر الگویی درخشان برای نسل‌های ایرانیان به جا گذاشت، شما نیز اثر خود را بر آینده تمدن بر جای خواهید گذاشت.»\nلنتسمن تاکید کرد محافظه‌کاران کانادا همواره در کنار ایرانیانی خواهند ایستاد که برای آزادی مبارزه می‌کنند.\nاو خطاب به حاضران گفت: «همچون شیر به غرش ادامه دهید، همچون خورشید به درخشیدن ادامه دهید و شعله آزادی را زنده نگه دارید.»\nhttps://iranintl.com/20",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:48:02",
-      "gregorian_utc": "2026-09-19T23:18:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5385942,
-      "media_size_human": "5.14 MB",
+      "tehran_time": "03:35:46",
+      "gregorian_utc": "2026-09-20T00:05:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 128321,
+      "media_size_human": "125.31 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358190_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358190_video.mp4",
+      "media_local_path": "media/IranintlTV_358191_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358191_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800782+00:00"
+      "archived_at": "2026-09-20T05:30:47.614177+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.074837+00:00"
+      "archived_at": "2026-09-20T05:30:47.988546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356591+00:00"
+      "archived_at": "2026-09-20T05:30:48.387134+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13759,
-      "message_link": "https://t.me/zedTV/13759",
-      "text": "پیوستن زندان بندرعباس به کارزار «سه‌شنبه‌های نه به اعدام»؛ شمار زندان‌های معترض به ۶۳ رسید.\nتداوم اعتصاب غذای هفتگی زندانیان در سراسر کشور در اعتراض به صدور و اجرای احکام مرگ.",
+      "message_id": 13761,
+      "message_link": "https://t.me/zedTV/13761",
+      "text": "ادعای رئیس کمیسیون پارلمانی درباره خروج گسترده نیروهای آمریکایی.\nمقام رژیم مدعی فرار ۹ هزار سرباز ایالات متحده از منطقه شد.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "22:39:47",
-      "gregorian_utc": "2026-09-19T19:09:47+00:00",
+      "tehran_time": "22:40:11",
+      "gregorian_utc": "2026-09-19T19:10:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539792+00:00"
+      "archived_at": "2026-09-20T05:30:47.207475+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358189,
-      "message_link": "https://t.me/IranintlTV/358189",
-      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت بزرگ‌ترین دشمن ایران جمهوری اسلامی است و همکاری با کشورهای دیگر برای آزاد کردن ایران بر پایه منافع ملی، تمامیت ارضی و حاکمیت ملی خواهد بود. او با اشاره به اینکه براندازی جمهوری اسلامی فرایندی چندمرحله‌ای است، تاکید کرد این مسیر نیازمند صبوری، تداوم و برنامه است و افزود جمهوری اسلامی در یکی از ضعیف‌ترین موقعیت‌های خود قرار دارد.\n@iranintltv",
+      "message_id": 358190,
+      "message_link": "https://t.me/IranintlTV/358190",
+      "text": "ایوار فرهادی، تحلیلگر سیاسی و عضو جبهه هفت آبان، گفت چهار اصل مطرح‌شده از سوی شاهزاده رضا پهلوی، شامل حفظ تمامیت ارضی ایران، جدایی دین از حکومت، آزادی‌های فردی و حق مردم برای تعیین شکل حکومت، می‌تواند مبنای همکاری جریان‌های مختلف مخالف جمهوری اسلامی باشد. او افزود کسانی که این اصول را نمی‌پذیرند، نمی‌توانند نقشی مثبت در روند سرنگونی جمهوری اسلامی ایفا کنند.\n\nفرهادی همچنین گفت همکاری با کشورهای دیگر باید بر پایه منافع ملی ایران باشد و تاکید کرد گروه‌های مخالف در حال سازمان‌دهی هستند. او افزود جمهوری اسلامی در ضعیف‌ترین وضعیت خود قرار دارد، اما رسیدن به هدف نیازمند ادامه سازمان‌دهی و حفظ انسجام مخالفان است.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:38:45",
-      "gregorian_utc": "2026-09-19T23:08:45+00:00",
+      "tehran_time": "02:48:02",
+      "gregorian_utc": "2026-09-19T23:18:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 2399518,
-      "media_size_human": "2.29 MB",
+      "media_size_bytes": 5385942,
+      "media_size_human": "5.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358189_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358189_video.mp4",
+      "media_local_path": "media/IranintlTV_358190_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358190_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800860+00:00"
+      "archived_at": "2026-09-20T05:30:47.614226+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76459_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76459_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.074920+00:00"
+      "archived_at": "2026-09-20T05:30:47.988580+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356647+00:00"
+      "archived_at": "2026-09-20T05:30:48.387159+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13758,
-      "message_link": "https://t.me/zedTV/13758",
-      "text": "♦️ مایک جانسون: جنگ با جمهوری اسلامی در مراحل پایانی قرار دارد.\n♦️ رئیس مجلس نمایندگان آمریکا از فاز نهایی نبرد با رژیم خبر داد.",
+      "message_id": 13760,
+      "message_link": "https://t.me/zedTV/13760",
+      "text": "سنتکام: جلوگیری از عبور بیش از یک میلیارد بشکه نفت؛ رژیم حتی یک قطره نفت نفروخت.\nانسداد کامل مسیرهای صادراتی و تسلط نیروهای ایالات متحده بر تنگه هرمز.\nرد ادعای رسانه‌های رژیم مبنی بر درآمدهای میلیاردی در سایه محاصره دریایی.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "21:54:13",
-      "gregorian_utc": "2026-09-19T18:24:13+00:00",
+      "tehran_time": "22:40:03",
+      "gregorian_utc": "2026-09-19T19:10:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539817+00:00"
+      "archived_at": "2026-09-20T05:30:47.207488+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358188,
-      "message_link": "https://t.me/IranintlTV/358188",
-      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت شبکه ارتباطی و سازمان‌دهی مخالفان در لایه‌های مختلف جامعه فعال است و جمهوری اسلامی به‌دلیل ناتوانی در متوقف کردن آن، وجود این شبکه‌ها را انکار می‌کند. او افزود بخشی از نیروهای کشوری و لشکری جمهوری اسلامی از طریق راه‌های ارتباطی امن از حکومت اعلام جدایی کرده‌اند و مرحله «ریزش غیرفعال» در ساختار جمهوری اسلامی در جریان است؛ مرحله‌ای که به گفته او، در آن نیروها در ظاهر در ساختار باقی می‌مانند، اما دیگر کارکرد گذشته را برای حکومت ندارند.\n@iranintltv",
+      "message_id": 358189,
+      "message_link": "https://t.me/IranintlTV/358189",
+      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت بزرگ‌ترین دشمن ایران جمهوری اسلامی است و همکاری با کشورهای دیگر برای آزاد کردن ایران بر پایه منافع ملی، تمامیت ارضی و حاکمیت ملی خواهد بود. او با اشاره به اینکه براندازی جمهوری اسلامی فرایندی چندمرحله‌ای است، تاکید کرد این مسیر نیازمند صبوری، تداوم و برنامه است و افزود جمهوری اسلامی در یکی از ضعیف‌ترین موقعیت‌های خود قرار دارد.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:22:23",
-      "gregorian_utc": "2026-09-19T22:52:23+00:00",
+      "tehran_time": "02:38:45",
+      "gregorian_utc": "2026-09-19T23:08:45+00:00",
       "media_type": "video",
-      "media_size_bytes": 3083307,
-      "media_size_human": "2.94 MB",
+      "media_size_bytes": 2399518,
+      "media_size_human": "2.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358188_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358188_video.mp4",
+      "media_local_path": "media/IranintlTV_358189_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358189_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.800946+00:00"
+      "archived_at": "2026-09-20T05:30:47.614263+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76458_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76458_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.074987+00:00"
+      "archived_at": "2026-09-20T05:30:47.988610+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356700+00:00"
+      "archived_at": "2026-09-20T05:30:48.387183+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13757,
-      "message_link": "https://t.me/zedTV/13757",
-      "text": "هشدار رئیس‌جمهور لهستان: پوتین برای حمله به کشورهای حامی اوکراین برنامه‌ریزی می‌کند.\nهدف روسیه از این اقدام، فلج کردن اراده ناتو در حمایت از کی‌یف اعلام شده است.",
+      "message_id": 13759,
+      "message_link": "https://t.me/zedTV/13759",
+      "text": "پیوستن زندان بندرعباس به کارزار «سه‌شنبه‌های نه به اعدام»؛ شمار زندان‌های معترض به ۶۳ رسید.\nتداوم اعتصاب غذای هفتگی زندانیان در سراسر کشور در اعتراض به صدور و اجرای احکام مرگ.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "21:12:04",
-      "gregorian_utc": "2026-09-19T17:42:04+00:00",
+      "tehran_time": "22:39:47",
+      "gregorian_utc": "2026-09-19T19:09:47+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539841+00:00"
+      "archived_at": "2026-09-20T05:30:47.207501+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358187,
-      "message_link": "https://t.me/IranintlTV/358187",
-      "text": "شاهزاده رضا پهلوی شنبه در سخنرانی در رویداد کوروش کبیر در تورنتو گفت تیم او با توجه به سطح بالای کشتار به دست جمهوری اسلامی و شرایط جدید، در تاکتیک‌ها و روشهای اجرایی استراتژی خود تغییراتی را در نظر گرفته است.\n\nاو گفت: «تغییر تاکتیکی تغییر هدف نیست، بلکه تطبیق روش‌ها با شرایط تازه است.»\n\nشاهزاده رضا پهلوی با هشدار درباره اینکه «ماشین دروغ‌پردازی» جمهوری اسلامی شبانه‌روز تلاش می‌کند بذر ناامیدی بپاشد، گفت: «دروغ اول این است که می‌گویند مردم و اپوزیسیون متحد نیستند و برنامه ندارند. پاسخ روشن است. اتحاد به معنای شبیه هم نبودن در همه جزییات نیست. اتحاد یعنی داشتن هدف و اصول مشترک و همکاری بر پایه آن اصول و اهداف در چارچوب برنامه و استراتژی کلان.»\n\nاو تاکید کرد: «هدف ما مشخص است: سرنگون کردن جمهوری اسلامی و رسیدن به یک ایران آزاد و آباد.»\nhttps://iranintl.com/202609198919",
+      "message_id": 358188,
+      "message_link": "https://t.me/IranintlTV/358188",
+      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت شبکه ارتباطی و سازمان‌دهی مخالفان در لایه‌های مختلف جامعه فعال است و جمهوری اسلامی به‌دلیل ناتوانی در متوقف کردن آن، وجود این شبکه‌ها را انکار می‌کند. او افزود بخشی از نیروهای کشوری و لشکری جمهوری اسلامی از طریق راه‌های ارتباطی امن از حکومت اعلام جدایی کرده‌اند و مرحله «ریزش غیرفعال» در ساختار جمهوری اسلامی در جریان است؛ مرحله‌ای که به گفته او، در آن نیروها در ظاهر در ساختار باقی می‌مانند، اما دیگر کارکرد گذشته را برای حکومت ندارند.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:14:17",
-      "gregorian_utc": "2026-09-19T22:44:17+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 144553,
-      "media_size_human": "141.17 KB",
+      "tehran_time": "02:22:23",
+      "gregorian_utc": "2026-09-19T22:52:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3083307,
+      "media_size_human": "2.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358187_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358187_photo.jpg",
+      "media_local_path": "media/IranintlTV_358188_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358188_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.801077+00:00"
+      "archived_at": "2026-09-20T05:30:47.614305+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76457_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76457_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.075308+00:00"
+      "archived_at": "2026-09-20T05:30:47.988762+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_121200_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121200_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.356762+00:00"
+      "archived_at": "2026-09-20T05:30:48.387211+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13756,
-      "message_link": "https://t.me/zedTV/13756",
-      "text": "هشدار بریتانیا به شهروندان برای ذخیره مواد غذایی و آمادگی برای جنگ احتمالی.\nانتقال دائمی کنترل استراتژیک گرینلند از سوی دانمارک به ایالات متحده.\nافزایش نگرانی‌های بین‌المللی در پی اقدامات تحریک‌آمیز روسیه.",
+      "message_id": 13758,
+      "message_link": "https://t.me/zedTV/13758",
+      "text": "♦️ مایک جانسون: جنگ با جمهوری اسلامی در مراحل پایانی قرار دارد.\n♦️ رئیس مجلس نمایندگان آمریکا از فاز نهایی نبرد با رژیم خبر داد.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "21:12:04",
-      "gregorian_utc": "2026-09-19T17:42:04+00:00",
+      "tehran_time": "21:54:13",
+      "gregorian_utc": "2026-09-19T18:24:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539868+00:00"
+      "archived_at": "2026-09-20T05:30:47.207514+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358186,
-      "message_link": "https://t.me/IranintlTV/358186",
-      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت با توجه به شرایط جدید، تاکتیک‌ها و روش‌های اجرایی مخالفان جمهوری اسلامی تغییر کرده، اما هدف همچنان سرنگونی جمهوری اسلامی و دستیابی به ایرانی آزاد و آباد است.\n\nاو گفت جمهوری اسلامی با «دو دروغ» در پی ایجاد ناامیدی است: نخست اینکه مخالفان متحد نیستند و برنامه‌ای ندارند، و دوم اینکه هیچ سازمان‌دهی‌ای در میان آنان وجود ندارد. شاهزاده رضا پهلوی تاکید کرد مخالفان بر چهار اصل حفظ تمامیت ارضی ایران، جدایی دین از حکومت، آزادی‌های فردی و برابری شهروندان و حق انتخاب شکل حکومت آینده از طریق رای آزاد توافق دارند و برای فشار بر جمهوری اسلامی، حمایت از مردم، سازمان‌دهی نیروها، ریزش در ساختار حکومت و مدیریت دوره گذار برنامه مشخصی دارند. او همچنین گفت هماهنگی میلیون‌ها ایرانی در داخل و خارج کشور نشان می‌دهد سازمان‌دهی وجود دارد.\n@iranintltv",
+      "message_id": 358187,
+      "message_link": "https://t.me/IranintlTV/358187",
+      "text": "شاهزاده رضا پهلوی شنبه در سخنرانی در رویداد کوروش کبیر در تورنتو گفت تیم او با توجه به سطح بالای کشتار به دست جمهوری اسلامی و شرایط جدید، در تاکتیک‌ها و روشهای اجرایی استراتژی خود تغییراتی را در نظر گرفته است.\n\nاو گفت: «تغییر تاکتیکی تغییر هدف نیست، بلکه تطبیق روش‌ها با شرایط تازه است.»\n\nشاهزاده رضا پهلوی با هشدار درباره اینکه «ماشین دروغ‌پردازی» جمهوری اسلامی شبانه‌روز تلاش می‌کند بذر ناامیدی بپاشد، گفت: «دروغ اول این است که می‌گویند مردم و اپوزیسیون متحد نیستند و برنامه ندارند. پاسخ روشن است. اتحاد به معنای شبیه هم نبودن در همه جزییات نیست. اتحاد یعنی داشتن هدف و اصول مشترک و همکاری بر پایه آن اصول و اهداف در چارچوب برنامه و استراتژی کلان.»\n\nاو تاکید کرد: «هدف ما مشخص است: سرنگون کردن جمهوری اسلامی و رسیدن به یک ایران آزاد و آباد.»\nhttps://iranintl.com/202609198919",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:13:04",
-      "gregorian_utc": "2026-09-19T22:43:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3066740,
-      "media_size_human": "2.92 MB",
+      "tehran_time": "02:14:17",
+      "gregorian_utc": "2026-09-19T22:44:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 144553,
+      "media_size_human": "141.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358186_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358186_video.mp4",
+      "media_local_path": "media/IranintlTV_358187_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358187_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.801194+00:00"
+      "archived_at": "2026-09-20T05:30:47.614361+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76456_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76456_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.075358+00:00"
+      "archived_at": "2026-09-20T05:30:47.988791+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-20T05:21:10.356823+00:00"
+      "archived_at": "2026-09-20T05:30:48.387236+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 13755,
-      "message_link": "https://t.me/zedTV/13755",
-      "text": "کانال ۱۳ اسرائیل: ابلاغ شروط تهران برای پایان جنگ به واشینگتن توسط قطر.\nرژیم ایران در انتظار واکنش دونالد ترامپ است.",
+      "message_id": 13757,
+      "message_link": "https://t.me/zedTV/13757",
+      "text": "هشدار رئیس‌جمهور لهستان: پوتین برای حمله به کشورهای حامی اوکراین برنامه‌ریزی می‌کند.\nهدف روسیه از این اقدام، فلج کردن اراده ناتو در حمایت از کی‌یف اعلام شده است.",
       "shamsi_date": "1405/06/28",
-      "tehran_time": "21:11:56",
-      "gregorian_utc": "2026-09-19T17:41:56+00:00",
+      "tehran_time": "21:12:04",
+      "gregorian_utc": "2026-09-19T17:42:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:09.539892+00:00"
+      "archived_at": "2026-09-20T05:30:47.207525+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358185,
-      "message_link": "https://t.me/IranintlTV/358185",
-      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت بار اصلی مبارزه برای آزادی بر دوش مردم ایران است و انقلاب «شیر و خورشید» در لایه‌های عمیق جامعه ریشه دوانده است. او افزود حوادث دی‌ماه ۱۴۰۴ نتیجه مسیری طولانی بود که از گردهمایی‌های روز کوروش در سال ۱۳۹۵ آغاز شد و با اعتراضات دی ۹۶، آبان ۹۸ و خیزش ۱۴۰۱ ادامه یافت.\n\nاو همچنین گفت جمهوری اسلامی در جریان اعتراضات ۱۸ و ۱۹ دی، با تصور نزدیک بودن سقوط خود، دست به یکی از بزرگ‌ترین جنایت‌های تاریخ زد. به گفته شاهزاده رضا پهلوی، با وجود تغییر شرایط، مخالفان جمهوری اسلامی امروز باتجربه‌تر، منسجم‌تر و مستحکم‌تر از هر زمان دیگری هستند.\n@iranintltv",
+      "message_id": 358186,
+      "message_link": "https://t.me/IranintlTV/358186",
+      "text": "شاهزاده رضا پهلوی در دومین دوره رویداد «کوروش کبیر» در تورنتو گفت با توجه به شرایط جدید، تاکتیک‌ها و روش‌های اجرایی مخالفان جمهوری اسلامی تغییر کرده، اما هدف همچنان سرنگونی جمهوری اسلامی و دستیابی به ایرانی آزاد و آباد است.\n\nاو گفت جمهوری اسلامی با «دو دروغ» در پی ایجاد ناامیدی است: نخست اینکه مخالفان متحد نیستند و برنامه‌ای ندارند، و دوم اینکه هیچ سازمان‌دهی‌ای در میان آنان وجود ندارد. شاهزاده رضا پهلوی تاکید کرد مخالفان بر چهار اصل حفظ تمامیت ارضی ایران، جدایی دین از حکومت، آزادی‌های فردی و برابری شهروندان و حق انتخاب شکل حکومت آینده از طریق رای آزاد توافق دارند و برای فشار بر جمهوری اسلامی، حمایت از مردم، سازمان‌دهی نیروها، ریزش در ساختار حکومت و مدیریت دوره گذار برنامه مشخصی دارند. او همچنین گفت هماهنگی میلیون‌ها ایرانی در داخل و خارج کشور نشان می‌دهد سازمان‌دهی وجود دارد.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "02:02:10",
-      "gregorian_utc": "2026-09-19T22:32:10+00:00",
+      "tehran_time": "02:13:04",
+      "gregorian_utc": "2026-09-19T22:43:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 1644870,
-      "media_size_human": "1.57 MB",
+      "media_size_bytes": 3066740,
+      "media_size_human": "2.92 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358185_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358185_video.mp4",
+      "media_local_path": "media/IranintlTV_358186_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358186_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:09.801288+00:00"
+      "archived_at": "2026-09-20T05:30:47.614416+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76455_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76455_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T05:21:10.075397+00:00"
+      "archived_at": "2026-09-20T05:30:47.988808+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T05:21:10.356882+00:00"
+      "archived_at": "2026-09-20T05:30:48.387261+00:00"
     }
   ]
 }
