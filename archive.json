@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T11:04:33.544471+00:00",
-  "shamsi_generated": "1405/06/29 11:04:33 تهران",
+  "generated_at": "2026-09-20T11:18:52.940137+00:00",
+  "shamsi_generated": "1405/06/29 11:18:52 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.387949+00:00"
+      "archived_at": "2026-09-20T11:10:36.547753+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358244,
-      "message_link": "https://t.me/IranintlTV/358244",
-      "text": "قرارگاه مرکزی خاتم‌الانبیا اعلام کرد بر اساس اطلاعات دریافتی، آمریکا بار دیگر تصمیم گرفته با چراغ سبز برخی کشورهای منطقه در نشست مشترکی در یکی از کشورهای اروپایی، اقداماتی علیه جمهوری اسلامی را از سر بگیرد.\n\nقرارگاه مرکزی خاتم‌الانبیا همچنین اعلام کرد هشدار می‌دهیم چنانچه آمریکا علیه جمهوری اسلامی خطایی مرتکب شود، تمامی مراکز استقراری و منافع آن کشور در منطقه، بدون هیچ‌گونه محدودیت و ملاحظه‌ای، هدف حملات مستمر، موثر و دردناک قرار خواهد گرفت.\n\nقرارگاه مرکزی خاتم‌الانبیا در ادامه ضمن تهدید کشورهای منطقه، اضافه کرد: «چنانچه کشورهای منطقه با تداوم سیاست دوگانه در قبال جمهوری اسلامی با آمریکا همسو شوند، همگی در این شرارت شریک تلقی شده و دیگر نمی‌توانند از نیروهای مسلح انتظار خویشتنداری یا نجابت داشته باشند.»\n\nپیش‌تر اکسیوس به نقل از دو مقام اسرائیلی گزارش داده بود فرماندهان ارشد نظامی آمریکا، اسرائیل، عربستان سعودی، امارات متحده عربی، بحرین، کویت، قطر، اردن و مصر، در نشستی محرمانه در آلمان درباره جنگ با جمهوری اسلامی و تنش‌های منطقه گفت‌وگو کرده بودند.\nhttps://iranintl.com/202609205982",
+      "message_id": 358245,
+      "message_link": "https://t.me/IranintlTV/358245",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان ساکن هلند و فنلاند، شنبه ۲۸ شهریور، برای بزرگداشت سالگرد خیزش مهسا، در شهرهای لاهه و هلسینکی راهپیمایی کردند.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "14:11:45",
-      "gregorian_utc": "2026-09-20T10:41:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 216857,
-      "media_size_human": "211.77 KB",
+      "tehran_time": "14:31:05",
+      "gregorian_utc": "2026-09-20T11:01:05+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9562045,
+      "media_size_human": "9.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358244_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358244_photo.jpg",
+      "media_local_path": "media/IranintlTV_358245_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358245_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.677810+00:00"
+      "archived_at": "2026-09-20T11:10:36.867816+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76469_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76469_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006128+00:00"
+      "archived_at": "2026-09-20T11:10:37.247123+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 218.08 MB)",
-      "archived_at": "2026-09-20T11:00:49.311887+00:00"
+      "archived_at": "2026-09-20T11:10:37.551684+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388000+00:00"
+      "archived_at": "2026-09-20T11:10:36.547784+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358243,
-      "message_link": "https://t.me/IranintlTV/358243",
-      "text": "سرخط خبرهای یک‌شنبه ۲۹ شهریور\n@iranintltv",
+      "message_id": 358244,
+      "message_link": "https://t.me/IranintlTV/358244",
+      "text": "قرارگاه مرکزی خاتم‌الانبیا اعلام کرد بر اساس اطلاعات دریافتی، آمریکا بار دیگر تصمیم گرفته با چراغ سبز برخی کشورهای منطقه در نشست مشترکی در یکی از کشورهای اروپایی، اقداماتی علیه جمهوری اسلامی را از سر بگیرد.\n\nقرارگاه مرکزی خاتم‌الانبیا همچنین اعلام کرد هشدار می‌دهیم چنانچه آمریکا علیه جمهوری اسلامی خطایی مرتکب شود، تمامی مراکز استقراری و منافع آن کشور در منطقه، بدون هیچ‌گونه محدودیت و ملاحظه‌ای، هدف حملات مستمر، موثر و دردناک قرار خواهد گرفت.\n\nقرارگاه مرکزی خاتم‌الانبیا در ادامه ضمن تهدید کشورهای منطقه، اضافه کرد: «چنانچه کشورهای منطقه با تداوم سیاست دوگانه در قبال جمهوری اسلامی با آمریکا همسو شوند، همگی در این شرارت شریک تلقی شده و دیگر نمی‌توانند از نیروهای مسلح انتظار خویشتنداری یا نجابت داشته باشند.»\n\nپیش‌تر اکسیوس به نقل از دو مقام اسرائیلی گزارش داده بود فرماندهان ارشد نظامی آمریکا، اسرائیل، عربستان سعودی، امارات متحده عربی، بحرین، کویت، قطر، اردن و مصر، در نشستی محرمانه در آلمان درباره جنگ با جمهوری اسلامی و تنش‌های منطقه گفت‌وگو کرده بودند.\nhttps://iranintl.com/202609205982",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "14:08:47",
-      "gregorian_utc": "2026-09-20T10:38:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1279667,
-      "media_size_human": "1.22 MB",
+      "tehran_time": "14:11:45",
+      "gregorian_utc": "2026-09-20T10:41:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 216857,
+      "media_size_human": "211.77 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358243_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358243_video.mp4",
+      "media_local_path": "media/IranintlTV_358244_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358244_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.677879+00:00"
+      "archived_at": "2026-09-20T11:10:36.867940+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76468_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76468_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006192+00:00"
+      "archived_at": "2026-09-20T11:10:37.247164+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 99.85 MB)",
-      "archived_at": "2026-09-20T11:00:49.311999+00:00"
+      "archived_at": "2026-09-20T11:10:37.551744+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388036+00:00"
+      "archived_at": "2026-09-20T11:10:36.547803+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358242,
-      "message_link": "https://t.me/IranintlTV/358242",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به گذشت ۹۵ روز از امضای تفاهم‌نامه میان جمهوری اسلامی و آمریکا گفت به نظر می‌رسد سپاه پاسداران با نگاه به انتخابات میان‌دوره‌ای کنگره آمریکا، تصور می‌کند با فرسایشی کردن نبرد و حاکم کردن فضای وحشت بر اقتصاد جهان می‌تواند به شکست ترامپ و جمهوری‌خواهان در انتخابات کمک کند.\n@iranintltv",
+      "message_id": 358243,
+      "message_link": "https://t.me/IranintlTV/358243",
+      "text": "سرخط خبرهای یک‌شنبه ۲۹ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "14:01:54",
-      "gregorian_utc": "2026-09-20T10:31:54+00:00",
+      "tehran_time": "14:08:47",
+      "gregorian_utc": "2026-09-20T10:38:47+00:00",
       "media_type": "video",
-      "media_size_bytes": 3412457,
-      "media_size_human": "3.25 MB",
+      "media_size_bytes": 1279667,
+      "media_size_human": "1.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358242_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358242_video.mp4",
+      "media_local_path": "media/IranintlTV_358243_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358243_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.677984+00:00"
+      "archived_at": "2026-09-20T11:10:36.867971+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76467_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76467_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006260+00:00"
+      "archived_at": "2026-09-20T11:10:37.247198+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121215_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121215_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312095+00:00"
+      "archived_at": "2026-09-20T11:10:37.551792+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388077+00:00"
+      "archived_at": "2026-09-20T11:10:36.547825+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358241,
-      "message_link": "https://t.me/IranintlTV/358241",
-      "text": "یک کودک با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها در ایران می‌گوید قیمت یک بستنی و یک پفک حدود ۲۰۵ هزار تومان شده است.",
+      "message_id": 358242,
+      "message_link": "https://t.me/IranintlTV/358242",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به گذشت ۹۵ روز از امضای تفاهم‌نامه میان جمهوری اسلامی و آمریکا گفت به نظر می‌رسد سپاه پاسداران با نگاه به انتخابات میان‌دوره‌ای کنگره آمریکا، تصور می‌کند با فرسایشی کردن نبرد و حاکم کردن فضای وحشت بر اقتصاد جهان می‌تواند به شکست ترامپ و جمهوری‌خواهان در انتخابات کمک کند.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "14:01:47",
-      "gregorian_utc": "2026-09-20T10:31:47+00:00",
+      "tehran_time": "14:01:54",
+      "gregorian_utc": "2026-09-20T10:31:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 6139125,
-      "media_size_human": "5.85 MB",
+      "media_size_bytes": 3412457,
+      "media_size_human": "3.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358241_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358241_video.mp4",
+      "media_local_path": "media/IranintlTV_358242_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358242_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.678031+00:00"
+      "archived_at": "2026-09-20T11:10:36.868011+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-20T11:00:49.006330+00:00"
+      "archived_at": "2026-09-20T11:10:37.247236+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121213_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121213_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312148+00:00"
+      "archived_at": "2026-09-20T11:10:37.551817+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388112+00:00"
+      "archived_at": "2026-09-20T11:10:36.547842+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358240,
-      "message_link": "https://t.me/IranintlTV/358240",
-      "text": "محمد سلیمی، رییس مرکز امور بین‌الملل و مدارس خارج از کشور وزارت آموزش و پرورش، گفت دولت کویت مجوز مدارس ایرانی فعال در این کشور را لغو و از ادامه فعالیت آموزشی آنها جلوگیری کرده است.\n\nاو افزود: «دولت‌های وابسته به دشمن آمریکایی اسرائیلی در اقدامی غیرقانونی تمامی مدارس ایرانی مستقر در کویت و امارات متحده عربی را تعطیل کرده‌اند.»\n\nسلیمی با اشاره به اینکه مدارس ایرانی در امارات متحده عربی سال گذشته تعطیل شدند، گفت در حال حاضر ۷۱ مدرسه ایرانی در ۳۴ کشور فعالیت آموزشی دارند.\nhttps://iranintl.com/202609204309",
+      "message_id": 358241,
+      "message_link": "https://t.me/IranintlTV/358241",
+      "text": "یک کودک با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها در ایران می‌گوید قیمت یک بستنی و یک پفک حدود ۲۰۵ هزار تومان شده است.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:59:08",
-      "gregorian_utc": "2026-09-20T10:29:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162516,
-      "media_size_human": "158.71 KB",
+      "tehran_time": "14:01:47",
+      "gregorian_utc": "2026-09-20T10:31:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6139125,
+      "media_size_human": "5.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358240_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358240_photo.jpg",
+      "media_local_path": "media/IranintlTV_358241_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358241_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.678130+00:00"
+      "archived_at": "2026-09-20T11:10:36.868030+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76465_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76465_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006374+00:00"
+      "archived_at": "2026-09-20T11:10:37.247257+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121212_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121212_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312221+00:00"
+      "archived_at": "2026-09-20T11:10:37.551853+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388150+00:00"
+      "archived_at": "2026-09-20T11:10:36.547863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358239,
-      "message_link": "https://t.me/IranintlTV/358239",
-      "text": "🔻کاروان ایران اولین مدال خود را در بازی‌های آسیایی ۲۰۲۶ ناگویا به دست آورد. تیم ملی بسکتبال مردان ایران در بازی رده‌بندی، چین را ۷۹ بر ۷۰ شکست داد و به مدال برنز این مسابقات رسید.\n\n🔹گفت‌وگو با سمیه مهری، روزنامه‌نگار، و علیرضا مدیری، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 358240,
+      "message_link": "https://t.me/IranintlTV/358240",
+      "text": "محمد سلیمی، رییس مرکز امور بین‌الملل و مدارس خارج از کشور وزارت آموزش و پرورش، گفت دولت کویت مجوز مدارس ایرانی فعال در این کشور را لغو و از ادامه فعالیت آموزشی آنها جلوگیری کرده است.\n\nاو افزود: «دولت‌های وابسته به دشمن آمریکایی اسرائیلی در اقدامی غیرقانونی تمامی مدارس ایرانی مستقر در کویت و امارات متحده عربی را تعطیل کرده‌اند.»\n\nسلیمی با اشاره به اینکه مدارس ایرانی در امارات متحده عربی سال گذشته تعطیل شدند، گفت در حال حاضر ۷۱ مدرسه ایرانی در ۳۴ کشور فعالیت آموزشی دارند.\nhttps://iranintl.com/202609204309",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:56:04",
-      "gregorian_utc": "2026-09-20T10:26:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3360474,
-      "media_size_human": "3.20 MB",
+      "tehran_time": "13:59:08",
+      "gregorian_utc": "2026-09-20T10:29:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162516,
+      "media_size_human": "158.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358239_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358239_video.mp4",
+      "media_local_path": "media/IranintlTV_358240_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358240_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.695895+00:00"
+      "archived_at": "2026-09-20T11:10:36.868091+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76464_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76464_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006412+00:00"
+      "archived_at": "2026-09-20T11:10:37.247277+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_121211_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121211_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312290+00:00"
+      "archived_at": "2026-09-20T11:10:37.551891+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": "media/zedTV_13773_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_13773_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.388261+00:00"
+      "archived_at": "2026-09-20T11:10:36.547948+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358238,
-      "message_link": "https://t.me/IranintlTV/358238",
-      "text": "محمدباقر قالیباف، رییس مجلس، گفت دوگانه جنگ یا مذاکره واقعی نیست و «هم باید جنگید و هم مذاکره کرد». او افزود پس از وارد کردن «ضربات مهلک» و کسب «پیروزی میدانی»، باید با استفاده از دیپلماسی امتیازات به‌دست‌آمده را تثبیت کرد.\n@iranintltv",
+      "message_id": 358239,
+      "message_link": "https://t.me/IranintlTV/358239",
+      "text": "🔻کاروان ایران اولین مدال خود را در بازی‌های آسیایی ۲۰۲۶ ناگویا به دست آورد. تیم ملی بسکتبال مردان ایران در بازی رده‌بندی، چین را ۷۹ بر ۷۰ شکست داد و به مدال برنز این مسابقات رسید.\n\n🔹گفت‌وگو با سمیه مهری، روزنامه‌نگار، و علیرضا مدیری، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:44:28",
-      "gregorian_utc": "2026-09-20T10:14:28+00:00",
+      "tehran_time": "13:56:04",
+      "gregorian_utc": "2026-09-20T10:26:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 658893,
-      "media_size_human": "643.45 KB",
+      "media_size_bytes": 3360474,
+      "media_size_human": "3.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358238_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358238_video.mp4",
+      "media_local_path": "media/IranintlTV_358239_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358239_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696074+00:00"
+      "archived_at": "2026-09-20T11:10:36.880087+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76463_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76463_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006478+00:00"
+      "archived_at": "2026-09-20T11:10:37.247311+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_121210_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121210_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312330+00:00"
+      "archived_at": "2026-09-20T11:10:37.551910+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388306+00:00"
+      "archived_at": "2026-09-20T11:10:36.547971+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358237,
-      "message_link": "https://t.me/IranintlTV/358237",
-      "text": "مفتی رسمی حوثی‌ها در جنوب یمن از حمله به شهرهای مکه و مدینه دفاع کرد. به گزارش شبکه المسیره، ارگان حوثی‌ها، علوی بن سهل گفت: «این گروه دو حرم مکه و مدینه را هدف قرار می‌دهد تا آن‌ها را به مناره‌ای آزاد برای مسلمانان تبدیل کند.»\n\nپس از حملات حوثی‌ها و انهدام یک جنگنده ایتالیایی، رم در حال بازنگری در آرایش نیروهایش در منطقه است.\n\nگفت‌وگو با صدف باغبانی و تروسکه صادقی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 358238,
+      "message_link": "https://t.me/IranintlTV/358238",
+      "text": "محمدباقر قالیباف، رییس مجلس، گفت دوگانه جنگ یا مذاکره واقعی نیست و «هم باید جنگید و هم مذاکره کرد». او افزود پس از وارد کردن «ضربات مهلک» و کسب «پیروزی میدانی»، باید با استفاده از دیپلماسی امتیازات به‌دست‌آمده را تثبیت کرد.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:39:45",
-      "gregorian_utc": "2026-09-20T10:09:45+00:00",
+      "tehran_time": "13:44:28",
+      "gregorian_utc": "2026-09-20T10:14:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 4348169,
-      "media_size_human": "4.15 MB",
+      "media_size_bytes": 658893,
+      "media_size_human": "643.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358237_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358237_video.mp4",
+      "media_local_path": "media/IranintlTV_358238_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358238_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696170+00:00"
+      "archived_at": "2026-09-20T11:10:36.880156+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.006507+00:00"
+      "archived_at": "2026-09-20T11:10:37.247325+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.312376+00:00"
+      "archived_at": "2026-09-20T11:10:37.551932+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388336+00:00"
+      "archived_at": "2026-09-20T11:10:36.547987+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358236,
-      "message_link": "https://t.me/IranintlTV/358236",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، خانه جاویدنام مصطفی شریفی را در تهران نشان می‌دهد که مردم برای زادروز او گل گذاشته‌اند.\nمصطفی شریفی، متولد ۱۳۶۴، شامگاه ۱۸ دی‌ ۱۴۰۴ در محدوده آریاشهر تهران کشته شد.",
+      "message_id": 358237,
+      "message_link": "https://t.me/IranintlTV/358237",
+      "text": "مفتی رسمی حوثی‌ها در جنوب یمن از حمله به شهرهای مکه و مدینه دفاع کرد. به گزارش شبکه المسیره، ارگان حوثی‌ها، علوی بن سهل گفت: «این گروه دو حرم مکه و مدینه را هدف قرار می‌دهد تا آن‌ها را به مناره‌ای آزاد برای مسلمانان تبدیل کند.»\n\nپس از حملات حوثی‌ها و انهدام یک جنگنده ایتالیایی، رم در حال بازنگری در آرایش نیروهایش در منطقه است.\n\nگفت‌وگو با صدف باغبانی و تروسکه صادقی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:31:51",
-      "gregorian_utc": "2026-09-20T10:01:51+00:00",
+      "tehran_time": "13:39:45",
+      "gregorian_utc": "2026-09-20T10:09:45+00:00",
       "media_type": "video",
-      "media_size_bytes": 5268581,
-      "media_size_human": "5.02 MB",
+      "media_size_bytes": 4348169,
+      "media_size_human": "4.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358236_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358236_video.mp4",
+      "media_local_path": "media/IranintlTV_358237_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358237_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696214+00:00"
+      "archived_at": "2026-09-20T11:10:36.880204+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76461_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76461_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006617+00:00"
+      "archived_at": "2026-09-20T11:10:37.247388+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-20T11:00:49.312435+00:00"
+      "archived_at": "2026-09-20T11:10:37.551961+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388368+00:00"
+      "archived_at": "2026-09-20T11:10:36.548001+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358235,
-      "message_link": "https://t.me/IranintlTV/358235",
-      "text": "به گزارش اسرائیل‌هیوم، جمهوری اسلامی با اعمال فشار بر نیروهای نیابتی‌اش در یمن تلاش می‌کند محاصره تنگه باب‌المندب ادامه یابد تا با افزایش قیمت جهانی نفت، به دونالد ترامپ، رییس‌جمهوری آمریکا و جمهوری‌خواهان آسیب سیاسی وارد کند.\n\nگفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 358236,
+      "message_link": "https://t.me/IranintlTV/358236",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، خانه جاویدنام مصطفی شریفی را در تهران نشان می‌دهد که مردم برای زادروز او گل گذاشته‌اند.\nمصطفی شریفی، متولد ۱۳۶۴، شامگاه ۱۸ دی‌ ۱۴۰۴ در محدوده آریاشهر تهران کشته شد.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:13:05",
-      "gregorian_utc": "2026-09-20T09:43:05+00:00",
+      "tehran_time": "13:31:51",
+      "gregorian_utc": "2026-09-20T10:01:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 2452063,
-      "media_size_human": "2.34 MB",
+      "media_size_bytes": 5268581,
+      "media_size_human": "5.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358235_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358235_video.mp4",
+      "media_local_path": "media/IranintlTV_358236_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358236_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696285+00:00"
+      "archived_at": "2026-09-20T11:10:36.880224+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.006799+00:00"
+      "archived_at": "2026-09-20T11:10:37.247517+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.312495+00:00"
+      "archived_at": "2026-09-20T11:10:37.551992+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388394+00:00"
+      "archived_at": "2026-09-20T11:10:36.548013+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358234,
-      "message_link": "https://t.me/IranintlTV/358234",
-      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان ساکن سوئد، شنبه ۲۸ شهریور، برای بزرگداشت سالگرد خیزش مهسا، در گوتنبرگ راهپیمایی کردند.",
+      "message_id": 358235,
+      "message_link": "https://t.me/IranintlTV/358235",
+      "text": "به گزارش اسرائیل‌هیوم، جمهوری اسلامی با اعمال فشار بر نیروهای نیابتی‌اش در یمن تلاش می‌کند محاصره تنگه باب‌المندب ادامه یابد تا با افزایش قیمت جهانی نفت، به دونالد ترامپ، رییس‌جمهوری آمریکا و جمهوری‌خواهان آسیب سیاسی وارد کند.\n\nگفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:04:12",
-      "gregorian_utc": "2026-09-20T09:34:12+00:00",
+      "tehran_time": "13:13:05",
+      "gregorian_utc": "2026-09-20T09:43:05+00:00",
       "media_type": "video",
-      "media_size_bytes": 16664075,
-      "media_size_human": "15.89 MB",
+      "media_size_bytes": 2452063,
+      "media_size_human": "2.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358234_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358234_video.mp4",
+      "media_local_path": "media/IranintlTV_358235_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358235_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696323+00:00"
+      "archived_at": "2026-09-20T11:10:36.880258+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76459_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76459_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006876+00:00"
+      "archived_at": "2026-09-20T11:10:37.247555+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_121206_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121206_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312536+00:00"
+      "archived_at": "2026-09-20T11:10:37.552015+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388426+00:00"
+      "archived_at": "2026-09-20T11:10:36.548026+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358233,
-      "message_link": "https://t.me/IranintlTV/358233",
-      "text": "🔻تیم‌ ملی بسکتبال ایران در دیدار رده‌بندی بازی‌های آسیایی ناگویا ۲۰۲۶ با نتیجه ۷۹ بر ۷۰ چین را شکست داد و به مدال برنز رسید.\n\n🔹ایران کوارتر نخست را ۱۷ بر ۱۲ واگذار کرد، اما در کوارتر دوم به بازی برگشت و ۱۷ بر ۱۴ به برتری رسید. اوج درخشش ملی‌پوشان در کوارتر سوم بود که ۲۶ بر ۱۵ به برتری رسیدند. در کوارتر چهارم هم دو تیم به تساوی ۲۴ بر ۲۴ رسیدند.\n\n🔹متین آقاجان‌پور با کسب ۲۱ امتیاز، پرامتیازترین بازیکن ایران بود. پیتر گریگوریان هم با ۱۵ امتیاز، نمایش درخشانی داشت.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 358234,
+      "message_link": "https://t.me/IranintlTV/358234",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان ساکن سوئد، شنبه ۲۸ شهریور، برای بزرگداشت سالگرد خیزش مهسا، در گوتنبرگ راهپیمایی کردند.",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:03:17",
-      "gregorian_utc": "2026-09-20T09:33:17+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 191053,
-      "media_size_human": "186.58 KB",
+      "tehran_time": "13:04:12",
+      "gregorian_utc": "2026-09-20T09:34:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 16664075,
+      "media_size_human": "15.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358233_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358233_photo.jpg",
+      "media_local_path": "media/IranintlTV_358234_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358234_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696438+00:00"
+      "archived_at": "2026-09-20T11:10:36.880274+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -861,11 +861,11 @@
       "media_type": "photo",
       "media_size_bytes": 45530,
       "media_size_human": "44.46 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76458_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76458_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.006961+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:37.247586+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.312563+00:00"
+      "archived_at": "2026-09-20T11:10:37.552028+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388450+00:00"
+      "archived_at": "2026-09-20T11:10:36.548048+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358232,
-      "message_link": "https://t.me/IranintlTV/358232",
-      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، درباره انتقال شروط تهران برای توقف جنگ به آمریکا از طریق قطر گفت در شرایط محاصره دریایی، فشار تحریمی و حملات نظامی محدود آمریکا، جمهوری اسلامی در تلاش است واشینگتن را به بازگشت به مذاکره متقاعد کند.\n\nاو افزود جمهوری اسلامی هم‌زمان دو مسیر را دنبال می‌کند؛ نگاه به دیپلماسی و افزایش سطح تنش از طریق ناآرام کردن تنگه هرمز و اقدامات حوثی‌ها در باب‌المندب.\n@iranintltv",
+      "message_id": 358233,
+      "message_link": "https://t.me/IranintlTV/358233",
+      "text": "🔻تیم‌ ملی بسکتبال ایران در دیدار رده‌بندی بازی‌های آسیایی ناگویا ۲۰۲۶ با نتیجه ۷۹ بر ۷۰ چین را شکست داد و به مدال برنز رسید.\n\n🔹ایران کوارتر نخست را ۱۷ بر ۱۲ واگذار کرد، اما در کوارتر دوم به بازی برگشت و ۱۷ بر ۱۴ به برتری رسید. اوج درخشش ملی‌پوشان در کوارتر سوم بود که ۲۶ بر ۱۵ به برتری رسیدند. در کوارتر چهارم هم دو تیم به تساوی ۲۴ بر ۲۴ رسیدند.\n\n🔹متین آقاجان‌پور با کسب ۲۱ امتیاز، پرامتیازترین بازیکن ایران بود. پیتر گریگوریان هم با ۱۵ امتیاز، نمایش درخشانی داشت.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "13:00:36",
-      "gregorian_utc": "2026-09-20T09:30:36+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4802843,
-      "media_size_human": "4.58 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358232_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358232_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696531+00:00"
+      "tehran_time": "13:03:17",
+      "gregorian_utc": "2026-09-20T09:33:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 191053,
+      "media_size_human": "186.58 KB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:36.880337+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -933,11 +933,11 @@
       "media_type": "photo",
       "media_size_bytes": 86501,
       "media_size_human": "84.47 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76457_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76457_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.007248+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:37.247739+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -951,11 +951,11 @@
       "media_type": "photo",
       "media_size_bytes": 100343,
       "media_size_human": "97.99 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121204_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121204_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.312630+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:37.552077+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388476+00:00"
+      "archived_at": "2026-09-20T11:10:36.548062+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358231,
-      "message_link": "https://t.me/IranintlTV/358231",
-      "text": "برگزاری یک برنامه تفریحی‌ـورزشی در هتل آراز نوشهر، همراه با موسیقی و حضور زنانی بدون حجاب اجباری، به دخالت مقام‌های امنیتی و قضایی این شهر منجر شد.\n\nفرمانده سپاه ناحیه نوشهر گفت موضوع در حال پیگیری است و دادستانی این شهرستان نیز اعلام کرد با «موارد غیرقانونی» در این رویداد برخورد خواهد شد.\n@iranintltv",
+      "message_id": 358232,
+      "message_link": "https://t.me/IranintlTV/358232",
+      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، درباره انتقال شروط تهران برای توقف جنگ به آمریکا از طریق قطر گفت در شرایط محاصره دریایی، فشار تحریمی و حملات نظامی محدود آمریکا، جمهوری اسلامی در تلاش است واشینگتن را به بازگشت به مذاکره متقاعد کند.\n\nاو افزود جمهوری اسلامی هم‌زمان دو مسیر را دنبال می‌کند؛ نگاه به دیپلماسی و افزایش سطح تنش از طریق ناآرام کردن تنگه هرمز و اقدامات حوثی‌ها در باب‌المندب.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "12:50:53",
-      "gregorian_utc": "2026-09-20T09:20:53+00:00",
+      "tehran_time": "13:00:36",
+      "gregorian_utc": "2026-09-20T09:30:36+00:00",
       "media_type": "video",
-      "media_size_bytes": 833804,
-      "media_size_human": "814.26 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358231_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358231_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696602+00:00"
+      "media_size_bytes": 4802843,
+      "media_size_human": "4.58 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:36.880380+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1005,11 +1005,11 @@
       "media_type": "photo",
       "media_size_bytes": 50926,
       "media_size_human": "49.73 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76456_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76456_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.007292+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:37.247757+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.312681+00:00"
+      "archived_at": "2026-09-20T11:10:37.552101+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:48.388501+00:00"
+      "archived_at": "2026-09-20T11:10:36.548074+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358230,
-      "message_link": "https://t.me/IranintlTV/358230",
-      "text": "محسن رضایی، دبیر شورای عالی امنیت ملی، شنبه ۲۸ شهریور به شبکه الجزیره گفت اگر کشورهای همسایه در اعمال تحریم‌ها و محاصره اقتصادی علیه ایران با آمریکا همکاری کنند، «مجازات» خواهند شد.\n\nرضایی گفت: «اگر کشوری همسایه در اعمال محاصره اقتصادی علیه ایران با آمریکایی‌ها همکاری کند، ما کشتی‌های آن کشور را در تنگه هرمز تنبیه خواهیم کرد.» او افزود جمهوری اسلامی ممکن است برای تردد کشتی‌های این کشورها محدودیت ایجاد کند یا در همکاری‌های اقتصادی اقدام متقابل انجام دهد.\n\nاو همچنین شرکت‌ها و بنگاه‌های آمریکایی فعال در منطقه، از جمله شرکت‌های حفاری، را تهدید به حمله کرد و گفت این اقدام در واکنش به آنچه «حمله آمریکا به اقتصاد ایران» خواند، انجام خواهد شد.\n\nرضایی همچنین گفت: «اگر جنگی دوباره آغاز شود، کشتی‌های آمریکا، مگر اینکه اقیانوس هند را ترک کنند، در هر نقطه‌ای از این اقیانوس که باشند، هدف حمله قرار خواهند گرفت.»\nhttps://iranintl.com/202609200160",
+      "message_id": 358231,
+      "message_link": "https://t.me/IranintlTV/358231",
+      "text": "برگزاری یک برنامه تفریحی‌ـورزشی در هتل آراز نوشهر، همراه با موسیقی و حضور زنانی بدون حجاب اجباری، به دخالت مقام‌های امنیتی و قضایی این شهر منجر شد.\n\nفرمانده سپاه ناحیه نوشهر گفت موضوع در حال پیگیری است و دادستانی این شهرستان نیز اعلام کرد با «موارد غیرقانونی» در این رویداد برخورد خواهد شد.\n@iranintltv",
       "shamsi_date": "1405/06/29",
-      "tehran_time": "12:40:27",
-      "gregorian_utc": "2026-09-20T09:10:27+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 165188,
-      "media_size_human": "161.32 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358230_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358230_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:48.696732+00:00"
+      "tehran_time": "12:50:53",
+      "gregorian_utc": "2026-09-20T09:20:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 833804,
+      "media_size_human": "814.26 KB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:36.880413+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1077,11 +1077,11 @@
       "media_type": "photo",
       "media_size_bytes": 61295,
       "media_size_human": "59.86 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76455_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76455_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-20T11:00:49.007329+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
+      "archived_at": "2026-09-20T11:10:37.247775+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-20T11:00:49.312735+00:00"
+      "archived_at": "2026-09-20T11:10:37.552128+00:00"
     }
   ]
 }
