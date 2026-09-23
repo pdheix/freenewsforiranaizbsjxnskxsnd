@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:43:15.435763+00:00",
-  "shamsi_generated": "1405/07/01 22:43:15 تهران",
+  "generated_at": "2026-09-23T22:54:00.647285+00:00",
+  "shamsi_generated": "1405/07/01 22:54:00 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.737862+00:00"
+      "archived_at": "2026-09-23T22:50:37.311004+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358883,
-      "message_link": "https://t.me/IranintlTV/358883",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ\n@iranintlTV",
+      "message_id": 358887,
+      "message_link": "https://t.me/IranintlTV/358887",
+      "text": "کامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال، با اشاره به گزارش تسنیم درباره دیدار عباس عراقچی و استیو ویتکاف، گفت بعید است چنین مذاکره‌ای بدون هماهنگی نهادهای بالادستی انجام شده باشد. او افزود انتشار این گزارش می‌تواند نشانه‌ای از اختلافات داخلی بر سر نحوه مواجهه با آمریکا و تلاشی برای متوجه کردن مسئولیت نتایج مذاکرات به عراقچی و مسعود پزشکیان باشد.\n\nبهرنگ همچنین با اشاره به هم‌زمانی سفر شی جین‌پینگ به آمریکا و مجمع عمومی سازمان ملل، گفت این دیدار از نظر اقتصادی و راهبردی برای واشینگتن و پکن اهمیت زیادی دارد. او افزود به باورش، همکاری‌های رو به گسترش آمریکا و چین در برخی پرونده‌ها، از جمله ایران، می‌تواند بر معادلات مربوط به جمهوری اسلامی تاثیر بگذارد.\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "02:08:42",
-      "gregorian_utc": "2026-09-23T22:38:42+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 18814397,
-      "media_size_human": "17.94 MB",
+      "tehran_time": "02:19:01",
+      "gregorian_utc": "2026-09-23T22:49:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4675138,
+      "media_size_human": "4.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358883_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358883_audio.mp3",
+      "media_local_path": "media/IranintlTV_358887_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358887_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.165824+00:00"
+      "archived_at": "2026-09-23T22:50:37.673583+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76496_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76496_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.571671+00:00"
+      "archived_at": "2026-09-23T22:50:38.095371+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-23T22:40:39.991334+00:00"
+      "archived_at": "2026-09-23T22:50:38.496697+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.737936+00:00"
+      "archived_at": "2026-09-23T22:50:37.311054+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358882,
-      "message_link": "https://t.me/IranintlTV/358882",
-      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با فاکس‌نیوز گفت واشینگتن با محاصره و کارزار «طرد اقتصادی» فشار بی‌سابقه‌ای بر جمهوری اسلامی وارد کرده و هدف آن قطع جریان مالی حکومت ایران است.\nبسنت گفت نمی‌داند این فشارها «یک هفته، یک ماه یا دو ماه» طول خواهد کشید، اما به گفته او جمهوری اسلامی در نهایت «تسلیم خواهد شد».\nاو سه سناریو را مطرح کرد: «اول، اعضای حکومت علیه یکدیگر قرار بگیرند که غیرممکن نیست. دوم، شاهد نوعی قیام از سوی مردم ایران باشیم و سوم، اگر ایرانی‌ها خواهان توافق هستند، آنها را وادار کنیم به توافق پایبند بمانند.»\nبسنت همچنین گفت فشارها بر شبکه‌های بانکی و حمل‌ونقل جمهوری اسلامی افزایش یافته و واشینگتن شرکت‌ها، سرمایه‌گذاران و موسساتی را که به تهران در دور زدن محدودیت‌ها کمک کنند، مجازات خواهد کرد.\nاو افزود آمریکا در این زمینه با امارات متحده عربی و ترکیه همکاری کرده و نهادهای مالی مرتبط با انتقال میلیاردها دلار برای جمهوری اسلامی را هدف قرار داده است.\nبسنت همچنین گفت با وجود خطر حمله به نفتکش‌ها، صادرات نفت ادامه دارد و کاهش نگرانی درباره عرضه، یکی از عوامل کاهش قیمت نفت نسبت به بهار بوده است.",
+      "message_id": 358886,
+      "message_link": "https://t.me/IranintlTV/358886",
+      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت با وجود تشدید فشارهای سیاسی و اقتصادی، مسیر دیپلماسی میان جمهوری اسلامی و آمریکا همچنان باز است، اما دو طرف برای رسیدن به توافق از راهبردهای متفاوتی استفاده می‌کنند. او افزود آمریکا بر افزایش فشار تاکید دارد و جمهوری اسلامی تلاش می‌کند هزینه این فشار را به منطقه و دیگر کشورها منتقل کند.\n\nتوانا همچنین با اشاره به اظهارات مارکو روبیو گفت موضع آمریکا درباره جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای و پایان حمایت از گروه‌های مسلح، موضوعی فراحزبی است و به گفته او، واشینگتن تصمیم‌گیرندگان اصلی در جمهوری اسلامی را در تهران می‌داند.\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "02:07:19",
-      "gregorian_utc": "2026-09-23T22:37:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 142126,
-      "media_size_human": "138.79 KB",
+      "tehran_time": "02:17:07",
+      "gregorian_utc": "2026-09-23T22:47:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3395370,
+      "media_size_human": "3.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358882_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358882_photo.jpg",
+      "media_local_path": "media/IranintlTV_358886_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358886_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166018+00:00"
+      "archived_at": "2026-09-23T22:50:37.673669+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76495_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76495_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.571763+00:00"
+      "archived_at": "2026-09-23T22:50:38.095439+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121347_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121347_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991431+00:00"
+      "archived_at": "2026-09-23T22:50:38.496778+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.737976+00:00"
+      "archived_at": "2026-09-23T22:50:37.311082+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358881,
-      "message_link": "https://t.me/IranintlTV/358881",
-      "text": "هیئت جمهوری اسلامی برای حضور در مجمع عمومی سازمان ملل به نیویورک رفته، اما این سفر هم با محدودیت تردد همراه است و هم محدودیت خرید.\n\nدولت آمریکا می‌گوید دیپلمات‌ها و مقام‌های جمهوری اسلامی برای خرید از فروشگاه‌های عمده‌فروشی باید مجوز بگیرند. خرید بسیاری از کالاهای لوکس نیز بدون مجوز قبلی وزارت خارجه آمریکا امکان‌پذیر نیست.\n\nوزارت خارجه آمریکا پیش‌تر گفته بود اجازه نمی‌دهد مقام‌های جمهوری اسلامی در نیویورک مشغول خرید شوند، در حالی که مردم ایران با فقر و کمبود آب و برق روبه‌رو هستند.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد.\n@iranintltv",
+      "message_id": 358885,
+      "message_link": "https://t.me/IranintlTV/358885",
+      "text": "مسعود پزشکیان در سخنرانی خود در مجمع عمومی سازمان ملل بر ادامه برنامه هسته‌ای جمهوری اسلامی تاکید کرد و در عین حال گفت تهران برای مذاکره آماده است.\n\nمارکو روبیو نیز در واکنش به اظهارات پزشکیان و انتقاد او از دولت دونالد ترامپ، گفت حکومتی که هزاران نفر از مردم خود را در یک روز قتل عام می‌کند، صلاحیت اظهار نظر درباره قوانین بین‌المللی را ندارد. \n\nگزارش سمیرا قرایی و امیر گیتی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "02:07:08",
-      "gregorian_utc": "2026-09-23T22:37:08+00:00",
+      "tehran_time": "02:14:37",
+      "gregorian_utc": "2026-09-23T22:44:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 2920631,
-      "media_size_human": "2.79 MB",
+      "media_size_bytes": 5417142,
+      "media_size_human": "5.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358881_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358881_video.mp4",
+      "media_local_path": "media/IranintlTV_358885_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358885_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166176+00:00"
+      "archived_at": "2026-09-23T22:50:37.673732+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.571798+00:00"
+      "archived_at": "2026-09-23T22:50:38.095466+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121346_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121346_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991474+00:00"
+      "archived_at": "2026-09-23T22:50:38.496805+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738015+00:00"
+      "archived_at": "2026-09-23T22:50:37.311111+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358880,
-      "message_link": "https://t.me/IranintlTV/358880",
-      "text": "تانکرترکرز، شرکت ردیابی نفتکش‌ها، اعلام کرد نزدیک به شش میلیون بشکه نفت خام توقیف‌شده ایران در حال انتقال از اقیانوس اطلس به سوی آمریکا است.\n\nاین شرکت ارزش این محموله را نزدیک به ۶۰۰ میلیون دلار برآورد کرد.\n\nتانکرترکرز جزییات بیشتری درباره نفتکش‌های حامل این محموله، محل توقیف نفت یا زمان رسیدن آن به آمریکا ارائه نکرد.\nhttps://iranintl.com/202609230783",
+      "message_id": 358884,
+      "message_link": "https://t.me/IranintlTV/358884",
+      "text": "مسعود پزشکیان در سازمان ملل به‌جای پاسخ به سرکوب معترضان، روایتی نزدیک به روایت رسمی جمهوری اسلامی ارائه کرد و معترضان را به همکاری با آمریکا و اسرائیل متهم کرد. سخنرانی او این پرسش را دوباره برجسته کرد: پزشکیان نماینده مردم ایران است یا مدافع حکومتی که کارنامه‌اش با سرکوب خونین اعتراضات گره خورده است\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:52:28",
-      "gregorian_utc": "2026-09-23T22:22:28+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 204166,
-      "media_size_human": "199.38 KB",
+      "tehran_time": "02:11:23",
+      "gregorian_utc": "2026-09-23T22:41:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1255671,
+      "media_size_human": "1.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358880_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358880_photo.jpg",
+      "media_local_path": "media/IranintlTV_358884_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358884_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166290+00:00"
+      "archived_at": "2026-09-23T22:50:37.673792+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.571829+00:00"
+      "archived_at": "2026-09-23T22:50:38.095489+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121345_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121345_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991511+00:00"
+      "archived_at": "2026-09-23T22:50:38.496829+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738046+00:00"
+      "archived_at": "2026-09-23T22:50:37.311132+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358879,
-      "message_link": "https://t.me/IranintlTV/358879",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در این ۴۰ روز باقی‌مانده تا انتخابات آمریکا، کشورهای عربی، آمریکا و اسرائیل به سمت هماهنگی برای حمله به جمهوری اسلامی پیش خواهند رفت. یکی از مهم‌ترین نشانه‌های این برنامه‌ریزی جلسه مشترک اخیر ژنرال برد کوپر، فرمانده سنتکام، با فرمانده ارتش اسراییل و فرماندهان ارتش‌های عربی است.»\n@iranintltv",
+      "message_id": 358883,
+      "message_link": "https://t.me/IranintlTV/358883",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: فرصت ۴۰ روزه برای فرار از جنگ بزرگ\n@iranintlTV",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:45:20",
-      "gregorian_utc": "2026-09-23T22:15:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 783711,
-      "media_size_human": "765.34 KB",
+      "tehran_time": "02:08:42",
+      "gregorian_utc": "2026-09-23T22:38:42+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 18814397,
+      "media_size_human": "17.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358879_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358879_video.mp4",
+      "media_local_path": "media/IranintlTV_358883_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358883_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166389+00:00"
+      "archived_at": "2026-09-23T22:50:37.712793+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76488_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76488_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.571963+00:00"
+      "archived_at": "2026-09-23T22:50:38.095576+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121344_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121344_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991546+00:00"
+      "archived_at": "2026-09-23T22:50:38.496851+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738082+00:00"
+      "archived_at": "2026-09-23T22:50:37.311158+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358878,
-      "message_link": "https://t.me/IranintlTV/358878",
-      "text": "در واکنش به سخنان مسعود پزشکیان در سازمان ملل، رولاند مک‌کی، سخنگوی فارسی‌زبان وزارت خارجه آمریکا، به مریم رحمتی، خبرنگار ایران‌اینترنشنال، گفت هدف اصلی واشینگتن، همان‌گونه که دونالد ترامپ نیز در سخنرانی خود تاکید کرد، جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای است.\n@iranintltv",
+      "message_id": 358882,
+      "message_link": "https://t.me/IranintlTV/358882",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با فاکس‌نیوز گفت واشینگتن با محاصره و کارزار «طرد اقتصادی» فشار بی‌سابقه‌ای بر جمهوری اسلامی وارد کرده و هدف آن قطع جریان مالی حکومت ایران است.\nبسنت گفت نمی‌داند این فشارها «یک هفته، یک ماه یا دو ماه» طول خواهد کشید، اما به گفته او جمهوری اسلامی در نهایت «تسلیم خواهد شد».\nاو سه سناریو را مطرح کرد: «اول، اعضای حکومت علیه یکدیگر قرار بگیرند که غیرممکن نیست. دوم، شاهد نوعی قیام از سوی مردم ایران باشیم و سوم، اگر ایرانی‌ها خواهان توافق هستند، آنها را وادار کنیم به توافق پایبند بمانند.»\nبسنت همچنین گفت فشارها بر شبکه‌های بانکی و حمل‌ونقل جمهوری اسلامی افزایش یافته و واشینگتن شرکت‌ها، سرمایه‌گذاران و موسساتی را که به تهران در دور زدن محدودیت‌ها کمک کنند، مجازات خواهد کرد.\nاو افزود آمریکا در این زمینه با امارات متحده عربی و ترکیه همکاری کرده و نهادهای مالی مرتبط با انتقال میلیاردها دلار برای جمهوری اسلامی را هدف قرار داده است.\nبسنت همچنین گفت با وجود خطر حمله به نفتکش‌ها، صادرات نفت ادامه دارد و کاهش نگرانی درباره عرضه، یکی از عوامل کاهش قیمت نفت نسبت به بهار بوده است.",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:42:34",
-      "gregorian_utc": "2026-09-23T22:12:34+00:00",
-      "media_type": "video",
-      "media_size_bytes": 294204,
-      "media_size_human": "287.31 KB",
+      "tehran_time": "02:07:19",
+      "gregorian_utc": "2026-09-23T22:37:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142126,
+      "media_size_human": "138.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358878_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358878_video.mp4",
+      "media_local_path": "media/IranintlTV_358882_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358882_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166475+00:00"
+      "archived_at": "2026-09-23T22:50:37.712903+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76487_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76487_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.572129+00:00"
+      "archived_at": "2026-09-23T22:50:38.095688+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_121343_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121343_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991578+00:00"
+      "archived_at": "2026-09-23T22:50:38.496872+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738111+00:00"
+      "archived_at": "2026-09-23T22:50:37.311177+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358877,
-      "message_link": "https://t.me/IranintlTV/358877",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «دیدار روز سه‌شنبه ترامپ با سران ۱۲ کشور عربی نشان می‌دهد او برای جنگ پیش رو با جمهوری اسلامی به سمت هماهنگی با کشورهای عربی رفته است.»\n@iranintltv",
+      "message_id": 358881,
+      "message_link": "https://t.me/IranintlTV/358881",
+      "text": "هیئت جمهوری اسلامی برای حضور در مجمع عمومی سازمان ملل به نیویورک رفته، اما این سفر هم با محدودیت تردد همراه است و هم محدودیت خرید.\n\nدولت آمریکا می‌گوید دیپلمات‌ها و مقام‌های جمهوری اسلامی برای خرید از فروشگاه‌های عمده‌فروشی باید مجوز بگیرند. خرید بسیاری از کالاهای لوکس نیز بدون مجوز قبلی وزارت خارجه آمریکا امکان‌پذیر نیست.\n\nوزارت خارجه آمریکا پیش‌تر گفته بود اجازه نمی‌دهد مقام‌های جمهوری اسلامی در نیویورک مشغول خرید شوند، در حالی که مردم ایران با فقر و کمبود آب و برق روبه‌رو هستند.\n\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:39:44",
-      "gregorian_utc": "2026-09-23T22:09:44+00:00",
+      "tehran_time": "02:07:08",
+      "gregorian_utc": "2026-09-23T22:37:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 695205,
-      "media_size_human": "678.91 KB",
+      "media_size_bytes": 2920631,
+      "media_size_human": "2.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358877_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358877_video.mp4",
+      "media_local_path": "media/IranintlTV_358881_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358881_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166556+00:00"
+      "archived_at": "2026-09-23T22:50:37.712998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-09-23T22:40:39.572162+00:00"
+      "archived_at": "2026-09-23T22:50:38.095708+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.991631+00:00"
+      "archived_at": "2026-09-23T22:50:38.496909+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738151+00:00"
+      "archived_at": "2026-09-23T22:50:37.311212+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358876,
-      "message_link": "https://t.me/IranintlTV/358876",
-      "text": "در ادامه تلاش‌های آمریکا برای افزایش فشار اقتصادی بر جمهوری اسلامی، بانک مرکزی امارات متحده عربی اعلام کرد شعب بانک ملی ایران در این کشور دیگر اجازه فعالیت ندارند. مقام‌های اماراتی دلیل این تصمیم را تخلف بانک ملی از مقررات مربوط به ممنوعیت انتقال پول به ایران اعلام کردند.\n\nهمزمان، گروه ویژه اقدام مالی، اف‌ای‌تی‌اف، در گزارش ارزیابی جدید خود از ترکیه اعلام کرد بررسی‌ها برای شناسایی دور زدن تحریم‌های جمهوری اسلامی و جلوگیری از سوءاستفاده از نظام مالی این کشور، به شناسایی فعالیت‌های مشکوک در ۱۳۹ شرکت منجر شده است. \n\nگفت‌وگو با جاناتان سایح، تحلیل‌گر مسائل خاورمیانه در بنیاد دفاع از دموکراسی‌ها\n@iranintltv",
+      "message_id": 358880,
+      "message_link": "https://t.me/IranintlTV/358880",
+      "text": "تانکرترکرز، شرکت ردیابی نفتکش‌ها، اعلام کرد نزدیک به شش میلیون بشکه نفت خام توقیف‌شده ایران در حال انتقال از اقیانوس اطلس به سوی آمریکا است.\n\nاین شرکت ارزش این محموله را نزدیک به ۶۰۰ میلیون دلار برآورد کرد.\n\nتانکرترکرز جزییات بیشتری درباره نفتکش‌های حامل این محموله، محل توقیف نفت یا زمان رسیدن آن به آمریکا ارائه نکرد.\nhttps://iranintl.com/202609230783",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:36:44",
-      "gregorian_utc": "2026-09-23T22:06:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1823613,
-      "media_size_human": "1.74 MB",
+      "tehran_time": "01:52:28",
+      "gregorian_utc": "2026-09-23T22:22:28+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 204166,
+      "media_size_human": "199.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358876_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358876_video.mp4",
+      "media_local_path": "media/IranintlTV_358880_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358880_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166694+00:00"
+      "archived_at": "2026-09-23T22:50:37.713108+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76485_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76485_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.572581+00:00"
+      "archived_at": "2026-09-23T22:50:38.096056+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.991691+00:00"
+      "archived_at": "2026-09-23T22:50:38.496949+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738179+00:00"
+      "archived_at": "2026-09-23T22:50:37.311232+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358875,
-      "message_link": "https://t.me/IranintlTV/358875",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «آخرین ارزیابی‌ها از وضعیت منطقه نشان می‌دهد به احتمال زیاد حدود ۴۰ روز تا جنگ بزرگ و حمله به جمهوری اسلامی فاصله داریم و تنها در صورت عقب‌نشینی جمهوری اسلامی ممکن است شرایط تغییر کند.در واقع دیپلماسی پنجره ۴۰ روزه‌ای برای فرار از جنگ بزرگ دارد.»\n@iranintltv",
+      "message_id": 358879,
+      "message_link": "https://t.me/IranintlTV/358879",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در این ۴۰ روز باقی‌مانده تا انتخابات آمریکا، کشورهای عربی، آمریکا و اسرائیل به سمت هماهنگی برای حمله به جمهوری اسلامی پیش خواهند رفت. یکی از مهم‌ترین نشانه‌های این برنامه‌ریزی جلسه مشترک اخیر ژنرال برد کوپر، فرمانده سنتکام، با فرمانده ارتش اسراییل و فرماندهان ارتش‌های عربی است.»\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:33:33",
-      "gregorian_utc": "2026-09-23T22:03:33+00:00",
+      "tehran_time": "01:45:20",
+      "gregorian_utc": "2026-09-23T22:15:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 628205,
-      "media_size_human": "613.48 KB",
+      "media_size_bytes": 783711,
+      "media_size_human": "765.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358875_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358875_video.mp4",
+      "media_local_path": "media/IranintlTV_358879_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358879_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166784+00:00"
+      "archived_at": "2026-09-23T22:50:37.713170+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.572632+00:00"
+      "archived_at": "2026-09-23T22:50:38.096093+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_121340_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121340_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991737+00:00"
+      "archived_at": "2026-09-23T22:50:38.496981+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738206+00:00"
+      "archived_at": "2026-09-23T22:50:37.311251+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358874,
-      "message_link": "https://t.me/IranintlTV/358874",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «آخرین ارزیابی‌ها از وضعیت منطقه نشان می‌دهد به احتمال زیاد حدود ۴۰ روز تا جنگ بزرگ و حمله به جمهوری اسلامی فاصله داریم و تنها در صورت عقب‌نشینی جمهوری اسلامی ممکن است شرایط تغییر کند.در واقع دیپلماسی پنجره ۴۰ روزه‌ای برای فرار از جنگ بزرگ دارد.»\n@iranintltv",
+      "message_id": 358878,
+      "message_link": "https://t.me/IranintlTV/358878",
+      "text": "در واکنش به سخنان مسعود پزشکیان در سازمان ملل، رولاند مک‌کی، سخنگوی فارسی‌زبان وزارت خارجه آمریکا، به مریم رحمتی، خبرنگار ایران‌اینترنشنال، گفت هدف اصلی واشینگتن، همان‌گونه که دونالد ترامپ نیز در سخنرانی خود تاکید کرد، جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای است.\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:33:28",
-      "gregorian_utc": "2026-09-23T22:03:28+00:00",
+      "tehran_time": "01:42:34",
+      "gregorian_utc": "2026-09-23T22:12:34+00:00",
       "media_type": "video",
-      "media_size_bytes": 628205,
-      "media_size_human": "613.48 KB",
+      "media_size_bytes": 294204,
+      "media_size_human": "287.31 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358874_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358874_video.mp4",
+      "media_local_path": "media/IranintlTV_358878_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358878_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.166896+00:00"
+      "archived_at": "2026-09-23T22:50:37.713223+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76483_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76483_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.572686+00:00"
+      "archived_at": "2026-09-23T22:50:38.096131+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_121339_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121339_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991782+00:00"
+      "archived_at": "2026-09-23T22:50:38.497012+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738231+00:00"
+      "archived_at": "2026-09-23T22:50:37.311268+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358873,
-      "message_link": "https://t.me/IranintlTV/358873",
-      "text": "🔻ورزش سه خبر داده باشگاه پرسپولیس در پی رد شکایت از استقلال به دلیل استفاده از یاسر آسانی در دربی ۱۰۷، با ارسال نامه‌ای به مهدی تاج، رییس فدراسیون فوتبال ایران، سه خواسته جدید درباره جلسه تجدیدنظر داده است.\n\n🔹این خواسته‌ها، برگزاری جلسه استماع در کمیته استیناف با حضور وکلا و نماینده باشگاه، ضبط کامل ویدئویی از جلسه رسیدگی جهت مستندسازی و قابلیت بازبینی موضوعات طرح‌شده و در نهایت فراهم آوردن امکان پخش آنلاین جلسه آگاهی افکار عمومی است.\n\n🔹هفته گذشته کمیته انضباطی فدراسیون فوتبال شکایت پرسپولیس درباره حضور یاسر آسانی در ترکیب استقلال را رد کرد. سرخ‌پوشان مدعی بودند فسخ قرارداد آسانی و بسته‌بودن پنجره نقل‌وانتقالاتی استقلال، حضور این بازیکن در مسابقات را غیرمجاز کرده است.\n\n🔹کمیته انضباطی اعلام کرده که با استناد به نظر کمیته نقل‌وانتقالات سازمان لیگ، آسانی را بازیکنی فعال و مجاز تشخیص داده است. به گفته این کمیته، «با توجه به ثبت‌نشدن فسخ قرارداد او در مراجع رسمی و بین‌المللی، قرارداد آسانی با استقلال معتبر شناخته شد.»\n\n@iranintltvsport",
+      "message_id": 358877,
+      "message_link": "https://t.me/IranintlTV/358877",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «دیدار روز سه‌شنبه ترامپ با سران ۱۲ کشور عربی نشان می‌دهد او برای جنگ پیش رو با جمهوری اسلامی به سمت هماهنگی با کشورهای عربی رفته است.»\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:22:11",
-      "gregorian_utc": "2026-09-23T21:52:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162542,
-      "media_size_human": "158.73 KB",
+      "tehran_time": "01:39:44",
+      "gregorian_utc": "2026-09-23T22:09:44+00:00",
+      "media_type": "video",
+      "media_size_bytes": 695205,
+      "media_size_human": "678.91 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358873_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358873_photo.jpg",
+      "media_local_path": "media/IranintlTV_358877_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358877_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.167110+00:00"
+      "archived_at": "2026-09-23T22:50:37.713267+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.572714+00:00"
+      "archived_at": "2026-09-23T22:50:38.096149+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.991834+00:00"
+      "archived_at": "2026-09-23T22:50:38.497054+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738256+00:00"
+      "archived_at": "2026-09-23T22:50:37.311286+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358872,
-      "message_link": "https://t.me/IranintlTV/358872",
-      "text": "بلومبرگ گزارش داد بریتانیا در چارچوب افزایش فشار اقتصادی بر جمهوری اسلامی، محدودیت‌ها علیه بانک‌های ایرانی را تشدید کرده است.\n\nدولت بریتانیا اعلام کرد درخواست‌های مجوز برای فعالیت پنج بانک تحریم‌شده ایرانی، شامل بانک سپه، بانک ملی، بانک صادرات، پرشیا اینترنشنال بانک و بانک تجارت، جز در موارد استثنایی رد خواهد شد.\n\nاین اقدام در ادامه محدودیت‌های مالی بریتانیا علیه جمهوری اسلامی انجام می‌شود که اعطای وام و اعتبار، سرمایه‌گذاری و برخی روابط بانکی را هدف قرار داده است.\n\nآمریکا نیز در ماه‌های اخیر فشار بر فعالیت خارجی بانک‌های جمهوری اسلامی را افزایش داده و برخی کشورهای منطقه محدودیت‌هایی علیه فعالیت این بانک‌ها اعمال کرده‌اند.\nhttps://iranintl.com/202609235297",
+      "message_id": 358876,
+      "message_link": "https://t.me/IranintlTV/358876",
+      "text": "در ادامه تلاش‌های آمریکا برای افزایش فشار اقتصادی بر جمهوری اسلامی، بانک مرکزی امارات متحده عربی اعلام کرد شعب بانک ملی ایران در این کشور دیگر اجازه فعالیت ندارند. مقام‌های اماراتی دلیل این تصمیم را تخلف بانک ملی از مقررات مربوط به ممنوعیت انتقال پول به ایران اعلام کردند.\n\nهمزمان، گروه ویژه اقدام مالی، اف‌ای‌تی‌اف، در گزارش ارزیابی جدید خود از ترکیه اعلام کرد بررسی‌ها برای شناسایی دور زدن تحریم‌های جمهوری اسلامی و جلوگیری از سوءاستفاده از نظام مالی این کشور، به شناسایی فعالیت‌های مشکوک در ۱۳۹ شرکت منجر شده است. \n\nگفت‌وگو با جاناتان سایح، تحلیل‌گر مسائل خاورمیانه در بنیاد دفاع از دموکراسی‌ها\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:19:55",
-      "gregorian_utc": "2026-09-23T21:49:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 204036,
-      "media_size_human": "199.25 KB",
+      "tehran_time": "01:36:44",
+      "gregorian_utc": "2026-09-23T22:06:44+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1823613,
+      "media_size_human": "1.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358872_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358872_photo.jpg",
+      "media_local_path": "media/IranintlTV_358876_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358876_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.167254+00:00"
+      "archived_at": "2026-09-23T22:50:37.713343+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-09-23T22:40:39.572740+00:00"
+      "archived_at": "2026-09-23T22:50:38.096165+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_121337_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121337_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991914+00:00"
+      "archived_at": "2026-09-23T22:50:38.497096+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738281+00:00"
+      "archived_at": "2026-09-23T22:50:37.311303+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358871,
-      "message_link": "https://t.me/IranintlTV/358871",
-      "text": "یوناس گار استوره، نخست‌وزیر نروژ، در دیدار با مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، «نگرانی عمیق» خود را درباره نقض حقوق بشر در ایران مطرح کرد.\n\nاین دیدار چهارشنبه ۲۳ سپتامبر در حاشیه مجمع عمومی سازمان ملل متحد در نیویورک برگزار شد و دفتر نخست‌وزیری نروژ پس از آن جزییاتی از محورهای گفت‌وگوی دو طرف منتشر کرد.\n\nبر اساس اعلام دولت نروژ، استوره در این دیدار مواضع اسلو درباره حقوق بشر را مستقیما با پزشکیان در میان گذاشت و درباره موارد نقض حقوق بشر در ایران ابراز نگرانی عمیق کرد.\n\nاستوره با تاکید بر اهمیت گفت‌وگوی مستقیم با تهران گفت حتی در شرایطی که اختلافات جدی است، حفظ ارتباط صریح و مستقیم اهمیت دارد.\n\nاو افزود مواضع نروژ درباره حقوق بشر، حقوق بین‌الملل، امنیت منطقه‌ای و حقوق دریاها را به‌روشنی در این دیدار مطرح کرده است.\n\nتحولات خاورمیانه و تنش‌های مرتبط با تنگه هرمز نیز از دیگر محورهای این دیدار بود. استوره بر ضرورت حل مناقشات از طریق دیپلماسی تاکید کرد و گفت فشار و خشونت راه حل اختلافات نیست.\n\nدفتر نخست‌وزیری نروژ جزییات بیشتری درباره پاسخ پزشکیان به نگرانی‌های مطرح‌شده در زمینه نقض حقوق بشر منتشر نکرد.",
+      "message_id": 358875,
+      "message_link": "https://t.me/IranintlTV/358875",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «آخرین ارزیابی‌ها از وضعیت منطقه نشان می‌دهد به احتمال زیاد حدود ۴۰ روز تا جنگ بزرگ و حمله به جمهوری اسلامی فاصله داریم و تنها در صورت عقب‌نشینی جمهوری اسلامی ممکن است شرایط تغییر کند.در واقع دیپلماسی پنجره ۴۰ روزه‌ای برای فرار از جنگ بزرگ دارد.»\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "01:09:18",
-      "gregorian_utc": "2026-09-23T21:39:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 161951,
-      "media_size_human": "158.16 KB",
+      "tehran_time": "01:33:33",
+      "gregorian_utc": "2026-09-23T22:03:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 628205,
+      "media_size_human": "613.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358871_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358871_photo.jpg",
+      "media_local_path": "media/IranintlTV_358875_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358875_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.167298+00:00"
+      "archived_at": "2026-09-23T22:50:37.713397+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76480_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76480_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.572847+00:00"
+      "archived_at": "2026-09-23T22:50:38.096245+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_121336_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121336_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.991967+00:00"
+      "archived_at": "2026-09-23T22:50:38.497128+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738313+00:00"
+      "archived_at": "2026-09-23T22:50:37.311325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358870,
-      "message_link": "https://t.me/IranintlTV/358870",
-      "text": "شاهزاده رضا پهلوی در اجلاس کنکوردیا در ۲۲ سپتامبر خواستار تغییر رویکرد کشورهای غربی در قبال جمهوری اسلامی شد و گفت آنها باید به جای ادامه مذاکرات با حکومت، مردم ایران را محور سیاست خود قرار دهند.\n\nاو با اشاره به سیاست‌های جمهوری اسلامی در منطقه، گروه‌های نیابتی، تهدید هسته‌ای، «تروریسم» و گسترش تندروی را از پیامدهای استقرار این حکومت دانست و گفت کشورهای غربی نباید انتظار تغییر رفتار آن را داشته باشند.\n\nشاهزاده رضا پهلوی گفت مردم ایران خواهان آزادی، برابری، دموکراسی، آزادی مذهب و زندگی مسالمت‌آمیز هستند و برای حمایت از تغییر در ایران نیازی به حضور نیروهای آمریکایی یا استفاده از پول مالیات‌دهندگان آمریکا نیست.\n\nاو پیشنهاد کرد دارایی‌های مسدودشده ایران برای حمایت از کارزارهای مرتبط با مردم ایران استفاده شود و گفت بیش از ۱۰۰ میلیارد دلار از این دارایی‌ها مسدود شده است.\n\nشاهزاده رضا پهلوی همچنین گفت کنار رفتن جمهوری اسلامی می‌تواند زمینه تغییر روابط ایران با کشورهای منطقه را فراهم کند و افزود تعهد او به ایران و ایرانیان ادامه خواهد یافت.\nhttps://iranintl.com/202609234349",
+      "message_id": 358874,
+      "message_link": "https://t.me/IranintlTV/358874",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «آخرین ارزیابی‌ها از وضعیت منطقه نشان می‌دهد به احتمال زیاد حدود ۴۰ روز تا جنگ بزرگ و حمله به جمهوری اسلامی فاصله داریم و تنها در صورت عقب‌نشینی جمهوری اسلامی ممکن است شرایط تغییر کند.در واقع دیپلماسی پنجره ۴۰ روزه‌ای برای فرار از جنگ بزرگ دارد.»\n@iranintltv",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "00:53:19",
-      "gregorian_utc": "2026-09-23T21:23:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 140416,
-      "media_size_human": "137.12 KB",
+      "tehran_time": "01:33:28",
+      "gregorian_utc": "2026-09-23T22:03:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 628205,
+      "media_size_human": "613.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358870_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358870_photo.jpg",
+      "media_local_path": "media/IranintlTV_358874_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358874_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.167448+00:00"
+      "archived_at": "2026-09-23T22:50:37.713451+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:39.572944+00:00"
+      "archived_at": "2026-09-23T22:50:38.096297+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_121335_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121335_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.992006+00:00"
+      "archived_at": "2026-09-23T22:50:38.497152+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-23T22:40:38.738337+00:00"
+      "archived_at": "2026-09-23T22:50:37.311342+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 358869,
-      "message_link": "https://t.me/IranintlTV/358869",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم سوئد، چهارشنبه اول مهر در گوتنبرگ تجمع کرده و خواستار لغو حکم اعدام علی زارعی شدند.\n﻿علی زارعی از آسیب‌دیدگان چشمی اعتراضات سال ۱۴۰۱ است که در خطر فوری اجرای حکم اعدام در زندان قزل‌حصار کرج قرار دارد.",
+      "message_id": 358873,
+      "message_link": "https://t.me/IranintlTV/358873",
+      "text": "🔻ورزش سه خبر داده باشگاه پرسپولیس در پی رد شکایت از استقلال به دلیل استفاده از یاسر آسانی در دربی ۱۰۷، با ارسال نامه‌ای به مهدی تاج، رییس فدراسیون فوتبال ایران، سه خواسته جدید درباره جلسه تجدیدنظر داده است.\n\n🔹این خواسته‌ها، برگزاری جلسه استماع در کمیته استیناف با حضور وکلا و نماینده باشگاه، ضبط کامل ویدئویی از جلسه رسیدگی جهت مستندسازی و قابلیت بازبینی موضوعات طرح‌شده و در نهایت فراهم آوردن امکان پخش آنلاین جلسه آگاهی افکار عمومی است.\n\n🔹هفته گذشته کمیته انضباطی فدراسیون فوتبال شکایت پرسپولیس درباره حضور یاسر آسانی در ترکیب استقلال را رد کرد. سرخ‌پوشان مدعی بودند فسخ قرارداد آسانی و بسته‌بودن پنجره نقل‌وانتقالاتی استقلال، حضور این بازیکن در مسابقات را غیرمجاز کرده است.\n\n🔹کمیته انضباطی اعلام کرده که با استناد به نظر کمیته نقل‌وانتقالات سازمان لیگ، آسانی را بازیکنی فعال و مجاز تشخیص داده است. به گفته این کمیته، «با توجه به ثبت‌نشدن فسخ قرارداد او در مراجع رسمی و بین‌المللی، قرارداد آسانی با استقلال معتبر شناخته شد.»\n\n@iranintltvsport",
       "shamsi_date": "1405/07/02",
-      "tehran_time": "00:31:44",
-      "gregorian_utc": "2026-09-23T21:01:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 15829792,
-      "media_size_human": "15.10 MB",
+      "tehran_time": "01:22:11",
+      "gregorian_utc": "2026-09-23T21:52:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162542,
+      "media_size_human": "158.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_358869_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358869_video.mp4",
+      "media_local_path": "media/IranintlTV_358873_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_358873_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.167488+00:00"
+      "archived_at": "2026-09-23T22:50:37.713580+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76478_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76478_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.573102+00:00"
+      "archived_at": "2026-09-23T22:50:38.096410+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121334_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121334_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-23T22:40:39.992045+00:00"
+      "archived_at": "2026-09-23T22:50:38.497178+00:00"
     }
   ]
 }
