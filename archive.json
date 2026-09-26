@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T08:42:08.562175+00:00",
-  "shamsi_generated": "1405/07/04 08:42:08 تهران",
+  "generated_at": "2026-09-26T08:59:34.064026+00:00",
+  "shamsi_generated": "1405/07/04 08:59:34 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": "media/zedTV_14031_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14031_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.099909+00:00"
+      "archived_at": "2026-09-26T08:51:33.084801+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359276,
-      "message_link": "https://t.me/IranintlTV/359276",
-      "text": "رضا طلایی‌نیک، سخنگوی وزارت دفاع جمهوری اسلامی، در مراسمی در استان البرز گفت: «توانمندی‌های دفاعی‌مان را زیر زمین مستقر کردیم. بخشی از توانمندی‌های راهبردی نیروهای مسلح در سال‌های گذشته در محیط‌های امن و زیرساخت‌های زیرزمینی مستقر شده و همین موضوع باعث شد بخشی از محاسبات دشمن درباره توان دفاعی و ظرفیت تولید تسلیحات جمهوری اسلامی محقق نشود.»\n\nطلایی‌نیک اضافه کرد: «جنگ‌های اخیر، جنگ فناوری، جنگ متخصصان و جنگ ترکیبی بود؛ به‌گونه‌ای که علاوه بر میدان نظامی، حوزه‌های اجتماعی، اقتصادی، رسانه‌ای و شناختی نیز به میدان‌های اصلی تقابل تبدیل شدند.»\nhttps://iranintl.com/202609263196",
+      "message_id": 359278,
+      "message_link": "https://t.me/IranintlTV/359278",
+      "text": "روح‌الله رحیم‌پور، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به سخنان نواف سلام، نخست‌وزیر لبنان، درباره انحصار سلاح در دست دولت گفت مطرح شدن چنین موضعی در لبنان و عراق نشان می‌دهد این دو کشور به سمت الگویی حرکت می‌کنند که در آن تصمیم جنگ و صلح و استفاده از سلاح در اختیار دولت‌ها باشد.\n\nاو افزود این روند می‌تواند مدل نفوذ جمهوری اسلامی و نیروهای مسلح موازی در لبنان و عراق را با چالش مواجه کند و در صورت بسته شدن مسیرهای رسمی حمایت، سپاه پاسداران احتمالا به سمت شبکه‌های کوچک‌تر، غیررسمی‌تر و قابل انکارتر حرکت خواهد کرد.\n@iranintltv",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "11:50:57",
-      "gregorian_utc": "2026-09-26T08:20:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 147304,
-      "media_size_human": "143.85 KB",
+      "tehran_time": "12:10:48",
+      "gregorian_utc": "2026-09-26T08:40:48+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3753343,
+      "media_size_human": "3.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359276_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359276_photo.jpg",
+      "media_local_path": "media/IranintlTV_359278_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359278_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.534545+00:00"
+      "archived_at": "2026-09-26T08:51:33.339468+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127202+00:00"
+      "archived_at": "2026-09-26T08:51:33.676327+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.532611+00:00"
+      "archived_at": "2026-09-26T08:51:33.950329+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": "media/zedTV_14030_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14030_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.099972+00:00"
+      "archived_at": "2026-09-26T08:51:33.084897+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359275,
-      "message_link": "https://t.me/IranintlTV/359275",
-      "text": "روزنامه لوموند گزارش داد تصمیم فرانسه برای اعزام تجهیزات و نیروهای نظامی به عربستان سعودی، ابعاد تازه‌ای از همکاری‌های دفاعی پاریس و ریاض را آشکار کرده است. \n\nبا این حال، جزییات و گستردگی این ماموریت نظامی همچنان نامشخص است. لوموند نوشت همکاری‌های دفاعی فرانسه و عربستان سعودی تاکنون عمدتا دور از توجه افکار عمومی و با احتیاط فراوان در اطلاع‌رسانی انجام شده است. \n\nبه نوشته این روزنامه، اعلام امانوئل مکرون، رییس‌جمهوری فرانسه، در دوم مهر درباره اعزام قریب‌الوقوع نیرو و تجهیزات نظامی به عربستان سعودی، نشان‌دهنده چرخشی در سیاست منطقه‌ای پاریس است. \n\nبه گفته مکرون، فرانسه «نیروهای نظامی، رادارها و سامانه‌های دفاعی» را برای حفاظت از زیرساخت‌های عربستان سعودی اعزام خواهد کرد. با این وجود، هنوز اطلاعاتی درباره شمار نیروهای اعزامی، نوع سامانه‌های دفاعی و زمان آغاز فعالیت آن‌ها منتشر نشده است.\n\nهدف از این ماموریت، حفاظت از پایانه نفتی ینبع در عربستان سعودی است که در پی مسدود شدن تنگه هرمز، به اصلی‌ترین مسیر جایگزین برای صادرات نفت خام این کشور تبدیل شده است.\n [iranintl.com/202609266933](https://t.co/BtqAQBjMau)",
+      "message_id": 359277,
+      "message_link": "https://t.me/IranintlTV/359277",
+      "text": "🔻گاردین گزارش داد لیگ برتر انگلیس، لالیگا، سری آ و بوندس‌لیگا با افزایش فشار بر جیانی اینفانتینو، خواستار اصلاحات اساسی در ساختار مدیریتی فیفا شدند. آن‌ها از «توسعه‌طلبی» فیفا انتقاد کرده و اینفانتینو، رییس فیفا را به ترویج «ایده‌های استثمارگرانه» متهم کرده‌اند.\n\n🔹آن‌ها همچنین با اشاره به پرونده فولارین بالوگان خواستار افزایش سازوکارهای کنترل و نظارت شده‌اند تا اطمینان حاصل شود که «پرونده‌های انضباطی افراد به شکلی آشکار و قابل اثبات از دخالت سیاسی مصون می‌ماند».\n\n🔹مدت‌هاست میان لیگ‌های بزرگ اروپا و فیفا تنش وجود دارد؛ به‌ویژه بر سر تقویم روزبه‌روز فشرده‌تر فوتبال. راه‌اندازی و گسترش رقابت‌های جدیدی مانند جام جهانی باشگاه‌ها نیز به این اختلاف‌ها دامن زده است.\n\n🔹گروه «لیگ‌های اروپایی» دو سال پیش با ارایه شکایتی به کمیسیون اروپا، فیفا را به اقدامات سو استفاده‌گرانه متهم کرد. دامنه این شکایت از آن زمان به فوتبال زنان نیز گسترش یافته است.\n\n[**جزییات بیشتر**](https://iranintl.com/202609269656)\n\n@iranintltvsport",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "11:25:06",
-      "gregorian_utc": "2026-09-26T07:55:06+00:00",
+      "tehran_time": "12:08:41",
+      "gregorian_utc": "2026-09-26T08:38:41+00:00",
       "media_type": "photo",
-      "media_size_bytes": 154747,
-      "media_size_human": "151.12 KB",
+      "media_size_bytes": 161796,
+      "media_size_human": "158.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359275_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359275_photo.jpg",
+      "media_local_path": "media/IranintlTV_359277_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359277_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.534681+00:00"
+      "archived_at": "2026-09-26T08:51:33.350332+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76514_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76514_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:51.127305+00:00"
+      "archived_at": "2026-09-26T08:51:33.676454+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121438_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121438_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:51.532691+00:00"
+      "archived_at": "2026-09-26T08:51:33.950427+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": "media/zedTV_14029_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14029_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.100071+00:00"
+      "archived_at": "2026-09-26T08:51:33.085014+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359274,
-      "message_link": "https://t.me/IranintlTV/359274",
-      "text": "روسای ستاد ارتش عربستان سعودی، پاکستان و ترکیه در نشستی اضطراری با محور اجرای تعهدات پیمان مکه، افزایش همکاری‌های اطلاعاتی، هماهنگی نظامی و تکمیل ظرفیت‌های دفاعی گرد هم آمدند.\n\nهم‌زمان، شهباز شریف، نخست‌وزیر پاکستان، در مجمع عمومی سازمان ملل تنگه هرمز و باب‌المندب را «شریان‌های حیاتی اقتصاد جهانی» خواند و گفت این آبراه‌ها نباید مسدود یا به کانون درگیری تبدیل شوند.\n\nجزئیات بیشتر در گفت‌وگو با فرزیا ثابتی و جواد همدانی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 359276,
+      "message_link": "https://t.me/IranintlTV/359276",
+      "text": "رضا طلایی‌نیک، سخنگوی وزارت دفاع جمهوری اسلامی، در مراسمی در استان البرز گفت: «توانمندی‌های دفاعی‌مان را زیر زمین مستقر کردیم. بخشی از توانمندی‌های راهبردی نیروهای مسلح در سال‌های گذشته در محیط‌های امن و زیرساخت‌های زیرزمینی مستقر شده و همین موضوع باعث شد بخشی از محاسبات دشمن درباره توان دفاعی و ظرفیت تولید تسلیحات جمهوری اسلامی محقق نشود.»\n\nطلایی‌نیک اضافه کرد: «جنگ‌های اخیر، جنگ فناوری، جنگ متخصصان و جنگ ترکیبی بود؛ به‌گونه‌ای که علاوه بر میدان نظامی، حوزه‌های اجتماعی، اقتصادی، رسانه‌ای و شناختی نیز به میدان‌های اصلی تقابل تبدیل شدند.»\nhttps://iranintl.com/202609263196",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "11:23:23",
-      "gregorian_utc": "2026-09-26T07:53:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3978492,
-      "media_size_human": "3.79 MB",
+      "tehran_time": "11:50:57",
+      "gregorian_utc": "2026-09-26T08:20:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 147304,
+      "media_size_human": "143.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359274_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359274_video.mp4",
+      "media_local_path": "media/IranintlTV_359276_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359276_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:50.534755+00:00"
+      "archived_at": "2026-09-26T08:51:33.350465+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127382+00:00"
+      "archived_at": "2026-09-26T08:51:33.676558+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121436_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121436_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-26T08:30:51.532738+00:00"
+      "archived_at": "2026-09-26T08:51:33.950495+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -249,29 +249,29 @@
       "media_type": "photo",
       "media_size_bytes": 156740,
       "media_size_human": "153.07 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.100146+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14028_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14028_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.085131+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359273,
-      "message_link": "https://t.me/IranintlTV/359273",
-      "text": "روح‌الله رحیم‌پور، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به سخنان نواف سلام، نخست‌وزیر لبنان، درباره انحصار سلاح در دست دولت گفت مطرح شدن چنین موضعی در لبنان و عراق نشان می‌دهد این دو کشور به سمت الگویی حرکت می‌کنند که در آن تصمیم جنگ و صلح و استفاده از سلاح در اختیار دولت‌ها باشد.\n\nاو افزود این روند می‌تواند مدل نفوذ جمهوری اسلامی و نیروهای مسلح موازی در لبنان و عراق را با چالش مواجه کند و در صورت بسته شدن مسیرهای رسمی حمایت، سپاه پاسداران احتمالا به سمت شبکه‌های کوچک‌تر، غیررسمی‌تر و قابل انکارتر حرکت خواهد کرد.\n@iranintltv",
+      "message_id": 359275,
+      "message_link": "https://t.me/IranintlTV/359275",
+      "text": "روزنامه لوموند گزارش داد تصمیم فرانسه برای اعزام تجهیزات و نیروهای نظامی به عربستان سعودی، ابعاد تازه‌ای از همکاری‌های دفاعی پاریس و ریاض را آشکار کرده است. \n\nبا این حال، جزییات و گستردگی این ماموریت نظامی همچنان نامشخص است. لوموند نوشت همکاری‌های دفاعی فرانسه و عربستان سعودی تاکنون عمدتا دور از توجه افکار عمومی و با احتیاط فراوان در اطلاع‌رسانی انجام شده است. \n\nبه نوشته این روزنامه، اعلام امانوئل مکرون، رییس‌جمهوری فرانسه، در دوم مهر درباره اعزام قریب‌الوقوع نیرو و تجهیزات نظامی به عربستان سعودی، نشان‌دهنده چرخشی در سیاست منطقه‌ای پاریس است. \n\nبه گفته مکرون، فرانسه «نیروهای نظامی، رادارها و سامانه‌های دفاعی» را برای حفاظت از زیرساخت‌های عربستان سعودی اعزام خواهد کرد. با این وجود، هنوز اطلاعاتی درباره شمار نیروهای اعزامی، نوع سامانه‌های دفاعی و زمان آغاز فعالیت آن‌ها منتشر نشده است.\n\nهدف از این ماموریت، حفاظت از پایانه نفتی ینبع در عربستان سعودی است که در پی مسدود شدن تنگه هرمز، به اصلی‌ترین مسیر جایگزین برای صادرات نفت خام این کشور تبدیل شده است.\n [iranintl.com/202609266933](https://t.co/BtqAQBjMau)",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:57:01",
-      "gregorian_utc": "2026-09-26T07:27:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3753343,
-      "media_size_human": "3.58 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.534827+00:00"
+      "tehran_time": "11:25:06",
+      "gregorian_utc": "2026-09-26T07:55:06+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 154747,
+      "media_size_human": "151.12 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359275_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359275_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.350625+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127608+00:00"
+      "archived_at": "2026-09-26T08:51:33.676825+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -303,11 +303,11 @@
       "media_type": "video",
       "media_size_bytes": 9303964,
       "media_size_human": "8.87 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.532786+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121435_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121435_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.950561+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -321,29 +321,29 @@
       "media_type": "photo",
       "media_size_bytes": 117288,
       "media_size_human": "114.54 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.100180+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14027_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14027_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.085196+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359272,
-      "message_link": "https://t.me/IranintlTV/359272",
-      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۴ مهر\n@iranintlTV",
+      "message_id": 359274,
+      "message_link": "https://t.me/IranintlTV/359274",
+      "text": "روسای ستاد ارتش عربستان سعودی، پاکستان و ترکیه در نشستی اضطراری با محور اجرای تعهدات پیمان مکه، افزایش همکاری‌های اطلاعاتی، هماهنگی نظامی و تکمیل ظرفیت‌های دفاعی گرد هم آمدند.\n\nهم‌زمان، شهباز شریف، نخست‌وزیر پاکستان، در مجمع عمومی سازمان ملل تنگه هرمز و باب‌المندب را «شریان‌های حیاتی اقتصاد جهانی» خواند و گفت این آبراه‌ها نباید مسدود یا به کانون درگیری تبدیل شوند.\n\nجزئیات بیشتر در گفت‌وگو با فرزیا ثابتی و جواد همدانی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:51:16",
-      "gregorian_utc": "2026-09-26T07:21:16+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30304226,
-      "media_size_human": "28.90 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574322+00:00"
+      "tehran_time": "11:23:23",
+      "gregorian_utc": "2026-09-26T07:53:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3978492,
+      "media_size_human": "3.79 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359274_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359274_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.350721+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -357,11 +357,11 @@
       "media_type": "photo",
       "media_size_bytes": 141485,
       "media_size_human": "138.17 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.127660+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76508_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76508_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.676899+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -375,11 +375,11 @@
       "media_type": "photo",
       "media_size_bytes": 78496,
       "media_size_human": "76.66 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.532821+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121434_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121434_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.950611+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -393,29 +393,29 @@
       "media_type": "photo",
       "media_size_bytes": 90995,
       "media_size_human": "88.86 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.100212+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14026_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14026_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.085245+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359271,
-      "message_link": "https://t.me/IranintlTV/359271",
-      "text": "🔻زین‌الدین زیدان، سرمربی تیم ملی فرانسه، اعلام کرد کیلیان امباپه به دلیل مصدومیت باید اردوی تیم را ترک کند: «حالش خوب نیست، نه، خوب نیست. باید برگردد. نمی‌خواهیم ریسک کنیم.»\n \n🔹امباپه در دقیقه ۵۸ بازی با ترکیه در لیگ ملت‌های اروپا، جای خود را به دزیره دوئه داد. زیدان در پاسخ به سوال تی‌اف۱ درباره وضعیت امباپه، غیبت او در ادامه اردو و سه مسابقه آینده فرانسه را تایید کرد؛ دیدار دوشنبه در بلژیک، بازی مقابل ایتالیا در دوم اکتبر و مسابقه دوباره برابر بلژیک در پنجم اکتبر.\n\n🔹زیدان گفت: «هنگام شوت زدن، زانویش بیش از حد باز شد. شرایط چندان امیدوارکننده نیست که بتواند به کار ادامه دهد و نمی‌خواهیم ریسک کنیم.»\n\n🔹به گزارش اکیپ، همچنین فدراسیون فوتبال فرانسه با تایید اظهارات زیدان اعلام کرد: «کیلیان امباپه هنگام زدن گل پیروزی‌بخش از ناحیه زانو مصدوم شد. او دچار آسیب تاندون شده و برای درمان به مادرید بازمی‌گردد.»\n\n@iranintltvsport",
+      "message_id": 359273,
+      "message_link": "https://t.me/IranintlTV/359273",
+      "text": "روح‌الله رحیم‌پور، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به سخنان نواف سلام، نخست‌وزیر لبنان، درباره انحصار سلاح در دست دولت گفت مطرح شدن چنین موضعی در لبنان و عراق نشان می‌دهد این دو کشور به سمت الگویی حرکت می‌کنند که در آن تصمیم جنگ و صلح و استفاده از سلاح در اختیار دولت‌ها باشد.\n\nاو افزود این روند می‌تواند مدل نفوذ جمهوری اسلامی و نیروهای مسلح موازی در لبنان و عراق را با چالش مواجه کند و در صورت بسته شدن مسیرهای رسمی حمایت، سپاه پاسداران احتمالا به سمت شبکه‌های کوچک‌تر، غیررسمی‌تر و قابل انکارتر حرکت خواهد کرد.\n@iranintltv",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:48:00",
-      "gregorian_utc": "2026-09-26T07:18:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 197683,
-      "media_size_human": "193.05 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574477+00:00"
+      "tehran_time": "10:57:01",
+      "gregorian_utc": "2026-09-26T07:27:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3753343,
+      "media_size_human": "3.58 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359273_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359273_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.350819+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127702+00:00"
+      "archived_at": "2026-09-26T08:51:33.676966+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -447,11 +447,11 @@
       "media_type": "photo",
       "media_size_bytes": 150658,
       "media_size_human": "147.13 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.532868+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121433_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121433_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.950665+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -465,29 +465,29 @@
       "media_type": "video",
       "media_size_bytes": 18999023,
       "media_size_human": "18.12 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.100254+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14025_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14025_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.085308+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359270,
-      "message_link": "https://t.me/IranintlTV/359270",
-      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال درباره طرح جمهوری اسلامی برای بازگشایی تنگه هرمز گفت به نظر می‌رسد جمهوری اسلامی به دنبال توافق جامع با آمریکا نیست و هدفش از ایجاد وقفه‌هایی تحت عنوان آتش‌بس، مذاکره و دیپلماسی، خریدن زمان است.\n\nاو افزود به نظر من، طولانی شدن این روند می‌تواند به جمهوری اسلامی فرصت دهد توان موشکی و هسته‌ای خود را تا حدی حفظ و با شرایط آینده تنظیم کند و هم‌زمان زمینه مداخله بیشتر چین و روسیه را فراهم کند.\n@iranintltv",
+      "message_id": 359272,
+      "message_link": "https://t.me/IranintlTV/359272",
+      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۴ مهر\n@iranintlTV",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:31:37",
-      "gregorian_utc": "2026-09-26T07:01:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4038579,
-      "media_size_human": "3.85 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574557+00:00"
+      "tehran_time": "10:51:16",
+      "gregorian_utc": "2026-09-26T07:21:16+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30304226,
+      "media_size_human": "28.90 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359272_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359272_audio.mp3",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.350879+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127736+00:00"
+      "archived_at": "2026-09-26T08:51:33.677025+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -519,11 +519,11 @@
       "media_type": "video",
       "media_size_bytes": 814999,
       "media_size_human": "795.90 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.532906+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121432_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121432_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.950726+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100281+00:00"
+      "archived_at": "2026-09-26T08:51:33.085353+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359269,
-      "message_link": "https://t.me/IranintlTV/359269",
-      "text": "دولت عراق اعلام کرد در حال گفت‌وگوی مستقیم با آمریکا برای مستثنی کردن برخی فرودگاه‌های این کشور از تحریم‌های وزارت خزانه‌داری آمریکا علیه پرواز شرکت‌های هواپیمایی ایران است. \n\nدفتر نخست‌وزیری عراق شنبه چهارم مهر اعلام کرد این گفت‌وگوها با هدف فراهم کردن امکان ازسرگیری پروازها با دلایل انسانی انجام می‌شود. \n\nبر اساس این بیانیه، «درمان، تحصیل، سفرهای مذهبی و منافع غیرنظامیان» از جمله دلایلی است که دولت عراق برای درخواست مستثنی شدن برخی فرودگاه‌های این کشور مطرح کرده است. \n\nدولت عراق همچنین تاکید کرد که برای کاهش تنش‌ها در منطقه تلاش می‌کند و «ادامه بحران‌ها، شرایط را پیچیده‌تر خواهد کرد». \nبغداد از همه طرف‌ها خواست از طریق گفت‌وگو و مذاکره به راه‌حل‌هایی دست یابند که به درگیری‌های کنونی پایان دهد و منافع کشورها و مردم منطقه را تامین کند.\n [iranintl.com/202609269253](https://t.co/VCoJMERzka)",
+      "message_id": 359271,
+      "message_link": "https://t.me/IranintlTV/359271",
+      "text": "🔻زین‌الدین زیدان، سرمربی تیم ملی فرانسه، اعلام کرد کیلیان امباپه به دلیل مصدومیت باید اردوی تیم را ترک کند: «حالش خوب نیست، نه، خوب نیست. باید برگردد. نمی‌خواهیم ریسک کنیم.»\n \n🔹امباپه در دقیقه ۵۸ بازی با ترکیه در لیگ ملت‌های اروپا، جای خود را به دزیره دوئه داد. زیدان در پاسخ به سوال تی‌اف۱ درباره وضعیت امباپه، غیبت او در ادامه اردو و سه مسابقه آینده فرانسه را تایید کرد؛ دیدار دوشنبه در بلژیک، بازی مقابل ایتالیا در دوم اکتبر و مسابقه دوباره برابر بلژیک در پنجم اکتبر.\n\n🔹زیدان گفت: «هنگام شوت زدن، زانویش بیش از حد باز شد. شرایط چندان امیدوارکننده نیست که بتواند به کار ادامه دهد و نمی‌خواهیم ریسک کنیم.»\n\n🔹به گزارش اکیپ، همچنین فدراسیون فوتبال فرانسه با تایید اظهارات زیدان اعلام کرد: «کیلیان امباپه هنگام زدن گل پیروزی‌بخش از ناحیه زانو مصدوم شد. او دچار آسیب تاندون شده و برای درمان به مادرید بازمی‌گردد.»\n\n@iranintltvsport",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:11:46",
-      "gregorian_utc": "2026-09-26T06:41:46+00:00",
+      "tehran_time": "10:48:00",
+      "gregorian_utc": "2026-09-26T07:18:00+00:00",
       "media_type": "photo",
-      "media_size_bytes": 102892,
-      "media_size_human": "100.48 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574657+00:00"
+      "media_size_bytes": 197683,
+      "media_size_human": "193.05 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359271_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359271_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351019+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -573,11 +573,11 @@
       "media_type": "photo",
       "media_size_bytes": 241284,
       "media_size_human": "235.63 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.127762+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76505_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76505_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.677089+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.532923+00:00"
+      "archived_at": "2026-09-26T08:51:33.950756+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100301+00:00"
+      "archived_at": "2026-09-26T08:51:33.085383+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359268,
-      "message_link": "https://t.me/IranintlTV/359268",
-      "text": "پنجمین دوره «کنفرانس ایران» به میزبانی موسسه نوفدی در واشینگتن در حال برگزاری است. در دومین روز این کنفرانس، محدودیت دسترسی به اینترنت و نبود شناخت کافی از شرایط دشوار مردم ایران در کشورهای غربی، از موضوعات برنامه بود.\n\nامیر وردی، از نویسندگان دفترچه «شکوفایی»، در گفت‌وگو با اردوان روزبه، خبرنگار ایران‌اینترنشنال، گفت هدف این تلاش‌ها حمایت عملی از مردم ایران و آماده شدن برای فردای پس از جمهوری اسلامی است؛ به‌گونه‌ای که مردم داخل ایران بدانند افرادی برای این هدف تلاش می‌کنند و هدف، به پایان رساندن نبردی است که آن‌ها آغاز کرده‌اند.\n@iranintltv",
+      "message_id": 359270,
+      "message_link": "https://t.me/IranintlTV/359270",
+      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال درباره طرح جمهوری اسلامی برای بازگشایی تنگه هرمز گفت به نظر می‌رسد جمهوری اسلامی به دنبال توافق جامع با آمریکا نیست و هدفش از ایجاد وقفه‌هایی تحت عنوان آتش‌بس، مذاکره و دیپلماسی، خریدن زمان است.\n\nاو افزود به نظر من، طولانی شدن این روند می‌تواند به جمهوری اسلامی فرصت دهد توان موشکی و هسته‌ای خود را تا حدی حفظ و با شرایط آینده تنظیم کند و هم‌زمان زمینه مداخله بیشتر چین و روسیه را فراهم کند.\n@iranintltv",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "10:02:16",
-      "gregorian_utc": "2026-09-26T06:32:16+00:00",
+      "tehran_time": "10:31:37",
+      "gregorian_utc": "2026-09-26T07:01:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 2247615,
-      "media_size_human": "2.14 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574728+00:00"
+      "media_size_bytes": 4038579,
+      "media_size_human": "3.85 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359270_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359270_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351160+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.127843+00:00"
+      "archived_at": "2026-09-26T08:51:33.677201+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.532938+00:00"
+      "archived_at": "2026-09-26T08:51:33.950783+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100319+00:00"
+      "archived_at": "2026-09-26T08:51:33.085409+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359267,
-      "message_link": "https://t.me/IranintlTV/359267",
-      "text": "🔻محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک درباره انتخاب حسین عبدی برای تیم زیر ۲۳ سال ایران گفت: «ای‌کاش آنقدر که حسین عبدی درباره مسائل شرعی حساسیت دارد،‌ روی اصول فوتبال هم حساسیت داشت.»\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/tOo2UhMuedA\n\n@iranintltvsport",
+      "message_id": 359269,
+      "message_link": "https://t.me/IranintlTV/359269",
+      "text": "دولت عراق اعلام کرد در حال گفت‌وگوی مستقیم با آمریکا برای مستثنی کردن برخی فرودگاه‌های این کشور از تحریم‌های وزارت خزانه‌داری آمریکا علیه پرواز شرکت‌های هواپیمایی ایران است. \n\nدفتر نخست‌وزیری عراق شنبه چهارم مهر اعلام کرد این گفت‌وگوها با هدف فراهم کردن امکان ازسرگیری پروازها با دلایل انسانی انجام می‌شود. \n\nبر اساس این بیانیه، «درمان، تحصیل، سفرهای مذهبی و منافع غیرنظامیان» از جمله دلایلی است که دولت عراق برای درخواست مستثنی شدن برخی فرودگاه‌های این کشور مطرح کرده است. \n\nدولت عراق همچنین تاکید کرد که برای کاهش تنش‌ها در منطقه تلاش می‌کند و «ادامه بحران‌ها، شرایط را پیچیده‌تر خواهد کرد». \nبغداد از همه طرف‌ها خواست از طریق گفت‌وگو و مذاکره به راه‌حل‌هایی دست یابند که به درگیری‌های کنونی پایان دهد و منافع کشورها و مردم منطقه را تامین کند.\n [iranintl.com/202609269253](https://t.co/VCoJMERzka)",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "09:50:28",
-      "gregorian_utc": "2026-09-26T06:20:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2540688,
-      "media_size_human": "2.42 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574783+00:00"
+      "tehran_time": "10:11:46",
+      "gregorian_utc": "2026-09-26T06:41:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 102892,
+      "media_size_human": "100.48 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359269_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359269_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351289+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -717,11 +717,11 @@
       "media_type": "video",
       "media_size_bytes": 4281244,
       "media_size_human": "4.08 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.128240+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76503_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76503_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.677691+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.532967+00:00"
+      "archived_at": "2026-09-26T08:51:33.950823+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100336+00:00"
+      "archived_at": "2026-09-26T08:51:33.085435+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359266,
-      "message_link": "https://t.me/IranintlTV/359266",
-      "text": "جاویدنامان انقلاب ملی ایرانیان «آروین وفایی» ۱۸ دی‌ماه در خیابان پیروزی تهران با اصابت دو گلوله به پا و گردنش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.",
+      "message_id": 359268,
+      "message_link": "https://t.me/IranintlTV/359268",
+      "text": "پنجمین دوره «کنفرانس ایران» به میزبانی موسسه نوفدی در واشینگتن در حال برگزاری است. در دومین روز این کنفرانس، محدودیت دسترسی به اینترنت و نبود شناخت کافی از شرایط دشوار مردم ایران در کشورهای غربی، از موضوعات برنامه بود.\n\nامیر وردی، از نویسندگان دفترچه «شکوفایی»، در گفت‌وگو با اردوان روزبه، خبرنگار ایران‌اینترنشنال، گفت هدف این تلاش‌ها حمایت عملی از مردم ایران و آماده شدن برای فردای پس از جمهوری اسلامی است؛ به‌گونه‌ای که مردم داخل ایران بدانند افرادی برای این هدف تلاش می‌کنند و هدف، به پایان رساندن نبردی است که آن‌ها آغاز کرده‌اند.\n@iranintltv",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "09:30:52",
-      "gregorian_utc": "2026-09-26T06:00:52+00:00",
+      "tehran_time": "10:02:16",
+      "gregorian_utc": "2026-09-26T06:32:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 12110884,
-      "media_size_human": "11.55 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574807+00:00"
+      "media_size_bytes": 2247615,
+      "media_size_human": "2.14 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359268_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359268_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351382+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.128281+00:00"
+      "archived_at": "2026-09-26T08:51:33.677752+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-26T08:30:51.533005+00:00"
+      "archived_at": "2026-09-26T08:51:33.950882+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100352+00:00"
+      "archived_at": "2026-09-26T08:51:33.085461+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359265,
-      "message_link": "https://t.me/IranintlTV/359265",
-      "text": "روزنامه قدس، وابسته به آستان قدس رضوی، خواستار پاسخگویی به لغو پروازهای ایرانی از سوی کشورهای همسایه شد و نوشت که ناامن‌سازی کریدورهای هوایی حتی نیازی به اقدام مستقیم نظامی ندارد و صرف هشدار ناوبری با برگزاری رزمایش و اعلام مداوم نوتام و افزایش ریسک پرواز، برای ایجاد اختلال در مسیرها کافی به‌نظر می‌رسد.\n\nاین روزنامه اضافه کرد: «گزارش‌ها از تمکین فرودگاه‌های منطقه به تحریم آمریکایی حکایت دارد که به‌معنای انزوای هوایی کشور در افق نامعلوم خواهد بود. بر این اساس هیچ تعدی و تحریمی نباید بدون پاسخ باقی بماند و مقامات کشورمان نیز پیش از این تصریح کرده بودند، هر گونه محاصره و تحدید کشور به معنای جنگ است و پاسخی معادل را می‌طلبد.»\nhttps://iranintl.com/202609263075",
+      "message_id": 359267,
+      "message_link": "https://t.me/IranintlTV/359267",
+      "text": "🔻محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک درباره انتخاب حسین عبدی برای تیم زیر ۲۳ سال ایران گفت: «ای‌کاش آنقدر که حسین عبدی درباره مسائل شرعی حساسیت دارد،‌ روی اصول فوتبال هم حساسیت داشت.»\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/tOo2UhMuedA\n\n@iranintltvsport",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "09:29:04",
-      "gregorian_utc": "2026-09-26T05:59:04+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 128080,
-      "media_size_human": "125.08 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574884+00:00"
+      "tehran_time": "09:50:28",
+      "gregorian_utc": "2026-09-26T06:20:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2540688,
+      "media_size_human": "2.42 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359267_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359267_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351460+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -861,11 +861,11 @@
       "media_type": "photo",
       "media_size_bytes": 129195,
       "media_size_human": "126.17 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.128540+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76499_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76499_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.678121+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.533034+00:00"
+      "archived_at": "2026-09-26T08:51:33.950929+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100372+00:00"
+      "archived_at": "2026-09-26T08:51:33.085485+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359264,
-      "message_link": "https://t.me/IranintlTV/359264",
-      "text": "🔻تیم ملی کبدی زنان ایران در فینال بازی‌های آسیایی ۲۰۲۶ ناگویا با نتیجه ۳۷ - ۳۴ به هند باخت و مدال نقره این بازی‌ها را کسب کرد. \n\n 🔹در دور گروهی مسابقات امسال نیز ایران به هند باخته بود. هند یکی از قوی‌ترین‌ تیم‌های جهان در کبدی است. \n\n🔹در تیم ملی کبدی زنان ایران زهرا کریمی، مهتاب لک علی آبادی، زهرا آسترکی، سانیا نعیمی، حدیث وارسته، نیکتا جلالوند، زکیه ململی، آیناز فرامرزی، فرشته کلاگر، آتنا مددی، سحر یاری، زهرا خدابنده‌لو حضور داشتند. غلامرضا مازندرانی، سرمربی تیم زنان ایران بود.\n\n@iranintltvsport",
+      "message_id": 359266,
+      "message_link": "https://t.me/IranintlTV/359266",
+      "text": "جاویدنامان انقلاب ملی ایرانیان «آروین وفایی» ۱۸ دی‌ماه در خیابان پیروزی تهران با اصابت دو گلوله به پا و گردنش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "09:27:11",
-      "gregorian_utc": "2026-09-26T05:57:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 202830,
-      "media_size_human": "198.08 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574952+00:00"
+      "tehran_time": "09:30:52",
+      "gregorian_utc": "2026-09-26T06:00:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 12110884,
+      "media_size_human": "11.55 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359266_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359266_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351497+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -933,11 +933,11 @@
       "media_type": "photo",
       "media_size_bytes": 235703,
       "media_size_human": "230.18 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.128680+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76496_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76496_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.678316+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.533050+00:00"
+      "archived_at": "2026-09-26T08:51:33.950957+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100389+00:00"
+      "archived_at": "2026-09-26T08:51:33.085512+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359262,
-      "message_link": "https://t.me/IranintlTV/359262",
-      "text": "پگاه بنی‌هاشمی، پژوهشگر ارشد حقوق در دانشگاه شیکاگو، با اشاره به وضعیت زندانیان سیاسی و احکام سنگین علیه معترضان گفت آنچه در سازمان ملل از سوی مقام‌های جمهوری اسلامی مطرح می‌شود با شرایط داخل ایران و خواسته‌های بخش بزرگی از جامعه فاصله دارد.\n@iranintltv",
+      "message_id": 359265,
+      "message_link": "https://t.me/IranintlTV/359265",
+      "text": "روزنامه قدس، وابسته به آستان قدس رضوی، خواستار پاسخگویی به لغو پروازهای ایرانی از سوی کشورهای همسایه شد و نوشت که ناامن‌سازی کریدورهای هوایی حتی نیازی به اقدام مستقیم نظامی ندارد و صرف هشدار ناوبری با برگزاری رزمایش و اعلام مداوم نوتام و افزایش ریسک پرواز، برای ایجاد اختلال در مسیرها کافی به‌نظر می‌رسد.\n\nاین روزنامه اضافه کرد: «گزارش‌ها از تمکین فرودگاه‌های منطقه به تحریم آمریکایی حکایت دارد که به‌معنای انزوای هوایی کشور در افق نامعلوم خواهد بود. بر این اساس هیچ تعدی و تحریمی نباید بدون پاسخ باقی بماند و مقامات کشورمان نیز پیش از این تصریح کرده بودند، هر گونه محاصره و تحدید کشور به معنای جنگ است و پاسخی معادل را می‌طلبد.»\nhttps://iranintl.com/202609263075",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "09:05:08",
-      "gregorian_utc": "2026-09-26T05:35:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3254210,
-      "media_size_human": "3.10 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.574997+00:00"
+      "tehran_time": "09:29:04",
+      "gregorian_utc": "2026-09-26T05:59:04+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 128080,
+      "media_size_human": "125.08 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359265_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359265_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351598+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1005,11 +1005,11 @@
       "media_type": "photo",
       "media_size_bytes": 107404,
       "media_size_human": "104.89 KB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.128736+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76495_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76495_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.678399+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1023,11 +1023,11 @@
       "media_type": "video",
       "media_size_bytes": 2718373,
       "media_size_human": "2.59 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.533071+00:00"
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121425_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121425_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.950992+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:50.100405+00:00"
+      "archived_at": "2026-09-26T08:51:33.085537+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359261,
-      "message_link": "https://t.me/IranintlTV/359261",
-      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به گزارش وال‌استریت ژورنال درباره احتمال بازگشت جنگ گفت جمهوری اسلامی می‌خواهد از تنگه هرمز به عنوان راهی برای تنفس اقتصادی استفاده کند و با پیشنهاد بازگشایی آن در برابر کاهش محاصره، اهرم ایجاد بحران را به امتیاز اقتصادی تبدیل کند.\n\nاو افزود مشکل اصلی، اعتبار تعهدات جمهوری اسلامی است و چین نیز حمایت از تهران را بر اساس هزینه و فایده می‌سنجد؛ در واقع پکن جمهوری اسلامی را «بیمه بقا» برای خود نمی‌داند و در صورت تغییر منافعش می‌تواند به‌سادگی از آن عبور کند.\n@iranintltv",
+      "message_id": 359264,
+      "message_link": "https://t.me/IranintlTV/359264",
+      "text": "🔻تیم ملی کبدی زنان ایران در فینال بازی‌های آسیایی ۲۰۲۶ ناگویا با نتیجه ۳۷ - ۳۴ به هند باخت و مدال نقره این بازی‌ها را کسب کرد. \n\n 🔹در دور گروهی مسابقات امسال نیز ایران به هند باخته بود. هند یکی از قوی‌ترین‌ تیم‌های جهان در کبدی است. \n\n🔹در تیم ملی کبدی زنان ایران زهرا کریمی، مهتاب لک علی آبادی، زهرا آسترکی، سانیا نعیمی، حدیث وارسته، نیکتا جلالوند، زکیه ململی، آیناز فرامرزی، فرشته کلاگر، آتنا مددی، سحر یاری، زهرا خدابنده‌لو حضور داشتند. غلامرضا مازندرانی، سرمربی تیم زنان ایران بود.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/04",
-      "tehran_time": "08:57:44",
-      "gregorian_utc": "2026-09-26T05:27:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4918288,
-      "media_size_human": "4.69 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:50.575058+00:00"
+      "tehran_time": "09:27:11",
+      "gregorian_utc": "2026-09-26T05:57:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 202830,
+      "media_size_human": "198.08 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359264_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359264_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-26T08:51:33.351694+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-26T08:30:51.128756+00:00"
+      "archived_at": "2026-09-26T08:51:33.678431+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-26T08:30:51.533093+00:00"
+      "archived_at": "2026-09-26T08:51:33.951030+00:00"
     }
   ]
 }
