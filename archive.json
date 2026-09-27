@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T20:34:39.465033+00:00",
-  "shamsi_generated": "1405/07/05 20:34:39 تهران",
+  "generated_at": "2026-09-27T20:45:15.688901+00:00",
+  "shamsi_generated": "1405/07/05 20:45:15 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186663+00:00"
+      "archived_at": "2026-09-27T20:40:37.637124+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_359533_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359533_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.502717+00:00"
+      "archived_at": "2026-09-27T20:40:38.023728+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.094320+00:00"
+      "archived_at": "2026-09-27T20:40:38.432875+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-27T20:30:45.419424+00:00"
+      "archived_at": "2026-09-27T20:40:38.790923+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186715+00:00"
+      "archived_at": "2026-09-27T20:40:37.637173+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_359532_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359532_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.502766+00:00"
+      "archived_at": "2026-09-27T20:40:38.023776+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -141,11 +141,11 @@
       "media_type": "sticker",
       "media_size_bytes": 41544,
       "media_size_human": "40.57 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76521_sticker.webp",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76521_sticker.webp",
-      "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.094383+00:00"
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "دانلود رسانه با خطا مواجه شد.",
+      "archived_at": "2026-09-27T20:40:38.432929+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419465+00:00"
+      "archived_at": "2026-09-27T20:40:38.790962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186751+00:00"
+      "archived_at": "2026-09-27T20:40:37.637209+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_359531_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359531_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.502881+00:00"
+      "archived_at": "2026-09-27T20:40:38.023890+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76520_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76520_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.094470+00:00"
+      "archived_at": "2026-09-27T20:40:38.433014+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419493+00:00"
+      "archived_at": "2026-09-27T20:40:38.790990+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186795+00:00"
+      "archived_at": "2026-09-27T20:40:37.637275+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_359530_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359530_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.503021+00:00"
+      "archived_at": "2026-09-27T20:40:38.024009+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.094557+00:00"
+      "archived_at": "2026-09-27T20:40:38.433096+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121517_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121517_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.419629+00:00"
+      "archived_at": "2026-09-27T20:40:38.791114+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186830+00:00"
+      "archived_at": "2026-09-27T20:40:37.637311+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_359529_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359529_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.503103+00:00"
+      "archived_at": "2026-09-27T20:40:38.024086+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76518_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76518_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.094656+00:00"
+      "archived_at": "2026-09-27T20:40:38.433193+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419665+00:00"
+      "archived_at": "2026-09-27T20:40:38.791154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186865+00:00"
+      "archived_at": "2026-09-27T20:40:37.637347+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_359528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.503144+00:00"
+      "archived_at": "2026-09-27T20:40:38.024126+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.094730+00:00"
+      "archived_at": "2026-09-27T20:40:38.433289+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419692+00:00"
+      "archived_at": "2026-09-27T20:40:38.791182+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186893+00:00"
+      "archived_at": "2026-09-27T20:40:37.637376+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_359527_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359527_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.757917+00:00"
+      "archived_at": "2026-09-27T20:40:38.036480+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76516_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76516_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.094785+00:00"
+      "archived_at": "2026-09-27T20:40:38.433349+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419753+00:00"
+      "archived_at": "2026-09-27T20:40:38.791264+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186936+00:00"
+      "archived_at": "2026-09-27T20:40:37.637417+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_359526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758082+00:00"
+      "archived_at": "2026-09-27T20:40:38.036574+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.094885+00:00"
+      "archived_at": "2026-09-27T20:40:38.433449+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_121512_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121512_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.419800+00:00"
+      "archived_at": "2026-09-27T20:40:38.791312+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.186990+00:00"
+      "archived_at": "2026-09-27T20:40:37.637446+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_359525_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359525_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758283+00:00"
+      "archived_at": "2026-09-27T20:40:38.036758+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76514_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76514_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.095005+00:00"
+      "archived_at": "2026-09-27T20:40:38.433546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_121511_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121511_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.419866+00:00"
+      "archived_at": "2026-09-27T20:40:38.791378+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": "media/zedTV_14047_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14047_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.187067+00:00"
+      "archived_at": "2026-09-27T20:40:37.637510+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_359524_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359524_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758361+00:00"
+      "archived_at": "2026-09-27T20:40:38.036829+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.095108+00:00"
+      "archived_at": "2026-09-27T20:40:38.433645+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.419938+00:00"
+      "archived_at": "2026-09-27T20:40:38.791449+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": "media/zedTV_14046_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14046_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.187115+00:00"
+      "archived_at": "2026-09-27T20:40:37.637555+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_359523_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359523_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758439+00:00"
+      "archived_at": "2026-09-27T20:40:38.036902+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.095383+00:00"
+      "archived_at": "2026-09-27T20:40:38.433910+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.420031+00:00"
+      "archived_at": "2026-09-27T20:40:38.791512+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": "media/zedTV_14045_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14045_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.187160+00:00"
+      "archived_at": "2026-09-27T20:40:37.637597+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_359520_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359520_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758486+00:00"
+      "archived_at": "2026-09-27T20:40:38.036941+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76508_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76508_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.095455+00:00"
+      "archived_at": "2026-09-27T20:40:38.433980+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_121508_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121508_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.420082+00:00"
+      "archived_at": "2026-09-27T20:40:38.791559+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.187194+00:00"
+      "archived_at": "2026-09-27T20:40:37.637629+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_359519_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359519_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758548+00:00"
+      "archived_at": "2026-09-27T20:40:38.036998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.095512+00:00"
+      "archived_at": "2026-09-27T20:40:38.434035+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_121507_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121507_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.420120+00:00"
+      "archived_at": "2026-09-27T20:40:38.791596+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.187223+00:00"
+      "archived_at": "2026-09-27T20:40:37.637656+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_359518_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359518_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758657+00:00"
+      "archived_at": "2026-09-27T20:40:38.037100+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.095564+00:00"
+      "archived_at": "2026-09-27T20:40:38.434086+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.420147+00:00"
+      "archived_at": "2026-09-27T20:40:38.791622+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:44.187250+00:00"
+      "archived_at": "2026-09-27T20:40:37.637681+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_359517_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359517_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:44.758807+00:00"
+      "archived_at": "2026-09-27T20:40:38.037264+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76505_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76505_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-27T20:30:45.095604+00:00"
+      "archived_at": "2026-09-27T20:40:38.434125+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-27T20:30:45.420208+00:00"
+      "archived_at": "2026-09-27T20:40:38.791683+00:00"
     }
   ]
 }
