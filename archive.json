@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T14:14:37.084532+00:00",
-  "shamsi_generated": "1405/07/08 14:14:37 تهران",
+  "generated_at": "2026-09-30T14:22:39.059060+00:00",
+  "shamsi_generated": "1405/07/08 14:22:39 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14188,
-      "message_link": "https://t.me/zedTV/14188",
-      "text": "غارت میلیاردی در شبکه تراست‌های نفتی و بحران نقدینگی سازمان تأمین اجتماعی.\nفرار رانت‌خواران با صدها میلیون دلار ثروت ملی در بحبوحه فقر و معوقات بازنشستگان.\nحجم اختلاس‌ها چندین برابر بودجه لازم برای تسویه بدهی‌های دولت به طبقه کارگر.",
+      "message_id": 14189,
+      "message_link": "https://t.me/zedTV/14189",
+      "text": "گزارش‌ها از طرح رژیم برای حمله به مواضع امارات و ایالات متحده؛\nتلاش برای انسداد تنگه هرمز و تشدید تنش‌های نظامی در منطقه؛\nزمزمه‌های آغاز درگیری در میان مقامات ارشد نظامی و سیاسی در تهران.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:58:56",
-      "gregorian_utc": "2026-09-30T13:28:56+00:00",
+      "tehran_time": "17:44:03",
+      "gregorian_utc": "2026-09-30T14:14:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539585+00:00"
+      "archived_at": "2026-09-30T14:20:35.491546+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359995,
-      "message_link": "https://t.me/IranintlTV/359995",
-      "text": "🔻جودوکاران ایران رقابت‌های خود را در بازی‌های آسیایی ناگویا آغاز کردند. مهسا شکیبایی و ابوالفضل محمودی با شکست برابر حریفان خود از دور مسابقات حذف شدند.\n\n🔹گزارش مهدی کاظمی، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 359996,
+      "message_link": "https://t.me/IranintlTV/359996",
+      "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:  \n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n \n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:35:27",
-      "gregorian_utc": "2026-09-30T14:05:27+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3981134,
-      "media_size_human": "3.80 MB",
+      "tehran_time": "17:47:42",
+      "gregorian_utc": "2026-09-30T14:17:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 286131,
+      "media_size_human": "279.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359995_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359995_video.mp4",
+      "media_local_path": "media/IranintlTV_359996_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359996_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.004544+00:00"
+      "archived_at": "2026-09-30T14:20:35.803260+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.438403+00:00"
+      "archived_at": "2026-09-30T14:20:36.228059+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_121612_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121612_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873466+00:00"
+      "archived_at": "2026-09-30T14:20:36.685954+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14187,
-      "message_link": "https://t.me/zedTV/14187",
-      "text": "اختلاس ۳۰ میلیارد دلاری در شبکه «تراست‌های» نفتی و بحران نقدینگی در سازمان تأمین اجتماعی.\nامتناع دولت از پرداخت معوقات بازنشستگان به بهانه بی‌پولی همزمان با فرار غارتگران از کشور.\nفساد سیستماتیک رژیم مانع اصلی تأمین معیشت و درمان رایگان برای طبقه کارگر.",
+      "message_id": 14188,
+      "message_link": "https://t.me/zedTV/14188",
+      "text": "غارت میلیاردی در شبکه تراست‌های نفتی و بحران نقدینگی سازمان تأمین اجتماعی.\nفرار رانت‌خواران با صدها میلیون دلار ثروت ملی در بحبوحه فقر و معوقات بازنشستگان.\nحجم اختلاس‌ها چندین برابر بودجه لازم برای تسویه بدهی‌های دولت به طبقه کارگر.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:58:34",
-      "gregorian_utc": "2026-09-30T13:28:34+00:00",
+      "tehran_time": "16:58:56",
+      "gregorian_utc": "2026-09-30T13:28:56+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539636+00:00"
+      "archived_at": "2026-09-30T14:20:35.491599+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359994,
-      "message_link": "https://t.me/IranintlTV/359994",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد خواهر ابوالفضل جاهدی به پویش «یک شمع، یک نام، یک یاد» پیوست و ضمن تبریک روز آتش‌نشانی، گفت هر لحظه با یاد برادرش نفس می‌کشد که «غریبانه» جان داد.\n\nابوالفضل جاهدی، جوان ۱۹ ساله ساکن رباط‌ کریم، پیش از آن که بتواند روند ثبت‌نامش در دانشکده آتش‌نشانی را تکمیل کند، شامگاه ۱۹ دی‌ماه با شلیک مستقیم گلوله به سر، کشته شد.",
+      "message_id": 359995,
+      "message_link": "https://t.me/IranintlTV/359995",
+      "text": "🔻جودوکاران ایران رقابت‌های خود را در بازی‌های آسیایی ناگویا آغاز کردند. مهسا شکیبایی و ابوالفضل محمودی با شکست برابر حریفان خود از دور مسابقات حذف شدند.\n\n🔹گزارش مهدی کاظمی، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:31:54",
-      "gregorian_utc": "2026-09-30T14:01:54+00:00",
+      "tehran_time": "17:35:27",
+      "gregorian_utc": "2026-09-30T14:05:27+00:00",
       "media_type": "video",
-      "media_size_bytes": 23444764,
-      "media_size_human": "22.36 MB",
+      "media_size_bytes": 3981134,
+      "media_size_human": "3.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359994_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359994_video.mp4",
+      "media_local_path": "media/IranintlTV_359995_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359995_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.004691+00:00"
+      "archived_at": "2026-09-30T14:20:35.848594+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76539_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.438501+00:00"
+      "archived_at": "2026-09-30T14:20:36.228127+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_121611_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121611_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873526+00:00"
+      "archived_at": "2026-09-30T14:20:36.686009+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14186,
-      "message_link": "https://t.me/zedTV/14186",
-      "text": "بحران سلامت و معیشت: جهش قیمت دارو و قمار با جان بیماران در اتاق‌های عمل.\nفساد و ناکارآمدی: اخاذی پلیس در زنجان و زیر آب رفتن بابلسر با وجود بودجه‌های تریلیونی.\nگسترش اعتراضات: تجمع کارگران هپکو اراک در اعتراض به معوقات مزدی و فقر مطلق.",
+      "message_id": 14187,
+      "message_link": "https://t.me/zedTV/14187",
+      "text": "اختلاس ۳۰ میلیارد دلاری در شبکه «تراست‌های» نفتی و بحران نقدینگی در سازمان تأمین اجتماعی.\nامتناع دولت از پرداخت معوقات بازنشستگان به بهانه بی‌پولی همزمان با فرار غارتگران از کشور.\nفساد سیستماتیک رژیم مانع اصلی تأمین معیشت و درمان رایگان برای طبقه کارگر.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:58:26",
-      "gregorian_utc": "2026-09-30T13:28:26+00:00",
+      "tehran_time": "16:58:34",
+      "gregorian_utc": "2026-09-30T13:28:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539672+00:00"
+      "archived_at": "2026-09-30T14:20:35.491634+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359993,
-      "message_link": "https://t.me/IranintlTV/359993",
-      "text": "🔻کاروان ایران در ادامه بازی‌های آسیایی ناگویا به یازدهمین مدال طلای خود رسید. امین میرزازاده با شکست حریف ازبکستانی در فینال وزن ۱۳۰ کیلوگرم کشتی فرنگی، مدال طلای این وزن را برای ایران به دست آورد.\n\n🔹محمدجواد رضایی در وزن ۶۷ کیلوگرم و غلامرضا فرخی در وزن ۸۷ کیلوگرم نیز در دور نخست مقابل حریفان قزاقستانی شکست خوردند و از ادامه رقابت‌ها بازماندند.\n\n🔹گزارش علیرضا مدیری، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 359994,
+      "message_link": "https://t.me/IranintlTV/359994",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد خواهر ابوالفضل جاهدی به پویش «یک شمع، یک نام، یک یاد» پیوست و ضمن تبریک روز آتش‌نشانی، گفت هر لحظه با یاد برادرش نفس می‌کشد که «غریبانه» جان داد.\n\nابوالفضل جاهدی، جوان ۱۹ ساله ساکن رباط‌ کریم، پیش از آن که بتواند روند ثبت‌نامش در دانشکده آتش‌نشانی را تکمیل کند، شامگاه ۱۹ دی‌ماه با شلیک مستقیم گلوله به سر، کشته شد.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:28:18",
-      "gregorian_utc": "2026-09-30T13:58:18+00:00",
+      "tehran_time": "17:31:54",
+      "gregorian_utc": "2026-09-30T14:01:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 6589578,
-      "media_size_human": "6.28 MB",
+      "media_size_bytes": 23444764,
+      "media_size_human": "22.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359993_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359993_video.mp4",
+      "media_local_path": "media/IranintlTV_359994_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359994_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.004822+00:00"
+      "archived_at": "2026-09-30T14:20:35.848676+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76538_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.438591+00:00"
+      "archived_at": "2026-09-30T14:20:36.228213+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121610_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121610_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873592+00:00"
+      "archived_at": "2026-09-30T14:20:36.686072+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14185,
-      "message_link": "https://t.me/zedTV/14185",
-      "text": "",
+      "message_id": 14186,
+      "message_link": "https://t.me/zedTV/14186",
+      "text": "بحران سلامت و معیشت: جهش قیمت دارو و قمار با جان بیماران در اتاق‌های عمل.\nفساد و ناکارآمدی: اخاذی پلیس در زنجان و زیر آب رفتن بابلسر با وجود بودجه‌های تریلیونی.\nگسترش اعتراضات: تجمع کارگران هپکو اراک در اعتراض به معوقات مزدی و فقر مطلق.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:57:08",
-      "gregorian_utc": "2026-09-30T13:27:08+00:00",
+      "tehran_time": "16:58:26",
+      "gregorian_utc": "2026-09-30T13:28:26+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539714+00:00"
+      "archived_at": "2026-09-30T14:20:35.491672+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359992,
-      "message_link": "https://t.me/IranintlTV/359992",
-      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد صبح چهارشنبه در پروازی از دبی به اسرائیل که تقریبا همه مسافران آن اسرائیلی بودند، یک «حادثه امنیتی بسیار جدی» رخ داده است.\nنتانیاهو گفت هنگامی که هواپیما به اسرائیل نزدیک می‌شد، یکی از خلبانان با چاقو به خلبان دیگر حمله کرد و به نظر می‌رسید قصد دارد باعث سقوط هواپیما شود.\nاو به نقل از یکی از مسافران اسرائیلی گفت این مسافر همراه یکی از خدمه وارد کابین خلبان شد و خلبان مهاجم را هنگام تلاش برای خرابکاری در سامانه‌های هواپیما مهار کرد. به گفته نتانیاهو، یک تیم پروازی جایگزین در نهایت کنترل هواپیما را در دست گرفت و همه مسافران از خطر خارج شدند.\nنتانیاهو افزود خلبان مهاجم بازداشت شده و مقام‌های عربستان سعودی در حال بازجویی از او هستند. او گفت اسرائیل با مقام‌های مربوط در تماس است و ارزیابی‌های امنیتی ادامه دارد.\nنتانیاهو همچنین گفت به نهادهای امنیتی دستور داده است برای مقابله با تهدیدهای احتمالی دیگر آماده باشند.\nhttps://iranintl.com/202609304415",
+      "message_id": 359993,
+      "message_link": "https://t.me/IranintlTV/359993",
+      "text": "🔻کاروان ایران در ادامه بازی‌های آسیایی ناگویا به یازدهمین مدال طلای خود رسید. امین میرزازاده با شکست حریف ازبکستانی در فینال وزن ۱۳۰ کیلوگرم کشتی فرنگی، مدال طلای این وزن را برای ایران به دست آورد.\n\n🔹محمدجواد رضایی در وزن ۶۷ کیلوگرم و غلامرضا فرخی در وزن ۸۷ کیلوگرم نیز در دور نخست مقابل حریفان قزاقستانی شکست خوردند و از ادامه رقابت‌ها بازماندند.\n\n🔹گزارش علیرضا مدیری، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:28:16",
-      "gregorian_utc": "2026-09-30T13:58:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 119937,
-      "media_size_human": "117.13 KB",
+      "tehran_time": "17:28:18",
+      "gregorian_utc": "2026-09-30T13:58:18+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6589578,
+      "media_size_human": "6.28 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359992_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359992_photo.jpg",
+      "media_local_path": "media/IranintlTV_359993_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359993_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005032+00:00"
+      "archived_at": "2026-09-30T14:20:35.848804+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.438985+00:00"
+      "archived_at": "2026-09-30T14:20:36.228596+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.873652+00:00"
+      "archived_at": "2026-09-30T14:20:36.686127+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14184,
-      "message_link": "https://t.me/zedTV/14184",
-      "text": "هشدار هواپیماربایی در پرواز ابوظبی به تل‌آویو؛ اعزام جنگنده‌های اسرائیل در پی قطع رادار.\nبازگشت هواپیمای فلای‌دبی به رادار پس از یک ساعت؛ خلبان با مقامات سعودی تماس گرفت.\n۱۵۰ مسافر اسرائیلی در این پرواز حضور دارند.",
+      "message_id": 14185,
+      "message_link": "https://t.me/zedTV/14185",
+      "text": "",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:35:49",
-      "gregorian_utc": "2026-09-30T13:05:49+00:00",
+      "tehran_time": "16:57:08",
+      "gregorian_utc": "2026-09-30T13:27:08+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539746+00:00"
+      "archived_at": "2026-09-30T14:20:35.491704+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359991,
-      "message_link": "https://t.me/IranintlTV/359991",
-      "text": "وحید احمدی، عضو کمیسیون امنیت ملی مجلس گفت: «در طول زمان نشان داده شده که مذاکره جواب نمی‌دهد و خیلی هم نمی‌شود به آن امید داشت. اگر این‌طور باشد، نقشه همچنان جنگ علیه ایران است.»\n\nاو افزود: «جنگ اقتصادی را که از طریق تحریم‌های هوایی، زمینی و دریایی سعی می‌کنند اجرا کنند، در نظر بگیرید. محاصره هوایی هم شروع شده و جنگ اقتصادی در اوج خود قرار دارد.»\n\nاحمدی ادامه داد: «اگر آنها بخواهند با همین روند جلو بروند، قطعا کشور ما بیشتر آسیب می‌بیند و به تعبیر دیگر، هزینه مقاومت و ایستادن در مقابل آنها از هزینه سازش بسیار بیشتر خواهد شد. ما باید کارهای دیگری می‌کردیم که به این مرحله نرسیم.»\n\nاو افزود: «آنها هر وقت ضعیف می‌شوند و در یک تنگنا قرار می‌گیرند، به‌خصوص اگر تنگنای اقتصادی باشد، به دنبال واسطه و مذاکره می‌آیند؛ فقط زمان می‌خرند تا بتوانند تجدید قوا کنند.»\nhttps://iranintl.com/202609301060",
+      "message_id": 359992,
+      "message_link": "https://t.me/IranintlTV/359992",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد صبح چهارشنبه در پروازی از دبی به اسرائیل که تقریبا همه مسافران آن اسرائیلی بودند، یک «حادثه امنیتی بسیار جدی» رخ داده است.\nنتانیاهو گفت هنگامی که هواپیما به اسرائیل نزدیک می‌شد، یکی از خلبانان با چاقو به خلبان دیگر حمله کرد و به نظر می‌رسید قصد دارد باعث سقوط هواپیما شود.\nاو به نقل از یکی از مسافران اسرائیلی گفت این مسافر همراه یکی از خدمه وارد کابین خلبان شد و خلبان مهاجم را هنگام تلاش برای خرابکاری در سامانه‌های هواپیما مهار کرد. به گفته نتانیاهو، یک تیم پروازی جایگزین در نهایت کنترل هواپیما را در دست گرفت و همه مسافران از خطر خارج شدند.\nنتانیاهو افزود خلبان مهاجم بازداشت شده و مقام‌های عربستان سعودی در حال بازجویی از او هستند. او گفت اسرائیل با مقام‌های مربوط در تماس است و ارزیابی‌های امنیتی ادامه دارد.\nنتانیاهو همچنین گفت به نهادهای امنیتی دستور داده است برای مقابله با تهدیدهای احتمالی دیگر آماده باشند.\nhttps://iranintl.com/202609304415",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:19:07",
-      "gregorian_utc": "2026-09-30T13:49:07+00:00",
+      "tehran_time": "17:28:16",
+      "gregorian_utc": "2026-09-30T13:58:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 130177,
-      "media_size_human": "127.13 KB",
+      "media_size_bytes": 119937,
+      "media_size_human": "117.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359991_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359991_photo.jpg",
+      "media_local_path": "media/IranintlTV_359992_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359992_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005198+00:00"
+      "archived_at": "2026-09-30T14:20:35.849012+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.439119+00:00"
+      "archived_at": "2026-09-30T14:20:36.228723+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.873713+00:00"
+      "archived_at": "2026-09-30T14:20:36.686184+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14183,
-      "message_link": "https://t.me/zedTV/14183",
-      "text": "لغو سفر رئیس ستاد ارتش اسرائیل به ایالات متحده در پی تحولات امنیتی.\nافزایش سطح آمادگی نظامی برای مقابله با شرایط اضطراری در منطقه.",
+      "message_id": 14184,
+      "message_link": "https://t.me/zedTV/14184",
+      "text": "هشدار هواپیماربایی در پرواز ابوظبی به تل‌آویو؛ اعزام جنگنده‌های اسرائیل در پی قطع رادار.\nبازگشت هواپیمای فلای‌دبی به رادار پس از یک ساعت؛ خلبان با مقامات سعودی تماس گرفت.\n۱۵۰ مسافر اسرائیلی در این پرواز حضور دارند.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:35:36",
-      "gregorian_utc": "2026-09-30T13:05:36+00:00",
+      "tehran_time": "16:35:49",
+      "gregorian_utc": "2026-09-30T13:05:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539782+00:00"
+      "archived_at": "2026-09-30T14:20:35.491740+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359990,
-      "message_link": "https://t.me/IranintlTV/359990",
-      "text": "ویدیوهای رسیده نشان می‌دهد هفتم مهراه گروهی از ایرانیان مقیم هانوفر با برگزاری تجمعی در اعتراض به اعدام‌ها در ایران، حمایت خود از زندانیان سیاسی و محکومان به اعدام، از جمله محبوبه شعبانی و علی زارعی را اعلام کردند.",
+      "message_id": 359991,
+      "message_link": "https://t.me/IranintlTV/359991",
+      "text": "وحید احمدی، عضو کمیسیون امنیت ملی مجلس گفت: «در طول زمان نشان داده شده که مذاکره جواب نمی‌دهد و خیلی هم نمی‌شود به آن امید داشت. اگر این‌طور باشد، نقشه همچنان جنگ علیه ایران است.»\n\nاو افزود: «جنگ اقتصادی را که از طریق تحریم‌های هوایی، زمینی و دریایی سعی می‌کنند اجرا کنند، در نظر بگیرید. محاصره هوایی هم شروع شده و جنگ اقتصادی در اوج خود قرار دارد.»\n\nاحمدی ادامه داد: «اگر آنها بخواهند با همین روند جلو بروند، قطعا کشور ما بیشتر آسیب می‌بیند و به تعبیر دیگر، هزینه مقاومت و ایستادن در مقابل آنها از هزینه سازش بسیار بیشتر خواهد شد. ما باید کارهای دیگری می‌کردیم که به این مرحله نرسیم.»\n\nاو افزود: «آنها هر وقت ضعیف می‌شوند و در یک تنگنا قرار می‌گیرند، به‌خصوص اگر تنگنای اقتصادی باشد، به دنبال واسطه و مذاکره می‌آیند؛ فقط زمان می‌خرند تا بتوانند تجدید قوا کنند.»\nhttps://iranintl.com/202609301060",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:03:38",
-      "gregorian_utc": "2026-09-30T13:33:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4869047,
-      "media_size_human": "4.64 MB",
+      "tehran_time": "17:19:07",
+      "gregorian_utc": "2026-09-30T13:49:07+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130177,
+      "media_size_human": "127.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359990_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359990_video.mp4",
+      "media_local_path": "media/IranintlTV_359991_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359991_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005247+00:00"
+      "archived_at": "2026-09-30T14:20:35.849141+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76529_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439200+00:00"
+      "archived_at": "2026-09-30T14:20:36.228800+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_121607_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121607_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873765+00:00"
+      "archived_at": "2026-09-30T14:20:36.686231+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14182,
-      "message_link": "https://t.me/zedTV/14182",
-      "text": "سی‌ان‌ان: نتانیاهو اسناد فعالیت‌های هسته‌ای رژیم در کوه کلنگ را به امارات ارائه کرد.\nپیش‌بینی اسرائیل از وقوع جنگی جدید در منطقه طی هفته‌های آینده.",
+      "message_id": 14183,
+      "message_link": "https://t.me/zedTV/14183",
+      "text": "لغو سفر رئیس ستاد ارتش اسرائیل به ایالات متحده در پی تحولات امنیتی.\nافزایش سطح آمادگی نظامی برای مقابله با شرایط اضطراری در منطقه.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:35:35",
-      "gregorian_utc": "2026-09-30T13:05:35+00:00",
+      "tehran_time": "16:35:36",
+      "gregorian_utc": "2026-09-30T13:05:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539811+00:00"
+      "archived_at": "2026-09-30T14:20:35.491768+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359989,
-      "message_link": "https://t.me/IranintlTV/359989",
-      "text": "بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، داریوش آتش‌افروز که در ۱۷ سالگی در ارتباط با قتلی در خوزستان بازداشت و به اعدام محکوم شد، پس از نزدیک به ۱۶ سال حبس در زندان سپیدار اهواز در معرض اجرای حکم قرار دارد.\n\nیک منبع مطلع به ایران‌اینترنشنال گفت آتش‌افروز حدود دو هفته پیش برای اجرای حکم به سلول انفرادی منتقل شد، اما با پیگیری‌های انجام‌شده، اجرای حکم به تعویق افتاد تا فرصتی برای جلب رضایت خانواده مقتول فراهم شود.\n\nبه گفته این منبع، خانواده مقتول طی سال‌های گذشته با گفت‌وگو درباره بخشش یا سازش موافقت نکرده و خواهان اجرای حکم قصاص بوده‌اند. تلاش‌ها برای جلب رضایت آنان نیز تاکنون بی‌نتیجه مانده است.\n\nبر اساس روایت رسیده به ایران‌اینترنشنال، آتش‌افروز در ۱۷ سالگی برای برداشت عسل به کوه‌های اطراف روستایی در خوزستان رفته بود که در مسیر درگیر نزاعی شد و در جریان آن مرتکب قتل شد. او پس از این واقعه از محل گریخت و پس از بازداشت به اعدام محکوم شد.\n\n\nhttps://iranintl.com/202609302049",
+      "message_id": 359990,
+      "message_link": "https://t.me/IranintlTV/359990",
+      "text": "ویدیوهای رسیده نشان می‌دهد هفتم مهراه گروهی از ایرانیان مقیم هانوفر با برگزاری تجمعی در اعتراض به اعدام‌ها در ایران، حمایت خود از زندانیان سیاسی و محکومان به اعدام، از جمله محبوبه شعبانی و علی زارعی را اعلام کردند.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:01:14",
-      "gregorian_utc": "2026-09-30T13:31:14+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 136357,
-      "media_size_human": "133.16 KB",
+      "tehran_time": "17:03:38",
+      "gregorian_utc": "2026-09-30T13:33:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4869047,
+      "media_size_human": "4.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359989_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359989_photo.jpg",
+      "media_local_path": "media/IranintlTV_359990_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359990_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005382+00:00"
+      "archived_at": "2026-09-30T14:20:35.849182+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439249+00:00"
+      "archived_at": "2026-09-30T14:20:36.228847+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_121606_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121606_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873838+00:00"
+      "archived_at": "2026-09-30T14:20:36.686300+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14181,
-      "message_link": "https://t.me/zedTV/14181",
-      "text": "گزارش‌های محلی از وقوع انفجار در شهر زاهدان.\nصدای مهیب در مرکز استان سیستان و بلوچستان شنیده شد.",
+      "message_id": 14182,
+      "message_link": "https://t.me/zedTV/14182",
+      "text": "سی‌ان‌ان: نتانیاهو اسناد فعالیت‌های هسته‌ای رژیم در کوه کلنگ را به امارات ارائه کرد.\nپیش‌بینی اسرائیل از وقوع جنگی جدید در منطقه طی هفته‌های آینده.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:35:22",
-      "gregorian_utc": "2026-09-30T13:05:22+00:00",
+      "tehran_time": "16:35:35",
+      "gregorian_utc": "2026-09-30T13:05:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539852+00:00"
+      "archived_at": "2026-09-30T14:20:35.491808+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359988,
-      "message_link": "https://t.me/IranintlTV/359988",
+      "message_id": 359989,
+      "message_link": "https://t.me/IranintlTV/359989",
       "text": "بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، داریوش آتش‌افروز که در ۱۷ سالگی در ارتباط با قتلی در خوزستان بازداشت و به اعدام محکوم شد، پس از نزدیک به ۱۶ سال حبس در زندان سپیدار اهواز در معرض اجرای حکم قرار دارد.\n\nیک منبع مطلع به ایران‌اینترنشنال گفت آتش‌افروز حدود دو هفته پیش برای اجرای حکم به سلول انفرادی منتقل شد، اما با پیگیری‌های انجام‌شده، اجرای حکم به تعویق افتاد تا فرصتی برای جلب رضایت خانواده مقتول فراهم شود.\n\nبه گفته این منبع، خانواده مقتول طی سال‌های گذشته با گفت‌وگو درباره بخشش یا سازش موافقت نکرده و خواهان اجرای حکم قصاص بوده‌اند. تلاش‌ها برای جلب رضایت آنان نیز تاکنون بی‌نتیجه مانده است.\n\nبر اساس روایت رسیده به ایران‌اینترنشنال، آتش‌افروز در ۱۷ سالگی برای برداشت عسل به کوه‌های اطراف روستایی در خوزستان رفته بود که در مسیر درگیر نزاعی شد و در جریان آن مرتکب قتل شد. او پس از این واقعه از محل گریخت و پس از بازداشت به اعدام محکوم شد.\n\n\nhttps://iranintl.com/202609302049",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "17:01:11",
-      "gregorian_utc": "2026-09-30T13:31:11+00:00",
+      "tehran_time": "17:01:14",
+      "gregorian_utc": "2026-09-30T13:31:14+00:00",
       "media_type": "photo",
       "media_size_bytes": 136357,
       "media_size_human": "133.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359988_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359988_photo.jpg",
+      "media_local_path": "media/IranintlTV_359989_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359989_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005540+00:00"
+      "archived_at": "2026-09-30T14:20:35.849316+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76527_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76527_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439316+00:00"
+      "archived_at": "2026-09-30T14:20:36.228912+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_121605_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121605_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873881+00:00"
+      "archived_at": "2026-09-30T14:20:36.686341+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14180,
-      "message_link": "https://t.me/zedTV/14180",
-      "text": "مولانا عبدالغفار نقشبندی: خون‌های ریخته شده در جمعه خونین زاهدان هرگز فراموش نمی‌شود و گریبان قاتلان را خواهد گرفت.\nتاکید بر تداوم مقاومت تا سرنگونی رژیم؛ بلوچ‌ها برای حفظ عزت خود در برابر گلوله و سرکوب عقب‌نشینی نمی‌کنند.\nفراخوان برای آمادگی نهایی جهت قیام و پایان دادن به حکومت ستم‌گران در ایران.",
+      "message_id": 14181,
+      "message_link": "https://t.me/zedTV/14181",
+      "text": "گزارش‌های محلی از وقوع انفجار در شهر زاهدان.\nصدای مهیب در مرکز استان سیستان و بلوچستان شنیده شد.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:20:41",
-      "gregorian_utc": "2026-09-30T12:50:41+00:00",
+      "tehran_time": "16:35:22",
+      "gregorian_utc": "2026-09-30T13:05:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539880+00:00"
+      "archived_at": "2026-09-30T14:20:35.491835+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359987,
-      "message_link": "https://t.me/IranintlTV/359987",
-      "text": "اعتراض‌ها به بحران مسکن در اسپانیا برای پنجمین روز ادامه دارد. مادرید همچنان محل تجمع صدها معترض است که در اعتراض به افزایش هزینه مسکن، تخلیه اجباری مستاجران و ناکافی بودن اقدامات دولت، در این میدان چادر زده‌اند.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 359988,
+      "message_link": "https://t.me/IranintlTV/359988",
+      "text": "بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، داریوش آتش‌افروز که در ۱۷ سالگی در ارتباط با قتلی در خوزستان بازداشت و به اعدام محکوم شد، پس از نزدیک به ۱۶ سال حبس در زندان سپیدار اهواز در معرض اجرای حکم قرار دارد.\n\nیک منبع مطلع به ایران‌اینترنشنال گفت آتش‌افروز حدود دو هفته پیش برای اجرای حکم به سلول انفرادی منتقل شد، اما با پیگیری‌های انجام‌شده، اجرای حکم به تعویق افتاد تا فرصتی برای جلب رضایت خانواده مقتول فراهم شود.\n\nبه گفته این منبع، خانواده مقتول طی سال‌های گذشته با گفت‌وگو درباره بخشش یا سازش موافقت نکرده و خواهان اجرای حکم قصاص بوده‌اند. تلاش‌ها برای جلب رضایت آنان نیز تاکنون بی‌نتیجه مانده است.\n\nبر اساس روایت رسیده به ایران‌اینترنشنال، آتش‌افروز در ۱۷ سالگی برای برداشت عسل به کوه‌های اطراف روستایی در خوزستان رفته بود که در مسیر درگیر نزاعی شد و در جریان آن مرتکب قتل شد. او پس از این واقعه از محل گریخت و پس از بازداشت به اعدام محکوم شد.\n\n\nhttps://iranintl.com/202609302049",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:59:33",
-      "gregorian_utc": "2026-09-30T13:29:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2456551,
-      "media_size_human": "2.34 MB",
+      "tehran_time": "17:01:11",
+      "gregorian_utc": "2026-09-30T13:31:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 136357,
+      "media_size_human": "133.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359987_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359987_video.mp4",
+      "media_local_path": "media/IranintlTV_359988_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359988_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.005629+00:00"
+      "archived_at": "2026-09-30T14:20:35.849480+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439393+00:00"
+      "archived_at": "2026-09-30T14:20:36.228989+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.873909+00:00"
+      "archived_at": "2026-09-30T14:20:36.686368+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14179,
-      "message_link": "https://t.me/zedTV/14179",
-      "text": "گسترش کارزار «سه‌شنبه‌های نه به اعدام» به ۶۶ زندان با پیوستن دره‌شهر و مشگین‌شهر.\nخطر اعدام برای ۲۰۰ زندانی سیاسی و عقیدتی از جمله بازداشت‌شدگان اعتراضات سراسری.\nتداوم اعتصاب غذای گسترده در زندان‌ها در اعتراض به صدور و اجرای احکام مرگ توسط رژیم.",
+      "message_id": 14180,
+      "message_link": "https://t.me/zedTV/14180",
+      "text": "مولانا عبدالغفار نقشبندی: خون‌های ریخته شده در جمعه خونین زاهدان هرگز فراموش نمی‌شود و گریبان قاتلان را خواهد گرفت.\nتاکید بر تداوم مقاومت تا سرنگونی رژیم؛ بلوچ‌ها برای حفظ عزت خود در برابر گلوله و سرکوب عقب‌نشینی نمی‌کنند.\nفراخوان برای آمادگی نهایی جهت قیام و پایان دادن به حکومت ستم‌گران در ایران.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:20:31",
-      "gregorian_utc": "2026-09-30T12:50:31+00:00",
+      "tehran_time": "16:20:41",
+      "gregorian_utc": "2026-09-30T12:50:41+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.539924+00:00"
+      "archived_at": "2026-09-30T14:20:35.491860+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359986,
-      "message_link": "https://t.me/IranintlTV/359986",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه هشت مهر:**\n\n🔹من در مدرسه فرهنگیان سروش سراوان استان سیستان بلوچستان درس می‌خوانم. کلاس ما فاقد وسایل سرمایشی و تجهیزات آموزشی است. کلاس ما با بلوک ساخته شده و هنوز هم گچ‌کاری نکرده‌اند و شهریه هم پنج میلیون است.\n\n🔹از اصفهان: دو ورق آموکسی‌سیلین ۲۴۶ هزار تومان. تو این مملکت حتی نباید مریض شد.\n\n🔹پرستار اتاق عمل در یکی از بیمارستان‌های دولتی هستم، اینکه دکتر جراح در اتاق عمل حاضر نمی‌شود و عمل را به دانشجوی خودش می‌سپارد، خیلی بیشتر از قبل شده؛ متاسفانه با جان بیماران بازی می‌شود و هیچ نظارتی هم وجود ندارد.\n\n🔹از اصفهان: پرستار بازنشسته هستم، با ۳۰ سال سابقه ۲۷ میلیون تومان بهم می‌دن. الان ۴ ماهه گوشت نخریدم و همسرم هم بیماره. فقط ماهی ۱۰ میلیون پول داروهای همسرمه.\n\n🔹روزی ۸ تا مسکن می‌خورم که درد دندونم آروم بشه چون با این وضعیت اقتصادی جرات نمی‌کنم تا دم در دندانپزشکی برم چه برسه به درمانش برسم.\n\n🔹یک ساعت بارندگی، سطح شهر بابلسر را تبدیل به دریاچه کرده! تمام خیابان‌های شهر پر از آب شده. پیج های بابلسر استوری از این وضعیت گذاشتن.این درصورتی هست که شهرداری هزار میلیارد هزینه شبکه لوله‌کشی فاضلاب شهری کرده.\n\n🔹تو استان زنجان، کلانتری‌ها (نیروی انتظامی) بابت کوچک‌ترین درخواست مردم حتی اگر نامه دادگاه یا ادارات حکومتی دیگه هم داشته باشی تقاضای رشوه، آوردن غذا، پرداخت قبوض مختلف و هزینه‌های تعمیرات رو از مردم عادی و شرکت‌های خصوصی دارن.\n\n🔹صدها تن از کارگران شرکت هپکو اراک بعد از اعتصاب چند روزه، مقابل استانداری تجمع کردند و خواستار تعیین تکلیف حقوق خود شدند.",
+      "message_id": 359987,
+      "message_link": "https://t.me/IranintlTV/359987",
+      "text": "اعتراض‌ها به بحران مسکن در اسپانیا برای پنجمین روز ادامه دارد. مادرید همچنان محل تجمع صدها معترض است که در اعتراض به افزایش هزینه مسکن، تخلیه اجباری مستاجران و ناکافی بودن اقدامات دولت، در این میدان چادر زده‌اند.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:50:41",
-      "gregorian_utc": "2026-09-30T13:20:41+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.005858+00:00"
+      "tehran_time": "16:59:33",
+      "gregorian_utc": "2026-09-30T13:29:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2456551,
+      "media_size_human": "2.34 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_359987_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359987_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-30T14:20:35.849564+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.439455+00:00"
+      "archived_at": "2026-09-30T14:20:36.229032+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,43 +739,43 @@
       "media_local_path": "media/Mellig_121603_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121603_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.873973+00:00"
+      "archived_at": "2026-09-30T14:20:36.686461+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14178,
-      "message_link": "https://t.me/zedTV/14178",
-      "text": "گزارش الجزیره از تهران: هجوم شهروندان برای ذخیره‌سازی مواد غذایی و دارو در پی هراس از جنگ.\nنایاب شدن شیرخشک و اقلام دارویی در داروخانه‌های جنوب پایتخت؛ نگرانی از محاصره اقتصادی.\nتشدید بحران معیشتی و تمایل برخی شهروندان به راهکار نظامی برای پایان دادن به وضعیت موجود.",
+      "message_id": 14179,
+      "message_link": "https://t.me/zedTV/14179",
+      "text": "گسترش کارزار «سه‌شنبه‌های نه به اعدام» به ۶۶ زندان با پیوستن دره‌شهر و مشگین‌شهر.\nخطر اعدام برای ۲۰۰ زندانی سیاسی و عقیدتی از جمله بازداشت‌شدگان اعتراضات سراسری.\nتداوم اعتصاب غذای گسترده در زندان‌ها در اعتراض به صدور و اجرای احکام مرگ توسط رژیم.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:06:08",
-      "gregorian_utc": "2026-09-30T12:36:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 96099,
-      "media_size_human": "93.85 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_14178_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14178_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:14.540001+00:00"
+      "tehran_time": "16:20:31",
+      "gregorian_utc": "2026-09-30T12:50:31+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-30T14:20:35.491884+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359985,
-      "message_link": "https://t.me/IranintlTV/359985",
-      "text": "🔻سازمان حقوق بشر برای ورزش با انتشار پستی در صفحه اینستاگرام خود از ۷ ورزشکار ایرانی در خطر اعدام خبر داد. براساس گزارش این سازمان، علی پیشه‌ورزاده، مریم هداوند، احسان خدادی، بنیامین نقدی، احسان حسینی‌پور حصارلو، ترانه رحیمی و محمدجواد وفایی ثانی ورزشکارانی هستند که جان آنها در زندان‌های جمهوری اسلامی در خطر است.\n\n🔹علی پیشه‌ورزاده، ۲۸ ساله و ورزشکار سابق رشته‌های شنا و واترپلو از گیلان، در مرداد ۱۴۰۵ به اعدام محکوم شد. بر اساس گزارش‌ها، او پس از بازداشت در جریان انقلاب ملی ایرانیان در دی ۱۴۰۴ تحت شکنجه قرار گرفته و به اعترافات اجباری وادار شده است. همچنین درباره محرومیت او از دسترسی به وکیل و نقض جدی حق دادرسی عادلانه ابراز نگرانی شده است.\n\n🔹مریم هداوند، کوهنورد ۴۲ ساله، در جریان اعتراضات دی‌ماه ۱۴۰۴ بازداشت و در آوریل همان سال به اعدام محکوم شد. گروه‌های حقوق بشری درباره روند دادرسی او، از جمله محرومیت از دسترسی به وکیل مستقل، ابراز نگرانی کرده‌اند.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202609302571) بخوانید\n\n@iranintltvsport",
+      "message_id": 359986,
+      "message_link": "https://t.me/IranintlTV/359986",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه هشت مهر:**\n\n🔹من در مدرسه فرهنگیان سروش سراوان استان سیستان بلوچستان درس می‌خوانم. کلاس ما فاقد وسایل سرمایشی و تجهیزات آموزشی است. کلاس ما با بلوک ساخته شده و هنوز هم گچ‌کاری نکرده‌اند و شهریه هم پنج میلیون است.\n\n🔹از اصفهان: دو ورق آموکسی‌سیلین ۲۴۶ هزار تومان. تو این مملکت حتی نباید مریض شد.\n\n🔹پرستار اتاق عمل در یکی از بیمارستان‌های دولتی هستم، اینکه دکتر جراح در اتاق عمل حاضر نمی‌شود و عمل را به دانشجوی خودش می‌سپارد، خیلی بیشتر از قبل شده؛ متاسفانه با جان بیماران بازی می‌شود و هیچ نظارتی هم وجود ندارد.\n\n🔹از اصفهان: پرستار بازنشسته هستم، با ۳۰ سال سابقه ۲۷ میلیون تومان بهم می‌دن. الان ۴ ماهه گوشت نخریدم و همسرم هم بیماره. فقط ماهی ۱۰ میلیون پول داروهای همسرمه.\n\n🔹روزی ۸ تا مسکن می‌خورم که درد دندونم آروم بشه چون با این وضعیت اقتصادی جرات نمی‌کنم تا دم در دندانپزشکی برم چه برسه به درمانش برسم.\n\n🔹یک ساعت بارندگی، سطح شهر بابلسر را تبدیل به دریاچه کرده! تمام خیابان‌های شهر پر از آب شده. پیج های بابلسر استوری از این وضعیت گذاشتن.این درصورتی هست که شهرداری هزار میلیارد هزینه شبکه لوله‌کشی فاضلاب شهری کرده.\n\n🔹تو استان زنجان، کلانتری‌ها (نیروی انتظامی) بابت کوچک‌ترین درخواست مردم حتی اگر نامه دادگاه یا ادارات حکومتی دیگه هم داشته باشی تقاضای رشوه، آوردن غذا، پرداخت قبوض مختلف و هزینه‌های تعمیرات رو از مردم عادی و شرکت‌های خصوصی دارن.\n\n🔹صدها تن از کارگران شرکت هپکو اراک بعد از اعتصاب چند روزه، مقابل استانداری تجمع کردند و خواستار تعیین تکلیف حقوق خود شدند.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:39:54",
-      "gregorian_utc": "2026-09-30T13:09:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 163677,
-      "media_size_human": "159.84 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359985_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359985_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.006012+00:00"
+      "tehran_time": "16:50:41",
+      "gregorian_utc": "2026-09-30T13:20:41+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-30T14:20:35.849772+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.439546+00:00"
+      "archived_at": "2026-09-30T14:20:36.229113+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,43 +811,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.874033+00:00"
+      "archived_at": "2026-09-30T14:20:36.686519+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14177,
-      "message_link": "https://t.me/zedTV/14177",
-      "text": "دلار ۲۵۶ هزار و یورو ۲۹۰ هزار تومان؛ رکوردشکنی بی‌سابقه سقوط ارزش ریال.\nشکست تزریق ۲ میلیارد دلاری بانک مرکزی در مهار نوسانات بازار ارز.\nتداوم فروپاشی اقتصادی و بحران معیشتی در سایه ناکارآمدی رژیم.",
+      "message_id": 14178,
+      "message_link": "https://t.me/zedTV/14178",
+      "text": "گزارش الجزیره از تهران: هجوم شهروندان برای ذخیره‌سازی مواد غذایی و دارو در پی هراس از جنگ.\nنایاب شدن شیرخشک و اقلام دارویی در داروخانه‌های جنوب پایتخت؛ نگرانی از محاصره اقتصادی.\nتشدید بحران معیشتی و تمایل برخی شهروندان به راهکار نظامی برای پایان دادن به وضعیت موجود.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:05:07",
-      "gregorian_utc": "2026-09-30T12:35:07+00:00",
+      "tehran_time": "16:06:08",
+      "gregorian_utc": "2026-09-30T12:36:08+00:00",
       "media_type": "photo",
-      "media_size_bytes": 92148,
-      "media_size_human": "89.99 KB",
+      "media_size_bytes": 96099,
+      "media_size_human": "93.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_14177_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14177_photo.jpg",
+      "media_local_path": "media/zedTV_14178_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14178_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:14.540049+00:00"
+      "archived_at": "2026-09-30T14:20:35.491952+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359984,
-      "message_link": "https://t.me/IranintlTV/359984",
-      "text": "یک شهروند در ویدیوی ارسالی‌اش به ایران اینترنشنال، یک بنر نصب‌شده در فروشگاه با عنوان «نسیه مُرد» را نشان داد و گفت: «حالا با دلار ۲۶۰ تومانی چه کار کنیم؟»",
+      "message_id": 359985,
+      "message_link": "https://t.me/IranintlTV/359985",
+      "text": "🔻سازمان حقوق بشر برای ورزش با انتشار پستی در صفحه اینستاگرام خود از ۷ ورزشکار ایرانی در خطر اعدام خبر داد. براساس گزارش این سازمان، علی پیشه‌ورزاده، مریم هداوند، احسان خدادی، بنیامین نقدی، احسان حسینی‌پور حصارلو، ترانه رحیمی و محمدجواد وفایی ثانی ورزشکارانی هستند که جان آنها در زندان‌های جمهوری اسلامی در خطر است.\n\n🔹علی پیشه‌ورزاده، ۲۸ ساله و ورزشکار سابق رشته‌های شنا و واترپلو از گیلان، در مرداد ۱۴۰۵ به اعدام محکوم شد. بر اساس گزارش‌ها، او پس از بازداشت در جریان انقلاب ملی ایرانیان در دی ۱۴۰۴ تحت شکنجه قرار گرفته و به اعترافات اجباری وادار شده است. همچنین درباره محرومیت او از دسترسی به وکیل و نقض جدی حق دادرسی عادلانه ابراز نگرانی شده است.\n\n🔹مریم هداوند، کوهنورد ۴۲ ساله، در جریان اعتراضات دی‌ماه ۱۴۰۴ بازداشت و در آوریل همان سال به اعدام محکوم شد. گروه‌های حقوق بشری درباره روند دادرسی او، از جمله محرومیت از دسترسی به وکیل مستقل، ابراز نگرانی کرده‌اند.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202609302571) بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:31:48",
-      "gregorian_utc": "2026-09-30T13:01:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1116177,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "16:39:54",
+      "gregorian_utc": "2026-09-30T13:09:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 163677,
+      "media_size_human": "159.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359984_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359984_video.mp4",
+      "media_local_path": "media/IranintlTV_359985_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359985_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.006055+00:00"
+      "archived_at": "2026-09-30T14:20:35.849922+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76523_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76523_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439619+00:00"
+      "archived_at": "2026-09-30T14:20:36.229183+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,43 +883,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.874088+00:00"
+      "archived_at": "2026-09-30T14:20:36.686572+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14176,
-      "message_link": "https://t.me/zedTV/14176",
-      "text": "تشدید سرکوب و استفاده ابزاری رژیم از مجازات مرگ؛ آمار اعدام‌ها به بالاترین میزان در دهه‌های اخیر رسید.\nگزارش سازمان‌های بین‌المللی از اعدام صدها تن از معترضان و مخالفان سیاسی در دادگاه‌های ناعادلانه حکایت دارد.\nتداوم جنایات سیستماتیک علیه شهروندان و صدور احکام مرگ برای بازداشت‌شدگان و جوانان در اعتراضات اخیر.",
+      "message_id": 14177,
+      "message_link": "https://t.me/zedTV/14177",
+      "text": "دلار ۲۵۶ هزار و یورو ۲۹۰ هزار تومان؛ رکوردشکنی بی‌سابقه سقوط ارزش ریال.\nشکست تزریق ۲ میلیارد دلاری بانک مرکزی در مهار نوسانات بازار ارز.\nتداوم فروپاشی اقتصادی و بحران معیشتی در سایه ناکارآمدی رژیم.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:03:54",
-      "gregorian_utc": "2026-09-30T12:33:54+00:00",
+      "tehran_time": "16:05:07",
+      "gregorian_utc": "2026-09-30T12:35:07+00:00",
       "media_type": "photo",
-      "media_size_bytes": 84065,
-      "media_size_human": "82.09 KB",
+      "media_size_bytes": 92148,
+      "media_size_human": "89.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_14176_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14176_photo.jpg",
+      "media_local_path": "media/zedTV_14177_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:14.540091+00:00"
+      "archived_at": "2026-09-30T14:20:35.492002+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359983,
-      "message_link": "https://t.me/IranintlTV/359983",
-      "text": "سوریه از بازداشت یک هسته سه‌نفره وابسته به حزب‌الله لبنان در این کشور خبر داده است؛ افرادی که به تلاش برای استقرار پرتابگرهای موشکی در نزدیکی مرز اسرائیل متهم شده‌اند.\n\nجزییات بیشتر با می فرحات، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 359984,
+      "message_link": "https://t.me/IranintlTV/359984",
+      "text": "یک شهروند در ویدیوی ارسالی‌اش به ایران اینترنشنال، یک بنر نصب‌شده در فروشگاه با عنوان «نسیه مُرد» را نشان داد و گفت: «حالا با دلار ۲۶۰ تومانی چه کار کنیم؟»",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:31:47",
-      "gregorian_utc": "2026-09-30T13:01:47+00:00",
+      "tehran_time": "16:31:48",
+      "gregorian_utc": "2026-09-30T13:01:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 3650669,
-      "media_size_human": "3.48 MB",
+      "media_size_bytes": 1116177,
+      "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359983_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359983_video.mp4",
+      "media_local_path": "media/IranintlTV_359984_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359984_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.006118+00:00"
+      "archived_at": "2026-09-30T14:20:35.849963+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76520_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76520_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439698+00:00"
+      "archived_at": "2026-09-30T14:20:36.229259+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,43 +955,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.874139+00:00"
+      "archived_at": "2026-09-30T14:20:36.686619+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14175,
-      "message_link": "https://t.me/zedTV/14175",
-      "text": "آماده‌باش حداکثری ساختار دفاعی اسرائیل در پی تهدیدات جدی رژیم ایران.\nتایید گزارش‌های اطلاعاتی درباره احتمال حمله پیش‌دستانه و انتحاری سپاه پاسداران.\nاجماع مقامات بر آمادگی کامل نظامی در برابر اقدامات احتمالی تهران.",
+      "message_id": 14176,
+      "message_link": "https://t.me/zedTV/14176",
+      "text": "تشدید سرکوب و استفاده ابزاری رژیم از مجازات مرگ؛ آمار اعدام‌ها به بالاترین میزان در دهه‌های اخیر رسید.\nگزارش سازمان‌های بین‌المللی از اعدام صدها تن از معترضان و مخالفان سیاسی در دادگاه‌های ناعادلانه حکایت دارد.\nتداوم جنایات سیستماتیک علیه شهروندان و صدور احکام مرگ برای بازداشت‌شدگان و جوانان در اعتراضات اخیر.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:22:15",
-      "gregorian_utc": "2026-09-30T10:52:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.540121+00:00"
+      "tehran_time": "16:03:54",
+      "gregorian_utc": "2026-09-30T12:33:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 84065,
+      "media_size_human": "82.09 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14176_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14176_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-30T14:20:35.492045+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359982,
-      "message_link": "https://t.me/IranintlTV/359982",
-      "text": "تصاویر منتشرشده از پرواز هواپیمای فلای‌دبی در مسیر تل‌آویو لحظاتی پس از کاهش شدید ارتفاع هواپیما را نشان می‌دهد؛ زمانی که مسافران هنوز از جزییات اتفاقی که در داخل هواپیما در حال رخ دادن بود، اطلاعی نداشتند.\n\nاین هواپیما در فرودگاه تبوک عربستان سعودی فرود آمد.\n@iranintltv",
+      "message_id": 359983,
+      "message_link": "https://t.me/IranintlTV/359983",
+      "text": "سوریه از بازداشت یک هسته سه‌نفره وابسته به حزب‌الله لبنان در این کشور خبر داده است؛ افرادی که به تلاش برای استقرار پرتابگرهای موشکی در نزدیکی مرز اسرائیل متهم شده‌اند.\n\nجزییات بیشتر با می فرحات، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:20:08",
-      "gregorian_utc": "2026-09-30T12:50:08+00:00",
+      "tehran_time": "16:31:47",
+      "gregorian_utc": "2026-09-30T13:01:47+00:00",
       "media_type": "video",
-      "media_size_bytes": 708741,
-      "media_size_human": "692.13 KB",
+      "media_size_bytes": 3650669,
+      "media_size_human": "3.48 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359982_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359982_video.mp4",
+      "media_local_path": "media/IranintlTV_359983_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359983_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.006185+00:00"
+      "archived_at": "2026-09-30T14:20:35.850024+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439773+00:00"
+      "archived_at": "2026-09-30T14:20:36.229331+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:15.874193+00:00"
+      "archived_at": "2026-09-30T14:20:36.686671+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14174,
-      "message_link": "https://t.me/zedTV/14174",
-      "text": "کمبود ۱۰۰ هزار معلم در سراسر کشور؛ رژیم برای مقابله با بحران آموزشی به بازنشستگان متوسل شد.\nسقوط حقوق دریافتی معلمان به ۱۴ میلیون تومان؛ گسترش فقر در وزارتخانه‌های آموزش، کشاورزی و صمت.\nاعتراف به بحران بودجه و سوءمدیریت ساختاری در دستگاه‌های اجرایی و آموزشی رژیم.",
+      "message_id": 14175,
+      "message_link": "https://t.me/zedTV/14175",
+      "text": "آماده‌باش حداکثری ساختار دفاعی اسرائیل در پی تهدیدات جدی رژیم ایران.\nتایید گزارش‌های اطلاعاتی درباره احتمال حمله پیش‌دستانه و انتحاری سپاه پاسداران.\nاجماع مقامات بر آمادگی کامل نظامی در برابر اقدامات احتمالی تهران.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:21:56",
-      "gregorian_utc": "2026-09-30T10:51:56+00:00",
+      "tehran_time": "14:22:15",
+      "gregorian_utc": "2026-09-30T10:52:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T14:11:14.540147+00:00"
+      "archived_at": "2026-09-30T14:20:35.492072+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 359981,
-      "message_link": "https://t.me/IranintlTV/359981",
-      "text": "بلومبرگ از افزایش صادرات نفت کشورهای عربی از مسیر تنگه هرمز و مسیرهای جایگزین خبر داده و اعلام کرده است صادرات نفت این کشورها به حدود ۸۰ درصد سطح پیش از جنگ رسیده است.\n\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 359982,
+      "message_link": "https://t.me/IranintlTV/359982",
+      "text": "تصاویر منتشرشده از پرواز هواپیمای فلای‌دبی در مسیر تل‌آویو لحظاتی پس از کاهش شدید ارتفاع هواپیما را نشان می‌دهد؛ زمانی که مسافران هنوز از جزییات اتفاقی که در داخل هواپیما در حال رخ دادن بود، اطلاعی نداشتند.\n\nاین هواپیما در فرودگاه تبوک عربستان سعودی فرود آمد.\n@iranintltv",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:19:23",
-      "gregorian_utc": "2026-09-30T12:49:23+00:00",
+      "tehran_time": "16:20:08",
+      "gregorian_utc": "2026-09-30T12:50:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 2232901,
-      "media_size_human": "2.13 MB",
+      "media_size_bytes": 708741,
+      "media_size_human": "692.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_359981_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359981_video.mp4",
+      "media_local_path": "media/IranintlTV_359982_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359982_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.006245+00:00"
+      "archived_at": "2026-09-30T14:20:35.850095+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76518_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76518_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.439866+00:00"
+      "archived_at": "2026-09-30T14:20:36.229473+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121598_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121598_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T14:11:15.874234+00:00"
+      "archived_at": "2026-09-30T14:20:36.686711+00:00"
     }
   ]
 }
