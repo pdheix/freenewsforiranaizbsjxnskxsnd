@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T13:12:59.260465+00:00",
-  "shamsi_generated": "1405/07/08 13:12:59 تهران",
+  "generated_at": "2026-09-30T13:24:30.523436+00:00",
+  "shamsi_generated": "1405/07/08 13:24:30 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412799+00:00"
+      "archived_at": "2026-09-30T13:20:38.833322+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_359985_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359985_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718126+00:00"
+      "archived_at": "2026-09-30T13:20:39.277273+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,25 +73,25 @@
       "media_local_path": "media/satlastnews_76540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.047272+00:00"
+      "archived_at": "2026-09-30T13:20:39.711626+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121609,
-      "message_link": "https://t.me/Mellig/121609",
-      "text": "🔴 #خبر_فوری\nطبق گزارش ها دقایقی پیش وقوع انفجار در شهر زاهدان، سیستان و بلوچستان رخ داده است.",
+      "message_id": 121610,
+      "message_link": "https://t.me/Mellig/121610",
+      "text": "صبح امروز یک مسلمان تروریست در پرواز داخلی هواپیمایی EasyJet در انگلستان در حالی که شعار میداد \n«میخواهم هواپیما را منفجر کنم، مرگ بر آمریکا، مرگ بر ترامپ» دستگیر شد \n\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:29:01",
-      "gregorian_utc": "2026-09-30T12:59:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378126+00:00"
+      "tehran_time": "16:50:15",
+      "gregorian_utc": "2026-09-30T13:20:15+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1214627,
+      "media_size_human": "1.16 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121610_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121610_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-30T13:20:40.128834+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412850+00:00"
+      "archived_at": "2026-09-30T13:20:38.833374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_359984_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359984_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718247+00:00"
+      "archived_at": "2026-09-30T13:20:39.277350+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,17 +145,17 @@
       "media_local_path": "media/satlastnews_76539_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.047344+00:00"
+      "archived_at": "2026-09-30T13:20:39.711700+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121608,
-      "message_link": "https://t.me/Mellig/121608",
-      "text": "🔴 #خبر_فوری\nشرکت اطلاعات کالا، کپلر از جهش صادرات روزانه نفت کشورهای عرب منطقه به دست‌کم 16 میلیون بشکه در روز های اخیر خبر داد که بدون احتساب ایران،\nبا سطح قبل از جنگ خاورمیانه برابری می‌کند.",
+      "message_id": 121609,
+      "message_link": "https://t.me/Mellig/121609",
+      "text": "🔴 #خبر_فوری\nطبق گزارش ها دقایقی پیش وقوع انفجار در شهر زاهدان، سیستان و بلوچستان رخ داده است.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:19:03",
-      "gregorian_utc": "2026-09-30T12:49:03+00:00",
+      "tehran_time": "16:29:01",
+      "gregorian_utc": "2026-09-30T12:59:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378204+00:00"
+      "archived_at": "2026-09-30T13:20:40.128902+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412885+00:00"
+      "archived_at": "2026-09-30T13:20:38.833411+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_359983_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359983_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718327+00:00"
+      "archived_at": "2026-09-30T13:20:39.277433+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,25 +217,25 @@
       "media_local_path": "media/satlastnews_76538_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.047433+00:00"
+      "archived_at": "2026-09-30T13:20:39.711791+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121607,
-      "message_link": "https://t.me/Mellig/121607",
-      "text": "ویدئویی دیگر از حادثه تروریستی پرواز FlyDubai \n\nMellig.net",
+      "message_id": 121608,
+      "message_link": "https://t.me/Mellig/121608",
+      "text": "🔴 #خبر_فوری\nشرکت اطلاعات کالا، کپلر از جهش صادرات روزانه نفت کشورهای عرب منطقه به دست‌کم 16 میلیون بشکه در روز های اخیر خبر داد که بدون احتساب ایران،\nبا سطح قبل از جنگ خاورمیانه برابری می‌کند.",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "15:50:01",
-      "gregorian_utc": "2026-09-30T12:20:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8385911,
-      "media_size_human": "8.00 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121607_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121607_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378272+00:00"
+      "tehran_time": "16:19:03",
+      "gregorian_utc": "2026-09-30T12:49:03+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-30T13:20:40.128964+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412925+00:00"
+      "archived_at": "2026-09-30T13:20:38.833453+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_359982_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359982_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718405+00:00"
+      "archived_at": "2026-09-30T13:20:39.277515+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,25 +289,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.047941+00:00"
+      "archived_at": "2026-09-30T13:20:39.712210+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121606,
-      "message_link": "https://t.me/Mellig/121606",
-      "text": "کمک خلبان پرواز FlyDubai از دبی به تل آویو تلاش کرد با کوبیدن هواپیمای حامل ۱۷۴ مسافر شامل ۲۷ کودک یک حادثه تروریستی را رقم بزند که با تلاش نیروهای مخفی این حرکت تروریستی ناتمام ماند\n\nکمک خلبان با به دست گرفتن کنترل هواپیما ارتفاع آن را در عرض کمتر از سی ثانیه ۴۰۰۰ هزار متر کاهش داد و هواپیما نزدیک به برخورد به زمین بود\n\nMellig.net",
+      "message_id": 121607,
+      "message_link": "https://t.me/Mellig/121607",
+      "text": "ویدئویی دیگر از حادثه تروریستی پرواز FlyDubai \n\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "15:45:11",
-      "gregorian_utc": "2026-09-30T12:15:11+00:00",
+      "tehran_time": "15:50:01",
+      "gregorian_utc": "2026-09-30T12:20:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 14925455,
-      "media_size_human": "14.23 MB",
+      "media_size_bytes": 8385911,
+      "media_size_human": "8.00 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121606_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121606_video.mp4",
+      "media_local_path": "media/Mellig_121607_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121607_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378346+00:00"
+      "archived_at": "2026-09-30T13:20:40.129016+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412956+00:00"
+      "archived_at": "2026-09-30T13:20:38.833485+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_359981_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359981_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718479+00:00"
+      "archived_at": "2026-09-30T13:20:39.277594+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,25 +361,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.048140+00:00"
+      "archived_at": "2026-09-30T13:20:39.712344+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121605,
-      "message_link": "https://t.me/Mellig/121605",
-      "text": "پروازهای خارجی بسته است ولی پروازهای داخلی بازه بازه",
+      "message_id": 121606,
+      "message_link": "https://t.me/Mellig/121606",
+      "text": "کمک خلبان پرواز FlyDubai از دبی به تل آویو تلاش کرد با کوبیدن هواپیمای حامل ۱۷۴ مسافر شامل ۲۷ کودک یک حادثه تروریستی را رقم بزند که با تلاش نیروهای مخفی این حرکت تروریستی ناتمام ماند\n\nکمک خلبان با به دست گرفتن کنترل هواپیما ارتفاع آن را در عرض کمتر از سی ثانیه ۴۰۰۰ هزار متر کاهش داد و هواپیما نزدیک به برخورد به زمین بود\n\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:52:16",
-      "gregorian_utc": "2026-09-30T11:22:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 411543,
-      "media_size_human": "401.90 KB",
+      "tehran_time": "15:45:11",
+      "gregorian_utc": "2026-09-30T12:15:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 14925455,
+      "media_size_human": "14.23 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121605_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121605_photo.jpg",
+      "media_local_path": "media/Mellig_121606_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121606_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378396+00:00"
+      "archived_at": "2026-09-30T13:20:40.129112+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.412993+00:00"
+      "archived_at": "2026-09-30T13:20:38.833522+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_359980_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359980_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718569+00:00"
+      "archived_at": "2026-09-30T13:20:39.277683+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,25 +433,25 @@
       "media_local_path": "media/satlastnews_76531_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76531_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048213+00:00"
+      "archived_at": "2026-09-30T13:20:39.712405+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121604,
-      "message_link": "https://t.me/Mellig/121604",
-      "text": "🔴 یک نفتکش در تنگه هرمز مورد اصابت پرتابه قرار گرفت",
+      "message_id": 121605,
+      "message_link": "https://t.me/Mellig/121605",
+      "text": "پروازهای خارجی بسته است ولی پروازهای داخلی بازه بازه",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:43:26",
-      "gregorian_utc": "2026-09-30T11:13:26+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378424+00:00"
+      "tehran_time": "14:52:16",
+      "gregorian_utc": "2026-09-30T11:22:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 411543,
+      "media_size_human": "401.90 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121605_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121605_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-30T13:20:40.129163+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": "media/zedTV_14178_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14178_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.413093+00:00"
+      "archived_at": "2026-09-30T13:20:38.833599+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_359979_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359979_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718656+00:00"
+      "archived_at": "2026-09-30T13:20:39.277777+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,25 +505,25 @@
       "media_local_path": "media/satlastnews_76530_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76530_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048257+00:00"
+      "archived_at": "2026-09-30T13:20:39.712445+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121603,
-      "message_link": "https://t.me/Mellig/121603",
-      "text": "🔴**آمریکا برای دریافت اطلاعات درباره سه فرمانده هوفضا سپاه ۱۵ میلیون دلار جایزه گذاشته است!**",
+      "message_id": 121604,
+      "message_link": "https://t.me/Mellig/121604",
+      "text": "🔴 یک نفتکش در تنگه هرمز مورد اصابت پرتابه قرار گرفت",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:16:02",
-      "gregorian_utc": "2026-09-30T10:46:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 279466,
-      "media_size_human": "272.92 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121603_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121603_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378490+00:00"
+      "tehran_time": "14:43:26",
+      "gregorian_utc": "2026-09-30T11:13:26+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-30T13:20:40.129192+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": "media/zedTV_14177_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.413157+00:00"
+      "archived_at": "2026-09-30T13:20:38.833663+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_359978_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359978_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718701+00:00"
+      "archived_at": "2026-09-30T13:20:39.277820+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,25 +577,25 @@
       "media_local_path": "media/satlastnews_76529_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048331+00:00"
+      "archived_at": "2026-09-30T13:20:39.712518+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121602,
-      "message_link": "https://t.me/Mellig/121602",
-      "text": "اگر اسرائیل می‌خواست با منطق جمهوری اسلامی با فلسطینی‌ها برخورد کند، تا الان باید نیمی از جمعیت فلسطین را اعدام کرده بود.\n\n#علی_همتی  #مجید_نیک‌اندیش\n\n📡 @IDWIR",
+      "message_id": 121603,
+      "message_link": "https://t.me/Mellig/121603",
+      "text": "🔴**آمریکا برای دریافت اطلاعات درباره سه فرمانده هوفضا سپاه ۱۵ میلیون دلار جایزه گذاشته است!**",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "14:07:19",
-      "gregorian_utc": "2026-09-30T10:37:19+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378550+00:00"
+      "tehran_time": "14:16:02",
+      "gregorian_utc": "2026-09-30T10:46:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 279466,
+      "media_size_human": "272.92 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121603_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121603_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-30T13:20:40.129258+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": "media/zedTV_14176_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14176_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.413202+00:00"
+      "archived_at": "2026-09-30T13:20:38.833710+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_359977_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359977_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718760+00:00"
+      "archived_at": "2026-09-30T13:20:39.277879+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,17 +649,17 @@
       "media_local_path": "media/satlastnews_76528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048381+00:00"
+      "archived_at": "2026-09-30T13:20:39.712569+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121601,
-      "message_link": "https://t.me/Mellig/121601",
-      "text": "🚨**یدیعوت آحارانوت: تخمین‌ها حاکی از آن است که حادثه رخ داده در هواپیمای فلای دبی یک اقدام تروریستی بوده است**",
+      "message_id": 121602,
+      "message_link": "https://t.me/Mellig/121602",
+      "text": "اگر اسرائیل می‌خواست با منطق جمهوری اسلامی با فلسطینی‌ها برخورد کند، تا الان باید نیمی از جمعیت فلسطین را اعدام کرده بود.\n\n#علی_همتی  #مجید_نیک‌اندیش\n\n📡 @IDWIR",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "13:58:02",
-      "gregorian_utc": "2026-09-30T10:28:02+00:00",
+      "tehran_time": "14:07:19",
+      "gregorian_utc": "2026-09-30T10:37:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378602+00:00"
+      "archived_at": "2026-09-30T13:20:40.129318+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413235+00:00"
+      "archived_at": "2026-09-30T13:20:38.833740+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_359976_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359976_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718829+00:00"
+      "archived_at": "2026-09-30T13:20:39.277953+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,17 +721,17 @@
       "media_local_path": "media/satlastnews_76527_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76527_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048447+00:00"
+      "archived_at": "2026-09-30T13:20:39.712636+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121600,
-      "message_link": "https://t.me/Mellig/121600",
-      "text": "🚨**رویترز: خلبانی که خلبان دیگر را با چاقو زد و قصد سقوط هواپیما را داشت؛ اصالت عمانی دارد**",
+      "message_id": 121601,
+      "message_link": "https://t.me/Mellig/121601",
+      "text": "🚨**یدیعوت آحارانوت: تخمین‌ها حاکی از آن است که حادثه رخ داده در هواپیمای فلای دبی یک اقدام تروریستی بوده است**",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "13:51:48",
-      "gregorian_utc": "2026-09-30T10:21:48+00:00",
+      "tehran_time": "13:58:02",
+      "gregorian_utc": "2026-09-30T10:28:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378652+00:00"
+      "archived_at": "2026-09-30T13:20:40.129370+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413261+00:00"
+      "archived_at": "2026-09-30T13:20:38.833767+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_359975_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359975_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718920+00:00"
+      "archived_at": "2026-09-30T13:20:39.278072+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,17 +793,17 @@
       "media_local_path": "media/satlastnews_76526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048524+00:00"
+      "archived_at": "2026-09-30T13:20:39.712715+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121599,
-      "message_link": "https://t.me/Mellig/121599",
-      "text": "پرواز فلای‌دبی از دبی به تل‌آویو با موفقیت و در سلامت کامل در عربستان سعودی فرود آمد.\n\nرسانه‌های اسرائیلی گزارش دادند علت این اتفاق، درگیری شدید میان خلبانان بوده و حادثه امنیتی در کار نبوده است.\nMellig.net",
+      "message_id": 121600,
+      "message_link": "https://t.me/Mellig/121600",
+      "text": "🚨**رویترز: خلبانی که خلبان دیگر را با چاقو زد و قصد سقوط هواپیما را داشت؛ اصالت عمانی دارد**",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "11:01:33",
-      "gregorian_utc": "2026-09-30T07:31:33+00:00",
+      "tehran_time": "13:51:48",
+      "gregorian_utc": "2026-09-30T10:21:48+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.378712+00:00"
+      "archived_at": "2026-09-30T13:20:40.129420+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413286+00:00"
+      "archived_at": "2026-09-30T13:20:38.833798+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_359974_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359974_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.718989+00:00"
+      "archived_at": "2026-09-30T13:20:39.278158+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,25 +865,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.048567+00:00"
+      "archived_at": "2026-09-30T13:20:39.712760+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121598,
-      "message_link": "https://t.me/Mellig/121598",
-      "text": "",
+      "message_id": 121599,
+      "message_link": "https://t.me/Mellig/121599",
+      "text": "پرواز فلای‌دبی از دبی به تل‌آویو با موفقیت و در سلامت کامل در عربستان سعودی فرود آمد.\n\nرسانه‌های اسرائیلی گزارش دادند علت این اتفاق، درگیری شدید میان خلبانان بوده و حادثه امنیتی در کار نبوده است.\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "10:48:17",
-      "gregorian_utc": "2026-09-30T07:18:17+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 54443,
-      "media_size_human": "53.17 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121598_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121598_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378753+00:00"
+      "tehran_time": "11:01:33",
+      "gregorian_utc": "2026-09-30T07:31:33+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-30T13:20:40.129474+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413310+00:00"
+      "archived_at": "2026-09-30T13:20:38.833823+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_359973_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.719055+00:00"
+      "archived_at": "2026-09-30T13:20:39.278195+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,25 +937,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:35.048649+00:00"
+      "archived_at": "2026-09-30T13:20:39.712846+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121597,
-      "message_link": "https://t.me/Mellig/121597",
-      "text": "یک هواپیمای شرکت \"فلاي دبی\" کد اضطراری 7700 را فعال کرد، در حالی که در مسیر پرواز از امارات به تل‌آویو بود. سپس، این هواپیما کد بین‌المللی ربودن 7500 را ارسال کرد، قبل از اینکه مسیر خود را تغییر داده و به مبدأ بازگردد.\nMellig.net",
+      "message_id": 121598,
+      "message_link": "https://t.me/Mellig/121598",
+      "text": "",
       "shamsi_date": "1405/07/08",
       "tehran_time": "10:48:17",
       "gregorian_utc": "2026-09-30T07:18:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 244596,
-      "media_size_human": "238.86 KB",
+      "media_size_bytes": 54443,
+      "media_size_human": "53.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121597_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121597_photo.jpg",
+      "media_local_path": "media/Mellig_121598_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121598_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378817+00:00"
+      "archived_at": "2026-09-30T13:20:40.129521+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413337+00:00"
+      "archived_at": "2026-09-30T13:20:38.833852+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_359972_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359972_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.719141+00:00"
+      "archived_at": "2026-09-30T13:20:39.278275+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,25 +1009,25 @@
       "media_local_path": "media/satlastnews_76523_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76523_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048719+00:00"
+      "archived_at": "2026-09-30T13:20:39.712918+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121596,
-      "message_link": "https://t.me/Mellig/121596",
-      "text": "**📝 نتانیاهو: دشمنان ما ممکن است در آستانه انتخابات به اسرائیل حمله کنند**.\n\nنتانیاهو: سرنخ‌هایی داریم که نزدیک انتخابات، دشمنانمان می‌خواهند حمله کنند. پس از همین‌جا، از پایگاه نیروی هوایی و بازوی بلند دولتمان اسرائیل، پیام میدهم: با ما درنیفتید، نه الان و نه هیچ‌وقت دیگر. دست بلند ما هرجا و هر وقت بهتون می‌رسد.\nMellig.net",
+      "message_id": 121597,
+      "message_link": "https://t.me/Mellig/121597",
+      "text": "یک هواپیمای شرکت \"فلاي دبی\" کد اضطراری 7700 را فعال کرد، در حالی که در مسیر پرواز از امارات به تل‌آویو بود. سپس، این هواپیما کد بین‌المللی ربودن 7500 را ارسال کرد، قبل از اینکه مسیر خود را تغییر داده و به مبدأ بازگردد.\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "10:01:41",
-      "gregorian_utc": "2026-09-30T06:31:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3397739,
-      "media_size_human": "3.24 MB",
+      "tehran_time": "10:48:17",
+      "gregorian_utc": "2026-09-30T07:18:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 244596,
+      "media_size_human": "238.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121596_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121596_video.mp4",
+      "media_local_path": "media/Mellig_121597_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378899+00:00"
+      "archived_at": "2026-09-30T13:20:40.129585+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-30T13:10:34.413362+00:00"
+      "archived_at": "2026-09-30T13:20:38.833878+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_359971_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_359971_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:34.719179+00:00"
+      "archived_at": "2026-09-30T13:20:39.278311+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,25 +1081,25 @@
       "media_local_path": "media/satlastnews_76520_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76520_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.048796+00:00"
+      "archived_at": "2026-09-30T13:20:39.712997+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121595,
-      "message_link": "https://t.me/Mellig/121595",
-      "text": "🇮🇱 **کانال ۱۲ اسرائیل:\n\nاسرائیل برای جنگ بزرگ تر از ۴۰ روزه بمب سنگرشکن خریده است**.\nMellig.net",
+      "message_id": 121596,
+      "message_link": "https://t.me/Mellig/121596",
+      "text": "**📝 نتانیاهو: دشمنان ما ممکن است در آستانه انتخابات به اسرائیل حمله کنند**.\n\nنتانیاهو: سرنخ‌هایی داریم که نزدیک انتخابات، دشمنانمان می‌خواهند حمله کنند. پس از همین‌جا، از پایگاه نیروی هوایی و بازوی بلند دولتمان اسرائیل، پیام میدهم: با ما درنیفتید، نه الان و نه هیچ‌وقت دیگر. دست بلند ما هرجا و هر وقت بهتون می‌رسد.\nMellig.net",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "09:17:11",
-      "gregorian_utc": "2026-09-30T05:47:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 94388,
-      "media_size_human": "92.18 KB",
+      "tehran_time": "10:01:41",
+      "gregorian_utc": "2026-09-30T06:31:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3397739,
+      "media_size_human": "3.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121595_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121595_photo.jpg",
+      "media_local_path": "media/Mellig_121596_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121596_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-30T13:10:35.378964+00:00"
+      "archived_at": "2026-09-30T13:20:40.129666+00:00"
     }
   ]
 }
