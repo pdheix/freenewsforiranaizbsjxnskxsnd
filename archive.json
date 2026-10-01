@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T16:04:25.594532+00:00",
-  "shamsi_generated": "1405/07/09 16:04:25 تهران",
+  "generated_at": "2026-10-01T16:13:25.364989+00:00",
+  "shamsi_generated": "1405/07/09 16:13:25 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119508+00:00"
+      "archived_at": "2026-10-01T16:10:38.156474+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360188,
-      "message_link": "https://t.me/IranintlTV/360188",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، بار دیگر تاکید کرد که حل مساله هسته‌ای ایران یکی از شروط اساسی هر توافق است. او همچنین احتمال ازسرگیری حملات گسترده نظامی پس از انتخابات میان‌دوره‌ای نوامبر را رد نکرد و گفت تهران سرانجام ناگزیر به عقب‌نشینی و پذیرش شروط هسته‌ای آمریکا خواهد شد.\n\nبخش عمده‌ای از مصاحبه مفصل ترامپ با نشریه تایم که پنج‌شنبه ۹ مهر منتشر شد به جنگ ایران، مذاکرات برای پایان دادن به درگیری، بازگشایی تنگه هرمز، محاصره دریایی و برنامه هسته‌ای جمهوری اسلامی اختصاص دارد. او در این گفت‌وگو بر مواضع روزهای اخیر خود تاکید و آن‌ها را تکرار کرد.\n\nرییس‌جمهوری آمریکا در این گفت‌وگو به روشنی گفت که از نگاه او مساله تعیین‌کننده، برنامه هسته‌ای ایران است. ترامپ گفت ایران نباید به سلاح هسته‌ای دست پیدا کند و این موضوع را یکی از هدف اصلی عملیات نظامی و فشار اقتصادی آمریکا علیه جمهوری اسلامی دانست.\n\nادامه این گزارش را در وبسایت ایران‌اینترنشنال بخوانید.\nhttps://iranintl.com/202610016322",
+      "message_id": 360189,
+      "message_link": "https://t.me/IranintlTV/360189",
+      "text": "یک شهروند با ارسال ویدیویی گزارش داد طی پنج روز گذشته، چند خودروی نظامی حامل پرتابگر موشک در مرکز سبزوار و اطراف مدارس این شهر مستقر شده‌اند و همزمان نیروهای بسیج و سپاه پاسداران نیز در این مناطق حضور یافته‌اند.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "19:19:00",
-      "gregorian_utc": "2026-10-01T15:49:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 156086,
-      "media_size_human": "152.43 KB",
+      "tehran_time": "19:32:12",
+      "gregorian_utc": "2026-10-01T16:02:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3065418,
+      "media_size_human": "2.92 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360188_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360188_photo.jpg",
+      "media_local_path": "media/IranintlTV_360189_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360189_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.428890+00:00"
+      "archived_at": "2026-10-01T16:10:38.419966+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76547_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76547_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.759679+00:00"
+      "archived_at": "2026-10-01T16:10:38.802543+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:56.078022+00:00"
+      "archived_at": "2026-10-01T16:10:39.085414+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119559+00:00"
+      "archived_at": "2026-10-01T16:10:38.156513+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360187,
-      "message_link": "https://t.me/IranintlTV/360187",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با مجله تایم گفت احتمال تشدید حملات هوایی آمریکا به ایران پس از انتخابات میان‌دوره‌ای وجود دارد.\n\nاو گفت آمریکا پس از حمله به تاسیسات هسته‌ای ایران، حملات را ادامه داد، زیرا نگران بود تهران فعالیت‌های هسته‌ای خود را در مکان‌های دیگری از سر بگیرد.\n\nجزییات بیشتر با عارف یعقوبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360188,
+      "message_link": "https://t.me/IranintlTV/360188",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، بار دیگر تاکید کرد که حل مساله هسته‌ای ایران یکی از شروط اساسی هر توافق است. او همچنین احتمال ازسرگیری حملات گسترده نظامی پس از انتخابات میان‌دوره‌ای نوامبر را رد نکرد و گفت تهران سرانجام ناگزیر به عقب‌نشینی و پذیرش شروط هسته‌ای آمریکا خواهد شد.\n\nبخش عمده‌ای از مصاحبه مفصل ترامپ با نشریه تایم که پنج‌شنبه ۹ مهر منتشر شد به جنگ ایران، مذاکرات برای پایان دادن به درگیری، بازگشایی تنگه هرمز، محاصره دریایی و برنامه هسته‌ای جمهوری اسلامی اختصاص دارد. او در این گفت‌وگو بر مواضع روزهای اخیر خود تاکید و آن‌ها را تکرار کرد.\n\nرییس‌جمهوری آمریکا در این گفت‌وگو به روشنی گفت که از نگاه او مساله تعیین‌کننده، برنامه هسته‌ای ایران است. ترامپ گفت ایران نباید به سلاح هسته‌ای دست پیدا کند و این موضوع را یکی از هدف اصلی عملیات نظامی و فشار اقتصادی آمریکا علیه جمهوری اسلامی دانست.\n\nادامه این گزارش را در وبسایت ایران‌اینترنشنال بخوانید.\nhttps://iranintl.com/202610016322",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "19:11:57",
-      "gregorian_utc": "2026-10-01T15:41:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2558720,
-      "media_size_human": "2.44 MB",
+      "tehran_time": "19:19:00",
+      "gregorian_utc": "2026-10-01T15:49:00+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 156086,
+      "media_size_human": "152.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360187_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360187_video.mp4",
+      "media_local_path": "media/IranintlTV_360188_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360188_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.428991+00:00"
+      "archived_at": "2026-10-01T16:10:38.420137+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76546_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76546_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.759899+00:00"
+      "archived_at": "2026-10-01T16:10:38.802721+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121656_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121656_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078137+00:00"
+      "archived_at": "2026-10-01T16:10:39.085494+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119591+00:00"
+      "archived_at": "2026-10-01T16:10:38.156537+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360186,
-      "message_link": "https://t.me/IranintlTV/360186",
-      "text": "شبکه آی۲۴ و کانال ۱۲ اسرائیل به نقل از یک مقام ارشد آمریکایی که نامش اعلام نشده، گزارش دادند ارتش آمریکا سومین ناو هواپیمابر و دومین واحد تفنگداران دریایی را به حوزه مسئولیت فرماندهی مرکزی ایالات متحده، سنتکام، اعزام می‌کند.\n\nدر حال حاضر، دو ناو هواپیمابر «جورج واشینگتن» و «جورج اچ. دبلیو. بوش» در منطقه مستقر هستند.\nhttps://iranintl.com/202610012429",
+      "message_id": 360187,
+      "message_link": "https://t.me/IranintlTV/360187",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با مجله تایم گفت احتمال تشدید حملات هوایی آمریکا به ایران پس از انتخابات میان‌دوره‌ای وجود دارد.\n\nاو گفت آمریکا پس از حمله به تاسیسات هسته‌ای ایران، حملات را ادامه داد، زیرا نگران بود تهران فعالیت‌های هسته‌ای خود را در مکان‌های دیگری از سر بگیرد.\n\nجزییات بیشتر با عارف یعقوبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "19:01:02",
-      "gregorian_utc": "2026-10-01T15:31:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 183829,
-      "media_size_human": "179.52 KB",
+      "tehran_time": "19:11:57",
+      "gregorian_utc": "2026-10-01T15:41:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2558720,
+      "media_size_human": "2.44 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360186_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360186_photo.jpg",
+      "media_local_path": "media/IranintlTV_360187_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360187_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.429077+00:00"
+      "archived_at": "2026-10-01T16:10:38.420202+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76543_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76543_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.759981+00:00"
+      "archived_at": "2026-10-01T16:10:38.802791+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121655_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121655_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078193+00:00"
+      "archived_at": "2026-10-01T16:10:39.085535+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119628+00:00"
+      "archived_at": "2026-10-01T16:10:38.156566+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360185,
-      "message_link": "https://t.me/IranintlTV/360185",
-      "text": "**«برنامه» امشب، «تریبون آزاد» شماست.**\n\n**اگر فقط یک جمله فرصت داشتید با ایران حرف بزنید، چه می‌گفتید؟**\n**چه چیزی هنوز دلتان را گرم نگه می‌دارد؟**\n**نگرانی‌تان چیست؟**\n**از چه چیزی عصبانی هستید؟**\n**حرفی دارید که در دلتان مانده و جایی برای گفتنش نبوده؟**\n**از خودتان بگویید؛ از امیدها و ترس‌هایتان،**\n**از رؤیایی که هنوز زنده است یا از چیزی که از دست رفته است.**\n**تاریخ با صدای شما نوشته می‌شود.**\n**برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:**\n**۰۰۴۴۷۵۲۲۱۱۰۱۱۰**\n**۰۰۴۴۷۵۴۴۱۱۰۱۱۰**\n**۰۰۴۴۷۵۱۱۱۰۲۵۵۳**\n**«برنامه با کامبیز حسینی»**\n**«یک ایران، صدای شما را می‌شنود»**\n@iranintltv",
+      "message_id": 360186,
+      "message_link": "https://t.me/IranintlTV/360186",
+      "text": "شبکه آی۲۴ و کانال ۱۲ اسرائیل به نقل از یک مقام ارشد آمریکایی که نامش اعلام نشده، گزارش دادند ارتش آمریکا سومین ناو هواپیمابر و دومین واحد تفنگداران دریایی را به حوزه مسئولیت فرماندهی مرکزی ایالات متحده، سنتکام، اعزام می‌کند.\n\nدر حال حاضر، دو ناو هواپیمابر «جورج واشینگتن» و «جورج اچ. دبلیو. بوش» در منطقه مستقر هستند.\nhttps://iranintl.com/202610012429",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:59:40",
-      "gregorian_utc": "2026-10-01T15:29:40+00:00",
+      "tehran_time": "19:01:02",
+      "gregorian_utc": "2026-10-01T15:31:02+00:00",
       "media_type": "photo",
-      "media_size_bytes": 358236,
-      "media_size_human": "349.84 KB",
+      "media_size_bytes": 183829,
+      "media_size_human": "179.52 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360185_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360185_photo.jpg",
+      "media_local_path": "media/IranintlTV_360186_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360186_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.429249+00:00"
+      "archived_at": "2026-10-01T16:10:38.420269+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76542_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76542_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760106+00:00"
+      "archived_at": "2026-10-01T16:10:38.802880+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121654_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121654_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078241+00:00"
+      "archived_at": "2026-10-01T16:10:39.085572+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119654+00:00"
+      "archived_at": "2026-10-01T16:10:38.156587+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360184,
-      "message_link": "https://t.me/IranintlTV/360184",
-      "text": "حسین یکتا از فرماندهان سپاه پاسداران، با انتشار ویدیویی از حضور خود در کنار رودخانه لیتانی در جنوب لبنان خبر داد و گفت: «همان‌طور که در دجله وضو گرفتیم، در کربلا نماز خواندیم و صدام را بالای دار دیدیم، اکنون مقابل چشم اسرائیلی‌ها در این رودخانه وضو می‌گیرم و نماز را در بیت‌المقدس خواهیم خواند.»\n\nاو در ادامه افزود هرچه علی خامنه‌ای، رهبر کشته‌شده جمهوری اسلامی، گفته بود، پیش آمد.\n@iranintltv",
+      "message_id": 360185,
+      "message_link": "https://t.me/IranintlTV/360185",
+      "text": "**«برنامه» امشب، «تریبون آزاد» شماست.**\n\n**اگر فقط یک جمله فرصت داشتید با ایران حرف بزنید، چه می‌گفتید؟**\n**چه چیزی هنوز دلتان را گرم نگه می‌دارد؟**\n**نگرانی‌تان چیست؟**\n**از چه چیزی عصبانی هستید؟**\n**حرفی دارید که در دلتان مانده و جایی برای گفتنش نبوده؟**\n**از خودتان بگویید؛ از امیدها و ترس‌هایتان،**\n**از رؤیایی که هنوز زنده است یا از چیزی که از دست رفته است.**\n**تاریخ با صدای شما نوشته می‌شود.**\n**برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:**\n**۰۰۴۴۷۵۲۲۱۱۰۱۱۰**\n**۰۰۴۴۷۵۴۴۱۱۰۱۱۰**\n**۰۰۴۴۷۵۱۱۱۰۲۵۵۳**\n**«برنامه با کامبیز حسینی»**\n**«یک ایران، صدای شما را می‌شنود»**\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:56:53",
-      "gregorian_utc": "2026-10-01T15:26:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 648287,
-      "media_size_human": "633.09 KB",
+      "tehran_time": "18:59:40",
+      "gregorian_utc": "2026-10-01T15:29:40+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 358236,
+      "media_size_human": "349.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360184_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360184_video.mp4",
+      "media_local_path": "media/IranintlTV_360185_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360185_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.429331+00:00"
+      "archived_at": "2026-10-01T16:10:38.420386+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760155+00:00"
+      "archived_at": "2026-10-01T16:10:38.802922+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121653_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121653_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078312+00:00"
+      "archived_at": "2026-10-01T16:10:39.085628+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119687+00:00"
+      "archived_at": "2026-10-01T16:10:38.156616+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360183,
-      "message_link": "https://t.me/IranintlTV/360183",
-      "text": "🔻سایت پرتغالی ابولا گزارش داد که رافائل لیائو، مهاجم گالاتاسرای در دیدار پنج‌شنبه پرتغال مقابل دانمارک در لیگ ملت‌های اروپا، پیراهن شماره ۷ کریستیانو رونالدو را بر تن خواهد کرد. رونالدو یک روز پیش از مسابقه اردوی تیم ملی پرتغال را ترک کرد. این تصمیم از سوی یوفا گرفته شده است.\n\n🔹مقررات لیگ ملت‌های اروپا تعیین می‌کند بازیکنانی که نامشان در فهرست مسابقه قرار دارد باید شماره‌هایی از ۱ تا ۲۳ داشته باشند. بنابراین تیم ملی پرتغال چاره‌ای جز واگذاری پیراهنی نداشت که کریستیانو رونالدو آن را از لوییس فیگو «به ارث برده بود».\n\n🔹در مورد بازیکنان کنار گذاشته‌شده از دیدار پنج‌شنبه نیز فهرست نکته تازه‌ای ندارد. ژرژ ژسوس ۲۵ بازیکن را دعوت کرده بود، در حالی که فهرست مسابقه تنها می‌تواند شامل ۲۳ بازیکن باشد.\n\n🔹به همین دلیل، سرمربی پرتغال در مسابقات قبلی مجبور بود دو بازیکن را از فهرست کنار بگذارد، اما این بار نیازی به انتخاب نداشت؛ زیرا کریستیانو رونالدو اردو را ترک کرده و فرانسیسکو کونسیسائو نیز به دلیل مصدومیت غایب است؛ موضوعی که در نشست خبری روز قبل اعلام شده بود.\n\n@iranintltvsport",
+      "message_id": 360184,
+      "message_link": "https://t.me/IranintlTV/360184",
+      "text": "حسین یکتا از فرماندهان سپاه پاسداران، با انتشار ویدیویی از حضور خود در کنار رودخانه لیتانی در جنوب لبنان خبر داد و گفت: «همان‌طور که در دجله وضو گرفتیم، در کربلا نماز خواندیم و صدام را بالای دار دیدیم، اکنون مقابل چشم اسرائیلی‌ها در این رودخانه وضو می‌گیرم و نماز را در بیت‌المقدس خواهیم خواند.»\n\nاو در ادامه افزود هرچه علی خامنه‌ای، رهبر کشته‌شده جمهوری اسلامی، گفته بود، پیش آمد.\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:52:57",
-      "gregorian_utc": "2026-10-01T15:22:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 150627,
-      "media_size_human": "147.10 KB",
+      "tehran_time": "18:56:53",
+      "gregorian_utc": "2026-10-01T15:26:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 648287,
+      "media_size_human": "633.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360183_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360183_photo.jpg",
+      "media_local_path": "media/IranintlTV_360184_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360184_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.440964+00:00"
+      "archived_at": "2026-10-01T16:10:38.420450+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76539_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760203+00:00"
+      "archived_at": "2026-10-01T16:10:38.802962+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_121652_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121652_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078352+00:00"
+      "archived_at": "2026-10-01T16:10:39.085660+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119711+00:00"
+      "archived_at": "2026-10-01T16:10:38.156635+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360182,
-      "message_link": "https://t.me/IranintlTV/360182",
-      "text": "حزب محافظه‌کار کانادا پس از اظهارات مارک کارنی درباره احتمال افزایش دوباره مهاجرت، خواستار کاهش پذیرش مهاجران شد.\n\nاین حزب می‌گوید زیرساخت‌های مسکن، بهداشت و اشتغال ظرفیت پذیرش این میزان مهاجرت را ندارد.\n\nجزییات بیشتر با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360183,
+      "message_link": "https://t.me/IranintlTV/360183",
+      "text": "🔻سایت پرتغالی ابولا گزارش داد که رافائل لیائو، مهاجم گالاتاسرای در دیدار پنج‌شنبه پرتغال مقابل دانمارک در لیگ ملت‌های اروپا، پیراهن شماره ۷ کریستیانو رونالدو را بر تن خواهد کرد. رونالدو یک روز پیش از مسابقه اردوی تیم ملی پرتغال را ترک کرد. این تصمیم از سوی یوفا گرفته شده است.\n\n🔹مقررات لیگ ملت‌های اروپا تعیین می‌کند بازیکنانی که نامشان در فهرست مسابقه قرار دارد باید شماره‌هایی از ۱ تا ۲۳ داشته باشند. بنابراین تیم ملی پرتغال چاره‌ای جز واگذاری پیراهنی نداشت که کریستیانو رونالدو آن را از لوییس فیگو «به ارث برده بود».\n\n🔹در مورد بازیکنان کنار گذاشته‌شده از دیدار پنج‌شنبه نیز فهرست نکته تازه‌ای ندارد. ژرژ ژسوس ۲۵ بازیکن را دعوت کرده بود، در حالی که فهرست مسابقه تنها می‌تواند شامل ۲۳ بازیکن باشد.\n\n🔹به همین دلیل، سرمربی پرتغال در مسابقات قبلی مجبور بود دو بازیکن را از فهرست کنار بگذارد، اما این بار نیازی به انتخاب نداشت؛ زیرا کریستیانو رونالدو اردو را ترک کرده و فرانسیسکو کونسیسائو نیز به دلیل مصدومیت غایب است؛ موضوعی که در نشست خبری روز قبل اعلام شده بود.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:52:04",
-      "gregorian_utc": "2026-10-01T15:22:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2502941,
-      "media_size_human": "2.39 MB",
+      "tehran_time": "18:52:57",
+      "gregorian_utc": "2026-10-01T15:22:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 150627,
+      "media_size_human": "147.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360182_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360182_video.mp4",
+      "media_local_path": "media/IranintlTV_360183_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360183_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441078+00:00"
+      "archived_at": "2026-10-01T16:10:38.522088+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76538_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760276+00:00"
+      "archived_at": "2026-10-01T16:10:38.803034+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_121651_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121651_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078394+00:00"
+      "archived_at": "2026-10-01T16:10:39.085694+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119750+00:00"
+      "archived_at": "2026-10-01T16:10:38.156665+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360181,
-      "message_link": "https://t.me/IranintlTV/360181",
-      "text": "روسیه در یادداشتی رسمی به ناتو هشدار داده است در صورت مداخله برای قطع ارتباط منطقه کالینینگراد با خاک روسیه، مسکو آماده استفاده از همه ظرفیت‌های نظامی خود، از جمله سلاح هسته‌ای، خواهد بود.\n\nگزارش لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360182,
+      "message_link": "https://t.me/IranintlTV/360182",
+      "text": "حزب محافظه‌کار کانادا پس از اظهارات مارک کارنی درباره احتمال افزایش دوباره مهاجرت، خواستار کاهش پذیرش مهاجران شد.\n\nاین حزب می‌گوید زیرساخت‌های مسکن، بهداشت و اشتغال ظرفیت پذیرش این میزان مهاجرت را ندارد.\n\nجزییات بیشتر با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:50:31",
-      "gregorian_utc": "2026-10-01T15:20:31+00:00",
+      "tehran_time": "18:52:04",
+      "gregorian_utc": "2026-10-01T15:22:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 1832621,
-      "media_size_human": "1.75 MB",
+      "media_size_bytes": 2502941,
+      "media_size_human": "2.39 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360181_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360181_video.mp4",
+      "media_local_path": "media/IranintlTV_360182_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360182_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441219+00:00"
+      "archived_at": "2026-10-01T16:10:38.522237+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.760666+00:00"
+      "archived_at": "2026-10-01T16:10:38.803349+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:56.078416+00:00"
+      "archived_at": "2026-10-01T16:10:39.085711+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119774+00:00"
+      "archived_at": "2026-10-01T16:10:38.156688+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360180,
-      "message_link": "https://t.me/IranintlTV/360180",
-      "text": "منابع مطلع به ایران‌اینترنشنال گفتند در پی انتشار فایل صوتی محبوبه شعبانی، زندانی سیاسی از زندان وکیل‌آباد، این زندانی پس از انتقال به بخش تحت‌نظر و قطع ارتباط با بیرون، مورد ضرب‌وشتم نیروهای گارد زندان قرار گرفته است. در پی این ضرب‌وشتم، دست و پاهای او آسیب دیده و آثار کبودی بر بدنش ایجاد شده است.\n\nبه گفته این منابع، پس از مقاومت محبوبه، او را به بهداری زندان منتقل کرده و دست‌ها و پاهایش را به تخت بسته‌اند؛ رویه‌ای که در زندان وکیل‌آباد از آن با عنوان «فیکس کردن» یاد می‌شود و بنا بر گزارش‌ها می‌تواند به بستن دست و پای زندانی به تخت برای ساعت‌های طولانی، حتی تا ۲۴ ساعت، منجر شود.\n\nهدف از این اقدام، جلوگیری از دیده‌شدن و ثبت آثار ضرب‌وشتم و کبودی‌های روی بدن محبوبه است؛ چراکه پس از بازگرداندن او به بند، ممکن است این آثار به‌تدریج از بین بروند و امکان مشاهده و مستندسازی آن‌ها دشوارتر شود.\nhttps://iranintl.com/202610011127",
+      "message_id": 360181,
+      "message_link": "https://t.me/IranintlTV/360181",
+      "text": "روسیه در یادداشتی رسمی به ناتو هشدار داده است در صورت مداخله برای قطع ارتباط منطقه کالینینگراد با خاک روسیه، مسکو آماده استفاده از همه ظرفیت‌های نظامی خود، از جمله سلاح هسته‌ای، خواهد بود.\n\nگزارش لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:43:43",
-      "gregorian_utc": "2026-10-01T15:13:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162199,
-      "media_size_human": "158.40 KB",
+      "tehran_time": "18:50:31",
+      "gregorian_utc": "2026-10-01T15:20:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1832621,
+      "media_size_human": "1.75 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360180_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360180_photo.jpg",
+      "media_local_path": "media/IranintlTV_360181_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360181_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441350+00:00"
+      "archived_at": "2026-10-01T16:10:38.522299+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.760788+00:00"
+      "archived_at": "2026-10-01T16:10:38.803446+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:56.078437+00:00"
+      "archived_at": "2026-10-01T16:10:39.085728+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119796+00:00"
+      "archived_at": "2026-10-01T16:10:38.156706+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360179,
-      "message_link": "https://t.me/IranintlTV/360179",
-      "text": "نمایندگان دولت جدید سوریه و حزب‌الله در نشستی محرمانه در ترکیه، برای کاهش تنش‌های امنیتی میان دو طرف گفت‌وگو کردند. به گزارش رویترز، این نخستین دیدار مستقیم شناخته‌شده آنها پس از سقوط بشار اسد است و ترکیه در برگزاری آن نقش داشته است.\n\nگزارش نرگس هورخش، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360180,
+      "message_link": "https://t.me/IranintlTV/360180",
+      "text": "منابع مطلع به ایران‌اینترنشنال گفتند در پی انتشار فایل صوتی محبوبه شعبانی، زندانی سیاسی از زندان وکیل‌آباد، این زندانی پس از انتقال به بخش تحت‌نظر و قطع ارتباط با بیرون، مورد ضرب‌وشتم نیروهای گارد زندان قرار گرفته است. در پی این ضرب‌وشتم، دست و پاهای او آسیب دیده و آثار کبودی بر بدنش ایجاد شده است.\n\nبه گفته این منابع، پس از مقاومت محبوبه، او را به بهداری زندان منتقل کرده و دست‌ها و پاهایش را به تخت بسته‌اند؛ رویه‌ای که در زندان وکیل‌آباد از آن با عنوان «فیکس کردن» یاد می‌شود و بنا بر گزارش‌ها می‌تواند به بستن دست و پای زندانی به تخت برای ساعت‌های طولانی، حتی تا ۲۴ ساعت، منجر شود.\n\nهدف از این اقدام، جلوگیری از دیده‌شدن و ثبت آثار ضرب‌وشتم و کبودی‌های روی بدن محبوبه است؛ چراکه پس از بازگرداندن او به بند، ممکن است این آثار به‌تدریج از بین بروند و امکان مشاهده و مستندسازی آن‌ها دشوارتر شود.\nhttps://iranintl.com/202610011127",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:42:58",
-      "gregorian_utc": "2026-10-01T15:12:58+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2221738,
-      "media_size_human": "2.12 MB",
+      "tehran_time": "18:43:43",
+      "gregorian_utc": "2026-10-01T15:13:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162199,
+      "media_size_human": "158.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360179_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360179_video.mp4",
+      "media_local_path": "media/IranintlTV_360180_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360180_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441417+00:00"
+      "archived_at": "2026-10-01T16:10:38.522406+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76529_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760856+00:00"
+      "archived_at": "2026-10-01T16:10:38.803498+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_121648_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121648_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078494+00:00"
+      "archived_at": "2026-10-01T16:10:39.085772+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119829+00:00"
+      "archived_at": "2026-10-01T16:10:38.156725+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360178,
-      "message_link": "https://t.me/IranintlTV/360178",
-      "text": "آسوشیتدپرس به نقل از دو مقام آمریکایی گزارش داده است که مارکو روبیو، وزیر خارجه آمریکا، پس از پیشرفت‌نکردن مذاکرات غیرمستقیم با جمهوری اسلامی، از عباس عراقچی و هیئت همراهش خواسته است نیویورک را زودتر ترک کنند.\n\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360179,
+      "message_link": "https://t.me/IranintlTV/360179",
+      "text": "نمایندگان دولت جدید سوریه و حزب‌الله در نشستی محرمانه در ترکیه، برای کاهش تنش‌های امنیتی میان دو طرف گفت‌وگو کردند. به گزارش رویترز، این نخستین دیدار مستقیم شناخته‌شده آنها پس از سقوط بشار اسد است و ترکیه در برگزاری آن نقش داشته است.\n\nگزارش نرگس هورخش، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:35:57",
-      "gregorian_utc": "2026-10-01T15:05:57+00:00",
+      "tehran_time": "18:42:58",
+      "gregorian_utc": "2026-10-01T15:12:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 2496611,
-      "media_size_human": "2.38 MB",
+      "media_size_bytes": 2221738,
+      "media_size_human": "2.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360178_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360178_video.mp4",
+      "media_local_path": "media/IranintlTV_360179_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441477+00:00"
+      "archived_at": "2026-10-01T16:10:38.522458+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760895+00:00"
+      "archived_at": "2026-10-01T16:10:38.803529+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_121647_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121647_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078610+00:00"
+      "archived_at": "2026-10-01T16:10:39.085859+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119853+00:00"
+      "archived_at": "2026-10-01T16:10:38.156742+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360177,
-      "message_link": "https://t.me/IranintlTV/360177",
-      "text": "ویدیوی منتشرشده نشان می‌دهد حامیان جمهوری اسلامی با حضور در مدارس و نصب تبلیغات در یک مدرسه کاشان اقدام به جذب دانش‌آموزان به رزمایش نظامی «جان‌فدا» کرده‌اند.",
+      "message_id": 360178,
+      "message_link": "https://t.me/IranintlTV/360178",
+      "text": "آسوشیتدپرس به نقل از دو مقام آمریکایی گزارش داده است که مارکو روبیو، وزیر خارجه آمریکا، پس از پیشرفت‌نکردن مذاکرات غیرمستقیم با جمهوری اسلامی، از عباس عراقچی و هیئت همراهش خواسته است نیویورک را زودتر ترک کنند.\n\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:32:35",
-      "gregorian_utc": "2026-10-01T15:02:35+00:00",
+      "tehran_time": "18:35:57",
+      "gregorian_utc": "2026-10-01T15:05:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 2123255,
-      "media_size_human": "2.02 MB",
+      "media_size_bytes": 2496611,
+      "media_size_human": "2.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360177_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360177_video.mp4",
+      "media_local_path": "media/IranintlTV_360178_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360178_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441506+00:00"
+      "archived_at": "2026-10-01T16:10:38.522504+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76527_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76527_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.760949+00:00"
+      "archived_at": "2026-10-01T16:10:38.803572+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_121646_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121646_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078691+00:00"
+      "archived_at": "2026-10-01T16:10:39.085922+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119874+00:00"
+      "archived_at": "2026-10-01T16:10:38.156758+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360176,
-      "message_link": "https://t.me/IranintlTV/360176",
-      "text": "🔻در پایان روز دوازدهم بازی‌های آسیایی ۲۰۲۶ ناگویا، کسب دوازدهمین مدال، تیم ایران را به جمع ۵ تیم بالای جدول رساند. \n\n🔹علیرضا عبدولی در فینال وزن ۷۷ کیلوگرم کشتی فرنگی کوساکا از ژاپن را شکست داد و طلا گرفت.\n\n🔹رضا علیپور، نماینده ایران در سنگ‌نوردی سرعت، با ثبت زمان ۵.۳۶ ثانیه در فینال به مدال نقره رسید.\n\n🔹مهدی بالی در دیدار رده‌بندی وزن ۹۷ کیلوگرم کشتی فرنگی، اولویف از قزاقستان را ضربه فنی کرد و به مدال برنز رسید.\n\n🔹چین با ۱۵۴ طلا، ژاپن با ۵۹ طلا، کره جنوبی با ۳۰ طلا، ازبکستان با ۱۶ طلا و ایران با ۱۲ طلا، اول تا پنجم جدول هستند. ایران با وجود اشتراک با تایلند در تعداد طلاها، اما به لطف نقره بیشتر، پنجم است.\n\n@iranintltvsport",
+      "message_id": 360177,
+      "message_link": "https://t.me/IranintlTV/360177",
+      "text": "ویدیوی منتشرشده نشان می‌دهد حامیان جمهوری اسلامی با حضور در مدارس و نصب تبلیغات در یک مدرسه کاشان اقدام به جذب دانش‌آموزان به رزمایش نظامی «جان‌فدا» کرده‌اند.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:18:46",
-      "gregorian_utc": "2026-10-01T14:48:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 124074,
-      "media_size_human": "121.17 KB",
+      "tehran_time": "18:32:35",
+      "gregorian_utc": "2026-10-01T15:02:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2123255,
+      "media_size_human": "2.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360176_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360176_photo.jpg",
+      "media_local_path": "media/IranintlTV_360177_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360177_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441616+00:00"
+      "archived_at": "2026-10-01T16:10:38.522529+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.761017+00:00"
+      "archived_at": "2026-10-01T16:10:38.803625+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_121645_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121645_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078743+00:00"
+      "archived_at": "2026-10-01T16:10:39.085962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119899+00:00"
+      "archived_at": "2026-10-01T16:10:38.156775+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360174,
-      "message_link": "https://t.me/IranintlTV/360174",
-      "text": "🔻تنیس ایران در تاریخ بازی‌های آسیایی چهار مدال کسب کرده که آخرین آنها به دو نقره در بازی‌های آسیایی ۱۹۷۴ تهران بازمی‌گردد. \n\n🔹تقی اکبری در بخش انفرادی مردان و علی مدنی و کامبیز درفشی‌جوان در بخش دونفره این مدال‌ها را کسب کردند.\n\n🔹منصور بهرامی و رضا نخعی، بازیکنان پیشین تیم ملی تنیس ایران، در گفت‌وگوی ویژه درباره این دوره از تنیس ایران و خاطرات آن سال‌ها می‌گویند.\n\n@iranintltvsport",
+      "message_id": 360176,
+      "message_link": "https://t.me/IranintlTV/360176",
+      "text": "🔻در پایان روز دوازدهم بازی‌های آسیایی ۲۰۲۶ ناگویا، کسب دوازدهمین مدال، تیم ایران را به جمع ۵ تیم بالای جدول رساند. \n\n🔹علیرضا عبدولی در فینال وزن ۷۷ کیلوگرم کشتی فرنگی کوساکا از ژاپن را شکست داد و طلا گرفت.\n\n🔹رضا علیپور، نماینده ایران در سنگ‌نوردی سرعت، با ثبت زمان ۵.۳۶ ثانیه در فینال به مدال نقره رسید.\n\n🔹مهدی بالی در دیدار رده‌بندی وزن ۹۷ کیلوگرم کشتی فرنگی، اولویف از قزاقستان را ضربه فنی کرد و به مدال برنز رسید.\n\n🔹چین با ۱۵۴ طلا، ژاپن با ۵۹ طلا، کره جنوبی با ۳۰ طلا، ازبکستان با ۱۶ طلا و ایران با ۱۲ طلا، اول تا پنجم جدول هستند. ایران با وجود اشتراک با تایلند در تعداد طلاها، اما به لطف نقره بیشتر، پنجم است.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:09:19",
-      "gregorian_utc": "2026-10-01T14:39:19+00:00",
-      "media_type": "video",
-      "media_size_bytes": 12180690,
-      "media_size_human": "11.62 MB",
+      "tehran_time": "18:18:46",
+      "gregorian_utc": "2026-10-01T14:48:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124074,
+      "media_size_human": "121.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360174_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360174_video.mp4",
+      "media_local_path": "media/IranintlTV_360176_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360176_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441693+00:00"
+      "archived_at": "2026-10-01T16:10:38.522616+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.761052+00:00"
+      "archived_at": "2026-10-01T16:10:38.803654+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_121644_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121644_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078792+00:00"
+      "archived_at": "2026-10-01T16:10:39.086010+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.119920+00:00"
+      "archived_at": "2026-10-01T16:10:38.156790+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360173,
-      "message_link": "https://t.me/IranintlTV/360173",
-      "text": "سرخط خبرهای پنج‌شنبه ۹ مهر\n@iranintltv",
+      "message_id": 360174,
+      "message_link": "https://t.me/IranintlTV/360174",
+      "text": "🔻تنیس ایران در تاریخ بازی‌های آسیایی چهار مدال کسب کرده که آخرین آنها به دو نقره در بازی‌های آسیایی ۱۹۷۴ تهران بازمی‌گردد. \n\n🔹تقی اکبری در بخش انفرادی مردان و علی مدنی و کامبیز درفشی‌جوان در بخش دونفره این مدال‌ها را کسب کردند.\n\n🔹منصور بهرامی و رضا نخعی، بازیکنان پیشین تیم ملی تنیس ایران، در گفت‌وگوی ویژه درباره این دوره از تنیس ایران و خاطرات آن سال‌ها می‌گویند.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "18:07:23",
-      "gregorian_utc": "2026-10-01T14:37:23+00:00",
+      "tehran_time": "18:09:19",
+      "gregorian_utc": "2026-10-01T14:39:19+00:00",
       "media_type": "video",
-      "media_size_bytes": 936916,
-      "media_size_human": "914.96 KB",
+      "media_size_bytes": 12180690,
+      "media_size_human": "11.62 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360173_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360173_video.mp4",
+      "media_local_path": "media/IranintlTV_360174_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360174_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:55.441726+00:00"
+      "archived_at": "2026-10-01T16:10:38.522678+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T16:00:55.761174+00:00"
+      "archived_at": "2026-10-01T16:10:38.803715+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T16:00:56.078869+00:00"
+      "archived_at": "2026-10-01T16:10:39.086073+00:00"
     }
   ]
 }
