@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T13:44:18.641477+00:00",
-  "shamsi_generated": "1405/07/09 13:44:18 تهران",
+  "generated_at": "2026-10-01T13:54:05.214275+00:00",
+  "shamsi_generated": "1405/07/09 13:54:05 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14237,
-      "message_link": "https://t.me/zedTV/14237",
-      "text": "ترامپ در گفتگو با تایم: نابودی رژیم جمهوری اسلامی کلید برقراری صلح در جهان است.\nرئیس‌جمهور سابق آمریکا از احتمال تشدید بمباران‌ها و استفاده از تسلیحات پیشرفته خبر داد.\nتأکید بر تداوم عملیات نظامی فراتر از پیش‌بینی‌های اولیه برای ضربه به بدنه رژیم.",
+      "message_id": 14239,
+      "message_link": "https://t.me/zedTV/14239",
+      "text": "ترامپ به مجله تایم: اجازه ضرر سالانه ۴۰ میلیارد دلاری را به هیچ کشوری نمی‌دهیم.\nتاکید بر توقف خروج سرمایه از آمریکا؛ رویکردی که فشار اقتصادی بر رژیم‌ها را تشدید می‌کند.\nپیام صریح به بازارهای جهانی: اولویت با منافع مالی ایالات متحده است.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "17:09:31",
-      "gregorian_utc": "2026-10-01T13:39:31+00:00",
+      "tehran_time": "17:10:58",
+      "gregorian_utc": "2026-10-01T13:40:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391168+00:00"
+      "archived_at": "2026-10-01T13:50:37.874326+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360161,
-      "message_link": "https://t.me/IranintlTV/360161",
-      "text": "ارتش اسرائیل پنج‌شنبه ۹ مهر اعلام کرد در دو حمله هوایی روز سه‌شنبه در شهر غزه و جبالیا، محمد جمال محمود ابوالشاعر، فرمانده یک تیم در شاخه نظامی حماس، و مصعب عبدالغلیل ثاقب بلابیسی، از فرماندهان شاخه نظامی جهاد اسلامی فلسطین، کشته شدند.\n\nبه گفته ارتش اسرائیل، هر دو نفر در حمله هفتم اکتبر وارد خاک اسرائیل شده بودند. این ارتش گفت ابوالشاعر وارد کیبوتص بئری شده و در ربودن شش نفر و انتقال آنها به نوار غزه مشارکت داشته است.\n\nارتش اسرائیل اضافه کرد این دو نفر اخیرا با نقض آتش‌بس، در حال طراحی حملاتی علیه نیروهای نظامی و شهروندان اسرائیلی بودند و حملات هوایی با هدف «رفع تهدید» انجام شد.\nhttps://iranintl.com/202610013725",
+      "message_id": 360162,
+      "message_link": "https://t.me/IranintlTV/360162",
+      "text": "معصومه طاهرخانی، تحلیلگر اقتصادی، گفت مسیر حرکت دلار در شرایط فعلی کاهشی نیست و بانک مرکزی می‌تواند سرعت رشد آن را کاهش دهد.\n\nاو با اشاره به تزریق احتمالی دو میلیارد دلار، محدودیت معاملات تتر و تخصیص ارز برای واردات کالاهای اساسی، این اقدامات را فاقد اثر جدی بر بازار دانست.\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "17:10:33",
-      "gregorian_utc": "2026-10-01T13:40:33+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 165899,
-      "media_size_human": "162.01 KB",
+      "tehran_time": "17:20:28",
+      "gregorian_utc": "2026-10-01T13:50:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3145943,
+      "media_size_human": "3.00 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360161_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360161_photo.jpg",
+      "media_local_path": "media/IranintlTV_360162_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360162_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.822768+00:00"
+      "archived_at": "2026-10-01T13:50:38.266772+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76547_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76547_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.262715+00:00"
+      "archived_at": "2026-10-01T13:50:38.696290+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_121654_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121654_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.729758+00:00"
+      "archived_at": "2026-10-01T13:50:39.112446+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14236,
-      "message_link": "https://t.me/zedTV/14236",
-      "text": "مارکو روبیو دستور اخراج فوری عباس عراقچی و هیئت دیپلماتیک رژیم را صادر کرد. بن‌بست کامل در مذاکرات و شکست تلاش‌های میانجی‌گرانه قطر. اخراج بی‌سابقه نمایندگان جمهوری اسلامی از خاک ایالات متحده.",
+      "message_id": 14238,
+      "message_link": "https://t.me/zedTV/14238",
+      "text": "",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:56:07",
-      "gregorian_utc": "2026-10-01T13:26:07+00:00",
+      "tehran_time": "17:10:44",
+      "gregorian_utc": "2026-10-01T13:40:44+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391219+00:00"
+      "archived_at": "2026-10-01T13:50:37.874356+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360160,
-      "message_link": "https://t.me/IranintlTV/360160",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۹ مهر\n**\n🔹۷ مهرماه که رشت بودیم، به یک پسر جوان به خاطر پوشیدن شلوارک گیر دادند و چند بار با لگد او را زدند و به دوستانش گفتند باید بروید برایش شلوار بیاورید تا ولش کنیم.\n\n🔹هزینه یک کلاس دوماهه شده ۱۰ میلیون تومان، آخه ما دانشجوها از کجا بیاریم، با این همه مخارج بالا و گرانی؟\n\n🔹امسال هشتم هستم، رفتم ۳ تا دفتر خریدم، شد ۶۰۰ هزار تومان. از مسیر نوشت‌افزار تا خونه داشتم به این فکر می‌کردم که مجبور نشم پس‌شون بدم. تازه قیمت‌ها در حال افزایشه و برای بیشتر کتاب‌هام هنوز دفتر نگرفتم.\n\n🔹به‌عنوان یک دانش‌آموز دوازدهم، امسال پول وسایل مدرسه و شهریه رو نداشتم و نتونستم برم مدرسه، حالا بماند خریدن کتاب تست برای کنکور. جدی از آینده‌ام ناامید شدم.\n\n🔹هیچ کتابی در مدارس ندادن، نه کتاب‌های دهم و نه کتاب‌های یازدهم، با اینکه پول کتاب رو دادیم. مدام می‌گن که کسری داریم. هیچ کتاب تخصصی نداریم، با اینکه رشته‌مون تجربیه. معلم از خودش درس می‌ده.\n\n🔹دانش‌آموز یازدهم هستم، بعد از ۱۰ روز هنوز به ما کتاب ندادن و معلم‌ها هم سوءاستفاده می‌کنند و جزوه‌های اجباری را یک میلیون به ما می‌فروشند. شهریه امسال هم شده ۷۰ میلیون.\n\n🔹ماموران کلانتری این‌قدر گرسنه شدن میان رستوران‌ها غذای مفتی می‌گیرن، اگه هم ندن اذیت می‌کنن بچه‌ها رو. این نظام به شماها غذا نمی‌ده و به خاطرش آدم می‌کشید؟",
+      "message_id": 360161,
+      "message_link": "https://t.me/IranintlTV/360161",
+      "text": "ارتش اسرائیل پنج‌شنبه ۹ مهر اعلام کرد در دو حمله هوایی روز سه‌شنبه در شهر غزه و جبالیا، محمد جمال محمود ابوالشاعر، فرمانده یک تیم در شاخه نظامی حماس، و مصعب عبدالغلیل ثاقب بلابیسی، از فرماندهان شاخه نظامی جهاد اسلامی فلسطین، کشته شدند.\n\nبه گفته ارتش اسرائیل، هر دو نفر در حمله هفتم اکتبر وارد خاک اسرائیل شده بودند. این ارتش گفت ابوالشاعر وارد کیبوتص بئری شده و در ربودن شش نفر و انتقال آنها به نوار غزه مشارکت داشته است.\n\nارتش اسرائیل اضافه کرد این دو نفر اخیرا با نقض آتش‌بس، در حال طراحی حملاتی علیه نیروهای نظامی و شهروندان اسرائیلی بودند و حملات هوایی با هدف «رفع تهدید» انجام شد.\nhttps://iranintl.com/202610013725",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:51:47",
-      "gregorian_utc": "2026-10-01T13:21:47+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.841199+00:00"
+      "tehran_time": "17:10:33",
+      "gregorian_utc": "2026-10-01T13:40:33+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 165899,
+      "media_size_human": "162.01 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_360161_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360161_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-01T13:50:38.266849+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76546_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76546_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.262929+00:00"
+      "archived_at": "2026-10-01T13:50:38.696402+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_121653_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121653_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.729853+00:00"
+      "archived_at": "2026-10-01T13:50:39.112506+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14235,
-      "message_link": "https://t.me/zedTV/14235",
-      "text": "لغو بازی دوستانه تیم فوتبال جمهوری اسلامی با گینه بیسائو؛\nتداوم انزوای بین‌المللی رژیم در پی محدودیت‌های ناشی از تحریم‌ها؛\nانسداد کامل دیپلماسی ورزشی جمهوری اسلامی.",
+      "message_id": 14237,
+      "message_link": "https://t.me/zedTV/14237",
+      "text": "ترامپ در گفتگو با تایم: نابودی رژیم جمهوری اسلامی کلید برقراری صلح در جهان است.\nرئیس‌جمهور سابق آمریکا از احتمال تشدید بمباران‌ها و استفاده از تسلیحات پیشرفته خبر داد.\nتأکید بر تداوم عملیات نظامی فراتر از پیش‌بینی‌های اولیه برای ضربه به بدنه رژیم.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:56:07",
-      "gregorian_utc": "2026-10-01T13:26:07+00:00",
+      "tehran_time": "17:09:31",
+      "gregorian_utc": "2026-10-01T13:39:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391255+00:00"
+      "archived_at": "2026-10-01T13:50:37.874374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360159,
-      "message_link": "https://t.me/IranintlTV/360159",
-      "text": "دادستان کل امارات متحده عربی دستور تشکیل تیم ویژه‌ای برای تحقیق درباره حادثه پرواز فلای‌دبی به تل‌آویو را صادر کرده است.\n\nتحقیقات قرار است مشخص کند آیا این حادثه با اقدام تروریستی، برنامه‌ریزی قبلی یا هدایت از سوی فرد یا نهادی دیگر ارتباط داشته است.\n\nمقام‌های اسرائیلی می‌گویند کمک‌خلبان عمانی پس از حمله به کاپیتان هندی، تلاش کرده کنترل هواپیما را به دست بگیرد. مسافران و خدمه او را مهار کردند و هواپیما در تبوک عربستان فرود اضطراری داشت.\n\nتحقیقات در امارات و عربستان ادامه دارد و فلای‌دبی نیز پروازهای خود به اسرائیل را موقتا متوقف کرده است.\n@iranintltv",
+      "message_id": 360160,
+      "message_link": "https://t.me/IranintlTV/360160",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنجشنبه ۹ مهر\n**\n🔹۷ مهرماه که رشت بودیم، به یک پسر جوان به خاطر پوشیدن شلوارک گیر دادند و چند بار با لگد او را زدند و به دوستانش گفتند باید بروید برایش شلوار بیاورید تا ولش کنیم.\n\n🔹هزینه یک کلاس دوماهه شده ۱۰ میلیون تومان، آخه ما دانشجوها از کجا بیاریم، با این همه مخارج بالا و گرانی؟\n\n🔹امسال هشتم هستم، رفتم ۳ تا دفتر خریدم، شد ۶۰۰ هزار تومان. از مسیر نوشت‌افزار تا خونه داشتم به این فکر می‌کردم که مجبور نشم پس‌شون بدم. تازه قیمت‌ها در حال افزایشه و برای بیشتر کتاب‌هام هنوز دفتر نگرفتم.\n\n🔹به‌عنوان یک دانش‌آموز دوازدهم، امسال پول وسایل مدرسه و شهریه رو نداشتم و نتونستم برم مدرسه، حالا بماند خریدن کتاب تست برای کنکور. جدی از آینده‌ام ناامید شدم.\n\n🔹هیچ کتابی در مدارس ندادن، نه کتاب‌های دهم و نه کتاب‌های یازدهم، با اینکه پول کتاب رو دادیم. مدام می‌گن که کسری داریم. هیچ کتاب تخصصی نداریم، با اینکه رشته‌مون تجربیه. معلم از خودش درس می‌ده.\n\n🔹دانش‌آموز یازدهم هستم، بعد از ۱۰ روز هنوز به ما کتاب ندادن و معلم‌ها هم سوءاستفاده می‌کنند و جزوه‌های اجباری را یک میلیون به ما می‌فروشند. شهریه امسال هم شده ۷۰ میلیون.\n\n🔹ماموران کلانتری این‌قدر گرسنه شدن میان رستوران‌ها غذای مفتی می‌گیرن، اگه هم ندن اذیت می‌کنن بچه‌ها رو. این نظام به شماها غذا نمی‌ده و به خاطرش آدم می‌کشید؟",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:49:14",
-      "gregorian_utc": "2026-10-01T13:19:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3309414,
-      "media_size_human": "3.16 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360159_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360159_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841408+00:00"
+      "tehran_time": "16:51:47",
+      "gregorian_utc": "2026-10-01T13:21:47+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-01T13:50:38.276428+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76543_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76543_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.263041+00:00"
+      "archived_at": "2026-10-01T13:50:38.696455+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121652_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121652_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.729903+00:00"
+      "archived_at": "2026-10-01T13:50:39.112534+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14234,
-      "message_link": "https://t.me/zedTV/14234",
-      "text": "دلار ۲۵۹،۴۰۰ و یورو ۲۹۳،۱۰۰ تومان؛ تداوم سقوط آزاد ارزش پول ملی. سکه امامی ۲۶۰ میلیون و طلا ۲۵.۶ میلیون تومان؛ رکوردشکنی بی‌سابقه در بازار. فروپاشی معیشت و ناتوانی رژیم در مهار بحران اقتصادی.",
+      "message_id": 14236,
+      "message_link": "https://t.me/zedTV/14236",
+      "text": "مارکو روبیو دستور اخراج فوری عباس عراقچی و هیئت دیپلماتیک رژیم را صادر کرد. بن‌بست کامل در مذاکرات و شکست تلاش‌های میانجی‌گرانه قطر. اخراج بی‌سابقه نمایندگان جمهوری اسلامی از خاک ایالات متحده.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:55:52",
-      "gregorian_utc": "2026-10-01T13:25:52+00:00",
+      "tehran_time": "16:56:07",
+      "gregorian_utc": "2026-10-01T13:26:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391296+00:00"
+      "archived_at": "2026-10-01T13:50:37.874395+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360158,
-      "message_link": "https://t.me/IranintlTV/360158",
-      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با تمجید از کاپیتان اسمیت ماچ‌هار، خلبان هندی پرواز فلای‌دبی، گفت او با وجود زخمی شدن شدید، در برابر مهاجم مقاومت کرد و در کابین را باز کرد تا مسافران و خدمه بتوانند مهاجم را مهار کنند.\n\nنتانیاهو گفت این خلبان با اقدام خود جان ۱۷۴ سرنشین، از جمله شهروندان اسرائیلی، را نجات داد و او را «قهرمان واقعی» خواند.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
+      "message_id": 360159,
+      "message_link": "https://t.me/IranintlTV/360159",
+      "text": "دادستان کل امارات متحده عربی دستور تشکیل تیم ویژه‌ای برای تحقیق درباره حادثه پرواز فلای‌دبی به تل‌آویو را صادر کرده است.\n\nتحقیقات قرار است مشخص کند آیا این حادثه با اقدام تروریستی، برنامه‌ریزی قبلی یا هدایت از سوی فرد یا نهادی دیگر ارتباط داشته است.\n\nمقام‌های اسرائیلی می‌گویند کمک‌خلبان عمانی پس از حمله به کاپیتان هندی، تلاش کرده کنترل هواپیما را به دست بگیرد. مسافران و خدمه او را مهار کردند و هواپیما در تبوک عربستان فرود اضطراری داشت.\n\nتحقیقات در امارات و عربستان ادامه دارد و فلای‌دبی نیز پروازهای خود به اسرائیل را موقتا متوقف کرده است.\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:45:06",
-      "gregorian_utc": "2026-10-01T13:15:06+00:00",
+      "tehran_time": "16:49:14",
+      "gregorian_utc": "2026-10-01T13:19:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 1803199,
-      "media_size_human": "1.72 MB",
+      "media_size_bytes": 3309414,
+      "media_size_human": "3.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360158_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360158_video.mp4",
+      "media_local_path": "media/IranintlTV_360159_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360159_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841509+00:00"
+      "archived_at": "2026-10-01T13:50:38.276580+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76542_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76542_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.263161+00:00"
+      "archived_at": "2026-10-01T13:50:38.696524+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": "media/Mellig_121651_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121651_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.729981+00:00"
+      "archived_at": "2026-10-01T13:50:39.112564+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14233,
-      "message_link": "https://t.me/zedTV/14233",
-      "text": "بحران معیشت و آموزش: شهریه‌های ۷۰ میلیونی و نایاب شدن کتاب‌های درسی، دانش‌آموزان را خانه‌نشین کرد.\nسرکوب و فساد: ضرب‌وشتم جوانان به بهانه پوشش در رشت و باج‌گیری ماموران رژیم از رستوران‌ها.\nفروپاشی آینده جوانان در سایه تورم نجومی لوازم‌تحریر و هزینه‌های کمرشکن تحصیل.",
+      "message_id": 14235,
+      "message_link": "https://t.me/zedTV/14235",
+      "text": "لغو بازی دوستانه تیم فوتبال جمهوری اسلامی با گینه بیسائو؛\nتداوم انزوای بین‌المللی رژیم در پی محدودیت‌های ناشی از تحریم‌ها؛\nانسداد کامل دیپلماسی ورزشی جمهوری اسلامی.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:55:39",
-      "gregorian_utc": "2026-10-01T13:25:39+00:00",
+      "tehran_time": "16:56:07",
+      "gregorian_utc": "2026-10-01T13:26:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391328+00:00"
+      "archived_at": "2026-10-01T13:50:37.874410+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360157,
-      "message_link": "https://t.me/IranintlTV/360157",
-      "text": "مصطفی ده‌پهلوان، رییس پیشین پژوهشگاه میراث فرهنگی، از دخالت شماری از مقام‌های رسمی در حفاری‌های غیرمجاز و جست‌وجوی آثار تاریخی خبر داد. او گفت در مواردی یک نماینده مجلس در پی یافتن گنج و دفینه بوده و یک امام جمعه نیز در محل حفاری غیرقانونی حضور داشته است.\n\nمحسن ظهوری، عضو تحریریه ایران‌اینترنشنال، درباره شواهد دیگری از نقش افراد صاحب‌نفوذ و شبکه‌های سازمان‌یافته در غارت میراث فرهنگی ایران می‌گوید\n@iranintltv",
+      "message_id": 360158,
+      "message_link": "https://t.me/IranintlTV/360158",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با تمجید از کاپیتان اسمیت ماچ‌هار، خلبان هندی پرواز فلای‌دبی، گفت او با وجود زخمی شدن شدید، در برابر مهاجم مقاومت کرد و در کابین را باز کرد تا مسافران و خدمه بتوانند مهاجم را مهار کنند.\n\nنتانیاهو گفت این خلبان با اقدام خود جان ۱۷۴ سرنشین، از جمله شهروندان اسرائیلی، را نجات داد و او را «قهرمان واقعی» خواند.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:43:12",
-      "gregorian_utc": "2026-10-01T13:13:12+00:00",
+      "tehran_time": "16:45:06",
+      "gregorian_utc": "2026-10-01T13:15:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 2164502,
-      "media_size_human": "2.06 MB",
+      "media_size_bytes": 1803199,
+      "media_size_human": "1.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360157_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360157_video.mp4",
+      "media_local_path": "media/IranintlTV_360158_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360158_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841601+00:00"
+      "archived_at": "2026-10-01T13:50:38.276631+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.263219+00:00"
+      "archived_at": "2026-10-01T13:50:38.696551+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,43 +379,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.730016+00:00"
+      "archived_at": "2026-10-01T13:50:39.112578+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14232,
-      "message_link": "https://t.me/zedTV/14232",
-      "text": "اعتراف معاون وزیر ارتباطات به ناتوانی در برابر استارلینک؛ طرح رژیم برای قطع برق شهروندان.\nاستفاده از زیرساخت‌های حیاتی به عنوان ابزار فشار در مقابله با دسترسی به اینترنت آزاد.\nتشدید بحران در مدیریت شبکه و تداوم سیاست‌های مخرب علیه رفاه عمومی.",
+      "message_id": 14234,
+      "message_link": "https://t.me/zedTV/14234",
+      "text": "دلار ۲۵۹،۴۰۰ و یورو ۲۹۳،۱۰۰ تومان؛ تداوم سقوط آزاد ارزش پول ملی. سکه امامی ۲۶۰ میلیون و طلا ۲۵.۶ میلیون تومان؛ رکوردشکنی بی‌سابقه در بازار. فروپاشی معیشت و ناتوانی رژیم در مهار بحران اقتصادی.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:40:33",
-      "gregorian_utc": "2026-10-01T13:10:33+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 122311,
-      "media_size_human": "119.44 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_14232_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14232_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.391410+00:00"
+      "tehran_time": "16:55:52",
+      "gregorian_utc": "2026-10-01T13:25:52+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-01T13:50:37.874428+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360156,
-      "message_link": "https://t.me/IranintlTV/360156",
-      "text": "مسعود پزشکیان، رییس دولت در جمهوری اسلامی، پنج‌شنبه ۹ مهر در نشستی با کارآفرینان و فعالان اقتصادی گفت آمریکا باید «خیال اینکه ما را با ترور به زانو در می‌آورد» از سر بیرون کند.\n\nپزشکیان گفت با وجود محدودیت‌های دریایی، دولت در تلاش است موانع را برطرف کند تا صادرات، واردات و تعاملات اقتصادی از مرزهای زمینی با کشورهایی از جمله پاکستان، عراق، ترکمنستان و آذربایجان گسترش یابد.\n\nاو همچنین گفت جمهوری اسلامی از «گفت‌وگو فرار نکرده و نخواهد کرد» و افزود آمریکا با اعمال محدودیت‌ها و تحریم‌ها به دنبال «ایجاد بحران» برای جمهوری اسلامی است.\n\nپزشکیان با اشاره به مشکلات اقتصادی و ناترازی انرژی گفت دولت در پی برطرف کردن موانع فعالیت کسب‌وکارها و تولیدکنندگان است و تاکید کرد تصمیم‌های اقتصادی باید با توجه به میزان «تحمل‌پذیری اجتماعی» اتخاذ شوند.\nhttps://iranintl.com/202610010420",
+      "message_id": 360157,
+      "message_link": "https://t.me/IranintlTV/360157",
+      "text": "مصطفی ده‌پهلوان، رییس پیشین پژوهشگاه میراث فرهنگی، از دخالت شماری از مقام‌های رسمی در حفاری‌های غیرمجاز و جست‌وجوی آثار تاریخی خبر داد. او گفت در مواردی یک نماینده مجلس در پی یافتن گنج و دفینه بوده و یک امام جمعه نیز در محل حفاری غیرقانونی حضور داشته است.\n\nمحسن ظهوری، عضو تحریریه ایران‌اینترنشنال، درباره شواهد دیگری از نقش افراد صاحب‌نفوذ و شبکه‌های سازمان‌یافته در غارت میراث فرهنگی ایران می‌گوید\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:41:26",
-      "gregorian_utc": "2026-10-01T13:11:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 102851,
-      "media_size_human": "100.44 KB",
+      "tehran_time": "16:43:12",
+      "gregorian_utc": "2026-10-01T13:13:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2164502,
+      "media_size_human": "2.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360156_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360156_photo.jpg",
+      "media_local_path": "media/IranintlTV_360157_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360157_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841743+00:00"
+      "archived_at": "2026-10-01T13:50:38.276677+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76539_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.263275+00:00"
+      "archived_at": "2026-10-01T13:50:38.696579+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.730044+00:00"
+      "archived_at": "2026-10-01T13:50:39.112592+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14231,
-      "message_link": "https://t.me/zedTV/14231",
-      "text": "شورای امنیت ملی ترکیه خواستار پایان درگیری‌ها میان ایران و آمریکا شد؛\nهشدار آنکارا درباره تشدید پیامدهای جهانی این جنگ در آینده؛\nتوصیف تنش‌های کنونی به عنوان یک «چرخه باطل».",
+      "message_id": 14233,
+      "message_link": "https://t.me/zedTV/14233",
+      "text": "بحران معیشت و آموزش: شهریه‌های ۷۰ میلیونی و نایاب شدن کتاب‌های درسی، دانش‌آموزان را خانه‌نشین کرد.\nسرکوب و فساد: ضرب‌وشتم جوانان به بهانه پوشش در رشت و باج‌گیری ماموران رژیم از رستوران‌ها.\nفروپاشی آینده جوانان در سایه تورم نجومی لوازم‌تحریر و هزینه‌های کمرشکن تحصیل.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:23:07",
-      "gregorian_utc": "2026-10-01T12:53:07+00:00",
+      "tehran_time": "16:55:39",
+      "gregorian_utc": "2026-10-01T13:25:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391443+00:00"
+      "archived_at": "2026-10-01T13:50:37.874442+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360155,
-      "message_link": "https://t.me/IranintlTV/360155",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | پنج‌شنبه ۹ مهر\n@iranintlTV",
+      "message_id": 360156,
+      "message_link": "https://t.me/IranintlTV/360156",
+      "text": "مسعود پزشکیان، رییس دولت در جمهوری اسلامی، پنج‌شنبه ۹ مهر در نشستی با کارآفرینان و فعالان اقتصادی گفت آمریکا باید «خیال اینکه ما را با ترور به زانو در می‌آورد» از سر بیرون کند.\n\nپزشکیان گفت با وجود محدودیت‌های دریایی، دولت در تلاش است موانع را برطرف کند تا صادرات، واردات و تعاملات اقتصادی از مرزهای زمینی با کشورهایی از جمله پاکستان، عراق، ترکمنستان و آذربایجان گسترش یابد.\n\nاو همچنین گفت جمهوری اسلامی از «گفت‌وگو فرار نکرده و نخواهد کرد» و افزود آمریکا با اعمال محدودیت‌ها و تحریم‌ها به دنبال «ایجاد بحران» برای جمهوری اسلامی است.\n\nپزشکیان با اشاره به مشکلات اقتصادی و ناترازی انرژی گفت دولت در پی برطرف کردن موانع فعالیت کسب‌وکارها و تولیدکنندگان است و تاکید کرد تصمیم‌های اقتصادی باید با توجه به میزان «تحمل‌پذیری اجتماعی» اتخاذ شوند.\nhttps://iranintl.com/202610010420",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:38:02",
-      "gregorian_utc": "2026-10-01T13:08:02+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30246865,
-      "media_size_human": "28.85 MB",
+      "tehran_time": "16:41:26",
+      "gregorian_utc": "2026-10-01T13:11:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 102851,
+      "media_size_human": "100.44 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360155_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360155_audio.mp3",
+      "media_local_path": "media/IranintlTV_360156_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360156_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841807+00:00"
+      "archived_at": "2026-10-01T13:50:38.276745+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76538_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.263357+00:00"
+      "archived_at": "2026-10-01T13:50:38.696621+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,43 +523,43 @@
       "media_local_path": "media/Mellig_121648_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121648_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730114+00:00"
+      "archived_at": "2026-10-01T13:50:39.112626+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14230,
-      "message_link": "https://t.me/zedTV/14230",
-      "text": "تشکیل تیم ویژه دادستانی امارات برای بررسی ابعاد امنیتی حادثه پرواز فلای‌دبی؛\nبررسی احتمال پیوند با فعالیت‌های تروریستی و هدایت از سوی عوامل خارجی؛\nتمرکز تحقیقات بر انگیزه‌های درگیری در کابین و تلاش برای خارج کردن کنترل هواپیما.",
+      "message_id": 14232,
+      "message_link": "https://t.me/zedTV/14232",
+      "text": "اعتراف معاون وزیر ارتباطات به ناتوانی در برابر استارلینک؛ طرح رژیم برای قطع برق شهروندان.\nاستفاده از زیرساخت‌های حیاتی به عنوان ابزار فشار در مقابله با دسترسی به اینترنت آزاد.\nتشدید بحران در مدیریت شبکه و تداوم سیاست‌های مخرب علیه رفاه عمومی.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:22:54",
-      "gregorian_utc": "2026-10-01T12:52:54+00:00",
+      "tehran_time": "16:40:33",
+      "gregorian_utc": "2026-10-01T13:10:33+00:00",
       "media_type": "photo",
-      "media_size_bytes": 129599,
-      "media_size_human": "126.56 KB",
+      "media_size_bytes": 122311,
+      "media_size_human": "119.44 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_14230_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14230_photo.jpg",
+      "media_local_path": "media/zedTV_14232_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14232_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.391504+00:00"
+      "archived_at": "2026-10-01T13:50:37.874518+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360154,
-      "message_link": "https://t.me/IranintlTV/360154",
-      "text": "شهروندان در پیام‌هایی به ایران‌اینترنشنال از گرانی دندان‌پزشکی و ناتوانی در پرداخت هزینه درمان گفته‌اند. برخی از آنها به‌دلیل هزینه بالا، به جای ترمیم دندان ناچار به کشیدن آن شده‌اند و برخی دیگر ماه‌ها درد را با مسکن و آنتی‌بیوتیک تحمل کرده‌اند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360155,
+      "message_link": "https://t.me/IranintlTV/360155",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | پنج‌شنبه ۹ مهر\n@iranintlTV",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:37:24",
-      "gregorian_utc": "2026-10-01T13:07:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2793281,
-      "media_size_human": "2.66 MB",
+      "tehran_time": "16:38:02",
+      "gregorian_utc": "2026-10-01T13:08:02+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30246865,
+      "media_size_human": "28.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360154_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360154_video.mp4",
+      "media_local_path": "media/IranintlTV_360155_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360155_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841892+00:00"
+      "archived_at": "2026-10-01T13:50:38.276779+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.263743+00:00"
+      "archived_at": "2026-10-01T13:50:38.696838+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,43 +595,43 @@
       "media_local_path": "media/Mellig_121647_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121647_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730241+00:00"
+      "archived_at": "2026-10-01T13:50:39.112693+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14229,
-      "message_link": "https://t.me/zedTV/14229",
-      "text": "بحران در گیلان: ۷۵ درصد فاضلاب استان بدون تصفیه به رودخانه‌ها و محیط زیست سرازیر می‌شود.\nفقط ۲۵ درصد پساب‌ها تصفیه شده و مابقی منابع آبی شمال کشور را آلوده می‌کند.\nتداوم نابودی محیط زیست در سایه بی‌کفایتی سیستماتیک در مدیریت زیرساخت‌ها.",
+      "message_id": 14231,
+      "message_link": "https://t.me/zedTV/14231",
+      "text": "شورای امنیت ملی ترکیه خواستار پایان درگیری‌ها میان ایران و آمریکا شد؛\nهشدار آنکارا درباره تشدید پیامدهای جهانی این جنگ در آینده؛\nتوصیف تنش‌های کنونی به عنوان یک «چرخه باطل».",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:21:36",
-      "gregorian_utc": "2026-10-01T12:51:36+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 220098,
-      "media_size_human": "214.94 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_14229_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14229_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.391554+00:00"
+      "tehran_time": "16:23:07",
+      "gregorian_utc": "2026-10-01T12:53:07+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-01T13:50:37.874535+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360153,
-      "message_link": "https://t.me/IranintlTV/360153",
-      "text": "شماری از ایرانیان روز چهارشنبه و پنجشنبه در شهر هانوفر آلمان نمایشگاهی با عنوان «دالان جنایات خامنه‌ای» برپا کردند. پیش از این نیز چنین نمایشگاهی در شهرهای دیگر اروپا، از جمله لندن، برگزار شده بود.",
+      "message_id": 360154,
+      "message_link": "https://t.me/IranintlTV/360154",
+      "text": "شهروندان در پیام‌هایی به ایران‌اینترنشنال از گرانی دندان‌پزشکی و ناتوانی در پرداخت هزینه درمان گفته‌اند. برخی از آنها به‌دلیل هزینه بالا، به جای ترمیم دندان ناچار به کشیدن آن شده‌اند و برخی دیگر ماه‌ها درد را با مسکن و آنتی‌بیوتیک تحمل کرده‌اند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:31:06",
-      "gregorian_utc": "2026-10-01T13:01:06+00:00",
+      "tehran_time": "16:37:24",
+      "gregorian_utc": "2026-10-01T13:07:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 8404693,
-      "media_size_human": "8.02 MB",
+      "media_size_bytes": 2793281,
+      "media_size_human": "2.66 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360153_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360153_video.mp4",
+      "media_local_path": "media/IranintlTV_360154_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360154_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.841933+00:00"
+      "archived_at": "2026-10-01T13:50:38.276815+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.263870+00:00"
+      "archived_at": "2026-10-01T13:50:38.696899+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,43 +667,43 @@
       "media_local_path": "media/Mellig_121646_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121646_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730434+00:00"
+      "archived_at": "2026-10-01T13:50:39.112738+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14228,
-      "message_link": "https://t.me/zedTV/14228",
-      "text": "اعتراف معاون وزیر ارتباطات به پایان حاکمیت رژیم بر فضای مجازی با گسترش استارلینک. بی‌اثری سیستم‌های فیلترینگ و احراز هویت در برابر ابزارهای نوین دور زدن محدودیت‌ها. ناتوانی شبکه ملی اطلاعات در مقابله با دسترسی آزاد به اینترنت.",
+      "message_id": 14230,
+      "message_link": "https://t.me/zedTV/14230",
+      "text": "تشکیل تیم ویژه دادستانی امارات برای بررسی ابعاد امنیتی حادثه پرواز فلای‌دبی؛\nبررسی احتمال پیوند با فعالیت‌های تروریستی و هدایت از سوی عوامل خارجی؛\nتمرکز تحقیقات بر انگیزه‌های درگیری در کابین و تلاش برای خارج کردن کنترل هواپیما.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:13:35",
-      "gregorian_utc": "2026-10-01T12:43:35+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391583+00:00"
+      "tehran_time": "16:22:54",
+      "gregorian_utc": "2026-10-01T12:52:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 129599,
+      "media_size_human": "126.56 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14230_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14230_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-01T13:50:37.874558+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360152,
-      "message_link": "https://t.me/IranintlTV/360152",
-      "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، ایمان صادقی، بلاگر ۲۰ ساله و از بازداشت‌شدگان انقلاب ملی ۱۴۰۴ در کاشان، به بیش از ۱۳ سال حبس تعزیری محکوم شده است.\nاو با اتهام‌هایی از جمله «تبلیغ علیه نظام جمهوری اسلامی» و «انتشار محتوای مجرمانه برخلاف امنیت کشور» روبه‌رو بوده است.\nبر اساس این اطلاعات، صادقی بابت اتهام «تبلیغ علیه نظام» به هفت ماه و ۱۶ روز حبس و بابت اتهام «انتشار محتوای مجرمانه برخلاف امنیت کشور» به ۱۲ سال و شش ماه و یک روز حبس تعزیری محکوم شده است.\n«انتشار محتوای مجرمانه در رسانه‌ها و مطبوعات منتهی به هتک حرمت اشخاص» نیز از دیگر اتهام‌های مطرح‌شده در پرونده اوست.\nایمان صادقی ۱۱ بهمن‌ماه ۱۴۰۴ بازداشت و پس از آن به زندان کاشان منتقل شد.\nhttps://iranintl.com/202610013413",
+      "message_id": 360153,
+      "message_link": "https://t.me/IranintlTV/360153",
+      "text": "شماری از ایرانیان روز چهارشنبه و پنجشنبه در شهر هانوفر آلمان نمایشگاهی با عنوان «دالان جنایات خامنه‌ای» برپا کردند. پیش از این نیز چنین نمایشگاهی در شهرهای دیگر اروپا، از جمله لندن، برگزار شده بود.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:24:19",
-      "gregorian_utc": "2026-10-01T12:54:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 185917,
-      "media_size_human": "181.56 KB",
+      "tehran_time": "16:31:06",
+      "gregorian_utc": "2026-10-01T13:01:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8404693,
+      "media_size_human": "8.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360152_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360152_photo.jpg",
+      "media_local_path": "media/IranintlTV_360153_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360153_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842079+00:00"
+      "archived_at": "2026-10-01T13:50:38.276833+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76529_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.264087+00:00"
+      "archived_at": "2026-10-01T13:50:38.696936+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,43 +739,43 @@
       "media_local_path": "media/Mellig_121645_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121645_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730502+00:00"
+      "archived_at": "2026-10-01T13:50:39.112768+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14227,
-      "message_link": "https://t.me/zedTV/14227",
-      "text": "بحران معیشت: هزینه تعمیر کلاچ از قیمت خرید خودرو فراتر رفت؛ ویزیت ۲ میلیونی برای سرماخوردگی. فروپاشی خدمات: تداوم بی‌آیندگی کارگران قند کرج و بلاتکلیفی دانش‌آموزان در تأمین کتاب و معلم. فساد و استیصال: درخواست رشوه ۳۰ میلیونی برای کنتور برق همزمان با گسترش بیکاری و فقر.",
+      "message_id": 14229,
+      "message_link": "https://t.me/zedTV/14229",
+      "text": "بحران در گیلان: ۷۵ درصد فاضلاب استان بدون تصفیه به رودخانه‌ها و محیط زیست سرازیر می‌شود.\nفقط ۲۵ درصد پساب‌ها تصفیه شده و مابقی منابع آبی شمال کشور را آلوده می‌کند.\nتداوم نابودی محیط زیست در سایه بی‌کفایتی سیستماتیک در مدیریت زیرساخت‌ها.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "14:28:54",
-      "gregorian_utc": "2026-10-01T10:58:54+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391610+00:00"
+      "tehran_time": "16:21:36",
+      "gregorian_utc": "2026-10-01T12:51:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 220098,
+      "media_size_human": "214.94 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_14229_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14229_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-01T13:50:37.874578+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360151,
-      "message_link": "https://t.me/IranintlTV/360151",
-      "text": "🔻کارلوس کی‌روش، سرمربی ۷۳ ساله پرتغالی، تنها سه ماه پس از جدایی نخست خود، بار دیگر از هدایت تیم ملی فوتبال غنا کناره‌گیری کرد.\n\n🔹کی‌روش که پس از جام جهانی در تیرماه از سمت خود استعفا داده بود، اوایل شهریور دوباره هدایت غنا را بر عهده گرفت؛ اما شکست ۲ بر صفر مقابل ساحل عاج و باخت تلخ ۴ بر ۲ برابر گامبیا، پایان کار او را رقم زد.\n\n🔹فدراسیون فوتبال غنا اعلام کرد این جدایی با توافق دوطرفه صورت گرفته است. کی‌روش در بیانیه‌ای گفت: «با وجود تلاش‌ها، شرایط لازم کاملاً فراهم نشد و نتایج اخیر باعث شد تا پایان دادن به این همکاری، بهترین تصمیم برای آینده فوتبال غنا باشد.»\n\n🔹سرمربی پیشین تیم ملی فوتبال ایران در طول دو دوره کوتاه حضورش روی نیمکت غنا، ۱ برد، ۲ تساوی و ۴ شکست به دست آورد. غنا نهمین تیم ملی در کارنامه مربی‌گری کی‌روش به شمار می‌رفت.\n\n@iranintltvsport",
+      "message_id": 360152,
+      "message_link": "https://t.me/IranintlTV/360152",
+      "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، ایمان صادقی، بلاگر ۲۰ ساله و از بازداشت‌شدگان انقلاب ملی ۱۴۰۴ در کاشان، به بیش از ۱۳ سال حبس تعزیری محکوم شده است.\nاو با اتهام‌هایی از جمله «تبلیغ علیه نظام جمهوری اسلامی» و «انتشار محتوای مجرمانه برخلاف امنیت کشور» روبه‌رو بوده است.\nبر اساس این اطلاعات، صادقی بابت اتهام «تبلیغ علیه نظام» به هفت ماه و ۱۶ روز حبس و بابت اتهام «انتشار محتوای مجرمانه برخلاف امنیت کشور» به ۱۲ سال و شش ماه و یک روز حبس تعزیری محکوم شده است.\n«انتشار محتوای مجرمانه در رسانه‌ها و مطبوعات منتهی به هتک حرمت اشخاص» نیز از دیگر اتهام‌های مطرح‌شده در پرونده اوست.\nایمان صادقی ۱۱ بهمن‌ماه ۱۴۰۴ بازداشت و پس از آن به زندان کاشان منتقل شد.\nhttps://iranintl.com/202610013413",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:11:38",
-      "gregorian_utc": "2026-10-01T12:41:38+00:00",
+      "tehran_time": "16:24:19",
+      "gregorian_utc": "2026-10-01T12:54:19+00:00",
       "media_type": "photo",
-      "media_size_bytes": 157689,
-      "media_size_human": "153.99 KB",
+      "media_size_bytes": 185917,
+      "media_size_human": "181.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360151_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360151_photo.jpg",
+      "media_local_path": "media/IranintlTV_360152_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360152_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842213+00:00"
+      "archived_at": "2026-10-01T13:50:38.276886+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.264144+00:00"
+      "archived_at": "2026-10-01T13:50:38.696958+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_121644_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121644_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730563+00:00"
+      "archived_at": "2026-10-01T13:50:39.112796+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14226,
-      "message_link": "https://t.me/zedTV/14226",
-      "text": "رژیم ایران، طراح و حامی جنایت ۷ اکتبر، متهم اصلی در پرونده فلای‌دبی.\nشناسایی عامل اصلی ناامنی‌های اخیر در خطوط هوایی منطقه.",
+      "message_id": 14228,
+      "message_link": "https://t.me/zedTV/14228",
+      "text": "اعتراف معاون وزیر ارتباطات به پایان حاکمیت رژیم بر فضای مجازی با گسترش استارلینک. بی‌اثری سیستم‌های فیلترینگ و احراز هویت در برابر ابزارهای نوین دور زدن محدودیت‌ها. ناتوانی شبکه ملی اطلاعات در مقابله با دسترسی آزاد به اینترنت.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "14:01:20",
-      "gregorian_utc": "2026-10-01T10:31:20+00:00",
+      "tehran_time": "16:13:35",
+      "gregorian_utc": "2026-10-01T12:43:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391635+00:00"
+      "archived_at": "2026-10-01T13:50:37.874590+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360150,
-      "message_link": "https://t.me/IranintlTV/360150",
-      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پنجشنبه نهم مهرماه، در گفت‌وگو با فاکس نیوز اعلام کرد کمک‌خلبان پرواز فلای‌دبی تحت آموزش‌های افراطی قرار گرفته بود.\n\nنخست‌وزیر اسرائیل افزود: «ظرف چند روز می‌توانیم بگوییم که آیا کمک‌خلبان با ایران ارتباط دارد یا نه.»\nhttps://iranintl.com/202610012601",
+      "message_id": 360151,
+      "message_link": "https://t.me/IranintlTV/360151",
+      "text": "🔻کارلوس کی‌روش، سرمربی ۷۳ ساله پرتغالی، تنها سه ماه پس از جدایی نخست خود، بار دیگر از هدایت تیم ملی فوتبال غنا کناره‌گیری کرد.\n\n🔹کی‌روش که پس از جام جهانی در تیرماه از سمت خود استعفا داده بود، اوایل شهریور دوباره هدایت غنا را بر عهده گرفت؛ اما شکست ۲ بر صفر مقابل ساحل عاج و باخت تلخ ۴ بر ۲ برابر گامبیا، پایان کار او را رقم زد.\n\n🔹فدراسیون فوتبال غنا اعلام کرد این جدایی با توافق دوطرفه صورت گرفته است. کی‌روش در بیانیه‌ای گفت: «با وجود تلاش‌ها، شرایط لازم کاملاً فراهم نشد و نتایج اخیر باعث شد تا پایان دادن به این همکاری، بهترین تصمیم برای آینده فوتبال غنا باشد.»\n\n🔹سرمربی پیشین تیم ملی فوتبال ایران در طول دو دوره کوتاه حضورش روی نیمکت غنا، ۱ برد، ۲ تساوی و ۴ شکست به دست آورد. غنا نهمین تیم ملی در کارنامه مربی‌گری کی‌روش به شمار می‌رفت.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "16:02:46",
-      "gregorian_utc": "2026-10-01T12:32:46+00:00",
+      "tehran_time": "16:11:38",
+      "gregorian_utc": "2026-10-01T12:41:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 126119,
-      "media_size_human": "123.16 KB",
+      "media_size_bytes": 157689,
+      "media_size_human": "153.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360150_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360150_photo.jpg",
+      "media_local_path": "media/IranintlTV_360151_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360151_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842290+00:00"
+      "archived_at": "2026-10-01T13:50:38.276945+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76527_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76527_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.264214+00:00"
+      "archived_at": "2026-10-01T13:50:38.696991+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": "media/Mellig_121643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730655+00:00"
+      "archived_at": "2026-10-01T13:50:39.112838+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14225,
-      "message_link": "https://t.me/zedTV/14225",
-      "text": "هشدار مدنی‌زاده درباره فروپاشی مالی؛ تنها ۳۰ روز تا بن‌بست کامل اقتصادی باقی است.\nقطع درآمد ارزی وزارت نفت طی ۲۰ روز آینده؛ تمام شریان‌های تجاری در محاصره تحریم‌ها.\nخطر گسترش اعتراضات سراسری در پی بحران معیشتی؛ هشدار نسبت به عواقب توقف مذاکرات.",
+      "message_id": 14227,
+      "message_link": "https://t.me/zedTV/14227",
+      "text": "بحران معیشت: هزینه تعمیر کلاچ از قیمت خرید خودرو فراتر رفت؛ ویزیت ۲ میلیونی برای سرماخوردگی. فروپاشی خدمات: تداوم بی‌آیندگی کارگران قند کرج و بلاتکلیفی دانش‌آموزان در تأمین کتاب و معلم. فساد و استیصال: درخواست رشوه ۳۰ میلیونی برای کنتور برق همزمان با گسترش بیکاری و فقر.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "13:14:06",
-      "gregorian_utc": "2026-10-01T09:44:06+00:00",
+      "tehran_time": "14:28:54",
+      "gregorian_utc": "2026-10-01T10:58:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391661+00:00"
+      "archived_at": "2026-10-01T13:50:37.874602+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360149,
-      "message_link": "https://t.me/IranintlTV/360149",
-      "text": "🔻رضا علیپور، نماینده ایران در سنگ‌نوردی سرعت بازی‌های آسیایی ۲۰۲۶ آیچی-ناگویا، با ثبت زمان ۵.۳۶ ثانیه در فینال به مدال نقره رسید.\n\n🔹علیپور در مرحله یک‌چهارم نهایی با زمان ۵.۰۴ ثانیه در رده دوم گروه خود قرار گرفت و به نیمه‌نهایی صعود کرد. او در این مرحله نیز با خطای دو رقیب خود و همراه با نماینده دیگر چین راهی فینال شد.\n\n🔹در فینال، چوشو هونگ از چین با زمان ۴.۷۱ ثانیه مدال طلا را کسب کرد و نماینده قزاقستان نیز به مدال برنز رسید.\n\n@iranintltvsport",
+      "message_id": 360150,
+      "message_link": "https://t.me/IranintlTV/360150",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پنجشنبه نهم مهرماه، در گفت‌وگو با فاکس نیوز اعلام کرد کمک‌خلبان پرواز فلای‌دبی تحت آموزش‌های افراطی قرار گرفته بود.\n\nنخست‌وزیر اسرائیل افزود: «ظرف چند روز می‌توانیم بگوییم که آیا کمک‌خلبان با ایران ارتباط دارد یا نه.»\nhttps://iranintl.com/202610012601",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "15:34:56",
-      "gregorian_utc": "2026-10-01T12:04:56+00:00",
+      "tehran_time": "16:02:46",
+      "gregorian_utc": "2026-10-01T12:32:46+00:00",
       "media_type": "photo",
-      "media_size_bytes": 163078,
-      "media_size_human": "159.26 KB",
+      "media_size_bytes": 126119,
+      "media_size_human": "123.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360149_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360149_photo.jpg",
+      "media_local_path": "media/IranintlTV_360150_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360150_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842388+00:00"
+      "archived_at": "2026-10-01T13:50:38.276978+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.264294+00:00"
+      "archived_at": "2026-10-01T13:50:38.697028+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_121642_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121642_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:43.730699+00:00"
+      "archived_at": "2026-10-01T13:50:39.112856+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14224,
-      "message_link": "https://t.me/zedTV/14224",
-      "text": "قطع بودجه ارسالی ایران و فروپاشی شبکه‌های مالی حزب‌الله؛ نیروهای شبه‌نظامی بیکار شدند.\nروی آوردن جنگجویان چندنسلی به دزدی و کارگری در پی نابودی درآمدهای دلاری و قاچاق.\nبحران معیشتی عمیق در بدنه بازوی نیابتی رژیم پس از مسدود شدن مسیرهای مالی و تدارکاتی.",
+      "message_id": 14226,
+      "message_link": "https://t.me/zedTV/14226",
+      "text": "رژیم ایران، طراح و حامی جنایت ۷ اکتبر، متهم اصلی در پرونده فلای‌دبی.\nشناسایی عامل اصلی ناامنی‌های اخیر در خطوط هوایی منطقه.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "12:43:53",
-      "gregorian_utc": "2026-10-01T09:13:53+00:00",
+      "tehran_time": "14:01:20",
+      "gregorian_utc": "2026-10-01T10:31:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:42.391688+00:00"
+      "archived_at": "2026-10-01T13:50:37.874616+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360148,
-      "message_link": "https://t.me/IranintlTV/360148",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد شماری از متقاضیان ویزای «پیوست به خانواده» روز نهم مهر جلوی سفارت آلمان در تهران تجمع کرده و با اعتراض به طولانی شدن روند رسیدگی به درخواست‌ها، خواستار تسریع صدور ویزا و پایان بلاتکلیفی شدند.",
+      "message_id": 360149,
+      "message_link": "https://t.me/IranintlTV/360149",
+      "text": "🔻رضا علیپور، نماینده ایران در سنگ‌نوردی سرعت بازی‌های آسیایی ۲۰۲۶ آیچی-ناگویا، با ثبت زمان ۵.۳۶ ثانیه در فینال به مدال نقره رسید.\n\n🔹علیپور در مرحله یک‌چهارم نهایی با زمان ۵.۰۴ ثانیه در رده دوم گروه خود قرار گرفت و به نیمه‌نهایی صعود کرد. او در این مرحله نیز با خطای دو رقیب خود و همراه با نماینده دیگر چین راهی فینال شد.\n\n🔹در فینال، چوشو هونگ از چین با زمان ۴.۷۱ ثانیه مدال طلا را کسب کرد و نماینده قزاقستان نیز به مدال برنز رسید.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "15:33:24",
-      "gregorian_utc": "2026-10-01T12:03:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5203419,
-      "media_size_human": "4.96 MB",
+      "tehran_time": "15:34:56",
+      "gregorian_utc": "2026-10-01T12:04:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 163078,
+      "media_size_human": "159.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360148_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360148_video.mp4",
+      "media_local_path": "media/IranintlTV_360149_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360149_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842429+00:00"
+      "archived_at": "2026-10-01T13:50:38.277022+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.264340+00:00"
+      "archived_at": "2026-10-01T13:50:38.697049+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,43 +1027,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 107.97 MB)",
-      "archived_at": "2026-10-01T13:40:43.730761+00:00"
+      "archived_at": "2026-10-01T13:50:39.112890+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14223,
-      "message_link": "https://t.me/zedTV/14223",
-      "text": "",
+      "message_id": 14225,
+      "message_link": "https://t.me/zedTV/14225",
+      "text": "هشدار مدنی‌زاده درباره فروپاشی مالی؛ تنها ۳۰ روز تا بن‌بست کامل اقتصادی باقی است.\nقطع درآمد ارزی وزارت نفت طی ۲۰ روز آینده؛ تمام شریان‌های تجاری در محاصره تحریم‌ها.\nخطر گسترش اعتراضات سراسری در پی بحران معیشتی؛ هشدار نسبت به عواقب توقف مذاکرات.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "12:37:09",
-      "gregorian_utc": "2026-10-01T09:07:09+00:00",
-      "media_type": "unsupported",
+      "tehran_time": "13:14:06",
+      "gregorian_utc": "2026-10-01T09:44:06+00:00",
+      "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-10-01T13:40:42.391716+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-01T13:50:37.874629+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360147,
-      "message_link": "https://t.me/IranintlTV/360147",
-      "text": "علی بلالی، مشاور فرمانده نیروی هوافضای سپاه پاسداران، گفت جمهوری اسلامی در روزهای گذشته به قابلیت اصابت موشک بالستیک دوربرد به هدف متحرک دست یافته است.\n\nاو در گفت‌وگو با خبرگزاری فارس گفت: «یکی از چالش‌های ما، دستیابی به موشک بالستیک دوربردی بود که بتواند هدف متحرک را مورد اصابت قرار دهد. به لطف خداوند، این اقدام در چند روز گذشته انجام شده است و موفقیت‌های بیشتری نیز در راه خواهد بود.»\n\nبلالی گفت در عملیات سپاه پاسداران علیه پایگاه موفق‌السلطی در اردن طی هفته‌های گذشته «ابتدا تعدادی از موشک‌ها با سامانه پدافندی درگیر شدند و پس از آن، موج پایانی بدون مواجهه با مانع به سمت هدف حرکت کرد و به لطف خداوند، خسارت و تلفات به دشمن وارد کرد».\nhttps://www.iranintl.com/202610014928",
+      "message_id": 360148,
+      "message_link": "https://t.me/IranintlTV/360148",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد شماری از متقاضیان ویزای «پیوست به خانواده» روز نهم مهر جلوی سفارت آلمان در تهران تجمع کرده و با اعتراض به طولانی شدن روند رسیدگی به درخواست‌ها، خواستار تسریع صدور ویزا و پایان بلاتکلیفی شدند.",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "15:32:09",
-      "gregorian_utc": "2026-10-01T12:02:09+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 111360,
-      "media_size_human": "108.75 KB",
+      "tehran_time": "15:33:24",
+      "gregorian_utc": "2026-10-01T12:03:24+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5203419,
+      "media_size_human": "4.96 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360147_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360147_photo.jpg",
+      "media_local_path": "media/IranintlTV_360148_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360148_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-01T13:40:42.842540+00:00"
+      "archived_at": "2026-10-01T13:50:38.277040+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-01T13:40:43.264425+00:00"
+      "archived_at": "2026-10-01T13:50:38.697092+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 103.70 MB)",
-      "archived_at": "2026-10-01T13:40:43.730823+00:00"
+      "archived_at": "2026-10-01T13:50:39.112918+00:00"
     }
   ]
 }
