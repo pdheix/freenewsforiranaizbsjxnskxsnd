@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T16:04:33.900912+00:00",
-  "shamsi_generated": "1405/07/10 16:04:33 تهران",
+  "generated_at": "2026-10-02T16:14:21.683905+00:00",
+  "shamsi_generated": "1405/07/10 16:14:21 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395424+00:00"
+      "archived_at": "2026-10-02T16:10:37.588154+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360342,
-      "message_link": "https://t.me/IranintlTV/360342",
-      "text": "دفتر نخست‌وزیری عراق جمعه ۱۰ مهر اعلام کرد دولت آمریکا با درخواست بغداد برای صدور معافیت به‌منظور انجام روزانه ۴۰ پرواز شرکت‌های هواپیمایی ایرانی به فرودگاه بین‌المللی نجف و از این فرودگاه موافقت کرده است. شرکت هواپیمایی ماهان مشمول این معافیت نمی‌شود.\n\nبر اساس بیانیه دفتر نخست‌وزیری عراق، این توافق پس از پیگیری دولت عراق و تماس با طرف‌های مرتبط برای ازسرگیری پرواز شرکت‌های هواپیمایی ایرانی به نجف به دست آمد.\n\nدفتر نخست‌وزیری عراق از موافقت دولت آمریکا با صدور معافیت لازم استقبال کرد و گفت این تصمیم به تسهیل سفر میان ایران و عراق، از جمله برای درمان، سفرهای مذهبی و گردشگری، کمک می‌کند.\n\nاین دفتر افزود دولت عراق به رایزنی با طرف‌های مرتبط برای رفع موانع حمل‌ونقل هوایی ادامه خواهد داد.\nhttps://iranintl.com/202610025785",
+      "message_id": 360344,
+      "message_link": "https://t.me/IranintlTV/360344",
+      "text": "مرکز عملیات تجارت دریایی بریتانیا، جمعه ۱۰ مهر اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز با پرتابه‌ای ناشناس هدف قرار گرفت که در پی آن آتش‌سوزی محدودی در کشتی رخ داد و برق آن قطع شد.\n\nبر اساس گزارش ناخدای نفتکش به این مرکز، آتش مهار شده و کشتی به حرکت خود ادامه داده است. در این حادثه گزارشی از تلفات یا پیامدهای زیست‌محیطی منتشر نشده است.\n\nمرکز عملیات تجارت دریایی بریتانیا اعلام کرد مقام‌های مسئول در حال بررسی این حادثه هستند و از کشتی‌های عبوری خواست با احتیاط حرکت کنند و هرگونه فعالیت مشکوک را گزارش دهند.\nhttps://iranintl.com/202610021556",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "19:19:35",
-      "gregorian_utc": "2026-10-02T15:49:35+00:00",
+      "tehran_time": "19:36:35",
+      "gregorian_utc": "2026-10-02T16:06:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 156688,
-      "media_size_human": "153.02 KB",
+      "media_size_bytes": 68874,
+      "media_size_human": "67.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360342_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360342_photo.jpg",
+      "media_local_path": "media/IranintlTV_360344_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360344_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.769776+00:00"
+      "archived_at": "2026-10-02T16:10:38.092463+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76553_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76553_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.166843+00:00"
+      "archived_at": "2026-10-02T16:10:38.600562+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_121697_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121697_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.563910+00:00"
+      "archived_at": "2026-10-02T16:10:39.078389+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395461+00:00"
+      "archived_at": "2026-10-02T16:10:37.588204+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360341,
-      "message_link": "https://t.me/IranintlTV/360341",
-      "text": "🔻در سیزدهمین روز بازی‌های آسیایی ۲۰۲۶ ناگویا، تیم ایران سه مدال طلا بدست آورد؛ محمد نخودی و امیرحسین زارع در کشتی آزاد و ساغر مرادی در تکواندو، مجموع طلاهای تیم ایران را به ۱۵ رساندند.\n\n🔹گزارش علیرضا مدیری، خبرنگار ایران اینترنشنال از ناگویا\n\n@iranintltvsport",
+      "message_id": 360343,
+      "message_link": "https://t.me/IranintlTV/360343",
+      "text": "🔻مدال‌های بازی‌های آسیایی ناگویا در نگاه اول ساده به نظر می‌رسند، اما طراحی متفاوتی دارند. شکل نامتقارن آن‌ها از تکه‌های یک دایره شکسته الهام گرفته و بازتاب شعار این دوره از بازی‌ها، «آسیای واحد را تصور کن»، است.\n\n🔹گزارش سمیه مهری، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "19:12:02",
-      "gregorian_utc": "2026-10-02T15:42:02+00:00",
+      "tehran_time": "19:31:11",
+      "gregorian_utc": "2026-10-02T16:01:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 3584230,
-      "media_size_human": "3.42 MB",
+      "media_size_bytes": 1390049,
+      "media_size_human": "1.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360341_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360341_video.mp4",
+      "media_local_path": "media/IranintlTV_360343_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360343_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.778623+00:00"
+      "archived_at": "2026-10-02T16:10:38.132752+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.166874+00:00"
+      "archived_at": "2026-10-02T16:10:38.600606+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121696_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121696_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.563959+00:00"
+      "archived_at": "2026-10-02T16:10:39.078439+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395486+00:00"
+      "archived_at": "2026-10-02T16:10:37.588239+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360340,
-      "message_link": "https://t.me/IranintlTV/360340",
-      "text": "علی شیرازی، رییس سازمان عقیدتی سیاسی فراجا، در سخنرانی خود پیش از خطبه‌های نماز جمعه تهران گفت: «برای پررنگ کردن نماز، برای پررنگ کردن معروف و برای پررنگ کردن حجاب در جامعه اسلامی، مسئولان نظام، نیروهای مسلح و مردم ما باید در مقابل هر بی‌بندوباری بایستند.»\n\nشیرازی ادامه داد: «جامعه، جامعه دینی است و حکومت، حکومت اسلامی است. تکلیف مسئولان همه آحاد جامعه این است که از مسئولان بخواهند فرمان خدا اجرا شود.»\n\nاو همچنین در خصوص جنگ اخیر گفت: «نیروهای مسلح جمهوری اسلامی به‌ویژه سپاه پاسداران در عرصه‌های زمینی، هوایی، پدافند هوایی و دریایی یک خیزش بلندی را برداشته‌اند.»\nhttps://iranintl.com/202610027918",
+      "message_id": 360342,
+      "message_link": "https://t.me/IranintlTV/360342",
+      "text": "دفتر نخست‌وزیری عراق جمعه ۱۰ مهر اعلام کرد دولت آمریکا با درخواست بغداد برای صدور معافیت به‌منظور انجام روزانه ۴۰ پرواز شرکت‌های هواپیمایی ایرانی به فرودگاه بین‌المللی نجف و از این فرودگاه موافقت کرده است. شرکت هواپیمایی ماهان مشمول این معافیت نمی‌شود.\n\nبر اساس بیانیه دفتر نخست‌وزیری عراق، این توافق پس از پیگیری دولت عراق و تماس با طرف‌های مرتبط برای ازسرگیری پرواز شرکت‌های هواپیمایی ایرانی به نجف به دست آمد.\n\nدفتر نخست‌وزیری عراق از موافقت دولت آمریکا با صدور معافیت لازم استقبال کرد و گفت این تصمیم به تسهیل سفر میان ایران و عراق، از جمله برای درمان، سفرهای مذهبی و گردشگری، کمک می‌کند.\n\nاین دفتر افزود دولت عراق به رایزنی با طرف‌های مرتبط برای رفع موانع حمل‌ونقل هوایی ادامه خواهد داد.\nhttps://iranintl.com/202610025785",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:59:07",
-      "gregorian_utc": "2026-10-02T15:29:07+00:00",
+      "tehran_time": "19:19:35",
+      "gregorian_utc": "2026-10-02T15:49:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 175774,
-      "media_size_human": "171.65 KB",
+      "media_size_bytes": 156688,
+      "media_size_human": "153.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360340_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360340_photo.jpg",
+      "media_local_path": "media/IranintlTV_360342_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360342_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.778758+00:00"
+      "archived_at": "2026-10-02T16:10:38.132909+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.166964+00:00"
+      "archived_at": "2026-10-02T16:10:38.600705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121695_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564022+00:00"
+      "archived_at": "2026-10-02T16:10:39.078517+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395516+00:00"
+      "archived_at": "2026-10-02T16:10:37.588277+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360339,
-      "message_link": "https://t.me/IranintlTV/360339",
-      "text": "وزارت دادگستری آمریکا اعلام کرد پلیس فدرال کانادا با شرکت «اکسیژن فورنزیکس» قرارداد فعال دارد؛ شرکتی که متهم است هویت واقعی مالکان روس خود را پنهان کرده و با روسیه همکاری داشته است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360341,
+      "message_link": "https://t.me/IranintlTV/360341",
+      "text": "🔻در سیزدهمین روز بازی‌های آسیایی ۲۰۲۶ ناگویا، تیم ایران سه مدال طلا بدست آورد؛ محمد نخودی و امیرحسین زارع در کشتی آزاد و ساغر مرادی در تکواندو، مجموع طلاهای تیم ایران را به ۱۵ رساندند.\n\n🔹گزارش علیرضا مدیری، خبرنگار ایران اینترنشنال از ناگویا\n\n@iranintltvsport",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:56:35",
-      "gregorian_utc": "2026-10-02T15:26:35+00:00",
+      "tehran_time": "19:12:02",
+      "gregorian_utc": "2026-10-02T15:42:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 2797748,
-      "media_size_human": "2.67 MB",
+      "media_size_bytes": 3584230,
+      "media_size_human": "3.42 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360339_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360339_video.mp4",
+      "media_local_path": "media/IranintlTV_360341_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360341_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.778821+00:00"
+      "archived_at": "2026-10-02T16:10:38.133001+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.167006+00:00"
+      "archived_at": "2026-10-02T16:10:38.600763+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121694_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121694_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564056+00:00"
+      "archived_at": "2026-10-02T16:10:39.078565+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395536+00:00"
+      "archived_at": "2026-10-02T16:10:37.588333+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360338,
-      "message_link": "https://t.me/IranintlTV/360338",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن اسپانیا جمعه ۱۰ مهر علیه اعدام‌های جمهوری اسلامی در شهر مادرید تجمع کردند.",
+      "message_id": 360340,
+      "message_link": "https://t.me/IranintlTV/360340",
+      "text": "علی شیرازی، رییس سازمان عقیدتی سیاسی فراجا، در سخنرانی خود پیش از خطبه‌های نماز جمعه تهران گفت: «برای پررنگ کردن نماز، برای پررنگ کردن معروف و برای پررنگ کردن حجاب در جامعه اسلامی، مسئولان نظام، نیروهای مسلح و مردم ما باید در مقابل هر بی‌بندوباری بایستند.»\n\nشیرازی ادامه داد: «جامعه، جامعه دینی است و حکومت، حکومت اسلامی است. تکلیف مسئولان همه آحاد جامعه این است که از مسئولان بخواهند فرمان خدا اجرا شود.»\n\nاو همچنین در خصوص جنگ اخیر گفت: «نیروهای مسلح جمهوری اسلامی به‌ویژه سپاه پاسداران در عرصه‌های زمینی، هوایی، پدافند هوایی و دریایی یک خیزش بلندی را برداشته‌اند.»\nhttps://iranintl.com/202610027918",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:53:49",
-      "gregorian_utc": "2026-10-02T15:23:49+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6251292,
-      "media_size_human": "5.96 MB",
+      "tehran_time": "18:59:07",
+      "gregorian_utc": "2026-10-02T15:29:07+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 175774,
+      "media_size_human": "171.65 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360338_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360338_video.mp4",
+      "media_local_path": "media/IranintlTV_360340_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360340_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.778851+00:00"
+      "archived_at": "2026-10-02T16:10:38.133112+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76547_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76547_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167075+00:00"
+      "archived_at": "2026-10-02T16:10:38.600854+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121693_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121693_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564114+00:00"
+      "archived_at": "2026-10-02T16:10:39.078648+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395560+00:00"
+      "archived_at": "2026-10-02T16:10:37.588374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360337,
-      "message_link": "https://t.me/IranintlTV/360337",
-      "text": "🔻ساغر مرادی با قهرمانی در تکواندوی بازی‌اهای آسیایی، نخستین زن ایرانی شد که در بازی‌های آسیایی به طلای تکواندو می‌رسد. در بخش مردان و زنان نیز چند نماینده ایران از رسیدن به مراحل پایانی بازماندند.\n\n🔹گفت‌وگو با داوود میمندی، کارشناس ورزشی\n\n@iranintltvsport",
+      "message_id": 360339,
+      "message_link": "https://t.me/IranintlTV/360339",
+      "text": "وزارت دادگستری آمریکا اعلام کرد پلیس فدرال کانادا با شرکت «اکسیژن فورنزیکس» قرارداد فعال دارد؛ شرکتی که متهم است هویت واقعی مالکان روس خود را پنهان کرده و با روسیه همکاری داشته است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:53:07",
-      "gregorian_utc": "2026-10-02T15:23:07+00:00",
+      "tehran_time": "18:56:35",
+      "gregorian_utc": "2026-10-02T15:26:35+00:00",
       "media_type": "video",
-      "media_size_bytes": 2917375,
-      "media_size_human": "2.78 MB",
+      "media_size_bytes": 2797748,
+      "media_size_human": "2.67 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360337_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360337_video.mp4",
+      "media_local_path": "media/IranintlTV_360339_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360339_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.778906+00:00"
+      "archived_at": "2026-10-02T16:10:38.133183+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76546_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76546_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167234+00:00"
+      "archived_at": "2026-10-02T16:10:38.601052+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.564140+00:00"
+      "archived_at": "2026-10-02T16:10:39.078681+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395578+00:00"
+      "archived_at": "2026-10-02T16:10:37.588404+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360336,
-      "message_link": "https://t.me/IranintlTV/360336",
-      "text": "چهار سال پس از جنبش «زن، زندگی، آزادی»، مراسم یادبود نیکا شاکرمی، معترض ۱۶ ساله‌ای که نام و تصویرش به یکی از نمادهای این جنبش تبدیل شد، در آلمان برگزار شد. این مراسم همزمان با زادروز نیکا و سالروز به خاک سپردن او، با حضور مادرش، نسرین شاکرمی، برگزار شد.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال و گفت‌وگوی او با برگزار کنندگان این مراسم\n@iranintltv",
+      "message_id": 360338,
+      "message_link": "https://t.me/IranintlTV/360338",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن اسپانیا جمعه ۱۰ مهر علیه اعدام‌های جمهوری اسلامی در شهر مادرید تجمع کردند.",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:52:22",
-      "gregorian_utc": "2026-10-02T15:22:22+00:00",
+      "tehran_time": "18:53:49",
+      "gregorian_utc": "2026-10-02T15:23:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 3322173,
-      "media_size_human": "3.17 MB",
+      "media_size_bytes": 6251292,
+      "media_size_human": "5.96 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360336_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360336_video.mp4",
+      "media_local_path": "media/IranintlTV_360338_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360338_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779000+00:00"
+      "archived_at": "2026-10-02T16:10:38.133222+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76543_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76543_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167291+00:00"
+      "archived_at": "2026-10-02T16:10:38.601132+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.564175+00:00"
+      "archived_at": "2026-10-02T16:10:39.078732+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395608+00:00"
+      "archived_at": "2026-10-02T16:10:37.588445+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360335,
-      "message_link": "https://t.me/IranintlTV/360335",
-      "text": "خبرگزاری رویترز به نقل از سه مقام ارشد جمهوری اسلامی و یک منبع آگاه گزارش داد تهران در صورت ازسرگیری حملات گسترده آمریکا، در حال آماده‌سازی پاسخی گسترده‌تر و شدیدتر از گذشته است و فرماندهان ارشد در حال بررسی افزایش دامنه اهداف احتمالی هستند. \n\nبر اساس این گزارش، طرح‌های در دست بررسی شامل گسترش اهداف از منافع مرتبط با آمریکا به کشورهایی است که از عملیات نظامی واشینگتن حمایت می‌کنند و ممکن است اهدافی خارج از خاورمیانه را نیز دربر گیرد. هنوز تصمیم نهایی درباره دامنه و زمان چنین پاسخی گرفته نشده است. \n\nدو مقام جمهوری اسلامی پنج‌شنبه ۹ مهر به رویترز گفتند تهران از گروه‌های متحد خود در لبنان، یمن و عراق خواسته است در صورت آغاز دوباره حملات گسترده آمریکا، برای حمایت از جمهوری اسلامی آماده باشند. به گفته آن‌ها، برنامه‌ریزی‌ها پاسخی هماهنگ از «تنگه هرمز تا منافع آمریکا در منطقه و خارج از خاورمیانه» را دربر می‌گیرد. \n\nرویترز همچنین گزارش داد جمهوری اسلامی هم‌زمان مسیر مذاکرات را باز نگه داشته است، هرچند مقام‌های جمهوری اسلامی در گفت‌وگوهای خصوصی احتمال دستیابی به توافق با آمریکا را پایین می‌دانند.\nhttps://iranintl.com",
+      "message_id": 360337,
+      "message_link": "https://t.me/IranintlTV/360337",
+      "text": "🔻ساغر مرادی با قهرمانی در تکواندوی بازی‌اهای آسیایی، نخستین زن ایرانی شد که در بازی‌های آسیایی به طلای تکواندو می‌رسد. در بخش مردان و زنان نیز چند نماینده ایران از رسیدن به مراحل پایانی بازماندند.\n\n🔹گفت‌وگو با داوود میمندی، کارشناس ورزشی\n\n@iranintltvsport",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:48:54",
-      "gregorian_utc": "2026-10-02T15:18:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 191067,
-      "media_size_human": "186.59 KB",
+      "tehran_time": "18:53:07",
+      "gregorian_utc": "2026-10-02T15:23:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2917375,
+      "media_size_human": "2.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360335_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360335_photo.jpg",
+      "media_local_path": "media/IranintlTV_360337_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360337_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779134+00:00"
+      "archived_at": "2026-10-02T16:10:38.133336+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76542_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76542_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167372+00:00"
+      "archived_at": "2026-10-02T16:10:38.601245+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_121690_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121690_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564198+00:00"
+      "archived_at": "2026-10-02T16:10:39.078769+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395627+00:00"
+      "archived_at": "2026-10-02T16:10:37.588473+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360334,
-      "message_link": "https://t.me/IranintlTV/360334",
-      "text": "🔻شمشیربازی ایران در تاریخ بازی‌های آسیایی سه مدال طلا به دست آورده که هر سه در بازی‌های آسیایی ۱۹۷۴ تهران کسب شده‌اند؛ دو طلا در بخش مردان و یک طلای تاریخی در بخش زنان.\n\n🔹تیم فلوره زنان ایران با ترکیب مریم شریعت‌زاده، مهوش شفاعی، مریم اچاک، ژیلا الماسی و گیتی محبان، نخستین مدال طلای ورزش زنان ایران در یک رقابت معتبر بین‌المللی را به دست آورد. گیتی محبان در آن دوره، علاوه بر طلای تیمی، مدال برنز انفرادی را هم کسب کرد.\n\n🔹در گفت‌وگویی ویژه، گیتی محبان از آن روز تاریخی و خاطراتش از طلای بازی‌های آسیایی ۱۹۷۴ تهران می‌گوید.\n\n@iranintltvsport",
+      "message_id": 360336,
+      "message_link": "https://t.me/IranintlTV/360336",
+      "text": "چهار سال پس از جنبش «زن، زندگی، آزادی»، مراسم یادبود نیکا شاکرمی، معترض ۱۶ ساله‌ای که نام و تصویرش به یکی از نمادهای این جنبش تبدیل شد، در آلمان برگزار شد. این مراسم همزمان با زادروز نیکا و سالروز به خاک سپردن او، با حضور مادرش، نسرین شاکرمی، برگزار شد.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال و گفت‌وگوی او با برگزار کنندگان این مراسم\n@iranintltv",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:48:38",
-      "gregorian_utc": "2026-10-02T15:18:38+00:00",
+      "tehran_time": "18:52:22",
+      "gregorian_utc": "2026-10-02T15:22:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 12519657,
-      "media_size_human": "11.94 MB",
+      "media_size_bytes": 3322173,
+      "media_size_human": "3.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360334_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360334_video.mp4",
+      "media_local_path": "media/IranintlTV_360336_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360336_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779213+00:00"
+      "archived_at": "2026-10-02T16:10:38.133423+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167406+00:00"
+      "archived_at": "2026-10-02T16:10:38.601322+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.564227+00:00"
+      "archived_at": "2026-10-02T16:10:39.078815+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395644+00:00"
+      "archived_at": "2026-10-02T16:10:37.588503+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360333,
-      "message_link": "https://t.me/IranintlTV/360333",
-      "text": "افزایش هزینه‌های زندگی و تجهیزات توان‌بخشی، تامین نیازهای روزمره را برای افراد دارای معلولیت دشوارتر کرده است.\n\nشماری از مخاطبان ایران‌اینترنشنال از قطع یا تاخیر در پرداخت مستمری، حق پرستاری و کمک‌هزینه لوازم بهداشتی خبر داده‌اند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360335,
+      "message_link": "https://t.me/IranintlTV/360335",
+      "text": "خبرگزاری رویترز به نقل از سه مقام ارشد جمهوری اسلامی و یک منبع آگاه گزارش داد تهران در صورت ازسرگیری حملات گسترده آمریکا، در حال آماده‌سازی پاسخی گسترده‌تر و شدیدتر از گذشته است و فرماندهان ارشد در حال بررسی افزایش دامنه اهداف احتمالی هستند. \n\nبر اساس این گزارش، طرح‌های در دست بررسی شامل گسترش اهداف از منافع مرتبط با آمریکا به کشورهایی است که از عملیات نظامی واشینگتن حمایت می‌کنند و ممکن است اهدافی خارج از خاورمیانه را نیز دربر گیرد. هنوز تصمیم نهایی درباره دامنه و زمان چنین پاسخی گرفته نشده است. \n\nدو مقام جمهوری اسلامی پنج‌شنبه ۹ مهر به رویترز گفتند تهران از گروه‌های متحد خود در لبنان، یمن و عراق خواسته است در صورت آغاز دوباره حملات گسترده آمریکا، برای حمایت از جمهوری اسلامی آماده باشند. به گفته آن‌ها، برنامه‌ریزی‌ها پاسخی هماهنگ از «تنگه هرمز تا منافع آمریکا در منطقه و خارج از خاورمیانه» را دربر می‌گیرد. \n\nرویترز همچنین گزارش داد جمهوری اسلامی هم‌زمان مسیر مذاکرات را باز نگه داشته است، هرچند مقام‌های جمهوری اسلامی در گفت‌وگوهای خصوصی احتمال دستیابی به توافق با آمریکا را پایین می‌دانند.\nhttps://iranintl.com",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:44:59",
-      "gregorian_utc": "2026-10-02T15:14:59+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2869968,
-      "media_size_human": "2.74 MB",
+      "tehran_time": "18:48:54",
+      "gregorian_utc": "2026-10-02T15:18:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 191067,
+      "media_size_human": "186.59 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360333_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360333_video.mp4",
+      "media_local_path": "media/IranintlTV_360335_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360335_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779264+00:00"
+      "archived_at": "2026-10-02T16:10:38.133582+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76539_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167443+00:00"
+      "archived_at": "2026-10-02T16:10:38.601383+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_121688_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121688_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564251+00:00"
+      "archived_at": "2026-10-02T16:10:39.078855+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395663+00:00"
+      "archived_at": "2026-10-02T16:10:37.588529+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360332,
-      "message_link": "https://t.me/IranintlTV/360332",
-      "text": "🔻همزمان با برگزاری بازی‌های آسیایی، احسان حدادی، رئیس فدراسیون دوومیدانی، برخی ورزشکاران زن این رشته را «ورزشکاران مجازی» توصیف کرد.\n\n🔹فرزانه فصیحی، دونده المپیکی ایران، در واکنش حدادی را «بدنام‌ترین ورزشکار تاریخ ایران» خواند.\n\n🔹جزییات بیشتر با الهام یزدی‌ها، عضو تحریریه ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 360334,
+      "message_link": "https://t.me/IranintlTV/360334",
+      "text": "🔻شمشیربازی ایران در تاریخ بازی‌های آسیایی سه مدال طلا به دست آورده که هر سه در بازی‌های آسیایی ۱۹۷۴ تهران کسب شده‌اند؛ دو طلا در بخش مردان و یک طلای تاریخی در بخش زنان.\n\n🔹تیم فلوره زنان ایران با ترکیب مریم شریعت‌زاده، مهوش شفاعی، مریم اچاک، ژیلا الماسی و گیتی محبان، نخستین مدال طلای ورزش زنان ایران در یک رقابت معتبر بین‌المللی را به دست آورد. گیتی محبان در آن دوره، علاوه بر طلای تیمی، مدال برنز انفرادی را هم کسب کرد.\n\n🔹در گفت‌وگویی ویژه، گیتی محبان از آن روز تاریخی و خاطراتش از طلای بازی‌های آسیایی ۱۹۷۴ تهران می‌گوید.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:42:23",
-      "gregorian_utc": "2026-10-02T15:12:23+00:00",
+      "tehran_time": "18:48:38",
+      "gregorian_utc": "2026-10-02T15:18:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 3085741,
-      "media_size_human": "2.94 MB",
+      "media_size_bytes": 12519657,
+      "media_size_human": "11.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360332_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360332_video.mp4",
+      "media_local_path": "media/IranintlTV_360334_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360334_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779319+00:00"
+      "archived_at": "2026-10-02T16:10:38.133685+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76538_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167500+00:00"
+      "archived_at": "2026-10-02T16:10:38.601468+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.564268+00:00"
+      "archived_at": "2026-10-02T16:10:39.078881+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395679+00:00"
+      "archived_at": "2026-10-02T16:10:37.588554+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360331,
-      "message_link": "https://t.me/IranintlTV/360331",
-      "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد گروهی که خود را اعضای «گارد جاویدان» معرفی می‌کنند شعار «جاوید شاه» را در شهر سبزوار بر دیوار می‌نویسند.",
+      "message_id": 360333,
+      "message_link": "https://t.me/IranintlTV/360333",
+      "text": "افزایش هزینه‌های زندگی و تجهیزات توان‌بخشی، تامین نیازهای روزمره را برای افراد دارای معلولیت دشوارتر کرده است.\n\nشماری از مخاطبان ایران‌اینترنشنال از قطع یا تاخیر در پرداخت مستمری، حق پرستاری و کمک‌هزینه لوازم بهداشتی خبر داده‌اند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:30:43",
-      "gregorian_utc": "2026-10-02T15:00:43+00:00",
+      "tehran_time": "18:44:59",
+      "gregorian_utc": "2026-10-02T15:14:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 2929875,
-      "media_size_human": "2.79 MB",
+      "media_size_bytes": 2869968,
+      "media_size_human": "2.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360331_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360331_video.mp4",
+      "media_local_path": "media/IranintlTV_360333_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360333_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779342+00:00"
+      "archived_at": "2026-10-02T16:10:38.133759+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.167807+00:00"
+      "archived_at": "2026-10-02T16:10:38.601822+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.564298+00:00"
+      "archived_at": "2026-10-02T16:10:39.078926+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395696+00:00"
+      "archived_at": "2026-10-02T16:10:37.588578+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360330,
-      "message_link": "https://t.me/IranintlTV/360330",
-      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، اعلام کرد رهبران گروه هفت برای کاهش قیمت فرآورده‌های نفتی، به‌ویژه گازوییل، توافق کردند طی چهار ماه تا ۱۰۰ میلیون بشکه از ذخایر راهبردی آزاد کنند.\n\nمکرون جمعه ۱۰ مهر در شبکه اجتماعی ایکس نوشت این اقدام با مشارکت شرکای گروه هفت و هماهنگی آژانس بین‌المللی انرژی انجام خواهد شد. \n\nاو افزود گروه هفت همچنین توافق کرده است ظرفیت تولید پالایشگاه‌ها تا بالاترین حد ممکن افزایش یابد و محدودیتی بر مبادله انرژی و فرآورده‌های نفتی میان کشورهای شریک اعمال نشود و هماهنگی اقدامات برای کمک به خروج محموله‌ها از تنگه هرمز ادامه یابد.\nhttps://iranintl.com/202610029045",
+      "message_id": 360332,
+      "message_link": "https://t.me/IranintlTV/360332",
+      "text": "🔻همزمان با برگزاری بازی‌های آسیایی، احسان حدادی، رئیس فدراسیون دوومیدانی، برخی ورزشکاران زن این رشته را «ورزشکاران مجازی» توصیف کرد.\n\n🔹فرزانه فصیحی، دونده المپیکی ایران، در واکنش حدادی را «بدنام‌ترین ورزشکار تاریخ ایران» خواند.\n\n🔹جزییات بیشتر با الهام یزدی‌ها، عضو تحریریه ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:20:52",
-      "gregorian_utc": "2026-10-02T14:50:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 128920,
-      "media_size_human": "125.90 KB",
+      "tehran_time": "18:42:23",
+      "gregorian_utc": "2026-10-02T15:12:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3085741,
+      "media_size_human": "2.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360330_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360330_photo.jpg",
+      "media_local_path": "media/IranintlTV_360332_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360332_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779412+00:00"
+      "archived_at": "2026-10-02T16:10:38.133834+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:57.167907+00:00"
+      "archived_at": "2026-10-02T16:10:38.601946+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_121685_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121685_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564360+00:00"
+      "archived_at": "2026-10-02T16:10:39.079014+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395714+00:00"
+      "archived_at": "2026-10-02T16:10:37.588603+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360329,
-      "message_link": "https://t.me/IranintlTV/360329",
-      "text": "مرتضی موسوی جاجرمی، امام جمعه بجنورد، در نماز جمعه این شهر گفت: «اگر فردی در محیط خصوصی خانه پوشش و حجاب خود را مقابل نامحرم رعایت نکند، تقوای فردی را رعایت نکرده اما قانون به سراغش نمی‌آید؛ اما اگر در محیط جامعه بی‌تقوایی کنیم، چون حقوق دیگران را پایمال و محیط جامعه را آلوده می‌کنیم، قانون و حکومت وظیفه دارد با اعمال قانون، جامعه را از آلودگی‌ها پاک کند.» \n\nجاجرمی ادامه داد: «در تمام کشورهای جهان برای جامعه و محیط اجتماعی قانون دارند، چه مساله پوشش باشد چه مسائل دیگر، و باید در جامعه نظم و انضباط برقرار باشد.»\nhttps://iranintl.com/202610024609",
+      "message_id": 360331,
+      "message_link": "https://t.me/IranintlTV/360331",
+      "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد گروهی که خود را اعضای «گارد جاویدان» معرفی می‌کنند شعار «جاوید شاه» را در شهر سبزوار بر دیوار می‌نویسند.",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:11:39",
-      "gregorian_utc": "2026-10-02T14:41:39+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 190356,
-      "media_size_human": "185.89 KB",
+      "tehran_time": "18:30:43",
+      "gregorian_utc": "2026-10-02T15:00:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2929875,
+      "media_size_human": "2.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360329_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360329_photo.jpg",
+      "media_local_path": "media/IranintlTV_360331_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360331_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779480+00:00"
+      "archived_at": "2026-10-02T16:10:38.133875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76529_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167969+00:00"
+      "archived_at": "2026-10-02T16:10:38.602021+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_121684_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121684_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564384+00:00"
+      "archived_at": "2026-10-02T16:10:39.079054+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T16:00:56.395731+00:00"
+      "archived_at": "2026-10-02T16:10:37.588632+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360328,
-      "message_link": "https://t.me/IranintlTV/360328",
-      "text": "سرخط خبرهای جمعه ۱۰ مهر\n@iranintltv",
+      "message_id": 360330,
+      "message_link": "https://t.me/IranintlTV/360330",
+      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، اعلام کرد رهبران گروه هفت برای کاهش قیمت فرآورده‌های نفتی، به‌ویژه گازوییل، توافق کردند طی چهار ماه تا ۱۰۰ میلیون بشکه از ذخایر راهبردی آزاد کنند.\n\nمکرون جمعه ۱۰ مهر در شبکه اجتماعی ایکس نوشت این اقدام با مشارکت شرکای گروه هفت و هماهنگی آژانس بین‌المللی انرژی انجام خواهد شد. \n\nاو افزود گروه هفت همچنین توافق کرده است ظرفیت تولید پالایشگاه‌ها تا بالاترین حد ممکن افزایش یابد و محدودیتی بر مبادله انرژی و فرآورده‌های نفتی میان کشورهای شریک اعمال نشود و هماهنگی اقدامات برای کمک به خروج محموله‌ها از تنگه هرمز ادامه یابد.\nhttps://iranintl.com/202610029045",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "18:04:32",
-      "gregorian_utc": "2026-10-02T14:34:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1092976,
-      "media_size_human": "1.04 MB",
+      "tehran_time": "18:20:52",
+      "gregorian_utc": "2026-10-02T14:50:52+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 128920,
+      "media_size_human": "125.90 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360328_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360328_video.mp4",
+      "media_local_path": "media/IranintlTV_360330_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360330_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:56.779509+00:00"
+      "archived_at": "2026-10-02T16:10:38.133973+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76528_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.167998+00:00"
+      "archived_at": "2026-10-02T16:10:38.602068+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121683_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121683_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T16:00:57.564417+00:00"
+      "archived_at": "2026-10-02T16:10:39.079105+00:00"
     }
   ]
 }
