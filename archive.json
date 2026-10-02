@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T14:17:05.943209+00:00",
-  "shamsi_generated": "1405/07/10 14:17:05 تهران",
+  "generated_at": "2026-10-02T14:31:14.066754+00:00",
+  "shamsi_generated": "1405/07/10 14:31:14 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045445+00:00"
+      "archived_at": "2026-10-02T14:24:33.375647+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,17 +55,35 @@
       "media_local_path": "media/IranintlTV_360326_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360326_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.532966+00:00"
+      "archived_at": "2026-10-02T14:24:33.709222+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76552,
-      "message_link": "https://t.me/satlastnews/76552",
-      "text": "",
+      "message_id": 76553,
+      "message_link": "https://t.me/satlastnews/76553",
+      "text": "پنج شب، پنج فیلم و سفری به دنیایی که بهتره هیچ دری به سمتش باز نشه!\n\nمجموعه فیلم‌های ترسناک «توطئه‌آمیز» (Insidious) از شنبه ۱۱ مهر، هر شب ساعت ۲۳:۰۰ از شبکه FX 1 پخش می‌شود. از اولین ورود خانواده لمبرت به دنیای وحشتناک «The Further» تا باز شدن دوباره «در قرمز»؛ پنج قسمت این مجموعه را به ترتیب از شنبه تا چهارشنبه تماشا کنید.\n\n🕚 پخش اصلی: هر شب ساعت ۲۳:۰۰\n🕚 بازپخش: روز بعد ساعت ۱۱:۰۰\n\nشنبه ۱۱ مهر: توطئه‌آمیز ۱\nیکشنبه ۱۲ مهر: توطئه‌آمیز ۲\nدوشنبه ۱۳ مهر: توطئه‌آمیز ۳\nسه‌شنبه ۱۴ مهر: توطئه‌آمیز: آخرین کلید\nچهارشنبه ۱۵ مهر: توطئه‌آمیز: در قرمز\n\n📡 دریافت شبکه FX 1 از ماهواره یاهست / ترکمنعالم:\n\nفرکانس اصلی: 10762 V 27500\nفرکانس دوم: 11382 V 27500\nویژه جنوب ایران: 11420 H 27500\n\n🌐 پخش آنلاین:\nfxtv1.wns.live\n\n🔈 ایمیل پخش آگهی:\nFXTVInfo@Gmail.com\n\n🌐 کانال تلگرام ما:\ntelegram.me/FXTVFans\n\n🌐 پیج اینستاگرام ما:\ninstagram.com/FXTVFans",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "16:54:51",
-      "gregorian_utc": "2026-10-02T13:24:51+00:00",
+      "tehran_time": "17:42:17",
+      "gregorian_utc": "2026-10-02T14:12:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 112271,
+      "media_size_human": "109.64 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76553_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76553_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-02T14:24:34.078905+00:00"
+    },
+    {
+      "channel_name": "ملی‌ گرایان مردم‌ گرا",
+      "channel_username": "Mellig",
+      "message_id": 121692,
+      "message_link": "https://t.me/Mellig/121692",
+      "text": "🚨منابع آمریکایی: \n\nتیپ 75 رنجر ایالات متحده در روزهای اخیر، تمرینات فشرده‌ای را برای نفوذ و پاکسازی به تونل ها را انجام داده است.",
+      "shamsi_date": "1405/07/10",
+      "tehran_time": "17:53:32",
+      "gregorian_utc": "2026-10-02T14:23:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -73,25 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.947653+00:00"
-    },
-    {
-      "channel_name": "ملی‌ گرایان مردم‌ گرا",
-      "channel_username": "Mellig",
-      "message_id": 121690,
-      "message_link": "https://t.me/Mellig/121690",
-      "text": "شعارنویسی یاران ملی‌گرایان مردمگرا در اتوبوس در اتوبوس",
-      "shamsi_date": "1405/07/10",
-      "tehran_time": "16:21:40",
-      "gregorian_utc": "2026-10-02T12:51:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2093733,
-      "media_size_human": "2.00 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121690_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121690_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434497+00:00"
+      "archived_at": "2026-10-02T14:24:34.402955+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045496+00:00"
+      "archived_at": "2026-10-02T14:24:33.375695+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,17 +127,17 @@
       "media_local_path": "media/IranintlTV_360325_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360325_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533183+00:00"
+      "archived_at": "2026-10-02T14:24:33.709429+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76551,
-      "message_link": "https://t.me/satlastnews/76551",
-      "text": "⭕️ کاهش ارزش پول ملی، باعث و بانی قطع شبکه های ماهواره ای!\n\nاکثریت شبکه های ماهواره ای فارسی زبان، مستقیما یا غیر مستقیم به درامد مالی از داخل کشور وابسته اند. چه شبکه هایی که شاپینگی هستند و محصولات را در داخل می فروشند، چه شبکه هایی که به آگهی های بین المللی وابسته اند و در نهایت برای جامعه فارسی زبان پخش می شوند.\n\nاز طرفی، اخراج ایرانیان از امارات متحده عربی و تعطیلی کسب و کار ایرانیان در امارات، آثار بسیار مخربی روی سرمایه گذاران ایرانی ساکن امارات داشته.\n\nبالا رفتن قیمت ارز باعث شده، خیلی از شبکه های تلویزیونی خصوصی دیگر توان این که بتوانند سرمایه خود را برای تلویزیون به کار گیرند نداشته باشند.\n\nلذا احتمالا با این قیمت ارز، روزانه با تعطیلی شبکه های تلویزیونی فارسی زبان روبرو شویم.\n\n@SatLastNews",
+      "message_id": 76552,
+      "message_link": "https://t.me/satlastnews/76552",
+      "text": "",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "16:06:37",
-      "gregorian_utc": "2026-10-02T12:36:37+00:00",
+      "tehran_time": "16:54:51",
+      "gregorian_utc": "2026-10-02T13:24:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -145,17 +145,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.947780+00:00"
+      "archived_at": "2026-10-02T14:24:34.078948+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121689,
-      "message_link": "https://t.me/Mellig/121689",
-      "text": "🔴 #خبر_فوری\nشوک و بهت در بازار های مالی تهران،\nلحظاتی پیش دلار در تهران از 262 هزار تومان عبور کرد.",
+      "message_id": 121691,
+      "message_link": "https://t.me/Mellig/121691",
+      "text": "🔴 #خبر_فوری\nمقامات ارشد آمریکایی به آکسیوس:\nبا بن بست در مذاکرات میان ایران و آمریکا،\nانتظار می‌رود دور جدید درگیری ها در هفته های آینده آغاز شود.",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "15:51:00",
-      "gregorian_utc": "2026-10-02T12:21:00+00:00",
+      "tehran_time": "17:41:41",
+      "gregorian_utc": "2026-10-02T14:11:41+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:18.434572+00:00"
+      "archived_at": "2026-10-02T14:24:34.403034+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045531+00:00"
+      "archived_at": "2026-10-02T14:24:33.375726+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,17 +199,17 @@
       "media_local_path": "media/IranintlTV_360324_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360324_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533281+00:00"
+      "archived_at": "2026-10-02T14:24:33.709516+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76550,
-      "message_link": "https://t.me/satlastnews/76550",
-      "text": "⭕️ شبکه پروجک لئون در بیم منای ترکمنعالم ویژه جنوب ایران هم مسیر یاهست روی آنتن رفت\n\nProject Leon HD\nYahsat / TurkmenAlem\n11420 H 27500\n\nاین شبکه در فرکانس دیگری از ترکمنعالم نیز قابل دریافت است:\n\nProject Leon HD\nYahsat / TurkmenAlem\n11221 V 27500\n\n@SatLastNews",
+      "message_id": 76551,
+      "message_link": "https://t.me/satlastnews/76551",
+      "text": "⭕️ کاهش ارزش پول ملی، باعث و بانی قطع شبکه های ماهواره ای!\n\nاکثریت شبکه های ماهواره ای فارسی زبان، مستقیما یا غیر مستقیم به درامد مالی از داخل کشور وابسته اند. چه شبکه هایی که شاپینگی هستند و محصولات را در داخل می فروشند، چه شبکه هایی که به آگهی های بین المللی وابسته اند و در نهایت برای جامعه فارسی زبان پخش می شوند.\n\nاز طرفی، اخراج ایرانیان از امارات متحده عربی و تعطیلی کسب و کار ایرانیان در امارات، آثار بسیار مخربی روی سرمایه گذاران ایرانی ساکن امارات داشته.\n\nبالا رفتن قیمت ارز باعث شده، خیلی از شبکه های تلویزیونی خصوصی دیگر توان این که بتوانند سرمایه خود را برای تلویزیون به کار گیرند نداشته باشند.\n\nلذا احتمالا با این قیمت ارز، روزانه با تعطیلی شبکه های تلویزیونی فارسی زبان روبرو شویم.\n\n@SatLastNews",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "14:42:10",
-      "gregorian_utc": "2026-10-02T11:12:10+00:00",
+      "tehran_time": "16:06:37",
+      "gregorian_utc": "2026-10-02T12:36:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -217,25 +217,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.947844+00:00"
+      "archived_at": "2026-10-02T14:24:34.079045+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121688,
-      "message_link": "https://t.me/Mellig/121688",
-      "text": "۱۰ مهر، زادروز و سالگرد جاویدنام خدانور لجه‌ای.\nما فراموش نمی‌کنیم 🕯",
+      "message_id": 121690,
+      "message_link": "https://t.me/Mellig/121690",
+      "text": "شعارنویسی یاران ملی‌گرایان مردمگرا در اتوبوس در اتوبوس",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "15:33:15",
-      "gregorian_utc": "2026-10-02T12:03:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 41140,
-      "media_size_human": "40.18 KB",
+      "tehran_time": "16:21:40",
+      "gregorian_utc": "2026-10-02T12:51:40+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2093733,
+      "media_size_human": "2.00 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121688_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121688_photo.jpg",
+      "media_local_path": "media/Mellig_121690_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121690_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434625+00:00"
+      "archived_at": "2026-10-02T14:24:34.403088+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045570+00:00"
+      "archived_at": "2026-10-02T14:24:33.375762+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,35 +271,17 @@
       "media_local_path": "media/IranintlTV_360323_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360323_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533374+00:00"
+      "archived_at": "2026-10-02T14:24:33.709595+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76547,
-      "message_link": "https://t.me/satlastnews/76547",
-      "text": "⭕️ حکمی، معاون وزیر ارتباطات: استارلینک، آخرین میخ بر تابوت حکمرانیِ ماست!\n\nحکمرانیِ فضای مجازی دیگه بر پایه‌ی شبکه‌ی ما نیست، بر پایه‌ی استارلینکه.\n\nدوساله که همه دلسوزها دارن میگن استارلینک آخرین میخ بر تابوت حکمرانی جمهوریِ اسلامیه، اصلا بعدش دیگه چیزی نمیمونه، باید وزارت ارتباطات رو تبدیل به شهربازی کنیم.\n\nاستارلینک ابزارهای فعلی حکمرانی تو فضای مجازی، از رجیستری و احراز هویت تا مدیریت شبکه رو بی‌اثر میکنه و اگه این روند ادامه پیدا کنه، ممکنه تو بحران بعدی حتی ناچار به قطع برق بشیم.\n\n@SatLastNews",
-      "shamsi_date": "1405/07/09",
-      "tehran_time": "14:01:20",
-      "gregorian_utc": "2026-10-01T10:31:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2301948,
-      "media_size_human": "2.20 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76547_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76547_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.947993+00:00"
-    },
-    {
-      "channel_name": "ملی‌ گرایان مردم‌ گرا",
-      "channel_username": "Mellig",
-      "message_id": 121687,
-      "message_link": "https://t.me/Mellig/121687",
-      "text": "درود بر شما آقای میرقادری\n\nبرخی از کارخانه های مواد غذایی   به خاطر طرح اسکات بسنت، خط تولیدشون از مدار خارج شده و تولیداتشون در بعضی از روز ها به صفر مطلق رسیده و مردم دیگه علنا به خاطر وضعیت مالی  خرید نمیکنند \n\nاین یعنی سقوط،  چرخ تولید کارخانه ها خوابیده",
+      "message_id": 76550,
+      "message_link": "https://t.me/satlastnews/76550",
+      "text": "⭕️ شبکه پروجک لئون در بیم منای ترکمنعالم ویژه جنوب ایران هم مسیر یاهست روی آنتن رفت\n\nProject Leon HD\nYahsat / TurkmenAlem\n11420 H 27500\n\nاین شبکه در فرکانس دیگری از ترکمنعالم نیز قابل دریافت است:\n\nProject Leon HD\nYahsat / TurkmenAlem\n11221 V 27500\n\n@SatLastNews",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "13:11:33",
-      "gregorian_utc": "2026-10-02T09:41:33+00:00",
+      "tehran_time": "14:42:10",
+      "gregorian_utc": "2026-10-02T11:12:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -307,7 +289,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:18.434660+00:00"
+      "archived_at": "2026-10-02T14:24:34.079097+00:00"
+    },
+    {
+      "channel_name": "ملی‌ گرایان مردم‌ گرا",
+      "channel_username": "Mellig",
+      "message_id": 121689,
+      "message_link": "https://t.me/Mellig/121689",
+      "text": "🔴 #خبر_فوری\nشوک و بهت در بازار های مالی تهران،\nلحظاتی پیش دلار در تهران از 262 هزار تومان عبور کرد.",
+      "shamsi_date": "1405/07/10",
+      "tehran_time": "15:51:00",
+      "gregorian_utc": "2026-10-02T12:21:00+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-02T14:24:34.403133+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045602+00:00"
+      "archived_at": "2026-10-02T14:24:33.375789+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,43 +343,43 @@
       "media_local_path": "media/IranintlTV_360322_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360322_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533418+00:00"
+      "archived_at": "2026-10-02T14:24:33.709631+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76546,
-      "message_link": "https://t.me/satlastnews/76546",
-      "text": "⭕️ اپراتورها خواستار رفع فیلترینگ اینترنت ثابت شدند\n\nبرخی از اپراتورهای اینترنت کشور در نشستی با وزیر ارتباطات و فناوری اطلاعات، پیشنهاد کرده‌اند محدودیت دسترسی به پلتفرم‌های فیلترشده برای کاربران اینترنت ثابت و فیبر نوری برداشته شود. به اعتقاد این شرکت‌ها، چنین اقدامی می‌تواند جذابیت سرویس‌های ثابت را افزایش دهد و کاربران بیشتری را به استفاده از فیبر نوری ترغیب کند.\n\nاپراتورها می‌گویند توسعه شبکه فیبر نوری با هزینه‌های سنگینی همراه شده و افزایش قیمت تجهیزات، مودم و کابل‌کشی در کنار کاهش قدرت خرید مردم، روند جذب مشترکان جدید را دشوار کرده است. نماینده صبانت نیز در این نشست عنوان کرده که رفع محدودیت پلتفرم‌های مسدودشده برای مشترکان اینترنت ثابت می‌تواند مصرف ترافیک و درآمد اپراتورها را افزایش دهد و بخشی از این درآمد صرف توسعه بیشتر شبکه شود.\n\nدر همین نشست، وزیر ارتباطات اعلام کرد تعداد خانوارهای تحت پوشش فیبر نوری طی دو سال اخیر از حدود ۸ میلیون به ۱۱.۳ میلیون رسیده و تعداد اتصال‌های واقعی نیز با رشد بیش از ۵۲۶ درصدی، از حدود ۳۳۰ هزار به بیش از ۲ میلیون اتصال افزایش یافته است. با این حال، دولت قصد دارد تمرکز را از افزایش صرفِ پوشش به افزایش تعداد مشترکان واقعی فیبر نوری منتقل کند.\n\nدر حال حاضر حدود ۸۰ درصد ترافیک اینترنت کشور روی شبکه‌های سیار و تنها ۲۰ درصد روی اینترنت ثابت قرار دارد. وزارت ارتباطات به دنبال آن است که این نسبت در آینده به حدود ۵۰-۵۰ برسد؛ هدفی که تحقق آن نیازمند افزایش جذابیت اینترنت ثابت و مهاجرت کاربران از فناوری‌های قدیمی مانند ADSL به فیبر نوری است. حالا برخی اپراتورها معتقدند برداشتن فیلترینگ از اینترنت ثابت می‌تواند یکی از مشوق‌های مهم برای سرعت گرفتن این مهاجرت باشد.\n\n@SatLastNews",
+      "message_id": 76547,
+      "message_link": "https://t.me/satlastnews/76547",
+      "text": "⭕️ حکمی، معاون وزیر ارتباطات: استارلینک، آخرین میخ بر تابوت حکمرانیِ ماست!\n\nحکمرانیِ فضای مجازی دیگه بر پایه‌ی شبکه‌ی ما نیست، بر پایه‌ی استارلینکه.\n\nدوساله که همه دلسوزها دارن میگن استارلینک آخرین میخ بر تابوت حکمرانی جمهوریِ اسلامیه، اصلا بعدش دیگه چیزی نمیمونه، باید وزارت ارتباطات رو تبدیل به شهربازی کنیم.\n\nاستارلینک ابزارهای فعلی حکمرانی تو فضای مجازی، از رجیستری و احراز هویت تا مدیریت شبکه رو بی‌اثر میکنه و اگه این روند ادامه پیدا کنه، ممکنه تو بحران بعدی حتی ناچار به قطع برق بشیم.\n\n@SatLastNews",
       "shamsi_date": "1405/07/09",
-      "tehran_time": "13:43:46",
-      "gregorian_utc": "2026-10-01T10:13:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 26234,
-      "media_size_human": "25.62 KB",
+      "tehran_time": "14:01:20",
+      "gregorian_utc": "2026-10-01T10:31:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2301948,
+      "media_size_human": "2.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76546_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76546_photo.jpg",
+      "media_local_path": "media/satlastnews_76547_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76547_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948187+00:00"
+      "archived_at": "2026-10-02T14:24:34.079185+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121686,
-      "message_link": "https://t.me/Mellig/121686",
-      "text": "🔴 #خبر_فوری\nواشنگتن پست:\nوزارت جنگ آمریکا برای اعزام 20 هزار نیروی نظامی دیگر ارتش آمریکا به خاورمیانه آماده می‌شود.",
+      "message_id": 121688,
+      "message_link": "https://t.me/Mellig/121688",
+      "text": "۱۰ مهر، زادروز و سالگرد جاویدنام خدانور لجه‌ای.\nما فراموش نمی‌کنیم 🕯",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "12:51:23",
-      "gregorian_utc": "2026-10-02T09:21:23+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:18.434712+00:00"
+      "tehran_time": "15:33:15",
+      "gregorian_utc": "2026-10-02T12:03:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 41140,
+      "media_size_human": "40.18 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121688_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121688_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-02T14:24:34.403175+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045638+00:00"
+      "archived_at": "2026-10-02T14:24:33.375823+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,43 +415,43 @@
       "media_local_path": "media/IranintlTV_360321_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360321_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533611+00:00"
+      "archived_at": "2026-10-02T14:24:33.709806+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76543,
-      "message_link": "https://t.me/satlastnews/76543",
-      "text": "‌\n**‌• تاریخِ عشق** ♫︎ بانو **هایده**\n\nآهنگساز: صادق نوجوکی \nترانه‌سرا: لیلا کسری\n\n📀 با کیفیت اورجینال \n\" #نوستالژی_تایم \"\n\n@SatLastNews",
-      "shamsi_date": "1405/07/08",
-      "tehran_time": "22:59:34",
-      "gregorian_utc": "2026-09-30T19:29:34+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 14945953,
-      "media_size_human": "14.25 MB",
+      "message_id": 76546,
+      "message_link": "https://t.me/satlastnews/76546",
+      "text": "⭕️ اپراتورها خواستار رفع فیلترینگ اینترنت ثابت شدند\n\nبرخی از اپراتورهای اینترنت کشور در نشستی با وزیر ارتباطات و فناوری اطلاعات، پیشنهاد کرده‌اند محدودیت دسترسی به پلتفرم‌های فیلترشده برای کاربران اینترنت ثابت و فیبر نوری برداشته شود. به اعتقاد این شرکت‌ها، چنین اقدامی می‌تواند جذابیت سرویس‌های ثابت را افزایش دهد و کاربران بیشتری را به استفاده از فیبر نوری ترغیب کند.\n\nاپراتورها می‌گویند توسعه شبکه فیبر نوری با هزینه‌های سنگینی همراه شده و افزایش قیمت تجهیزات، مودم و کابل‌کشی در کنار کاهش قدرت خرید مردم، روند جذب مشترکان جدید را دشوار کرده است. نماینده صبانت نیز در این نشست عنوان کرده که رفع محدودیت پلتفرم‌های مسدودشده برای مشترکان اینترنت ثابت می‌تواند مصرف ترافیک و درآمد اپراتورها را افزایش دهد و بخشی از این درآمد صرف توسعه بیشتر شبکه شود.\n\nدر همین نشست، وزیر ارتباطات اعلام کرد تعداد خانوارهای تحت پوشش فیبر نوری طی دو سال اخیر از حدود ۸ میلیون به ۱۱.۳ میلیون رسیده و تعداد اتصال‌های واقعی نیز با رشد بیش از ۵۲۶ درصدی، از حدود ۳۳۰ هزار به بیش از ۲ میلیون اتصال افزایش یافته است. با این حال، دولت قصد دارد تمرکز را از افزایش صرفِ پوشش به افزایش تعداد مشترکان واقعی فیبر نوری منتقل کند.\n\nدر حال حاضر حدود ۸۰ درصد ترافیک اینترنت کشور روی شبکه‌های سیار و تنها ۲۰ درصد روی اینترنت ثابت قرار دارد. وزارت ارتباطات به دنبال آن است که این نسبت در آینده به حدود ۵۰-۵۰ برسد؛ هدفی که تحقق آن نیازمند افزایش جذابیت اینترنت ثابت و مهاجرت کاربران از فناوری‌های قدیمی مانند ADSL به فیبر نوری است. حالا برخی اپراتورها معتقدند برداشتن فیلترینگ از اینترنت ثابت می‌تواند یکی از مشوق‌های مهم برای سرعت گرفتن این مهاجرت باشد.\n\n@SatLastNews",
+      "shamsi_date": "1405/07/09",
+      "tehran_time": "13:43:46",
+      "gregorian_utc": "2026-10-01T10:13:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 26234,
+      "media_size_human": "25.62 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76543_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76543_audio.mp3",
+      "media_local_path": "media/satlastnews_76546_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76546_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948272+00:00"
+      "archived_at": "2026-10-02T14:24:34.079369+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121685,
-      "message_link": "https://t.me/Mellig/121685",
-      "text": "🇺🇸— **دونالد ترامپ، رئیس‌جمهور آمریکا:**\n\n«اگر **دموکرات‌ها** روی کار بیایند، **قیمت‌ها دو برابر خواهد شد**.\n\nدر نهایت وارد یک **دوران رکود، رکود اقتصادی یا چیزی بسیار بد** خواهید شد.\n\nآنها **بدترین سیاست‌ها** را دارند.»\n\nMellig.net",
+      "message_id": 121687,
+      "message_link": "https://t.me/Mellig/121687",
+      "text": "درود بر شما آقای میرقادری\n\nبرخی از کارخانه های مواد غذایی   به خاطر طرح اسکات بسنت، خط تولیدشون از مدار خارج شده و تولیداتشون در بعضی از روز ها به صفر مطلق رسیده و مردم دیگه علنا به خاطر وضعیت مالی  خرید نمیکنند \n\nاین یعنی سقوط،  چرخ تولید کارخانه ها خوابیده",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "08:54:48",
-      "gregorian_utc": "2026-10-02T05:24:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3667001,
-      "media_size_human": "3.50 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121685_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121685_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434804+00:00"
+      "tehran_time": "13:11:33",
+      "gregorian_utc": "2026-10-02T09:41:33+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-02T14:24:34.403198+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045667+00:00"
+      "archived_at": "2026-10-02T14:24:33.375846+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,43 +487,43 @@
       "media_local_path": "media/IranintlTV_360320_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360320_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533707+00:00"
+      "archived_at": "2026-10-02T14:24:33.709915+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76542,
-      "message_link": "https://t.me/satlastnews/76542",
-      "text": "⭕️ تا اواخر سال 2026، تعداد شبکه های SD ایرانی به حدود 10 عدد خواهد رسید!\n\nبا وجود این که بیش از 200 شبکه ایرانی فارسی زبان در ماهواره های مختلف قابل دریافت است، تا همین لحظه هم تعداد شبکه های SD قابل دریافت به کمتر از 40 عدد رسیده است.\n\nبا قطع شبکه های SD جم و همچنین چند تغییری که قرار است شبکه های شاپینگی یاهست ایجاد کنند، این تعداد تا پایان دسامبر 2026 و اوایل ژانویه 2027 به حدود 10 عدد خواهد رسید.\n\nپخش با کیفیت SD دیگر اصلا منطقی نیست!\n\nپخش با کیفیت SD اگر قرار باشد با کیفیت نسبتا مطلوبی انجام شود، حتی از پخش با کیفیت HD نیز پر هزینه تر خواهد بود و کیفیت نهایی همچنان از HD کمتر خواهد بود.\n\nاز این رو، پیشنهاد می کنیم اگر هنوز رسیور SD دارید، در این رویه تغییر ایجاد کنید و رسیور های خود را HD کنید.\n\n@SatLastNews",
+      "message_id": 76543,
+      "message_link": "https://t.me/satlastnews/76543",
+      "text": "‌\n**‌• تاریخِ عشق** ♫︎ بانو **هایده**\n\nآهنگساز: صادق نوجوکی \nترانه‌سرا: لیلا کسری\n\n📀 با کیفیت اورجینال \n\" #نوستالژی_تایم \"\n\n@SatLastNews",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "19:40:24",
-      "gregorian_utc": "2026-09-30T16:10:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 101862,
-      "media_size_human": "99.47 KB",
+      "tehran_time": "22:59:34",
+      "gregorian_utc": "2026-09-30T19:29:34+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 14945953,
+      "media_size_human": "14.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76542_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76542_photo.jpg",
+      "media_local_path": "media/satlastnews_76543_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76543_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948388+00:00"
+      "archived_at": "2026-10-02T14:24:34.079438+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121684,
-      "message_link": "https://t.me/Mellig/121684",
-      "text": "قیصر پته بیژن مرتضوی رو ریخت رو آب",
+      "message_id": 121686,
+      "message_link": "https://t.me/Mellig/121686",
+      "text": "🔴 #خبر_فوری\nواشنگتن پست:\nوزارت جنگ آمریکا برای اعزام 20 هزار نیروی نظامی دیگر ارتش آمریکا به خاورمیانه آماده می‌شود.",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "06:37:04",
-      "gregorian_utc": "2026-10-02T03:07:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6938140,
-      "media_size_human": "6.62 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121684_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121684_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434847+00:00"
+      "tehran_time": "12:51:23",
+      "gregorian_utc": "2026-10-02T09:21:23+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-02T14:24:34.403237+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045709+00:00"
+      "archived_at": "2026-10-02T14:24:33.375904+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,43 +559,43 @@
       "media_local_path": "media/IranintlTV_360319_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360319_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533794+00:00"
+      "archived_at": "2026-10-02T14:24:33.709998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76540,
-      "message_link": "https://t.me/satlastnews/76540",
-      "text": "⭕️ عکسی از لایو اینستاگرامی بیژن مرتضوی که حضور او در فرودگاه امام خمینی تهران را نشان می‌دهد.\n\n@SatLastNews",
+      "message_id": 76542,
+      "message_link": "https://t.me/satlastnews/76542",
+      "text": "⭕️ تا اواخر سال 2026، تعداد شبکه های SD ایرانی به حدود 10 عدد خواهد رسید!\n\nبا وجود این که بیش از 200 شبکه ایرانی فارسی زبان در ماهواره های مختلف قابل دریافت است، تا همین لحظه هم تعداد شبکه های SD قابل دریافت به کمتر از 40 عدد رسیده است.\n\nبا قطع شبکه های SD جم و همچنین چند تغییری که قرار است شبکه های شاپینگی یاهست ایجاد کنند، این تعداد تا پایان دسامبر 2026 و اوایل ژانویه 2027 به حدود 10 عدد خواهد رسید.\n\nپخش با کیفیت SD دیگر اصلا منطقی نیست!\n\nپخش با کیفیت SD اگر قرار باشد با کیفیت نسبتا مطلوبی انجام شود، حتی از پخش با کیفیت HD نیز پر هزینه تر خواهد بود و کیفیت نهایی همچنان از HD کمتر خواهد بود.\n\nاز این رو، پیشنهاد می کنیم اگر هنوز رسیور SD دارید، در این رویه تغییر ایجاد کنید و رسیور های خود را HD کنید.\n\n@SatLastNews",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:38:58",
-      "gregorian_utc": "2026-09-30T13:08:58+00:00",
+      "tehran_time": "19:40:24",
+      "gregorian_utc": "2026-09-30T16:10:24+00:00",
       "media_type": "photo",
-      "media_size_bytes": 69170,
-      "media_size_human": "67.55 KB",
+      "media_size_bytes": 101862,
+      "media_size_human": "99.47 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76540_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
+      "media_local_path": "media/satlastnews_76542_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76542_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948445+00:00"
+      "archived_at": "2026-10-02T14:24:34.079542+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121683,
-      "message_link": "https://t.me/Mellig/121683",
-      "text": "برای بیژن مرتضوی که چشم هاش و روی جنایت های جمهوری اسلامی بست و با اومدنش تلاش کرد به اخوند اعتبار بده\n\nMellig.net",
+      "message_id": 121685,
+      "message_link": "https://t.me/Mellig/121685",
+      "text": "🇺🇸— **دونالد ترامپ، رئیس‌جمهور آمریکا:**\n\n«اگر **دموکرات‌ها** روی کار بیایند، **قیمت‌ها دو برابر خواهد شد**.\n\nدر نهایت وارد یک **دوران رکود، رکود اقتصادی یا چیزی بسیار بد** خواهید شد.\n\nآنها **بدترین سیاست‌ها** را دارند.»\n\nMellig.net",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "06:30:01",
-      "gregorian_utc": "2026-10-02T03:00:01+00:00",
+      "tehran_time": "08:54:48",
+      "gregorian_utc": "2026-10-02T05:24:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 2714995,
-      "media_size_human": "2.59 MB",
+      "media_size_bytes": 3667001,
+      "media_size_human": "3.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121683_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121683_video.mp4",
+      "media_local_path": "media/Mellig_121685_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121685_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434930+00:00"
+      "archived_at": "2026-10-02T14:24:34.403317+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045737+00:00"
+      "archived_at": "2026-10-02T14:24:33.375931+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,43 +631,43 @@
       "media_local_path": "media/IranintlTV_360318_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360318_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.533835+00:00"
+      "archived_at": "2026-10-02T14:24:33.710030+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76539,
-      "message_link": "https://t.me/satlastnews/76539",
-      "text": "⭕️ بخشی از لایو اینستاگرامی همسر بیژن مرتضوی که از طریق اکانت بیژن مرتضوی به صورت مستقیم از فرودگاه امام خمینی تهران پخش شد.\n\n@SatLastNews",
+      "message_id": 76540,
+      "message_link": "https://t.me/satlastnews/76540",
+      "text": "⭕️ عکسی از لایو اینستاگرامی بیژن مرتضوی که حضور او در فرودگاه امام خمینی تهران را نشان می‌دهد.\n\n@SatLastNews",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:35:10",
-      "gregorian_utc": "2026-09-30T13:05:10+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1175208,
-      "media_size_human": "1.12 MB",
+      "tehran_time": "16:38:58",
+      "gregorian_utc": "2026-09-30T13:08:58+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 69170,
+      "media_size_human": "67.55 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76539_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
+      "media_local_path": "media/satlastnews_76540_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948500+00:00"
+      "archived_at": "2026-10-02T14:24:34.079587+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121682,
-      "message_link": "https://t.me/Mellig/121682",
-      "text": "",
+      "message_id": 121684,
+      "message_link": "https://t.me/Mellig/121684",
+      "text": "قیصر پته بیژن مرتضوی رو ریخت رو آب",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "05:40:40",
-      "gregorian_utc": "2026-10-02T02:10:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 107766,
-      "media_size_human": "105.24 KB",
+      "tehran_time": "06:37:04",
+      "gregorian_utc": "2026-10-02T03:07:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6938140,
+      "media_size_human": "6.62 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121682_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121682_photo.jpg",
+      "media_local_path": "media/Mellig_121684_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121684_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.434973+00:00"
+      "archived_at": "2026-10-02T14:24:34.403353+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045768+00:00"
+      "archived_at": "2026-10-02T14:24:33.375955+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,43 +703,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.534056+00:00"
+      "archived_at": "2026-10-02T14:24:33.710226+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76538,
-      "message_link": "https://t.me/satlastnews/76538",
-      "text": "⭕️ بیژن مرتضوی در لایو اینستاگرامی که دقیقا در همین لحظه نیز مستقیما از فرودگاه امام خمینی تهران در حال پخش است، خبر از بازگشت به ایران داده است.\n\nهمسر او نیز در این لایو اعلام کرد که: ایران دوستی از مسائل سیاسی جداست.\n\nبیژن مرتضوی چند روز گذشته در یک ویدیو بازگشتش به ایران را تکذیب کرده بود!\n\nعلاوه بر این خبر، بیژن مرتضوی ۵ روز پیش در ویدیویی خبر از ساخت موزیک جدیدی به یاد کودکان کشته شده در میناب داده بود.\n\n@SatLastNews",
+      "message_id": 76539,
+      "message_link": "https://t.me/satlastnews/76539",
+      "text": "⭕️ بخشی از لایو اینستاگرامی همسر بیژن مرتضوی که از طریق اکانت بیژن مرتضوی به صورت مستقیم از فرودگاه امام خمینی تهران پخش شد.\n\n@SatLastNews",
       "shamsi_date": "1405/07/08",
-      "tehran_time": "16:18:50",
-      "gregorian_utc": "2026-09-30T12:48:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 98276,
-      "media_size_human": "95.97 KB",
+      "tehran_time": "16:35:10",
+      "gregorian_utc": "2026-09-30T13:05:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1175208,
+      "media_size_human": "1.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76538_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
+      "media_local_path": "media/satlastnews_76539_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76539_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.948582+00:00"
+      "archived_at": "2026-10-02T14:24:34.079633+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121681,
-      "message_link": "https://t.me/Mellig/121681",
-      "text": "",
+      "message_id": 121683,
+      "message_link": "https://t.me/Mellig/121683",
+      "text": "برای بیژن مرتضوی که چشم هاش و روی جنایت های جمهوری اسلامی بست و با اومدنش تلاش کرد به اخوند اعتبار بده\n\nMellig.net",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "05:40:40",
-      "gregorian_utc": "2026-10-02T02:10:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 137936,
-      "media_size_human": "134.70 KB",
+      "tehran_time": "06:30:01",
+      "gregorian_utc": "2026-10-02T03:00:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2714995,
+      "media_size_human": "2.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121681_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121681_photo.jpg",
+      "media_local_path": "media/Mellig_121683_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121683_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.435011+00:00"
+      "archived_at": "2026-10-02T14:24:34.403400+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045794+00:00"
+      "archived_at": "2026-10-02T14:24:33.375976+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,43 +775,43 @@
       "media_local_path": "media/IranintlTV_360316_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360316_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.534199+00:00"
+      "archived_at": "2026-10-02T14:24:33.710359+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76535,
-      "message_link": "https://t.me/satlastnews/76535",
-      "text": "⭕️ مقایسه نسل‌های مختلف استارلینک\n\nاستارلینک از زمان آغاز فعالیتش چند نسل و مدل مختلف از دیش‌های خود را عرضه کرده است. تفاوت این مدل‌ها فقط در ظاهر نیست و اندازه، مصرف برق، قابلیت حمل، مقاومت و نوع نصب آن‌ها نیز با یکدیگر فرق دارد.\n\nنسل اول؛ Standard Circular\n\nاولین مدل معروف استارلینک همان دیش گرد بود. این مدل موتور داخلی داشت و می‌توانست برای پیدا کردن جهت مناسب، زاویه خودش را به‌صورت خودکار تنظیم کند. امروزه این نسل قدیمی محسوب می‌شود و نسبت به مدل‌های جدید بزرگ‌تر و پرمصرف‌تر است.\n\nنسل دوم؛ Standard Actuated\n\nدر نسل دوم، دیش گرد جای خودش را به دیش مستطیلی معروف استارلینک داد. این مدل نیز موتور داخلی دارد و بعد از نصب می‌تواند زاویه مناسب را به‌صورت خودکار پیدا کند. مصرف برق معمول آن حدود ۵۰ تا ۷۵ وات است و هنوز تعداد زیادی از کاربران از همین مدل استفاده می‌کنند.\n\nنسل سوم؛ Standard\n\nدر نسل جدید استاندارد، استارلینک موتور تنظیم زاویه را حذف کرده است. دیش ثابت است و هنگام نصب باید با کمک اپلیکیشن در جهت مناسب قرار بگیرد. طراحی ساده‌تر، میدان دید بیشتر و استفاده از روتر نسل سوم با پشتیبانی از Wi-Fi 6 از ویژگی‌های مهم این مدل است. مصرف معمول آن نیز حدود ۷۵ تا ۱۰۰ وات است.\n\nمدل کوچک؛ Starlink Mini\n\nکوچک‌ترین و قابل‌حمل‌ترین عضو خانواده استارلینک، مدل مینی است. در این نسخه آنتن و روتر وای‌فای داخل یک دستگاه قرار گرفته‌اند و وزن دیش حدود ۱.۱ کیلوگرم است.\n\nمصرف برق معمول این مدل حدود ۲۰ تا ۴۰ وات است و به همین دلیل برای سفر، کمپینگ، خودرو و استفاده با پاوراستیشن گزینه بسیار مناسبی محسوب می‌شود. البته ظرفیت و توان آن از مدل‌های حرفه‌ای پایین‌تر است.\n\nنسل اول حرفه‌ای؛ Performance Gen 1\n\nاین مدل که قبلاً با نام High Performance شناخته می‌شد، برای کاربران حرفه‌ای و سازمانی ساخته شده بود. دیش بزرگ‌تر، میدان دید حدود ۱۴۰ درجه و عملکرد بهتر در شرایط سخت آب‌وهوایی از ویژگی‌های اصلی آن است. مصرف برق این مدل نیز به‌مراتب بیشتر از نسخه‌های معمولی است.\n\nنسل دوم حرفه‌ای؛ Performance Gen 2\n\nدر نسل دوم خانواده حرفه‌ای، طراحی تخت و بدون موتور مورد استفاده قرار گرفت. این مدل برای نصب ثابت و همچنین کاربردهای متحرک مانند خودرو و شناورها طراحی شده و بیشتر مناسب کسب‌وکارها و استفاده‌هایی است که پایداری ارتباط اهمیت زیادی دارد.\n\nنسل سوم حرفه‌ای؛ Performance Gen 3\n\nجدیدترین عضو خانواده حرفه‌ای استارلینک، نسل سوم Performance است. این مدل برای استفاده سنگین، سازمانی و شرایط محیطی دشوار طراحی شده و مقاومت بسیار بیشتری در برابر آب، گردوغبار، دما و باد دارد.\n\nاستارلینک حداکثر توان عملیاتی سخت‌افزار این مدل را حدود ۴۷۵ مگابیت‌برثانیه برای دانلود و ۷۵ مگابیت‌برثانیه برای آپلود اعلام کرده و سخت‌افزار آن برای افزایش ظرفیت شبکه در آینده نیز طراحی شده است.\n\nاما کدام استارلینک مناسب‌تر است؟\n\nبرای استفاده معمولی خانگی:\nنسل جدید Standard\n\nبرای سفر و جابه‌جایی:\nمدل Starlink Mini\n\nبرای مصرف برق پایین و استفاده با پاوراستیشن:\nمدل Starlink Mini\n\nبرای کسب‌وکار و استفاده حرفه‌ای:\nخانواده Performance\n\nبرای خودرو، کشتی، مناطق صنعتی و شرایط محیطی سخت:\nمدل Performance Gen 3\n\nدر مجموع اگر قابلیت حمل و مصرف برق پایین برایتان مهم است، مدل مینی جذاب‌ترین انتخاب است. برای یک خانه یا محل کار معمولی، مدل استاندارد جدید انتخاب منطقی‌تری محسوب می‌شود و اگر حداکثر پایداری و مقاومت اهمیت دارد، خانواده پرفورمنس در بالاترین سطح قرار می‌گیرد.\n\nالبته فراموش نکنید که سرعت واقعی استارلینک فقط به مدل دیش بستگی ندارد. موقعیت جغرافیایی، میزان شلوغی شبکه، نوع سرویس، پلن مورد استفاده و باز بودن دید آسمان هم تأثیر بسیار زیادی روی سرعت و کیفیت اتصال دارند.\n\n@SatLastNews",
-      "shamsi_date": "1405/07/07",
-      "tehran_time": "22:57:24",
-      "gregorian_utc": "2026-09-29T19:27:24+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.948974+00:00"
+      "message_id": 76538,
+      "message_link": "https://t.me/satlastnews/76538",
+      "text": "⭕️ بیژن مرتضوی در لایو اینستاگرامی که دقیقا در همین لحظه نیز مستقیما از فرودگاه امام خمینی تهران در حال پخش است، خبر از بازگشت به ایران داده است.\n\nهمسر او نیز در این لایو اعلام کرد که: ایران دوستی از مسائل سیاسی جداست.\n\nبیژن مرتضوی چند روز گذشته در یک ویدیو بازگشتش به ایران را تکذیب کرده بود!\n\nعلاوه بر این خبر، بیژن مرتضوی ۵ روز پیش در ویدیویی خبر از ساخت موزیک جدیدی به یاد کودکان کشته شده در میناب داده بود.\n\n@SatLastNews",
+      "shamsi_date": "1405/07/08",
+      "tehran_time": "16:18:50",
+      "gregorian_utc": "2026-09-30T12:48:50+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 98276,
+      "media_size_human": "95.97 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76538_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76538_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-02T14:24:34.079705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121680,
-      "message_link": "https://t.me/Mellig/121680",
-      "text": "‏همان‌طور که انتظار می‌رفت، پس از آنکه جمهوری اسلامی به اندازه کافی از بازگشت چند چهره معروف به ایران بهره‌برداری تبلیغاتی کرد، حالا صداوسیما و خبرگزاری‌های سپاه زمینه‌سازی برای بازداشت آنان به دلیل مواضع پیشین را آغاز کرده‌اند و محسن نامجو هم هدف اصلی است. نوش جان‌تان :)",
+      "message_id": 121682,
+      "message_link": "https://t.me/Mellig/121682",
+      "text": "",
       "shamsi_date": "1405/07/10",
       "tehran_time": "05:40:40",
       "gregorian_utc": "2026-10-02T02:10:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18824614,
-      "media_size_human": "17.95 MB",
+      "media_type": "photo",
+      "media_size_bytes": 107766,
+      "media_size_human": "105.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121680_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121680_video.mp4",
+      "media_local_path": "media/Mellig_121682_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121682_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.435045+00:00"
+      "archived_at": "2026-10-02T14:24:34.403438+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045819+00:00"
+      "archived_at": "2026-10-02T14:24:33.375997+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,17 +847,17 @@
       "media_local_path": "media/IranintlTV_360315_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360315_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.534303+00:00"
+      "archived_at": "2026-10-02T14:24:33.710457+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76534,
-      "message_link": "https://t.me/satlastnews/76534",
-      "text": "⭕️ ماهواره‌های نسل سوم استارلینک به فضا رفتند\n\nاسپیس‌ایکس در چهاردهمین پرواز استارشیپ، برای نخستین‌بار 26 ماهواره عملیاتی استارلینک نسل سوم را در مدار قرار داد؛ نسل جدیدی که قرار است ظرفیت و توان شبکه اینترنت ماهواره‌ای استارلینک را به شکل قابل‌توجهی افزایش دهد.\n\nهر ماهواره نسل سوم قادر است تا 1 ترابیت بر ثانیه ظرفیت دانلود و 160 گیگابیت بر ثانیه ظرفیت آپلود فراهم کند. بر اساس اعلام اسپیس‌ایکس، ظرفیت دانلود این نسل حدود 10 برابر و ظرفیت آپلود آن حدود 22 برابر نسل دوم است.\n\nاین ماهواره‌ها به 2048 پرتو دانلود و 2048 پرتو آپلود مجهز شده‌اند و برای ارتباط مستقیم با سایر ماهواره‌های استارلینک نیز از 6 پیوند لیزری با ظرفیت 400 گیگابیت بر ثانیه استفاده می‌کنند.\n\nنکته قابل‌توجه اینکه تنها همین 26 ماهواره می‌توانند حدود 3 درصد به ظرفیت شبکه استارلینک اضافه کنند.\nاین ماهواره‌ها فعلا برای ارائه اینترنت پهن‌باند معمولی استارلینک طراحی شده‌اند و جزو ماهواره‌های مخصوص اتصال مستقیم تلفن همراه به ماهواره نیستند.\n\nورود نسل سوم استارلینک، گام مهمی در افزایش ظرفیت و توسعه نسل آینده اینترنت ماهواره‌ای محسوب می‌شود.\n\n@SatLastNews",
+      "message_id": 76535,
+      "message_link": "https://t.me/satlastnews/76535",
+      "text": "⭕️ مقایسه نسل‌های مختلف استارلینک\n\nاستارلینک از زمان آغاز فعالیتش چند نسل و مدل مختلف از دیش‌های خود را عرضه کرده است. تفاوت این مدل‌ها فقط در ظاهر نیست و اندازه، مصرف برق، قابلیت حمل، مقاومت و نوع نصب آن‌ها نیز با یکدیگر فرق دارد.\n\nنسل اول؛ Standard Circular\n\nاولین مدل معروف استارلینک همان دیش گرد بود. این مدل موتور داخلی داشت و می‌توانست برای پیدا کردن جهت مناسب، زاویه خودش را به‌صورت خودکار تنظیم کند. امروزه این نسل قدیمی محسوب می‌شود و نسبت به مدل‌های جدید بزرگ‌تر و پرمصرف‌تر است.\n\nنسل دوم؛ Standard Actuated\n\nدر نسل دوم، دیش گرد جای خودش را به دیش مستطیلی معروف استارلینک داد. این مدل نیز موتور داخلی دارد و بعد از نصب می‌تواند زاویه مناسب را به‌صورت خودکار پیدا کند. مصرف برق معمول آن حدود ۵۰ تا ۷۵ وات است و هنوز تعداد زیادی از کاربران از همین مدل استفاده می‌کنند.\n\nنسل سوم؛ Standard\n\nدر نسل جدید استاندارد، استارلینک موتور تنظیم زاویه را حذف کرده است. دیش ثابت است و هنگام نصب باید با کمک اپلیکیشن در جهت مناسب قرار بگیرد. طراحی ساده‌تر، میدان دید بیشتر و استفاده از روتر نسل سوم با پشتیبانی از Wi-Fi 6 از ویژگی‌های مهم این مدل است. مصرف معمول آن نیز حدود ۷۵ تا ۱۰۰ وات است.\n\nمدل کوچک؛ Starlink Mini\n\nکوچک‌ترین و قابل‌حمل‌ترین عضو خانواده استارلینک، مدل مینی است. در این نسخه آنتن و روتر وای‌فای داخل یک دستگاه قرار گرفته‌اند و وزن دیش حدود ۱.۱ کیلوگرم است.\n\nمصرف برق معمول این مدل حدود ۲۰ تا ۴۰ وات است و به همین دلیل برای سفر، کمپینگ، خودرو و استفاده با پاوراستیشن گزینه بسیار مناسبی محسوب می‌شود. البته ظرفیت و توان آن از مدل‌های حرفه‌ای پایین‌تر است.\n\nنسل اول حرفه‌ای؛ Performance Gen 1\n\nاین مدل که قبلاً با نام High Performance شناخته می‌شد، برای کاربران حرفه‌ای و سازمانی ساخته شده بود. دیش بزرگ‌تر، میدان دید حدود ۱۴۰ درجه و عملکرد بهتر در شرایط سخت آب‌وهوایی از ویژگی‌های اصلی آن است. مصرف برق این مدل نیز به‌مراتب بیشتر از نسخه‌های معمولی است.\n\nنسل دوم حرفه‌ای؛ Performance Gen 2\n\nدر نسل دوم خانواده حرفه‌ای، طراحی تخت و بدون موتور مورد استفاده قرار گرفت. این مدل برای نصب ثابت و همچنین کاربردهای متحرک مانند خودرو و شناورها طراحی شده و بیشتر مناسب کسب‌وکارها و استفاده‌هایی است که پایداری ارتباط اهمیت زیادی دارد.\n\nنسل سوم حرفه‌ای؛ Performance Gen 3\n\nجدیدترین عضو خانواده حرفه‌ای استارلینک، نسل سوم Performance است. این مدل برای استفاده سنگین، سازمانی و شرایط محیطی دشوار طراحی شده و مقاومت بسیار بیشتری در برابر آب، گردوغبار، دما و باد دارد.\n\nاستارلینک حداکثر توان عملیاتی سخت‌افزار این مدل را حدود ۴۷۵ مگابیت‌برثانیه برای دانلود و ۷۵ مگابیت‌برثانیه برای آپلود اعلام کرده و سخت‌افزار آن برای افزایش ظرفیت شبکه در آینده نیز طراحی شده است.\n\nاما کدام استارلینک مناسب‌تر است؟\n\nبرای استفاده معمولی خانگی:\nنسل جدید Standard\n\nبرای سفر و جابه‌جایی:\nمدل Starlink Mini\n\nبرای مصرف برق پایین و استفاده با پاوراستیشن:\nمدل Starlink Mini\n\nبرای کسب‌وکار و استفاده حرفه‌ای:\nخانواده Performance\n\nبرای خودرو، کشتی، مناطق صنعتی و شرایط محیطی سخت:\nمدل Performance Gen 3\n\nدر مجموع اگر قابلیت حمل و مصرف برق پایین برایتان مهم است، مدل مینی جذاب‌ترین انتخاب است. برای یک خانه یا محل کار معمولی، مدل استاندارد جدید انتخاب منطقی‌تری محسوب می‌شود و اگر حداکثر پایداری و مقاومت اهمیت دارد، خانواده پرفورمنس در بالاترین سطح قرار می‌گیرد.\n\nالبته فراموش نکنید که سرعت واقعی استارلینک فقط به مدل دیش بستگی ندارد. موقعیت جغرافیایی، میزان شلوغی شبکه، نوع سرویس، پلن مورد استفاده و باز بودن دید آسمان هم تأثیر بسیار زیادی روی سرعت و کیفیت اتصال دارند.\n\n@SatLastNews",
       "shamsi_date": "1405/07/07",
-      "tehran_time": "21:32:50",
-      "gregorian_utc": "2026-09-29T18:02:50+00:00",
+      "tehran_time": "22:57:24",
+      "gregorian_utc": "2026-09-29T19:27:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -865,25 +865,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.949107+00:00"
+      "archived_at": "2026-10-02T14:24:34.080095+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121679,
-      "message_link": "https://t.me/Mellig/121679",
-      "text": "[آزادی ایران، درگیر انتخابات آمریکا ، با جناب سیاوش الف ۹ مهر ۲۵۸۵\n](https://www.youtube.com/live/1dN2K-K1vAU?si=qGhdgqI_aw442C1r)\nMellig.net",
+      "message_id": 121681,
+      "message_link": "https://t.me/Mellig/121681",
+      "text": "",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "04:39:45",
-      "gregorian_utc": "2026-10-02T01:09:45+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 97817105,
-      "media_size_human": "93.29 MB",
+      "tehran_time": "05:40:40",
+      "gregorian_utc": "2026-10-02T02:10:40+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 137936,
+      "media_size_human": "134.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121679_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121679_audio.mp3",
+      "media_local_path": "media/Mellig_121681_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121681_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.435101+00:00"
+      "archived_at": "2026-10-02T14:24:34.403468+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045843+00:00"
+      "archived_at": "2026-10-02T14:24:33.376016+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,35 +919,17 @@
       "media_local_path": "media/IranintlTV_360314_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360314_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.534342+00:00"
+      "archived_at": "2026-10-02T14:24:33.710486+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76529,
-      "message_link": "https://t.me/satlastnews/76529",
-      "text": "⭕️ گروه تلویزیونی جم در نهایت در اطلاعیه ای جدید اعلام کرده است که:\n\nهیچ یک از فرکانس های جم (نه 11881 و نه 12034) حذف نخواهد شد!\n\nبعد از واکنش های منفی کاربران درباره گروه جم، ظاهرا حداقل تا 1 سال آینده، هر دو فرکانس جم روشن خواهند ماند.\n\nتمامی شبکه های SD از فرکانس 11881 قطع خواهند شد و به HD ارتقا خواهند یافت.\n\n@SatLastNews",
-      "shamsi_date": "1405/07/06",
-      "tehran_time": "21:20:05",
-      "gregorian_utc": "2026-09-28T17:50:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 32568,
-      "media_size_human": "31.80 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76529_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.949186+00:00"
-    },
-    {
-      "channel_name": "ملی‌ گرایان مردم‌ گرا",
-      "channel_username": "Mellig",
-      "message_id": 121678,
-      "message_link": "https://t.me/Mellig/121678",
-      "text": "**اسامی ۸ شرکت خودروسازی ایرانی که امشب تحریم شدند**\n**۱- ایران‌خودرو \n۲- ایران‌خودرو دیزل\n۳- پارس‌ خودرو \n۴- سایپا \n۵- زامیاد \n۶- نیرو موتور دماوند  \n۷- نیرو موتور شیراز \n۸- هپکو**\n**همچنین راه‌آهن و شرکت قطارهای مسافری رجا به همراه چند شرکت فولادی نیز تحریم شدند**",
-      "shamsi_date": "1405/07/10",
-      "tehran_time": "03:53:02",
-      "gregorian_utc": "2026-10-02T00:23:02+00:00",
+      "message_id": 76534,
+      "message_link": "https://t.me/satlastnews/76534",
+      "text": "⭕️ ماهواره‌های نسل سوم استارلینک به فضا رفتند\n\nاسپیس‌ایکس در چهاردهمین پرواز استارشیپ، برای نخستین‌بار 26 ماهواره عملیاتی استارلینک نسل سوم را در مدار قرار داد؛ نسل جدیدی که قرار است ظرفیت و توان شبکه اینترنت ماهواره‌ای استارلینک را به شکل قابل‌توجهی افزایش دهد.\n\nهر ماهواره نسل سوم قادر است تا 1 ترابیت بر ثانیه ظرفیت دانلود و 160 گیگابیت بر ثانیه ظرفیت آپلود فراهم کند. بر اساس اعلام اسپیس‌ایکس، ظرفیت دانلود این نسل حدود 10 برابر و ظرفیت آپلود آن حدود 22 برابر نسل دوم است.\n\nاین ماهواره‌ها به 2048 پرتو دانلود و 2048 پرتو آپلود مجهز شده‌اند و برای ارتباط مستقیم با سایر ماهواره‌های استارلینک نیز از 6 پیوند لیزری با ظرفیت 400 گیگابیت بر ثانیه استفاده می‌کنند.\n\nنکته قابل‌توجه اینکه تنها همین 26 ماهواره می‌توانند حدود 3 درصد به ظرفیت شبکه استارلینک اضافه کنند.\nاین ماهواره‌ها فعلا برای ارائه اینترنت پهن‌باند معمولی استارلینک طراحی شده‌اند و جزو ماهواره‌های مخصوص اتصال مستقیم تلفن همراه به ماهواره نیستند.\n\nورود نسل سوم استارلینک، گام مهمی در افزایش ظرفیت و توسعه نسل آینده اینترنت ماهواره‌ای محسوب می‌شود.\n\n@SatLastNews",
+      "shamsi_date": "1405/07/07",
+      "tehran_time": "21:32:50",
+      "gregorian_utc": "2026-09-29T18:02:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -955,7 +937,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:18.435169+00:00"
+      "archived_at": "2026-10-02T14:24:34.080216+00:00"
+    },
+    {
+      "channel_name": "ملی‌ گرایان مردم‌ گرا",
+      "channel_username": "Mellig",
+      "message_id": 121680,
+      "message_link": "https://t.me/Mellig/121680",
+      "text": "‏همان‌طور که انتظار می‌رفت، پس از آنکه جمهوری اسلامی به اندازه کافی از بازگشت چند چهره معروف به ایران بهره‌برداری تبلیغاتی کرد، حالا صداوسیما و خبرگزاری‌های سپاه زمینه‌سازی برای بازداشت آنان به دلیل مواضع پیشین را آغاز کرده‌اند و محسن نامجو هم هدف اصلی است. نوش جان‌تان :)",
+      "shamsi_date": "1405/07/10",
+      "tehran_time": "05:40:40",
+      "gregorian_utc": "2026-10-02T02:10:40+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18824614,
+      "media_size_human": "17.95 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121680_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121680_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-02T14:24:34.403494+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045898+00:00"
+      "archived_at": "2026-10-02T14:24:33.376042+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,43 +991,43 @@
       "media_local_path": "media/IranintlTV_360313_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360313_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.534444+00:00"
+      "archived_at": "2026-10-02T14:24:33.710584+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76528,
-      "message_link": "https://t.me/satlastnews/76528",
-      "text": "⭕️ ویدیوی بیژن مرتضوی از تکذیب بازگشتش به ایران\n\n@SatLastNews",
+      "message_id": 76529,
+      "message_link": "https://t.me/satlastnews/76529",
+      "text": "⭕️ گروه تلویزیونی جم در نهایت در اطلاعیه ای جدید اعلام کرده است که:\n\nهیچ یک از فرکانس های جم (نه 11881 و نه 12034) حذف نخواهد شد!\n\nبعد از واکنش های منفی کاربران درباره گروه جم، ظاهرا حداقل تا 1 سال آینده، هر دو فرکانس جم روشن خواهند ماند.\n\nتمامی شبکه های SD از فرکانس 11881 قطع خواهند شد و به HD ارتقا خواهند یافت.\n\n@SatLastNews",
       "shamsi_date": "1405/07/06",
-      "tehran_time": "15:48:30",
-      "gregorian_utc": "2026-09-28T12:18:30+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1696072,
-      "media_size_human": "1.62 MB",
+      "tehran_time": "21:20:05",
+      "gregorian_utc": "2026-09-28T17:50:05+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 32568,
+      "media_size_human": "31.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76528_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
+      "media_local_path": "media/satlastnews_76529_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.949233+00:00"
+      "archived_at": "2026-10-02T14:24:34.080284+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121677,
-      "message_link": "https://t.me/Mellig/121677",
-      "text": "🔹 ماموریت این پروژه اینه که مشخص کنه درگیری های نظامی آینده ممکنه کجا اتفاق بیفتن و آمریکا برای پیروز شدن به چه سلاح ها، فناوری ها و قابلیت هایی نیاز خواهد داشت.\n\n🔹 از ماسک و لاکی به عنوان بنیانگذاران و افرادی که تکنولوژی میسازن دعوت شده تا برای جنگ های آینده راه حل های جدیدی رو تصور و طراحی کنن.\n\n🔹 امیل مایکل، رئیس تکنولوژی پنتاگون، هماهنگی این پروژه رو بر عهده داره و کارشناسانی از صنعت، دانشگاه و حوزه سیاست گذاری هم از این تلاش حمایت میکنن.\n\n🔹 این تیم ۱۲۰ روز فرصت داره تا نتایج و پیشنهادات خودش رو در قالب یک گزارش عمومی ارائه بده که یک ضمیمه محرمانه هم همراهش خواهد بود.\n\n🔹 این زمان بندی خیلی سریع تر از بررسی های قبلیه؛ از جمله کمیسیون دو ساله اریک اشمیت درباره هوش مصنوعی و یک مطالعه تقریبا سه ساله پنتاگون درباره اصلاحات در روند خرید و تامین تجهیزات نظامی.\n\n🔹سناریوهای احتمالی شامل نبردهای زیرزمینی، اعماق اقیانوس، فضای اطراف ماه و حتی مریخ میشن.",
+      "message_id": 121679,
+      "message_link": "https://t.me/Mellig/121679",
+      "text": "[آزادی ایران، درگیر انتخابات آمریکا ، با جناب سیاوش الف ۹ مهر ۲۵۸۵\n](https://www.youtube.com/live/1dN2K-K1vAU?si=qGhdgqI_aw442C1r)\nMellig.net",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "03:52:02",
-      "gregorian_utc": "2026-10-02T00:22:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 997954,
-      "media_size_human": "974.56 KB",
+      "tehran_time": "04:39:45",
+      "gregorian_utc": "2026-10-02T01:09:45+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 97817105,
+      "media_size_human": "93.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121677_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121677_video.mp4",
+      "media_local_path": "media/Mellig_121679_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121679_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:18.435207+00:00"
+      "archived_at": "2026-10-02T14:24:34.403541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:17.045926+00:00"
+      "archived_at": "2026-10-02T14:24:33.376061+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,35 +1063,35 @@
       "media_local_path": "media/IranintlTV_360312_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360312_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.534527+00:00"
+      "archived_at": "2026-10-02T14:24:33.710666+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76527,
-      "message_link": "https://t.me/satlastnews/76527",
-      "text": "⭕️ بیژن مرتضوی و همسرش خبر بازگشت او به ایران را تکذیب کردند.\n\nمشخص نیست این حجم از خبر بازگشت مرتضوی به ایران به چه دلیل و توسط چه افرادی راه افتاده است.\n\nاما رسانه های داخلی گفته اند که بیژن مرتضوی چند باری به ایران سفر کرده است.\n\n@SatLastNews",
+      "message_id": 76528,
+      "message_link": "https://t.me/satlastnews/76528",
+      "text": "⭕️ ویدیوی بیژن مرتضوی از تکذیب بازگشتش به ایران\n\n@SatLastNews",
       "shamsi_date": "1405/07/06",
-      "tehran_time": "15:48:29",
-      "gregorian_utc": "2026-09-28T12:18:29+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 139095,
-      "media_size_human": "135.83 KB",
+      "tehran_time": "15:48:30",
+      "gregorian_utc": "2026-09-28T12:18:30+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1696072,
+      "media_size_human": "1.62 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76527_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76527_photo.jpg",
+      "media_local_path": "media/satlastnews_76528_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76528_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-02T14:10:17.949299+00:00"
+      "archived_at": "2026-10-02T14:24:34.080321+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121676,
-      "message_link": "https://t.me/Mellig/121676",
-      "text": "🚨ایلان ماسک به ارتش آمریکا پیوست، برای ارتقا سلاح ها با هوش مصنوعی",
+      "message_id": 121678,
+      "message_link": "https://t.me/Mellig/121678",
+      "text": "**اسامی ۸ شرکت خودروسازی ایرانی که امشب تحریم شدند**\n**۱- ایران‌خودرو \n۲- ایران‌خودرو دیزل\n۳- پارس‌ خودرو \n۴- سایپا \n۵- زامیاد \n۶- نیرو موتور دماوند  \n۷- نیرو موتور شیراز \n۸- هپکو**\n**همچنین راه‌آهن و شرکت قطارهای مسافری رجا به همراه چند شرکت فولادی نیز تحریم شدند**",
       "shamsi_date": "1405/07/10",
-      "tehran_time": "02:47:53",
-      "gregorian_utc": "2026-10-01T23:17:53+00:00",
+      "tehran_time": "03:53:02",
+      "gregorian_utc": "2026-10-02T00:23:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-02T14:10:18.435234+00:00"
+      "archived_at": "2026-10-02T14:24:34.403602+00:00"
     }
   ]
 }
