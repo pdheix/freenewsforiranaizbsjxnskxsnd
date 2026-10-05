@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T09:04:03.381136+00:00",
-  "shamsi_generated": "1405/07/13 09:04:03 تهران",
+  "generated_at": "2026-10-05T09:15:23.764082+00:00",
+  "shamsi_generated": "1405/07/13 09:15:23 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711552+00:00"
+      "archived_at": "2026-10-05T09:10:35.957210+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360736,
-      "message_link": "https://t.me/IranintlTV/360736",
-      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به گذشت شش ماه از آتش‌بس میان جمهوری اسلامی و آمریکا گفت روابط دو طرف همچنان در وضعیت «نه جنگ، نه صلح» و در عین حال به‌شدت ناپایدار قرار دارد؛ وضعیتی که با افزایش فشار اقتصادی آمریکا و تقویت حضور نظامی این کشور در منطقه همراه شده است.\n\nاو افزود مواضع دو طرف و افزایش ظرفیت نظامی آمریکا نشانه‌ای از حرکت به سمت توافق نیست و شکستن این بن‌بست فقط با یک جنگ فراگیر ممکن خواهد بود.\n\nکاظمیان همچنین گفت ادامه این وضعیت فشار معیشتی بر مردم را بیشتر می‌کند و همه شواهد از احتمال یک انفجار اجتماعی حکایت دارد.\n@iranintltv",
+      "message_id": 360737,
+      "message_link": "https://t.me/IranintlTV/360737",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از مالباختگان صرافی اوام‌پی فینکس دوشنبه ۱۳ مهر در اعتراض به پرداخت نشدن مطالبات خود مقابل ساختمان دادستانی کل کشور تجمع کردند.",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "12:27:13",
-      "gregorian_utc": "2026-10-05T08:57:13+00:00",
+      "tehran_time": "12:33:55",
+      "gregorian_utc": "2026-10-05T09:03:55+00:00",
       "media_type": "video",
-      "media_size_bytes": 4216751,
-      "media_size_human": "4.02 MB",
+      "media_size_bytes": 7184977,
+      "media_size_human": "6.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360736_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360736_video.mp4",
+      "media_local_path": "media/IranintlTV_360737_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360737_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.988449+00:00"
+      "archived_at": "2026-10-05T09:10:36.228322+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.268634+00:00"
+      "archived_at": "2026-10-05T09:10:36.532071+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 121.14 MB)",
-      "archived_at": "2026-10-05T09:00:58.546205+00:00"
+      "archived_at": "2026-10-05T09:10:36.802753+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711600+00:00"
+      "archived_at": "2026-10-05T09:10:35.957260+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360735,
-      "message_link": "https://t.me/IranintlTV/360735",
-      "text": "علی عبداللهی، رییس ستادکل نیروهای مسلح، در پیامی نوشت که اگر جنگ جدید آغاز شود، آتش آن دامن همه را فرا خواهد گرفت.\n\nعبداللهی اضافه کرد اگر به هر دلیلی اسرائیل مجددا دچار خطای محاسباتی شود و آغازگر جنگی دیگر باشد، خشم نیروهای مسلح، آمال و آرزوهای آن‌ها را بر باد خواهد داد.\n\nرییس ستادکل نیروهای مسلح ادامه داد: «ترامپ بداند جمهوری اسلامی منتظر نتایج انتخابات کنگره آمریکا نبوده و نیست. چه قبل و چه بعد از انتخابات و با هر نتیجه‌ای اگر آمریکا خود و یا به تحریک اسرائیل، علیه ما اقدام نماید، نیروهای مسلح، با شدت و قدرت و به صورت دردآور منافع آمریکا را بدون محدودیت، هدف قرار خواهند داد.»\n\nعبداللهی افزود: «کشورهای میزبان آمریکا در منطقه بدانند عامل اصلی ناامنی و بروز مشکلات اقتصادی، حضور ارتش آمریکا در منطقه است و تا این حضور، ادامه داشته باشد، ناامنی نیز وجود خواهد داشت. آگاه باشید اگر جنگ جدیدی آغاز شود، آتش آن دامن همه را فرا خواهد گرفت.»\n\nعبداللهی گفت که به سازمان‌های بین‌المللی به‌ویژه آژانس انرژی اتمی هشدار می‌دهیم از ادامه اظهارنظرهای بی‌اساس در مورد مراکز هسته‌ای ایران پرهیز نمایند.\nhttps://iranintl.com/202610",
+      "message_id": 360736,
+      "message_link": "https://t.me/IranintlTV/360736",
+      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به گذشت شش ماه از آتش‌بس میان جمهوری اسلامی و آمریکا گفت روابط دو طرف همچنان در وضعیت «نه جنگ، نه صلح» و در عین حال به‌شدت ناپایدار قرار دارد؛ وضعیتی که با افزایش فشار اقتصادی آمریکا و تقویت حضور نظامی این کشور در منطقه همراه شده است.\n\nاو افزود مواضع دو طرف و افزایش ظرفیت نظامی آمریکا نشانه‌ای از حرکت به سمت توافق نیست و شکستن این بن‌بست فقط با یک جنگ فراگیر ممکن خواهد بود.\n\nکاظمیان همچنین گفت ادامه این وضعیت فشار معیشتی بر مردم را بیشتر می‌کند و همه شواهد از احتمال یک انفجار اجتماعی حکایت دارد.\n@iranintltv",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "12:19:45",
-      "gregorian_utc": "2026-10-05T08:49:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 167432,
-      "media_size_human": "163.51 KB",
+      "tehran_time": "12:27:13",
+      "gregorian_utc": "2026-10-05T08:57:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4216751,
+      "media_size_human": "4.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360735_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360735_photo.jpg",
+      "media_local_path": "media/IranintlTV_360736_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360736_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.988629+00:00"
+      "archived_at": "2026-10-05T09:10:36.228458+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76577_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76577_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.268727+00:00"
+      "archived_at": "2026-10-05T09:10:36.532160+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121788_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546300+00:00"
+      "archived_at": "2026-10-05T09:10:36.802850+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711630+00:00"
+      "archived_at": "2026-10-05T09:10:35.957301+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360734,
-      "message_link": "https://t.me/IranintlTV/360734",
-      "text": "احمد بخشایش اردستانی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، دوشنبه ۱۳ مهر گفت: «میانجی‌ها قدرت کافی ندارند. قطر و عمان تلاش می‌کنند، اما کشورهایی مانند عربستان سعودی و امارات متحده عربی در مسیر این تلاش‌ها مانع ایجاد می‌کنند، چراکه برای آنها دشوار است ایران به‌عنوان یک قدرت منطقه‌ای ظهور کند.»\n\nاو افزود: «ترامپ مرتب می‌گوید بعد از انتخابات ایران را می‌زند. شاید یک حمله کوتاه‌مدت در پیش باشد و بخواهند فریب دهند. با این حال، ایران آمادگی دارد و ترس آن نیز تا حدودی ریخته است. برخی فرماندهان ما پیش از جنگ ۱۲ روزه و جنگ ۴۰ روزه، آمریکا را قدرتمند می‌دانستند، اما اکنون این نگاه تغییر کرده است.»\n\nبخشایش اردستانی گفت: «برخی معتقدند ترامپ از احتمال ترور خود توسط ایران نگران است و به همین دلیل می‌خواهد جمهوری اسلامی را هدف قرار دهد تا کسی باقی نماند که او را ترور کند.»\nhttps://iranintl.com/202610054648",
+      "message_id": 360735,
+      "message_link": "https://t.me/IranintlTV/360735",
+      "text": "علی عبداللهی، رییس ستادکل نیروهای مسلح، در پیامی نوشت که اگر جنگ جدید آغاز شود، آتش آن دامن همه را فرا خواهد گرفت.\n\nعبداللهی اضافه کرد اگر به هر دلیلی اسرائیل مجددا دچار خطای محاسباتی شود و آغازگر جنگی دیگر باشد، خشم نیروهای مسلح، آمال و آرزوهای آن‌ها را بر باد خواهد داد.\n\nرییس ستادکل نیروهای مسلح ادامه داد: «ترامپ بداند جمهوری اسلامی منتظر نتایج انتخابات کنگره آمریکا نبوده و نیست. چه قبل و چه بعد از انتخابات و با هر نتیجه‌ای اگر آمریکا خود و یا به تحریک اسرائیل، علیه ما اقدام نماید، نیروهای مسلح، با شدت و قدرت و به صورت دردآور منافع آمریکا را بدون محدودیت، هدف قرار خواهند داد.»\n\nعبداللهی افزود: «کشورهای میزبان آمریکا در منطقه بدانند عامل اصلی ناامنی و بروز مشکلات اقتصادی، حضور ارتش آمریکا در منطقه است و تا این حضور، ادامه داشته باشد، ناامنی نیز وجود خواهد داشت. آگاه باشید اگر جنگ جدیدی آغاز شود، آتش آن دامن همه را فرا خواهد گرفت.»\n\nعبداللهی گفت که به سازمان‌های بین‌المللی به‌ویژه آژانس انرژی اتمی هشدار می‌دهیم از ادامه اظهارنظرهای بی‌اساس در مورد مراکز هسته‌ای ایران پرهیز نمایند.\nhttps://iranintl.com/202610",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "12:11:59",
-      "gregorian_utc": "2026-10-05T08:41:59+00:00",
+      "tehran_time": "12:19:45",
+      "gregorian_utc": "2026-10-05T08:49:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 162006,
-      "media_size_human": "158.21 KB",
+      "media_size_bytes": 167432,
+      "media_size_human": "163.51 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360734_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360734_photo.jpg",
+      "media_local_path": "media/IranintlTV_360735_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360735_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.988747+00:00"
+      "archived_at": "2026-10-05T09:10:36.228630+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.268943+00:00"
+      "archived_at": "2026-10-05T09:10:36.532373+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121787_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121787_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546362+00:00"
+      "archived_at": "2026-10-05T09:10:36.802922+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711665+00:00"
+      "archived_at": "2026-10-05T09:10:35.957341+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360733,
-      "message_link": "https://t.me/IranintlTV/360733",
-      "text": "در جریان سخنرانی حسین رحیمی، رییس پلیس امنیت اقتصادی، درباره افزایش قیمت دلار، برق محل برگزاری سخنرانی قطع شد.\n@iranintltv",
+      "message_id": 360734,
+      "message_link": "https://t.me/IranintlTV/360734",
+      "text": "احمد بخشایش اردستانی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، دوشنبه ۱۳ مهر گفت: «میانجی‌ها قدرت کافی ندارند. قطر و عمان تلاش می‌کنند، اما کشورهایی مانند عربستان سعودی و امارات متحده عربی در مسیر این تلاش‌ها مانع ایجاد می‌کنند، چراکه برای آنها دشوار است ایران به‌عنوان یک قدرت منطقه‌ای ظهور کند.»\n\nاو افزود: «ترامپ مرتب می‌گوید بعد از انتخابات ایران را می‌زند. شاید یک حمله کوتاه‌مدت در پیش باشد و بخواهند فریب دهند. با این حال، ایران آمادگی دارد و ترس آن نیز تا حدودی ریخته است. برخی فرماندهان ما پیش از جنگ ۱۲ روزه و جنگ ۴۰ روزه، آمریکا را قدرتمند می‌دانستند، اما اکنون این نگاه تغییر کرده است.»\n\nبخشایش اردستانی گفت: «برخی معتقدند ترامپ از احتمال ترور خود توسط ایران نگران است و به همین دلیل می‌خواهد جمهوری اسلامی را هدف قرار دهد تا کسی باقی نماند که او را ترور کند.»\nhttps://iranintl.com/202610054648",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "12:07:01",
-      "gregorian_utc": "2026-10-05T08:37:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 319987,
-      "media_size_human": "312.49 KB",
+      "tehran_time": "12:11:59",
+      "gregorian_utc": "2026-10-05T08:41:59+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162006,
+      "media_size_human": "158.21 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360733_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360733_video.mp4",
+      "media_local_path": "media/IranintlTV_360734_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360734_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.988801+00:00"
+      "archived_at": "2026-10-05T09:10:36.228779+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76575_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76575_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269010+00:00"
+      "archived_at": "2026-10-05T09:10:36.532426+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121786_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546394+00:00"
+      "archived_at": "2026-10-05T09:10:36.802962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711697+00:00"
+      "archived_at": "2026-10-05T09:10:35.957374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360732,
-      "message_link": "https://t.me/IranintlTV/360732",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن آمریکا یکشنبه ۱۲ مهر در اعتراض به اعدام‌های جمهوری اسلامی در شهر آستین ایالت تگزاس تجمع کردند.",
+      "message_id": 360733,
+      "message_link": "https://t.me/IranintlTV/360733",
+      "text": "در جریان سخنرانی حسین رحیمی، رییس پلیس امنیت اقتصادی، درباره افزایش قیمت دلار، برق محل برگزاری سخنرانی قطع شد.\n@iranintltv",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "12:04:16",
-      "gregorian_utc": "2026-10-05T08:34:16+00:00",
+      "tehran_time": "12:07:01",
+      "gregorian_utc": "2026-10-05T08:37:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 4744141,
-      "media_size_human": "4.52 MB",
+      "media_size_bytes": 319987,
+      "media_size_human": "312.49 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360732_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360732_video.mp4",
+      "media_local_path": "media/IranintlTV_360733_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360733_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.988839+00:00"
+      "archived_at": "2026-10-05T09:10:36.228846+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76574_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76574_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269047+00:00"
+      "archived_at": "2026-10-05T09:10:36.532468+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.546453+00:00"
+      "archived_at": "2026-10-05T09:10:36.803025+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711725+00:00"
+      "archived_at": "2026-10-05T09:10:35.957408+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360731,
-      "message_link": "https://t.me/IranintlTV/360731",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - دوشنبه ۱۳ مهر\n**\n🔹از اهواز: اول سال پول سرویس بچه رو دادم، ولی هنوز سرویس ندارن. مدرسه غیرانتفاعی بابت ثبت‌نام ۹۲ میلیون تومان گرفت، بعد پیام دادند که یک بسته ورق A4، یک بسته دستکش یک‌بارمصرف و دستمال کاغذی بچه‌ها با خودشون ببرن مدرسه.\n\n🔹از همدان: این‌قدر شرایط زندگی در ایران سخت شده که شغل‌مان را از دست دادیم و حتی توانایی خرید نان خالی هم نداریم. سه فرزند دارم که امسال به‌دلیل افزایش شدید قیمت لوازم مدرسه و شهریه سنگین نتوانستم آن‌ها را به مدرسه بفرستم.\n\n🔹از شهریار: من یک کارگرم، از برج ۲ دیگه بیمه‌هامون رو واریز نکردن. وقتی مریض می‌شیم، نمی‌دونیم باید چیکار کنیم. حقوق رو هم درست‌وحسابی نمی‌دن، هر سه ماه یک‌بار ۱۰ میلیون تومان واریز می‌کنند که اصلاً کفاف نمی‌ده.\n\n🔹از مشهد: زنگ آخر در مدرسه ما یک ماشین پلیس آوردند با تعداد زیادی از نیروها و فرماندهان بسیج. کلاس دهمی‌ها رو بردن حیاط و در مورد جذب در بسیج باهاشون صحبت کردن.\n\n🔹از نیروهای حجمی شرکت خصولتی مترو با نام شرکت «گار» هستم. با کمترین میزان حقوق در خط ۶ مترو کار می‌کنم. گرانی بیداد می‌کنه و درصد کمی از پول دریافتی رو به ما می‌دن. هر اعتراض هم باعث اخراج کارگر می‌شه.\n\n🔹از مشهد: تمام دیوارهای مدرسه پر شده از عکس خامنه‌ای و خمینی و مجتبی. حس می‌کنی وارد یه محل سیاسی شدی تا مدرسه و جای تحصیل. ناظم و معاون تدریس می‌کنن. معلم ریاضی میاد علوم درس می‌ده و همه‌چی قاطی شده.",
+      "message_id": 360732,
+      "message_link": "https://t.me/IranintlTV/360732",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن آمریکا یکشنبه ۱۲ مهر در اعتراض به اعدام‌های جمهوری اسلامی در شهر آستین ایالت تگزاس تجمع کردند.",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:57:50",
-      "gregorian_utc": "2026-10-05T08:27:50+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.001055+00:00"
+      "tehran_time": "12:04:16",
+      "gregorian_utc": "2026-10-05T08:34:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4744141,
+      "media_size_human": "4.52 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_360732_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360732_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-05T09:10:36.228885+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76573_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76573_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269113+00:00"
+      "archived_at": "2026-10-05T09:10:36.532540+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.546545+00:00"
+      "archived_at": "2026-10-05T09:10:36.803117+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": "media/zedTV_14408_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14408_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.711839+00:00"
+      "archived_at": "2026-10-05T09:10:35.957516+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360730,
-      "message_link": "https://t.me/IranintlTV/360730",
-      "text": "اسرائیل از دوشنبه برگزاری مراسم رسمی سومین سالگرد حمله هفتم اکتبر را آغاز می‌کند. مراسم اصلی در کوه هرتسل اورشلیم با حضور مقام‌های ارشد سیاسی و امنیتی اسرائیل و نمایندگان خانواده‌های قربانیان برگزار خواهد شد.\n\nاسحاق هرتسوگ، بنیامین نتانیاهو، یسرائیل کاتس و ایال زمیر از جمله حاضران در این مراسم هستند.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
+      "message_id": 360731,
+      "message_link": "https://t.me/IranintlTV/360731",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - دوشنبه ۱۳ مهر\n**\n🔹از اهواز: اول سال پول سرویس بچه رو دادم، ولی هنوز سرویس ندارن. مدرسه غیرانتفاعی بابت ثبت‌نام ۹۲ میلیون تومان گرفت، بعد پیام دادند که یک بسته ورق A4، یک بسته دستکش یک‌بارمصرف و دستمال کاغذی بچه‌ها با خودشون ببرن مدرسه.\n\n🔹از همدان: این‌قدر شرایط زندگی در ایران سخت شده که شغل‌مان را از دست دادیم و حتی توانایی خرید نان خالی هم نداریم. سه فرزند دارم که امسال به‌دلیل افزایش شدید قیمت لوازم مدرسه و شهریه سنگین نتوانستم آن‌ها را به مدرسه بفرستم.\n\n🔹از شهریار: من یک کارگرم، از برج ۲ دیگه بیمه‌هامون رو واریز نکردن. وقتی مریض می‌شیم، نمی‌دونیم باید چیکار کنیم. حقوق رو هم درست‌وحسابی نمی‌دن، هر سه ماه یک‌بار ۱۰ میلیون تومان واریز می‌کنند که اصلاً کفاف نمی‌ده.\n\n🔹از مشهد: زنگ آخر در مدرسه ما یک ماشین پلیس آوردند با تعداد زیادی از نیروها و فرماندهان بسیج. کلاس دهمی‌ها رو بردن حیاط و در مورد جذب در بسیج باهاشون صحبت کردن.\n\n🔹از نیروهای حجمی شرکت خصولتی مترو با نام شرکت «گار» هستم. با کمترین میزان حقوق در خط ۶ مترو کار می‌کنم. گرانی بیداد می‌کنه و درصد کمی از پول دریافتی رو به ما می‌دن. هر اعتراض هم باعث اخراج کارگر می‌شه.\n\n🔹از مشهد: تمام دیوارهای مدرسه پر شده از عکس خامنه‌ای و خمینی و مجتبی. حس می‌کنی وارد یه محل سیاسی شدی تا مدرسه و جای تحصیل. ناظم و معاون تدریس می‌کنن. معلم ریاضی میاد علوم درس می‌ده و همه‌چی قاطی شده.",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:49:52",
-      "gregorian_utc": "2026-10-05T08:19:52+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3087700,
-      "media_size_human": "2.94 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360730_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360730_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001236+00:00"
+      "tehran_time": "11:57:50",
+      "gregorian_utc": "2026-10-05T08:27:50+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-05T09:10:36.239402+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76572_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76572_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269162+00:00"
+      "archived_at": "2026-10-05T09:10:36.532595+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-05T09:00:58.546619+00:00"
+      "archived_at": "2026-10-05T09:10:36.803198+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.711878+00:00"
+      "archived_at": "2026-10-05T09:10:35.957561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360729,
-      "message_link": "https://t.me/IranintlTV/360729",
-      "text": "علی فدوی، رییس گروه مشاوران فرمانده کل سپاه پاسداران، شامگاه یک‌شنبه ۱۲ مهر در یک برنامه خبری به نقش همسرش در تاسیس مدارس شجره طیبه اشاره کرد و گفت او موسس ۹۷ شعبه از این مدارس در جنوب کشور، از جمله مدرسه میناب، بوده است.\n\nفدوی افزود همسرش در جنگ ۱۲ روزه کشته شده است.\n\nمدرسه شجره طیبه در میناب ۹ اسفند ۱۴۰۴ در نخستین روز جنگ ۴۰ روزه هدف قرار گرفت. در این حمله تعدادی از غیرنظامیان کشته شدند.\n@iranintltv",
+      "message_id": 360730,
+      "message_link": "https://t.me/IranintlTV/360730",
+      "text": "اسرائیل از دوشنبه برگزاری مراسم رسمی سومین سالگرد حمله هفتم اکتبر را آغاز می‌کند. مراسم اصلی در کوه هرتسل اورشلیم با حضور مقام‌های ارشد سیاسی و امنیتی اسرائیل و نمایندگان خانواده‌های قربانیان برگزار خواهد شد.\n\nاسحاق هرتسوگ، بنیامین نتانیاهو، یسرائیل کاتس و ایال زمیر از جمله حاضران در این مراسم هستند.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:47:46",
-      "gregorian_utc": "2026-10-05T08:17:46+00:00",
+      "tehran_time": "11:49:52",
+      "gregorian_utc": "2026-10-05T08:19:52+00:00",
       "media_type": "video",
-      "media_size_bytes": 673411,
-      "media_size_human": "657.63 KB",
+      "media_size_bytes": 3087700,
+      "media_size_human": "2.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360729_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360729_video.mp4",
+      "media_local_path": "media/IranintlTV_360730_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360730_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001333+00:00"
+      "archived_at": "2026-10-05T09:10:36.239514+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76571_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76571_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269238+00:00"
+      "archived_at": "2026-10-05T09:10:36.532699+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-05T09:00:58.546671+00:00"
+      "archived_at": "2026-10-05T09:10:36.803259+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": "media/zedTV_14406_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14406_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.711929+00:00"
+      "archived_at": "2026-10-05T09:10:35.957616+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360728,
-      "message_link": "https://t.me/IranintlTV/360728",
-      "text": "صادق محصولی، دبیر کل جبهه پایداری، به خبرگزاری فارس گفت: «متاسفانه در بحث ولنگاری فرهنگی در جامعه که امروز دیگر به حجاب محصور نمی‌گردد، به مرز برهنگی رسیده‌ایم. در این فضا اغلب مسئولین ما خنثی ایستاده‌اند و به روند رو به اضمحلال فرهنگ و پوشش ایرانی فقط نظاره می‌کنند.»\n\nاو ادامه داد: «رسیدن به این نقطه به بسیاری از مسئولین که می‌گفتند عرف جامعه نخواهد گذاشت برهنگی رخ بدهد، صحنه را به وضوح نشان داد که رها کردن موضوع حجاب، منجر به تنظیم شدن آن با عرف نخواهد شد، بلکه منجر به شکسته شدن یک به یک سدهای فرهنگی جامعه خواهد گردید.»\nhttps://iranintl.com/202610057179",
+      "message_id": 360729,
+      "message_link": "https://t.me/IranintlTV/360729",
+      "text": "علی فدوی، رییس گروه مشاوران فرمانده کل سپاه پاسداران، شامگاه یک‌شنبه ۱۲ مهر در یک برنامه خبری به نقش همسرش در تاسیس مدارس شجره طیبه اشاره کرد و گفت او موسس ۹۷ شعبه از این مدارس در جنوب کشور، از جمله مدرسه میناب، بوده است.\n\nفدوی افزود همسرش در جنگ ۱۲ روزه کشته شده است.\n\nمدرسه شجره طیبه در میناب ۹ اسفند ۱۴۰۴ در نخستین روز جنگ ۴۰ روزه هدف قرار گرفت. در این حمله تعدادی از غیرنظامیان کشته شدند.\n@iranintltv",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:34:03",
-      "gregorian_utc": "2026-10-05T08:04:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 158448,
-      "media_size_human": "154.73 KB",
+      "tehran_time": "11:47:46",
+      "gregorian_utc": "2026-10-05T08:17:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 673411,
+      "media_size_human": "657.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360728_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360728_photo.jpg",
+      "media_local_path": "media/IranintlTV_360729_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360729_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001449+00:00"
+      "archived_at": "2026-10-05T09:10:36.239604+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76568_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76568_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269268+00:00"
+      "archived_at": "2026-10-05T09:10:36.532743+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_121781_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121781_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546717+00:00"
+      "archived_at": "2026-10-05T09:10:36.803317+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": "media/zedTV_14405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:57.711982+00:00"
+      "archived_at": "2026-10-05T09:10:35.957685+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360727,
-      "message_link": "https://t.me/IranintlTV/360727",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال ایجاد سروصدا و مزاحمت تجمع‌کنندگان شبانه حکومتی را برای مردم نشان می‌دهد.",
+      "message_id": 360728,
+      "message_link": "https://t.me/IranintlTV/360728",
+      "text": "صادق محصولی، دبیر کل جبهه پایداری، به خبرگزاری فارس گفت: «متاسفانه در بحث ولنگاری فرهنگی در جامعه که امروز دیگر به حجاب محصور نمی‌گردد، به مرز برهنگی رسیده‌ایم. در این فضا اغلب مسئولین ما خنثی ایستاده‌اند و به روند رو به اضمحلال فرهنگ و پوشش ایرانی فقط نظاره می‌کنند.»\n\nاو ادامه داد: «رسیدن به این نقطه به بسیاری از مسئولین که می‌گفتند عرف جامعه نخواهد گذاشت برهنگی رخ بدهد، صحنه را به وضوح نشان داد که رها کردن موضوع حجاب، منجر به تنظیم شدن آن با عرف نخواهد شد، بلکه منجر به شکسته شدن یک به یک سدهای فرهنگی جامعه خواهد گردید.»\nhttps://iranintl.com/202610057179",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:32:55",
-      "gregorian_utc": "2026-10-05T08:02:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 9574812,
-      "media_size_human": "9.13 MB",
+      "tehran_time": "11:34:03",
+      "gregorian_utc": "2026-10-05T08:04:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 158448,
+      "media_size_human": "154.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360727_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360727_video.mp4",
+      "media_local_path": "media/IranintlTV_360728_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360728_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001485+00:00"
+      "archived_at": "2026-10-05T09:10:36.239757+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76567_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76567_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269308+00:00"
+      "archived_at": "2026-10-05T09:10:36.532796+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_121780_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121780_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546790+00:00"
+      "archived_at": "2026-10-05T09:10:36.803403+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.712005+00:00"
+      "archived_at": "2026-10-05T09:10:35.957717+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360726,
-      "message_link": "https://t.me/IranintlTV/360726",
-      "text": "🔻به گزارش آژانس خبری کردپا، آیدا قادری، مربی ۲۰ ساله شنا اهل سقز، یکشنبه ۱۲ مهر ۱۴۰۵، توسط نیروهای امنیتی جمهوری اسلامی بازداشت و به مکان نامعلومی منتقل شد.\n\n🔹یک منبع مطلع به کردپا گفته است که نیروهای امنیتی اداره اطلاعات به خانه خانوادگی آیدا قادری یورش برده و بدون ارائه حکم قضایی، او را بازداشت و به مکان نامعلومی منتقل کرده‌اند.\n\n🔹شنبه ۱۱ مهر ۱۴۰۵، یک روز پیش از بازداشت آیدا قادری، روژان ابراهیمی، زن ورزشکار ۲۰ ساله رشته MMA اهل سقز هم توسط نیروهای امنیتی بازداشت و به مکان نامعلومی منتقل شد.\n\n🔹از دلیل بازداشت این دو زن جوان اطلاعی در دست نیست.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 360727,
+      "message_link": "https://t.me/IranintlTV/360727",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال ایجاد سروصدا و مزاحمت تجمع‌کنندگان شبانه حکومتی را برای مردم نشان می‌دهد.",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:29:12",
-      "gregorian_utc": "2026-10-05T07:59:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 194193,
-      "media_size_human": "189.64 KB",
+      "tehran_time": "11:32:55",
+      "gregorian_utc": "2026-10-05T08:02:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9574812,
+      "media_size_human": "9.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360726_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360726_photo.jpg",
+      "media_local_path": "media/IranintlTV_360727_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360727_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001601+00:00"
+      "archived_at": "2026-10-05T09:10:36.239808+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76566_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76566_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269337+00:00"
+      "archived_at": "2026-10-05T09:10:36.532834+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_121779_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121779_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546841+00:00"
+      "archived_at": "2026-10-05T09:10:36.803470+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.712027+00:00"
+      "archived_at": "2026-10-05T09:10:35.957744+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360725,
-      "message_link": "https://t.me/IranintlTV/360725",
-      "text": "معاون نخست‌وزیر و وزیر خارجه پاکستان همراه با هیاتی سیاسی و نظامی برای شرکت در نشست سه‌جانبه پاکستان، ترکیه و عربستان سعودی راهی ریاض می‌شوند.\n\nاین نشست در چارچوب پیمان دفاعی مکه و هم‌زمان با تشدید حملات حوثی‌ها به عربستان سعودی برگزار خواهد شد.\n\nگفت‌وگو با جواد همدانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 360726,
+      "message_link": "https://t.me/IranintlTV/360726",
+      "text": "🔻به گزارش آژانس خبری کردپا، آیدا قادری، مربی ۲۰ ساله شنا اهل سقز، یکشنبه ۱۲ مهر ۱۴۰۵، توسط نیروهای امنیتی جمهوری اسلامی بازداشت و به مکان نامعلومی منتقل شد.\n\n🔹یک منبع مطلع به کردپا گفته است که نیروهای امنیتی اداره اطلاعات به خانه خانوادگی آیدا قادری یورش برده و بدون ارائه حکم قضایی، او را بازداشت و به مکان نامعلومی منتقل کرده‌اند.\n\n🔹شنبه ۱۱ مهر ۱۴۰۵، یک روز پیش از بازداشت آیدا قادری، روژان ابراهیمی، زن ورزشکار ۲۰ ساله رشته MMA اهل سقز هم توسط نیروهای امنیتی بازداشت و به مکان نامعلومی منتقل شد.\n\n🔹از دلیل بازداشت این دو زن جوان اطلاعی در دست نیست.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:22:24",
-      "gregorian_utc": "2026-10-05T07:52:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3213710,
-      "media_size_human": "3.06 MB",
+      "tehran_time": "11:29:12",
+      "gregorian_utc": "2026-10-05T07:59:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 194193,
+      "media_size_human": "189.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360725_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360725_video.mp4",
+      "media_local_path": "media/IranintlTV_360726_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360726_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001671+00:00"
+      "archived_at": "2026-10-05T09:10:36.239926+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76565_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76565_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269395+00:00"
+      "archived_at": "2026-10-05T09:10:36.532905+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_121778_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121778_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546878+00:00"
+      "archived_at": "2026-10-05T09:10:36.803521+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.712047+00:00"
+      "archived_at": "2026-10-05T09:10:35.957775+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360724,
-      "message_link": "https://t.me/IranintlTV/360724",
-      "text": "عبدالناصر همتی، رییس کل بانک مرکزی گفت: «با مقاومت نیروهای مسلح ما، آمریکا و اسرائیل نتوانستند از طریق جنگ به اهداف خود برسند. لذا اینک وارد فاز جنگ اقتصادی شده‌اند و بخش مالی و بازار ارز را هدف قرار داده‌اند.»\n\nبه گزارش خبرگزاری تسنیم، رییس کل بانک مرکزی افزود: «بانک مرکزی بر اساس اختیارات قانونی خود هر آنچه ضروری بداند برای مدیریت بازار ارز انجام می‌دهد.»\n\nاو ادامه داد: «دشمنان در جنگ اقتصادی امیدوار بودند و هستند که با افزایش رشد روزافزون نقدینگی و در نتیجه تداوم رشد تورم، اقتصاد کشور را با التهابات مضاعفی مواجه کنند که به این نتیجه نخواهند رسید.»\nhttps://iranintl.com/202610056322",
+      "message_id": 360725,
+      "message_link": "https://t.me/IranintlTV/360725",
+      "text": "معاون نخست‌وزیر و وزیر خارجه پاکستان همراه با هیاتی سیاسی و نظامی برای شرکت در نشست سه‌جانبه پاکستان، ترکیه و عربستان سعودی راهی ریاض می‌شوند.\n\nاین نشست در چارچوب پیمان دفاعی مکه و هم‌زمان با تشدید حملات حوثی‌ها به عربستان سعودی برگزار خواهد شد.\n\nگفت‌وگو با جواد همدانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:20:15",
-      "gregorian_utc": "2026-10-05T07:50:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 155812,
-      "media_size_human": "152.16 KB",
+      "tehran_time": "11:22:24",
+      "gregorian_utc": "2026-10-05T07:52:24+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3213710,
+      "media_size_human": "3.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360724_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360724_photo.jpg",
+      "media_local_path": "media/IranintlTV_360725_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360725_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.001765+00:00"
+      "archived_at": "2026-10-05T09:10:36.240000+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76562_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76562_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269425+00:00"
+      "archived_at": "2026-10-05T09:10:36.532944+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_121777_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121777_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.546926+00:00"
+      "archived_at": "2026-10-05T09:10:36.803582+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.712071+00:00"
+      "archived_at": "2026-10-05T09:10:35.957804+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360723,
-      "message_link": "https://t.me/IranintlTV/360723",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۳ مهر:**\n\n🔹حتی با گران شدن بنزین مشکل صف‌های طولانی بنزین بندرعباس حل نشد، واقعا کلافه شدیم. حکومت بی‌عرضه‌ها توان رفع این مشکل را هم ندارد.\n\n🔹اجاره مغازه‌م از ۱۰۰ میلیون شده ۳۵۰ میلیون! مردم پول خرید لباس ندارن، منم بعضی روزها فقط یه جنس می‌فروشم… با این دخل، چطور باید این همه خرج رو بدم؟ ما فقط داریم تلاش می‌کنیم ورشکست نشیم.\n\n🔹ارشد معماری دارم، ماهی ۹ تومن حقوق می‌گیرم. گیلان زندگی می‌کنم، هزینه‌ها خیلی زیاده. دو هفته‌ست دارم برنامه‌ریزی می‌کنم برای دکتر رفتن و هنوز نتونستم برم.\n\n🔹از کرج: یکی از کتب کمک‌آموزشی جامع برا پایه ششم رو از مرداد تا الان در تهران و کرج نتونستم پیدا کنم. قیمت چاپ پارسالش ۷۵۰ هزار تومان بود، در سال ۱۴۰۵ که هنوزم چاپ نشده و ناموجوده حدود یک میلیون و ۲۰۰ هزار تومان به بالاست.\n\n🔹از مشهد: نمی‌دونم برا کدوم دردم گریه کنم. مادرم روماتیسم داره، کلی بدهی داریم، اجاره خونه‌مون دو برابر شده و نمی‌تونیم بدیم، تازه صاحب‌خونه و یکی از همسایه‌ها آزارمون می‌دن که بلند شیم، چون قیمت اجاره‌ها به شدت رفته بالا.\n\n🔹هر روز در یک بازه زمانی، اینترنت ثابت دچار اختلال می‌شه. هر بار با پشتیبانی تماس می‌گیرم، جز چند بار خاموش روشن کردن مودم، عملا هیچ کمکی نمی‌کنن. دیگه خسته شدم از این‌که به‌خاطر اینترنت هی زنگ بزنم به پشتیبانی. شده سرویسِ اینترنتِ تلفنی!\n\n🔹از ماهدشت کرج: با این وضعیتی که این حکومت برای مردم ایران ایجاد کرده دیگه مردم نمی‌توانند زندگی کنند و هر روز و هر روز داره آمار دزدی‌های کوچک و بزرگ زیاد و زیادتر می‌شه؛ حتی دزدی نان.",
+      "message_id": 360724,
+      "message_link": "https://t.me/IranintlTV/360724",
+      "text": "عبدالناصر همتی، رییس کل بانک مرکزی گفت: «با مقاومت نیروهای مسلح ما، آمریکا و اسرائیل نتوانستند از طریق جنگ به اهداف خود برسند. لذا اینک وارد فاز جنگ اقتصادی شده‌اند و بخش مالی و بازار ارز را هدف قرار داده‌اند.»\n\nبه گزارش خبرگزاری تسنیم، رییس کل بانک مرکزی افزود: «بانک مرکزی بر اساس اختیارات قانونی خود هر آنچه ضروری بداند برای مدیریت بازار ارز انجام می‌دهد.»\n\nاو ادامه داد: «دشمنان در جنگ اقتصادی امیدوار بودند و هستند که با افزایش رشد روزافزون نقدینگی و در نتیجه تداوم رشد تورم، اقتصاد کشور را با التهابات مضاعفی مواجه کنند که به این نتیجه نخواهند رسید.»\nhttps://iranintl.com/202610056322",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:10:13",
-      "gregorian_utc": "2026-10-05T07:40:13+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.001954+00:00"
+      "tehran_time": "11:20:15",
+      "gregorian_utc": "2026-10-05T07:50:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 155812,
+      "media_size_human": "152.16 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_360724_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360724_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-05T09:10:36.240096+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76561_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76561_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.269486+00:00"
+      "archived_at": "2026-10-05T09:10:36.533016+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.546974+00:00"
+      "archived_at": "2026-10-05T09:10:36.803628+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:57.712091+00:00"
+      "archived_at": "2026-10-05T09:10:35.957833+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 360722,
-      "message_link": "https://t.me/IranintlTV/360722",
-      "text": "محمدامین آقامیری، دبیر شورای عالی و رییس مرکز ملی فضای مجازی، با اشاره به قطع سراسری اینترنت در ایران در دی‌ماه سال گذشته گفت: «ایران اولین کشوری بود که توانست به‌صورت مدیریت‌شده تمام پایانه‌های استارلینک را از کار بیندازد.»\nاو افزود: «ما یکی از فناوری‌هایمان را استفاده کردیم. فناوری‌های دیگری هم آماده هستند و هر لحظه که جمهوری اسلامی اراده کند، چه در بعد شناسایی و چه در بعد جلوگیری از استفاده، از نظر فنی کاملا عملیاتی خواهد بود.»\nآقامیری درباره استارلینک گفت: «آنها به‌عنوان ابزار جنگی از زیرساخت شبکه خود استفاده می‌کنند و زیرساخت شبکه‌شان می‌تواند هدف مشروع نظامی محسوب شود. در همه سطوح آمادگی لازم را داریم تا برخورد مقتضی را به نحوی که مدنظر حکمرانی جمهوری اسلامی است، پیش ببریم.»\nhttps://iranintl.com/202610054435",
+      "message_id": 360723,
+      "message_link": "https://t.me/IranintlTV/360723",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۳ مهر:**\n\n🔹حتی با گران شدن بنزین مشکل صف‌های طولانی بنزین بندرعباس حل نشد، واقعا کلافه شدیم. حکومت بی‌عرضه‌ها توان رفع این مشکل را هم ندارد.\n\n🔹اجاره مغازه‌م از ۱۰۰ میلیون شده ۳۵۰ میلیون! مردم پول خرید لباس ندارن، منم بعضی روزها فقط یه جنس می‌فروشم… با این دخل، چطور باید این همه خرج رو بدم؟ ما فقط داریم تلاش می‌کنیم ورشکست نشیم.\n\n🔹ارشد معماری دارم، ماهی ۹ تومن حقوق می‌گیرم. گیلان زندگی می‌کنم، هزینه‌ها خیلی زیاده. دو هفته‌ست دارم برنامه‌ریزی می‌کنم برای دکتر رفتن و هنوز نتونستم برم.\n\n🔹از کرج: یکی از کتب کمک‌آموزشی جامع برا پایه ششم رو از مرداد تا الان در تهران و کرج نتونستم پیدا کنم. قیمت چاپ پارسالش ۷۵۰ هزار تومان بود، در سال ۱۴۰۵ که هنوزم چاپ نشده و ناموجوده حدود یک میلیون و ۲۰۰ هزار تومان به بالاست.\n\n🔹از مشهد: نمی‌دونم برا کدوم دردم گریه کنم. مادرم روماتیسم داره، کلی بدهی داریم، اجاره خونه‌مون دو برابر شده و نمی‌تونیم بدیم، تازه صاحب‌خونه و یکی از همسایه‌ها آزارمون می‌دن که بلند شیم، چون قیمت اجاره‌ها به شدت رفته بالا.\n\n🔹هر روز در یک بازه زمانی، اینترنت ثابت دچار اختلال می‌شه. هر بار با پشتیبانی تماس می‌گیرم، جز چند بار خاموش روشن کردن مودم، عملا هیچ کمکی نمی‌کنن. دیگه خسته شدم از این‌که به‌خاطر اینترنت هی زنگ بزنم به پشتیبانی. شده سرویسِ اینترنتِ تلفنی!\n\n🔹از ماهدشت کرج: با این وضعیتی که این حکومت برای مردم ایران ایجاد کرده دیگه مردم نمی‌توانند زندگی کنند و هر روز و هر روز داره آمار دزدی‌های کوچک و بزرگ زیاد و زیادتر می‌شه؛ حتی دزدی نان.",
       "shamsi_date": "1405/07/13",
-      "tehran_time": "11:05:52",
-      "gregorian_utc": "2026-10-05T07:35:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 126666,
-      "media_size_human": "123.70 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_360722_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_360722_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.002078+00:00"
+      "tehran_time": "11:10:13",
+      "gregorian_utc": "2026-10-05T07:40:13+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-05T09:10:36.240290+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-05T09:00:58.269552+00:00"
+      "archived_at": "2026-10-05T09:10:36.533090+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121775_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121775_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-05T09:00:58.547046+00:00"
+      "archived_at": "2026-10-05T09:10:36.803737+00:00"
     }
   ]
 }
