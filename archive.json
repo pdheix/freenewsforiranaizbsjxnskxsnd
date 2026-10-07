@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T07:26:05.492715+00:00",
-  "shamsi_generated": "1405/07/15 07:26:05 تهران",
+  "generated_at": "2026-10-07T07:36:34.686115+00:00",
+  "shamsi_generated": "1405/07/15 07:36:34 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": "media/zedTV_14501_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14501_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.519356+00:00"
+      "archived_at": "2026-10-07T07:30:45.926005+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361081,
-      "message_link": "https://t.me/IranintlTV/361081",
-      "text": "هم‌زمان با سومین سالگرد حملات هفتم اکتبر، نخست‌وزیر استرالیا بر مقابله با یهودستیزی و خلع سلاح حماس تاکید کرد.\n\nصدها نفر نیز در ساحل بوندای سیدنی برای ادای احترام به قربانیان تجمع کردند.\n\nجزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 361086,
+      "message_link": "https://t.me/IranintlTV/361086",
+      "text": "یک منبع مطلع نزدیک به خانواده علیرضا رئیسی به ایران‌اینترنشنال گفت ماموران امنیتی پس از اعدام او، پدرش را با چشم‌بند برای خاکسپاری منتقل کردند و بدون آن‌که محل دقیق دفن را به او نشان دهند، بازگرداندند.\nبه گفته این منبع، پدر علیرضا همراه دو نفر دیگر، بدون تلفن همراه و با چشم‌بند، حدود دو ساعت در مسیر بوده است. خاکسپاری در منطقه‌ای بیابانی در اطراف اصفهان انجام شده و هیچ نشانی از محل دقیق قبر در اختیار خانواده قرار نگرفته است.\nمقام‌های امنیتی با اشاره به نگرانی از تجمع بستگان گفته‌اند محل دفن را بعدا اعلام خواهند کرد.\nدر سامانه جست‌وجوی متوفیان، محل خاکسپاری علیرضا رئیسی «نطنز» ثبت شده است؛ با این حال خانواده او همچنان نمی‌دانند پیکرش دقیقا در کجا به خاک سپرده شده است.\n@iranintitv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:48:27",
-      "gregorian_utc": "2026-10-07T07:18:27+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2961808,
-      "media_size_human": "2.82 MB",
+      "tehran_time": "10:59:21",
+      "gregorian_utc": "2026-10-07T07:29:21+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 105480,
+      "media_size_human": "103.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361081_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361081_video.mp4",
+      "media_local_path": "media/IranintlTV_361086_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361086_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.876954+00:00"
+      "archived_at": "2026-10-07T07:30:46.453027+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76591_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76591_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273028+00:00"
+      "archived_at": "2026-10-07T07:30:46.949284+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_121858_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121858_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.682795+00:00"
+      "archived_at": "2026-10-07T07:30:47.443076+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519410+00:00"
+      "archived_at": "2026-10-07T07:30:45.926061+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361080,
-      "message_link": "https://t.me/IranintlTV/361080",
-      "text": "در سومین سالگرد حمله هفتم اکتبر حماس به اسرائیل، تصاویر دوربین‌های مداربسته، خودروها و نیروهای حماس بخش‌هایی از این حمله را ثبت‌شده نشان می‌دهند؛ از حمله به جشنواره موسیقی تا کشتار در مناطق مسکونی.\n\nگزارش آبتین یزدان‌پناه، ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 361085,
+      "message_link": "https://t.me/IranintlTV/361085",
+      "text": "ویدیوهای ارسالی به ایران اینترنشنال نشان می‌دهد گروهی از فعالان سیاسی و دیگر ایرانیان ساکن آلمان سه‌شنبه ۱۴ مهر با تجمع در دو شهر هانوفر و هامبورگ، ضمن اعتراض به اعدام علیرضا سپاهی و علیرضا رئیسی، خواستار آزادی زندانیان سیاسی شدند.\n\nشرکت‌کنندگان همچنین حمایت خود از شاهزاده رضا پهلوی را اعلام کردند و یاد جاویدنامان خیزش‌های مردمی ایران را گرامی داشتند.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:47:42",
-      "gregorian_utc": "2026-10-07T07:17:42+00:00",
+      "tehran_time": "10:58:59",
+      "gregorian_utc": "2026-10-07T07:28:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 3524029,
-      "media_size_human": "3.36 MB",
+      "media_size_bytes": 7269252,
+      "media_size_human": "6.93 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361080_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361080_video.mp4",
+      "media_local_path": "media/IranintlTV_361085_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361085_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877039+00:00"
+      "archived_at": "2026-10-07T07:30:46.453091+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76590_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76590_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273089+00:00"
+      "archived_at": "2026-10-07T07:30:46.949345+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.682866+00:00"
+      "archived_at": "2026-10-07T07:30:47.443148+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519447+00:00"
+      "archived_at": "2026-10-07T07:30:45.926097+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361079,
-      "message_link": "https://t.me/IranintlTV/361079",
-      "text": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، درباره انتقادهای حسین شریعتمداری از محمدباقر قالیباف گفت در واقع این نگرانی حسین شریعتمداری و جبهه پایداری از احتمال توافق پنهانی قالیباف با آمریکا را نشان می‌دهد.\n@iranintltv",
+      "message_id": 361084,
+      "message_link": "https://t.me/IranintlTV/361084",
+      "text": "یک منبع مطلع نزدیک به خانواده علیرضا رئیسی به ایران‌اینترنشنال گفت ماموران امنیتی پس از اعدام او، پدرش را با چشم‌بند برای خاکسپاری منتقل کردند و بدون آن‌که محل دقیق دفن را به او نشان دهند، بازگرداندند.\nبه گفته این منبع، پدر علیرضا همراه دو نفر دیگر، بدون تلفن همراه و با چشم‌بند، حدود دو ساعت در مسیر بوده است. خاکسپاری در منطقه‌ای بیابانی در اطراف اصفهان انجام شده و هیچ نشانی از محل دقیق قبر در اختیار خانواده قرار نگرفته است.\nمقام‌های امنیتی با اشاره به نگرانی از تجمع بستگان گفته‌اند محل دفن را بعدا اعلام خواهند کرد.\nدر سامانه جست‌وجوی متوفیان، محل خاکسپاری علیرضا رئیسی «نطنز» ثبت شده است؛ با این حال خانواده او همچنان نمی‌دانند پیکرش دقیقا در کجا به خاک سپرده شده است.\nhttps://iranintl.com/202610070972",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:40:59",
-      "gregorian_utc": "2026-10-07T07:10:59+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2841846,
-      "media_size_human": "2.71 MB",
+      "tehran_time": "10:58:43",
+      "gregorian_utc": "2026-10-07T07:28:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 154000,
+      "media_size_human": "150.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361079_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361079_video.mp4",
+      "media_local_path": "media/IranintlTV_361084_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361084_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877114+00:00"
+      "archived_at": "2026-10-07T07:30:46.453214+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273133+00:00"
+      "archived_at": "2026-10-07T07:30:46.949390+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121856_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121856_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.682917+00:00"
+      "archived_at": "2026-10-07T07:30:47.443195+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519486+00:00"
+      "archived_at": "2026-10-07T07:30:45.926138+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361078,
-      "message_link": "https://t.me/IranintlTV/361078",
-      "text": "روزنامه خراسان نوشت که نجمه امینی، دختر ۲۳ ساله، به اتهام «سب‌النبی و توهین به ائمه معصومین» در فضای مجازی، از سوی شعبه ششم دادگاه کیفری یک خراسان رضوی به اعدام محکوم شده است.\n\nنجمه امینی پیش‌تر در یک فایل صوتی از زندان وکیل‌آباد مشهد از صدور حکم اعدام برای خود خبر داده بود.\n\nپس از انتشار این فایل صوتی، خبرگزاری فارس، وابسته به سپاه پاسداران، اعلام کرد که هنوز هیچ حکم قطعی برای نجمه امینی صادر نشده و دیوان نیز درباره پرونده او اعلام نظر نکرده است.\nhttps://iranintl.com/202610072720",
+      "message_id": 361083,
+      "message_link": "https://t.me/IranintlTV/361083",
+      "text": "🔻لیونل مسی پس از ۲۱ سال حضور در تیم ملی آرژانتین، در شبی احساسی و با گلزنی مقابل بنین از فوتبال ملی خداحافظی کرد. آرژانتین این دیدار را ۳ بر صفر برد و مسی دوران ملی خود را با ۲۰۸ بازی و ۱۲۶ گل به پایان رساند.\n\n🔹مسی پس از سوت پایان بازی، در حالی که اشک می‌ریخت، مقابل هواداران حاضر شد و درباره دوران حضورش در تیم ملی صحبت کرد.\n\n🔹او گفت: «امروز گفتن هر چیزی خیلی سخت است، چون احساسات بسیار زیادی وجود دارد. اولین چیزی که به آن فکر می‌کنم پدرم است. تمام کاری که می‌توانم انجام دهم این است که از شما تشکر کنم. حتی در بدترین لحظات هم هرگز دست از مبارزه نکشیدم، هرگز تسلیم نشدم و همیشه تمام توانم را گذاشتم.»\n\n🔹مسی ادامه داد: «بازی کردن برای تیم ملی آرژانتین بهترین اتفاقی است که می‌تواند برای یک نفر رخ دهد. این بهترین اتفاقی بود که در زندگی من افتاد.»\n\n🔹کاپیتان سابق آرژانتین همچنین به خاطراتش پس از قهرمانی در جام جهانی ۲۰۲۲ قطر اشاره کرد و گفت حمایت هواداران در سراسر کشور یکی از بهترین لحظات دوران حرفه‌ای او بوده است.\n\n🔹[جزییات بیشتر](https://iranintl.com/202610072573) \n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:31:03",
-      "gregorian_utc": "2026-10-07T07:01:03+00:00",
+      "tehran_time": "10:56:32",
+      "gregorian_utc": "2026-10-07T07:26:32+00:00",
       "media_type": "photo",
-      "media_size_bytes": 141490,
-      "media_size_human": "138.17 KB",
+      "media_size_bytes": 186168,
+      "media_size_human": "181.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361078_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361078_photo.jpg",
+      "media_local_path": "media/IranintlTV_361083_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361083_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877231+00:00"
+      "archived_at": "2026-10-07T07:30:46.465508+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273290+00:00"
+      "archived_at": "2026-10-07T07:30:46.949546+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-07T07:20:43.683134+00:00"
+      "archived_at": "2026-10-07T07:30:47.443391+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519522+00:00"
+      "archived_at": "2026-10-07T07:30:45.926174+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361077,
-      "message_link": "https://t.me/IranintlTV/361077",
-      "text": "",
+      "message_id": 361082,
+      "message_link": "https://t.me/IranintlTV/361082",
+      "text": "اتحادیه دانش‌آموزی فرانسه از حضور ۴۵۰ هزار نفر در اعتراض به وضعیت مدارس و کاهش بودجه خبر داد؛ وزارت کشور شمار معترضان را ۲۵۶ هزار نفر اعلام کرد. حدود ۱۸۰۰ دبیرستان نیز در جریان اعتراضات مسدود، تعطیل یا مختل شده‌اند.\n\nگزارش ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:03",
-      "gregorian_utc": "2026-10-07T06:47:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 247743,
-      "media_size_human": "241.94 KB",
+      "tehran_time": "10:51:40",
+      "gregorian_utc": "2026-10-07T07:21:40+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1371675,
+      "media_size_human": "1.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361077_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361077_photo.jpg",
+      "media_local_path": "media/IranintlTV_361082_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361082_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877281+00:00"
+      "archived_at": "2026-10-07T07:30:46.465610+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.273344+00:00"
+      "archived_at": "2026-10-07T07:30:46.949599+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121853_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121853_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683206+00:00"
+      "archived_at": "2026-10-07T07:30:47.443462+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519561+00:00"
+      "archived_at": "2026-10-07T07:30:45.926215+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361076,
-      "message_link": "https://t.me/IranintlTV/361076",
-      "text": "",
+      "message_id": 361081,
+      "message_link": "https://t.me/IranintlTV/361081",
+      "text": "هم‌زمان با سومین سالگرد حملات هفتم اکتبر، نخست‌وزیر استرالیا بر مقابله با یهودستیزی و خلع سلاح حماس تاکید کرد.\n\nصدها نفر نیز در ساحل بوندای سیدنی برای ادای احترام به قربانیان تجمع کردند.\n\nجزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:03",
-      "gregorian_utc": "2026-10-07T06:47:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 195467,
-      "media_size_human": "190.89 KB",
+      "tehran_time": "10:48:27",
+      "gregorian_utc": "2026-10-07T07:18:27+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2961808,
+      "media_size_human": "2.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361076_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361076_photo.jpg",
+      "media_local_path": "media/IranintlTV_361081_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361081_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877321+00:00"
+      "archived_at": "2026-10-07T07:30:46.465687+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.273406+00:00"
+      "archived_at": "2026-10-07T07:30:46.949660+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_121852_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121852_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683266+00:00"
+      "archived_at": "2026-10-07T07:30:47.443522+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519590+00:00"
+      "archived_at": "2026-10-07T07:30:45.926244+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361075,
-      "message_link": "https://t.me/IranintlTV/361075",
-      "text": "",
+      "message_id": 361080,
+      "message_link": "https://t.me/IranintlTV/361080",
+      "text": "در سومین سالگرد حمله هفتم اکتبر حماس به اسرائیل، تصاویر دوربین‌های مداربسته، خودروها و نیروهای حماس بخش‌هایی از این حمله را ثبت‌شده نشان می‌دهند؛ از حمله به جشنواره موسیقی تا کشتار در مناطق مسکونی.\n\nگزارش آبتین یزدان‌پناه، ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:03",
-      "gregorian_utc": "2026-10-07T06:47:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 261260,
-      "media_size_human": "255.14 KB",
+      "tehran_time": "10:47:42",
+      "gregorian_utc": "2026-10-07T07:17:42+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3524029,
+      "media_size_human": "3.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361075_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361075_photo.jpg",
+      "media_local_path": "media/IranintlTV_361080_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361080_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877364+00:00"
+      "archived_at": "2026-10-07T07:30:46.465761+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.273504+00:00"
+      "archived_at": "2026-10-07T07:30:46.949758+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_121851_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121851_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683341+00:00"
+      "archived_at": "2026-10-07T07:30:47.443598+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519631+00:00"
+      "archived_at": "2026-10-07T07:30:45.926280+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361074,
-      "message_link": "https://t.me/IranintlTV/361074",
-      "text": "",
+      "message_id": 361079,
+      "message_link": "https://t.me/IranintlTV/361079",
+      "text": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، درباره انتقادهای حسین شریعتمداری از محمدباقر قالیباف گفت در واقع این نگرانی حسین شریعتمداری و جبهه پایداری از احتمال توافق پنهانی قالیباف با آمریکا را نشان می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:03",
-      "gregorian_utc": "2026-10-07T06:47:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 287459,
-      "media_size_human": "280.72 KB",
+      "tehran_time": "10:40:59",
+      "gregorian_utc": "2026-10-07T07:10:59+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2841846,
+      "media_size_human": "2.71 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361074_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361074_photo.jpg",
+      "media_local_path": "media/IranintlTV_361079_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361079_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877402+00:00"
+      "archived_at": "2026-10-07T07:30:46.465831+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76580_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273590+00:00"
+      "archived_at": "2026-10-07T07:30:46.949841+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_121850_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121850_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683380+00:00"
+      "archived_at": "2026-10-07T07:30:47.443635+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519660+00:00"
+      "archived_at": "2026-10-07T07:30:45.926312+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361073,
-      "message_link": "https://t.me/IranintlTV/361073",
-      "text": "",
+      "message_id": 361078,
+      "message_link": "https://t.me/IranintlTV/361078",
+      "text": "روزنامه خراسان نوشت که نجمه امینی، دختر ۲۳ ساله، به اتهام «سب‌النبی و توهین به ائمه معصومین» در فضای مجازی، از سوی شعبه ششم دادگاه کیفری یک خراسان رضوی به اعدام محکوم شده است.\n\nنجمه امینی پیش‌تر در یک فایل صوتی از زندان وکیل‌آباد مشهد از صدور حکم اعدام برای خود خبر داده بود.\n\nپس از انتشار این فایل صوتی، خبرگزاری فارس، وابسته به سپاه پاسداران، اعلام کرد که هنوز هیچ حکم قطعی برای نجمه امینی صادر نشده و دیوان نیز درباره پرونده او اعلام نظر نکرده است.\nhttps://iranintl.com/202610072720",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:03",
-      "gregorian_utc": "2026-10-07T06:47:03+00:00",
+      "tehran_time": "10:31:03",
+      "gregorian_utc": "2026-10-07T07:01:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 238936,
-      "media_size_human": "233.34 KB",
+      "media_size_bytes": 141490,
+      "media_size_human": "138.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361073_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361073_photo.jpg",
+      "media_local_path": "media/IranintlTV_361078_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361078_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877444+00:00"
+      "archived_at": "2026-10-07T07:30:46.465961+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.273634+00:00"
+      "archived_at": "2026-10-07T07:30:46.949884+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.683426+00:00"
+      "archived_at": "2026-10-07T07:30:47.443680+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519711+00:00"
+      "archived_at": "2026-10-07T07:30:45.926340+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361072,
-      "message_link": "https://t.me/IranintlTV/361072",
+      "message_id": 361077,
+      "message_link": "https://t.me/IranintlTV/361077",
       "text": "",
       "shamsi_date": "1405/07/15",
       "tehran_time": "10:17:03",
       "gregorian_utc": "2026-10-07T06:47:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 246919,
-      "media_size_human": "241.13 KB",
+      "media_size_bytes": 247743,
+      "media_size_human": "241.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361072_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361072_photo.jpg",
+      "media_local_path": "media/IranintlTV_361077_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361077_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877484+00:00"
+      "archived_at": "2026-10-07T07:30:46.466009+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.273744+00:00"
+      "archived_at": "2026-10-07T07:30:46.949994+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_121848_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121848_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683510+00:00"
+      "archived_at": "2026-10-07T07:30:47.443746+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519738+00:00"
+      "archived_at": "2026-10-07T07:30:45.926365+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361071,
-      "message_link": "https://t.me/IranintlTV/361071",
+      "message_id": 361076,
+      "message_link": "https://t.me/IranintlTV/361076",
       "text": "",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:02",
-      "gregorian_utc": "2026-10-07T06:47:02+00:00",
+      "tehran_time": "10:17:03",
+      "gregorian_utc": "2026-10-07T06:47:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 170865,
-      "media_size_human": "166.86 KB",
+      "media_size_bytes": 195467,
+      "media_size_human": "190.89 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361071_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361071_photo.jpg",
+      "media_local_path": "media/IranintlTV_361076_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361076_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877519+00:00"
+      "archived_at": "2026-10-07T07:30:46.466055+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76577_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76577_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273812+00:00"
+      "archived_at": "2026-10-07T07:30:46.950060+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_121847_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121847_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683581+00:00"
+      "archived_at": "2026-10-07T07:30:47.443789+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519763+00:00"
+      "archived_at": "2026-10-07T07:30:45.926393+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361070,
-      "message_link": "https://t.me/IranintlTV/361070",
+      "message_id": 361075,
+      "message_link": "https://t.me/IranintlTV/361075",
       "text": "",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:02",
-      "gregorian_utc": "2026-10-07T06:47:02+00:00",
+      "tehran_time": "10:17:03",
+      "gregorian_utc": "2026-10-07T06:47:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 272824,
-      "media_size_human": "266.43 KB",
+      "media_size_bytes": 261260,
+      "media_size_human": "255.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361070_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361070_photo.jpg",
+      "media_local_path": "media/IranintlTV_361075_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361075_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877552+00:00"
+      "archived_at": "2026-10-07T07:30:46.466092+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76574_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76574_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273851+00:00"
+      "archived_at": "2026-10-07T07:30:46.950100+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_121846_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.683641+00:00"
+      "archived_at": "2026-10-07T07:30:47.443827+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519787+00:00"
+      "archived_at": "2026-10-07T07:30:45.926417+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361069,
-      "message_link": "https://t.me/IranintlTV/361069",
+      "message_id": 361074,
+      "message_link": "https://t.me/IranintlTV/361074",
       "text": "",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:02",
-      "gregorian_utc": "2026-10-07T06:47:02+00:00",
+      "tehran_time": "10:17:03",
+      "gregorian_utc": "2026-10-07T06:47:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 200443,
-      "media_size_human": "195.75 KB",
+      "media_size_bytes": 287459,
+      "media_size_human": "280.72 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361069_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361069_photo.jpg",
+      "media_local_path": "media/IranintlTV_361074_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361074_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.877586+00:00"
+      "archived_at": "2026-10-07T07:30:46.466126+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76573_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76573_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273919+00:00"
+      "archived_at": "2026-10-07T07:30:46.950167+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-07T07:20:43.683727+00:00"
+      "archived_at": "2026-10-07T07:30:47.443887+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519814+00:00"
+      "archived_at": "2026-10-07T07:30:45.926443+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361068,
-      "message_link": "https://t.me/IranintlTV/361068",
-      "text": "🔻لیونل مسی در آخرین بازی خود برای تیم ملی آرژانتین، با یک گل و دو پاس گل نقش مهمی در پیروزی ۳ بر صفر این تیم مقابل بنین داشت و در شبی احساسی از فوتبال ملی خداحافظی کرد.\n\n🔹مسی دوران حضورش در تیم ملی را از ۱۷ آگوست ۲۰۰۵ مقابل مجارستان آغاز کرد و پس از ۲۰۸ بازی و ۱۲۶ گل، با دیدار برابر بنین به کار خود پایان داد.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 361073,
+      "message_link": "https://t.me/IranintlTV/361073",
+      "text": "",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "10:17:02",
-      "gregorian_utc": "2026-10-07T06:47:02+00:00",
+      "tehran_time": "10:17:03",
+      "gregorian_utc": "2026-10-07T06:47:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 262795,
-      "media_size_human": "256.64 KB",
+      "media_size_bytes": 238936,
+      "media_size_human": "233.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361068_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361068_photo.jpg",
+      "media_local_path": "media/IranintlTV_361073_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361073_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.890157+00:00"
+      "archived_at": "2026-10-07T07:30:46.466169+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76572_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76572_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.273972+00:00"
+      "archived_at": "2026-10-07T07:30:46.950221+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.683779+00:00"
+      "archived_at": "2026-10-07T07:30:47.443961+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:42.519840+00:00"
+      "archived_at": "2026-10-07T07:30:45.926469+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361067,
-      "message_link": "https://t.me/IranintlTV/361067",
-      "text": "پگاه بنی‌هاشمی، پژوهشگر ارشد حقوق، گفت جمهوری اسلامی در روند اعدام‌ها نه‌تنها قوانین بین‌المللی، بلکه اصول کیفری و روندهای قضایی پیش‌بینی‌شده در قوانین خودش را هم نقض می‌کند.\n\nاو با اشاره به محرومیت زندانیان از دسترسی به وکیل و گزارش‌های شکنجه، بر ضرورت شکل‌گیری یک اجماع ملی علیه اعدام‌ها تاکید کرد.\n@iranintltv",
+      "message_id": 361072,
+      "message_link": "https://t.me/IranintlTV/361072",
+      "text": "",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "09:38:46",
-      "gregorian_utc": "2026-10-07T06:08:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3411362,
-      "media_size_human": "3.25 MB",
+      "tehran_time": "10:17:03",
+      "gregorian_utc": "2026-10-07T06:47:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 246919,
+      "media_size_human": "241.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361067_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361067_video.mp4",
+      "media_local_path": "media/IranintlTV_361072_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361072_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:42.890318+00:00"
+      "archived_at": "2026-10-07T07:30:46.466205+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76571_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76571_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T07:20:43.274056+00:00"
+      "archived_at": "2026-10-07T07:30:46.950302+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T07:20:43.683961+00:00"
+      "archived_at": "2026-10-07T07:30:47.444179+00:00"
     }
   ]
 }
