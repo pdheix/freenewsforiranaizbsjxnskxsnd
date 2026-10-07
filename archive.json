@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T19:33:20.428672+00:00",
-  "shamsi_generated": "1405/07/15 19:33:20 تهران",
+  "generated_at": "2026-10-07T19:42:25.080970+00:00",
+  "shamsi_generated": "1405/07/15 19:42:25 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14525,
-      "message_link": "https://t.me/zedTV/14525",
-      "text": "حمله راکتی به مقر فرماندهی نیروهای رژیم در بخش جالق سراوان.\nصدای انفجارهای مهیب و تیراندازی سنگین در سراسر شهر شنیده شد.\nهدف قرار گرفتن ساختمان فرماندهی با تسلیحات نیمه‌سنگین؛ از تلفات احتمالی گزارشی در دست نیست.",
+      "message_id": 14526,
+      "message_link": "https://t.me/zedTV/14526",
+      "text": "شنیده شدن صدای چندین انفجار در محدوده تنگه هرمز.\nگزارش‌های اولیه از وقوع حادثه در این آبراه راهبردی.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:36:53",
-      "gregorian_utc": "2026-10-07T19:06:53+00:00",
+      "tehran_time": "23:08:16",
+      "gregorian_utc": "2026-10-07T19:38:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230622+00:00"
+      "archived_at": "2026-10-07T19:39:03.167916+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361183,
-      "message_link": "https://t.me/IranintlTV/361183",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران نشان می‌دهد که کاکائوی ایرانی کیلویی پنج میلیون و ۹۰۰ هزار تومان به فروش می‌رسد.",
+      "message_id": 361184,
+      "message_link": "https://t.me/IranintlTV/361184",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، شامگاه چهارشنبه ۱۵ مهر در گفت‌وگو با خبرنگاران در کاخ سفید گفت با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تلفنی گفت‌وگو کرده است.\n\nبه گزارش کانال ۱۲ اسرائیل، این تماس به مناسبت سومین سالگرد حمله هفت اکتبر انجام شد و ترامپ در آن گفت: «طرف مقابل بهای سنگینی برای کاری که انجام داد، می‌پردازد.»\n\nترامپ همچنین عصر چهارشنبه درباره جنگ علیه جمهوری اسلامی گفته بود این جنگ «خیلی زود» و «به هر شکلی که باشد» پایان خواهد یافت. او افزود پس از پایان جنگ، قیمت نفت ممکن است حتی از سطح پیش از آغاز جنگ نیز پایین‌تر برود.\nhttps://iranintl.com/202610074957",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:59:37",
-      "gregorian_utc": "2026-10-07T19:29:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3300635,
-      "media_size_human": "3.15 MB",
+      "tehran_time": "23:03:20",
+      "gregorian_utc": "2026-10-07T19:33:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 172781,
+      "media_size_human": "168.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361183_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361183_video.mp4",
+      "media_local_path": "media/IranintlTV_361184_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361184_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.520112+00:00"
+      "archived_at": "2026-10-07T19:39:03.584382+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.884872+00:00"
+      "archived_at": "2026-10-07T19:39:04.118802+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-07T19:30:44.298593+00:00"
+      "archived_at": "2026-10-07T19:39:04.586439+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14524,
-      "message_link": "https://t.me/zedTV/14524",
-      "text": "العربیه به نقل از مقام ارشد: بن‌بست کامل در تلاش‌های میانجی‌گری میان واشینگتن و تهران.\nتوقف قطعی روندهای دیپلماتیک برای حل اختلافات.",
+      "message_id": 14525,
+      "message_link": "https://t.me/zedTV/14525",
+      "text": "حمله راکتی به مقر فرماندهی نیروهای رژیم در بخش جالق سراوان.\nصدای انفجارهای مهیب و تیراندازی سنگین در سراسر شهر شنیده شد.\nهدف قرار گرفتن ساختمان فرماندهی با تسلیحات نیمه‌سنگین؛ از تلفات احتمالی گزارشی در دست نیست.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:09:17",
-      "gregorian_utc": "2026-10-07T18:39:17+00:00",
+      "tehran_time": "22:36:53",
+      "gregorian_utc": "2026-10-07T19:06:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230672+00:00"
+      "archived_at": "2026-10-07T19:39:03.167968+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361182,
-      "message_link": "https://t.me/IranintlTV/361182",
-      "text": "پیت هگست، وزیر جنگ آمریکا، چهارشنبه ۱۵ مهر در مراسم استقبال از خدمه ناو هواپیمابر آبراهام لینکلن پس از پایان ماموریت ۱۰ ماهه این ناو در سن‌دیگو، با اشاره به عملکرد نیروهای ناو یواس‌اس آبراهام لینکلن گفت آنها ۱۶۰ ساعت عملیات پروازی رزمی پیاپی، شامل ۶۰ ساعت عملیات تهاجمی، انجام داده‌اند.\n\nهگست گفت: «پیش از این درگیری تصمیم گرفتیم اقیانوس را با نیروی دریایی ایران تقسیم کنیم؛ نیمه پایینی سهم آنها شد.»\n\nپیش‌تر دونالد ترامپ بارها در سخنرانی‌های خود گفته بود جمهوری اسلامی پس از حملات آمریکا نیروی دریایی خود را از دست داده و کشتی‌هایش در اعماق دریا هستند.\n\nوزیر جنگ آمریکا همچنین انتقاد برخی رسانه‌ها از عملکرد ناو آبراهام لینکلن را رد کرد و گفت این ناو برخلاف آنچه مطرح شده، نماد ناکارآمدی، روحیه پایین یا ماموریت شکست‌خورده نیست.\nhttps://iranintl.com/202610073564",
+      "message_id": 361183,
+      "message_link": "https://t.me/IranintlTV/361183",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران نشان می‌دهد که کاکائوی ایرانی کیلویی پنج میلیون و ۹۰۰ هزار تومان به فروش می‌رسد.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:36:45",
-      "gregorian_utc": "2026-10-07T19:06:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 143848,
-      "media_size_human": "140.48 KB",
+      "tehran_time": "22:59:37",
+      "gregorian_utc": "2026-10-07T19:29:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3300635,
+      "media_size_human": "3.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361182_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361182_photo.jpg",
+      "media_local_path": "media/IranintlTV_361183_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361183_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.520321+00:00"
+      "archived_at": "2026-10-07T19:39:03.584444+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.884957+00:00"
+      "archived_at": "2026-10-07T19:39:04.118870+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,14 +163,14 @@
       "media_local_path": "media/Mellig_121885_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121885_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298669+00:00"
+      "archived_at": "2026-10-07T19:39:04.586507+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14523,
-      "message_link": "https://t.me/zedTV/14523",
-      "text": "پرواز پهپادهای شناسایی و هواپیماهای سوخت‌رسان ارتش آمریکا؛ تحرکات هوایی در حریم هوایی عراق و نزدیکی مرزهای ایران؛ تداوم فعالیت‌های نظامی ایالات متحده در منطقه.",
+      "message_id": 14524,
+      "message_link": "https://t.me/zedTV/14524",
+      "text": "العربیه به نقل از مقام ارشد: بن‌بست کامل در تلاش‌های میانجی‌گری میان واشینگتن و تهران.\nتوقف قطعی روندهای دیپلماتیک برای حل اختلافات.",
       "shamsi_date": "1405/07/15",
       "tehran_time": "22:09:17",
       "gregorian_utc": "2026-10-07T18:39:17+00:00",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230704+00:00"
+      "archived_at": "2026-10-07T19:39:03.168027+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361181,
-      "message_link": "https://t.me/IranintlTV/361181",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد در مراسم یادبودی که برای جاویدنام علیرضا رئیسی برگزار شده، تصاویر او و گل‌ها را روی میزی با پارچه سیاه گذاشته‌اند. این معترض ۲۱ ساله و از بازداشت‌شدگان دی‌ماه ۱۴۰۴، بامداد دوشنبه ۱۳ مهر ۱۴۰۵ به همراه علیرضا سپاهی در زندان دستگرد اصفهان اعدام شد.",
+      "message_id": 361182,
+      "message_link": "https://t.me/IranintlTV/361182",
+      "text": "پیت هگست، وزیر جنگ آمریکا، چهارشنبه ۱۵ مهر در مراسم استقبال از خدمه ناو هواپیمابر آبراهام لینکلن پس از پایان ماموریت ۱۰ ماهه این ناو در سن‌دیگو، با اشاره به عملکرد نیروهای ناو یواس‌اس آبراهام لینکلن گفت آنها ۱۶۰ ساعت عملیات پروازی رزمی پیاپی، شامل ۶۰ ساعت عملیات تهاجمی، انجام داده‌اند.\n\nهگست گفت: «پیش از این درگیری تصمیم گرفتیم اقیانوس را با نیروی دریایی ایران تقسیم کنیم؛ نیمه پایینی سهم آنها شد.»\n\nپیش‌تر دونالد ترامپ بارها در سخنرانی‌های خود گفته بود جمهوری اسلامی پس از حملات آمریکا نیروی دریایی خود را از دست داده و کشتی‌هایش در اعماق دریا هستند.\n\nوزیر جنگ آمریکا همچنین انتقاد برخی رسانه‌ها از عملکرد ناو آبراهام لینکلن را رد کرد و گفت این ناو برخلاف آنچه مطرح شده، نماد ناکارآمدی، روحیه پایین یا ماموریت شکست‌خورده نیست.\nhttps://iranintl.com/202610073564",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:30:47",
-      "gregorian_utc": "2026-10-07T19:00:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5273982,
-      "media_size_human": "5.03 MB",
+      "tehran_time": "22:36:45",
+      "gregorian_utc": "2026-10-07T19:06:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 143848,
+      "media_size_human": "140.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361181_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361181_video.mp4",
+      "media_local_path": "media/IranintlTV_361182_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361182_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.520365+00:00"
+      "archived_at": "2026-10-07T19:39:03.584583+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.885056+00:00"
+      "archived_at": "2026-10-07T19:39:04.118950+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_121884_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121884_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298709+00:00"
+      "archived_at": "2026-10-07T19:39:04.586551+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14522,
-      "message_link": "https://t.me/zedTV/14522",
-      "text": "مارکو روبیو: ملاهای افراطی ایران بمب‌گذاران کودک را قهرمان ملی می‌نامند.\nوزیر خارجه آمریکا: رژیم تهران فرقه‌ای مرگ‌پرست است که ارزشی برای زندگی قائل نیست.\nتأکید بر تضاد عمیق ایدئولوژی حاکم بر ایران با استانداردهای جهانی و کرامت انسانی.",
+      "message_id": 14523,
+      "message_link": "https://t.me/zedTV/14523",
+      "text": "پرواز پهپادهای شناسایی و هواپیماهای سوخت‌رسان ارتش آمریکا؛ تحرکات هوایی در حریم هوایی عراق و نزدیکی مرزهای ایران؛ تداوم فعالیت‌های نظامی ایالات متحده در منطقه.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:37:55",
-      "gregorian_utc": "2026-10-07T18:07:55+00:00",
+      "tehran_time": "22:09:17",
+      "gregorian_utc": "2026-10-07T18:39:17+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230742+00:00"
+      "archived_at": "2026-10-07T19:39:03.168075+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361180,
-      "message_link": "https://t.me/IranintlTV/361180",
-      "text": "🔻در آخرین رده‌بندی تیم‌های ملی که فیفا، فدراسیون فدراسیون جهانی فوتبال منتشر کرده، تیم ملی ایران با یک پله سقوط در رده ۲۳ جهان و دوم آسیا قرار گرفت. اسپانیا، آرژانتین، فرانسه، انگلیس و پرتغال ۵ تیم برتر جهان هستند.\n\n🔹تیم‌ملی ژاپن، بهترین تیم آسیا در رده ۱۷ جهان قرار دارد. استرالیا با ۲ پله صعود به رده ۲۶ جهان رسیده است. کره جنوبی تیم سی و دوم جهان، عربستان سعودی در رنک ۵۵، ازبکستان ۵۹ و قطر ۶۰ هستند. روسیه هم در رده ۳۵ قرار دارد.\n\n🔹تیم‌ملی فوتبال ایران در فیفادی سپتامبر/اکتبر ۲۰۲۶ در دو دیدار تدارکاتی، سه بر یک به ازبکستان و دو بر صفر به روسیه باخت. برای سومین بازی هم هیچ تیمی حاضر به رویارویی با تیم امیر قلعه‌نویی نشد.\n\n@iranintltvsport",
+      "message_id": 361181,
+      "message_link": "https://t.me/IranintlTV/361181",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد در مراسم یادبودی که برای جاویدنام علیرضا رئیسی برگزار شده، تصاویر او و گل‌ها را روی میزی با پارچه سیاه گذاشته‌اند. این معترض ۲۱ ساله و از بازداشت‌شدگان دی‌ماه ۱۴۰۴، بامداد دوشنبه ۱۳ مهر ۱۴۰۵ به همراه علیرضا سپاهی در زندان دستگرد اصفهان اعدام شد.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:30:14",
-      "gregorian_utc": "2026-10-07T19:00:14+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 194589,
-      "media_size_human": "190.03 KB",
+      "tehran_time": "22:30:47",
+      "gregorian_utc": "2026-10-07T19:00:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5273982,
+      "media_size_human": "5.03 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361180_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361180_photo.jpg",
+      "media_local_path": "media/IranintlTV_361181_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361181_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532457+00:00"
+      "archived_at": "2026-10-07T19:39:03.584631+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.885105+00:00"
+      "archived_at": "2026-10-07T19:39:04.119014+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": "media/Mellig_121883_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121883_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298742+00:00"
+      "archived_at": "2026-10-07T19:39:04.586590+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14521,
-      "message_link": "https://t.me/zedTV/14521",
-      "text": "دعوت رژیم به «تاب‌آوری» در برابر فروپاشی اقتصادی و گرانی معیشت؛\nبهره‌برداری ابزاری از دین برای توجیه فقر و سوءمدیریت منابع ملی؛\nتداوم فشار بر ملت؛ حکومتی که تنها درد تولید می‌کند باید برود.",
+      "message_id": 14522,
+      "message_link": "https://t.me/zedTV/14522",
+      "text": "مارکو روبیو: ملاهای افراطی ایران بمب‌گذاران کودک را قهرمان ملی می‌نامند.\nوزیر خارجه آمریکا: رژیم تهران فرقه‌ای مرگ‌پرست است که ارزشی برای زندگی قائل نیست.\nتأکید بر تضاد عمیق ایدئولوژی حاکم بر ایران با استانداردهای جهانی و کرامت انسانی.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:37:42",
-      "gregorian_utc": "2026-10-07T18:07:42+00:00",
+      "tehran_time": "21:37:55",
+      "gregorian_utc": "2026-10-07T18:07:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230773+00:00"
+      "archived_at": "2026-10-07T19:39:03.168106+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361179,
-      "message_link": "https://t.me/IranintlTV/361179",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان ساکن آلمان و فنلاند چهارشنبه ۱۵ مهر برای گرامیداشت یاد قربانیان اسرائیل در هفتم اکتبر، در شهرهای بن و تورکو تجمع کردند.",
+      "message_id": 361180,
+      "message_link": "https://t.me/IranintlTV/361180",
+      "text": "🔻در آخرین رده‌بندی تیم‌های ملی که فیفا، فدراسیون فدراسیون جهانی فوتبال منتشر کرده، تیم ملی ایران با یک پله سقوط در رده ۲۳ جهان و دوم آسیا قرار گرفت. اسپانیا، آرژانتین، فرانسه، انگلیس و پرتغال ۵ تیم برتر جهان هستند.\n\n🔹تیم‌ملی ژاپن، بهترین تیم آسیا در رده ۱۷ جهان قرار دارد. استرالیا با ۲ پله صعود به رده ۲۶ جهان رسیده است. کره جنوبی تیم سی و دوم جهان، عربستان سعودی در رنک ۵۵، ازبکستان ۵۹ و قطر ۶۰ هستند. روسیه هم در رده ۳۵ قرار دارد.\n\n🔹تیم‌ملی فوتبال ایران در فیفادی سپتامبر/اکتبر ۲۰۲۶ در دو دیدار تدارکاتی، سه بر یک به ازبکستان و دو بر صفر به روسیه باخت. برای سومین بازی هم هیچ تیمی حاضر به رویارویی با تیم امیر قلعه‌نویی نشد.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:29:37",
-      "gregorian_utc": "2026-10-07T18:59:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5444113,
-      "media_size_human": "5.19 MB",
+      "tehran_time": "22:30:14",
+      "gregorian_utc": "2026-10-07T19:00:14+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 194589,
+      "media_size_human": "190.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361179_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361179_video.mp4",
+      "media_local_path": "media/IranintlTV_361180_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361180_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532539+00:00"
+      "archived_at": "2026-10-07T19:39:03.666871+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.885327+00:00"
+      "archived_at": "2026-10-07T19:39:04.119185+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": "media/Mellig_121882_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121882_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298772+00:00"
+      "archived_at": "2026-10-07T19:39:04.586627+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14520,
-      "message_link": "https://t.me/zedTV/14520",
-      "text": "مارکو روبیو: رژیم ثروت ملی را به جای رفاه مردم، صرف گروه‌های نیابتی و موشک‌پراکنی می‌کند.\nاقتصاد ایران در آستانه فروپاشی بی‌سابقه؛ بحران معیشتی نتیجه سوءمدیریت روحانیون تندرو.\nتخصیص بودجه کشور به حزب‌الله و حماس به قیمت نابودی زیرساخت‌ها و معیشت ایرانیان.",
+      "message_id": 14521,
+      "message_link": "https://t.me/zedTV/14521",
+      "text": "دعوت رژیم به «تاب‌آوری» در برابر فروپاشی اقتصادی و گرانی معیشت؛\nبهره‌برداری ابزاری از دین برای توجیه فقر و سوءمدیریت منابع ملی؛\nتداوم فشار بر ملت؛ حکومتی که تنها درد تولید می‌کند باید برود.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:53:15",
-      "gregorian_utc": "2026-10-07T17:23:15+00:00",
+      "tehran_time": "21:37:42",
+      "gregorian_utc": "2026-10-07T18:07:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230804+00:00"
+      "archived_at": "2026-10-07T19:39:03.168143+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361178,
-      "message_link": "https://t.me/IranintlTV/361178",
-      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران\n@iranintlTV",
+      "message_id": 361179,
+      "message_link": "https://t.me/IranintlTV/361179",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان ساکن آلمان و فنلاند چهارشنبه ۱۵ مهر برای گرامیداشت یاد قربانیان اسرائیل در هفتم اکتبر، در شهرهای بن و تورکو تجمع کردند.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:19:00",
-      "gregorian_utc": "2026-10-07T18:49:00+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31781115,
-      "media_size_human": "30.31 MB",
+      "tehran_time": "22:29:37",
+      "gregorian_utc": "2026-10-07T18:59:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5444113,
+      "media_size_human": "5.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361178_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361178_audio.mp3",
+      "media_local_path": "media/IranintlTV_361179_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532650+00:00"
+      "archived_at": "2026-10-07T19:39:03.666992+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.885395+00:00"
+      "archived_at": "2026-10-07T19:39:04.119243+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_121881_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121881_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298819+00:00"
+      "archived_at": "2026-10-07T19:39:04.586679+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14519,
-      "message_link": "https://t.me/zedTV/14519",
-      "text": "گزارش کنگره آمریکا از خسارات هوایی در نبرد با رژیم ایران؛\nآسیب یا نابودی ۸۱ فروند هواگرد نظامی شامل ۴۵ پهپاد ریپر و جنگنده‌های اف-۳۵؛\nسنتکام و پنتاگون ابعاد گسترده درگیری‌های نظامی را تایید کردند.",
+      "message_id": 14520,
+      "message_link": "https://t.me/zedTV/14520",
+      "text": "مارکو روبیو: رژیم ثروت ملی را به جای رفاه مردم، صرف گروه‌های نیابتی و موشک‌پراکنی می‌کند.\nاقتصاد ایران در آستانه فروپاشی بی‌سابقه؛ بحران معیشتی نتیجه سوءمدیریت روحانیون تندرو.\nتخصیص بودجه کشور به حزب‌الله و حماس به قیمت نابودی زیرساخت‌ها و معیشت ایرانیان.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:52:49",
-      "gregorian_utc": "2026-10-07T17:22:49+00:00",
+      "tehran_time": "20:53:15",
+      "gregorian_utc": "2026-10-07T17:23:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230828+00:00"
+      "archived_at": "2026-10-07T19:39:03.168175+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361177,
-      "message_link": "https://t.me/IranintlTV/361177",
-      "text": "شهروز سدیدی، ۳۹ ساله و ساکن سبزوار، هشتم مهر ۱۴۰۵ از سوی نیروهای اطلاعات سپاه بازداشت و به زندان سبزوار منتقل شد. او همچنان در انفرادی قرنطینه این زندان نگهداری می‌شود.\n \nشهرام سدیدی، فعال سیاسی و برادر او، اعلام کرد پرونده‌ای با ماهیت امنیتی برای شهروز سدیدی در شعبه اول بازپرسی دادسرای سبزوار به ریاست بازپرس گلستانی تشکیل شده و او با اتهام «تبلیغ علیه نظام» مواجه است. به گفته او، برای شهروز سدیدی قرار بازداشت موقت یک‌ماهه صادر شده است.",
+      "message_id": 361178,
+      "message_link": "https://t.me/IranintlTV/361178",
+      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: تازه‌ترین تنش هسته‌ای تهران و واشینگتن؛ از سرگیری فعالیت در سایت تهران\n@iranintlTV",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:15:41",
-      "gregorian_utc": "2026-10-07T18:45:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 187473,
-      "media_size_human": "183.08 KB",
+      "tehran_time": "22:19:00",
+      "gregorian_utc": "2026-10-07T18:49:00+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31781115,
+      "media_size_human": "30.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361177_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361177_photo.jpg",
+      "media_local_path": "media/IranintlTV_361178_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361178_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532697+00:00"
+      "archived_at": "2026-10-07T19:39:03.667137+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.885485+00:00"
+      "archived_at": "2026-10-07T19:39:04.119312+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:44.298867+00:00"
+      "archived_at": "2026-10-07T19:39:04.586734+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14518,
-      "message_link": "https://t.me/zedTV/14518",
-      "text": "نرخ دلار به ۲۶۳ هزار تومان رسید؛ تداوم بی‌ثباتی در بازار ارز.\nادعای رژیم مبنی بر مدیریت بازار در سایه سقوط ارزش پول ملی.\nبحران معیشتی و فشار اقتصادی بر شهروندان همچنان ادامه دارد.",
+      "message_id": 14519,
+      "message_link": "https://t.me/zedTV/14519",
+      "text": "گزارش کنگره آمریکا از خسارات هوایی در نبرد با رژیم ایران؛\nآسیب یا نابودی ۸۱ فروند هواگرد نظامی شامل ۴۵ پهپاد ریپر و جنگنده‌های اف-۳۵؛\nسنتکام و پنتاگون ابعاد گسترده درگیری‌های نظامی را تایید کردند.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:37:53",
-      "gregorian_utc": "2026-10-07T17:07:53+00:00",
+      "tehran_time": "20:52:49",
+      "gregorian_utc": "2026-10-07T17:22:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230867+00:00"
+      "archived_at": "2026-10-07T19:39:03.168217+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361176,
-      "message_link": "https://t.me/IranintlTV/361176",
-      "text": "اعتراض دانش‌آموزان به نابرابری آموزشی در فرانسه، دولت را به گفت‌وگو کشانده و برخورد پلیس را زیر سوال برده است؛ تجربه‌ای با تفاوت‌های عمیق با سرکوب و کشتار وحشیانه جوانان معترض در ایران، نسلی با خواسته‌ای مشترک: حق ساختن آینده.\nآرین ریسباف گزارش می‌دهد\n@iranintltv",
+      "message_id": 361177,
+      "message_link": "https://t.me/IranintlTV/361177",
+      "text": "شهروز سدیدی، ۳۹ ساله و ساکن سبزوار، هشتم مهر ۱۴۰۵ از سوی نیروهای اطلاعات سپاه بازداشت و به زندان سبزوار منتقل شد. او همچنان در انفرادی قرنطینه این زندان نگهداری می‌شود.\n \nشهرام سدیدی، فعال سیاسی و برادر او، اعلام کرد پرونده‌ای با ماهیت امنیتی برای شهروز سدیدی در شعبه اول بازپرسی دادسرای سبزوار به ریاست بازپرس گلستانی تشکیل شده و او با اتهام «تبلیغ علیه نظام» مواجه است. به گفته او، برای شهروز سدیدی قرار بازداشت موقت یک‌ماهه صادر شده است.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:11:22",
-      "gregorian_utc": "2026-10-07T18:41:22+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2880522,
-      "media_size_human": "2.75 MB",
+      "tehran_time": "22:15:41",
+      "gregorian_utc": "2026-10-07T18:45:41+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 187473,
+      "media_size_human": "183.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361176_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361176_video.mp4",
+      "media_local_path": "media/IranintlTV_361177_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532775+00:00"
+      "archived_at": "2026-10-07T19:39:03.667210+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.885646+00:00"
+      "archived_at": "2026-10-07T19:39:04.119412+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_121879_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121879_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.298898+00:00"
+      "archived_at": "2026-10-07T19:39:04.586784+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14517,
-      "message_link": "https://t.me/zedTV/14517",
-      "text": "تخصیص ۲۰۰ میلیون دلار به حزب‌الله؛ بی‌توجهی رژیم به معیشت و بحران دارویی در داخل کشور.\nغارت بودجه آموزش و پرورش و ثروت ملی برای تامین مالی گروه‌های نیابتی و بازسازی لبنان.\nخشم عمومی از اعطای ۸۰۰ میلیون تومان به هر خانواده لبنانی همزمان با فقر گسترده در ایران.",
+      "message_id": 14518,
+      "message_link": "https://t.me/zedTV/14518",
+      "text": "نرخ دلار به ۲۶۳ هزار تومان رسید؛ تداوم بی‌ثباتی در بازار ارز.\nادعای رژیم مبنی بر مدیریت بازار در سایه سقوط ارزش پول ملی.\nبحران معیشتی و فشار اقتصادی بر شهروندان همچنان ادامه دارد.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:24:30",
-      "gregorian_utc": "2026-10-07T16:54:30+00:00",
+      "tehran_time": "20:37:53",
+      "gregorian_utc": "2026-10-07T17:07:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230892+00:00"
+      "archived_at": "2026-10-07T19:39:03.168245+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361175,
-      "message_link": "https://t.me/IranintlTV/361175",
-      "text": "شهروز سدیدی، ۳۹ ساله و ساکن سبزوار، هشتم مهر ۱۴۰۵ از سوی نیروهای اطلاعات سپاه بازداشت و به زندان سبزوار منتقل شد. او همچنان در انفرادی قرنطینه این زندان نگهداری می‌شود.\n\nشهرام سدیدی، فعال سیاسی و برادر او، اعلام کرد پرونده‌ای با ماهیت امنیتی برای شهروز سدیدی در شعبه اول بازپرسی دادسرای سبزوار به ریاست بازپرس گلستانی تشکیل شده و او با اتهام «تبلیغ علیه نظام» مواجه است. به گفته او، برای شهروز سدیدی قرار بازداشت موقت یک‌ماهه صادر شده است.\nhttps://iranintl.com/202610072146",
+      "message_id": 361176,
+      "message_link": "https://t.me/IranintlTV/361176",
+      "text": "اعتراض دانش‌آموزان به نابرابری آموزشی در فرانسه، دولت را به گفت‌وگو کشانده و برخورد پلیس را زیر سوال برده است؛ تجربه‌ای با تفاوت‌های عمیق با سرکوب و کشتار وحشیانه جوانان معترض در ایران، نسلی با خواسته‌ای مشترک: حق ساختن آینده.\nآرین ریسباف گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:11:16",
-      "gregorian_utc": "2026-10-07T18:41:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 234682,
-      "media_size_human": "229.18 KB",
+      "tehran_time": "22:11:22",
+      "gregorian_utc": "2026-10-07T18:41:22+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2880522,
+      "media_size_human": "2.75 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361175_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361175_photo.jpg",
+      "media_local_path": "media/IranintlTV_361176_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361176_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532860+00:00"
+      "archived_at": "2026-10-07T19:39:03.667292+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76580_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.885763+00:00"
+      "archived_at": "2026-10-07T19:39:04.119497+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:44.298979+00:00"
+      "archived_at": "2026-10-07T19:39:04.586869+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14516,
-      "message_link": "https://t.me/zedTV/14516",
-      "text": "احضار سفیر جمهوری اسلامی در پاریس در پی کارزار دروغ‌پراکنی رژیم علیه دانشجویان معترض.\nفرانسه: انتشار اخبار کذب در حساب‌های رسمی وزارت خارجه ایران غیرقابل قبول است.\nپاریس خواستار توقف تحریکات بی‌اساس و پایان فرافکنی‌های دیپلماتیک تهران شد.",
+      "message_id": 14517,
+      "message_link": "https://t.me/zedTV/14517",
+      "text": "تخصیص ۲۰۰ میلیون دلار به حزب‌الله؛ بی‌توجهی رژیم به معیشت و بحران دارویی در داخل کشور.\nغارت بودجه آموزش و پرورش و ثروت ملی برای تامین مالی گروه‌های نیابتی و بازسازی لبنان.\nخشم عمومی از اعطای ۸۰۰ میلیون تومان به هر خانواده لبنانی همزمان با فقر گسترده در ایران.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:24:18",
-      "gregorian_utc": "2026-10-07T16:54:18+00:00",
+      "tehran_time": "20:24:30",
+      "gregorian_utc": "2026-10-07T16:54:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230915+00:00"
+      "archived_at": "2026-10-07T19:39:03.168272+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361174,
-      "message_link": "https://t.me/IranintlTV/361174",
-      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+      "message_id": 361175,
+      "message_link": "https://t.me/IranintlTV/361175",
+      "text": "شهروز سدیدی، ۳۹ ساله و ساکن سبزوار، هشتم مهر ۱۴۰۵ از سوی نیروهای اطلاعات سپاه بازداشت و به زندان سبزوار منتقل شد. او همچنان در انفرادی قرنطینه این زندان نگهداری می‌شود.\n\nشهرام سدیدی، فعال سیاسی و برادر او، اعلام کرد پرونده‌ای با ماهیت امنیتی برای شهروز سدیدی در شعبه اول بازپرسی دادسرای سبزوار به ریاست بازپرس گلستانی تشکیل شده و او با اتهام «تبلیغ علیه نظام» مواجه است. به گفته او، برای شهروز سدیدی قرار بازداشت موقت یک‌ماهه صادر شده است.\nhttps://iranintl.com/202610072146",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "22:05:16",
-      "gregorian_utc": "2026-10-07T18:35:16+00:00",
-      "media_type": "video",
-      "media_size_bytes": 255273,
-      "media_size_human": "249.29 KB",
+      "tehran_time": "22:11:16",
+      "gregorian_utc": "2026-10-07T18:41:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 234682,
+      "media_size_human": "229.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361174_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361174_video.mp4",
+      "media_local_path": "media/IranintlTV_361175_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361175_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532900+00:00"
+      "archived_at": "2026-10-07T19:39:03.667393+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.885818+00:00"
+      "archived_at": "2026-10-07T19:39:04.119542+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": "media/Mellig_121877_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121877_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299018+00:00"
+      "archived_at": "2026-10-07T19:39:04.586916+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14515,
-      "message_link": "https://t.me/zedTV/14515",
-      "text": "رئیس مجلس نمایندگان آمریکا: رژیم ایران برای مذاکره قابل اعتماد نیست.\nواشینگتن تهران را طرفی غیرقابل اتکا در گفتگوهای بین‌المللی می‌داند.",
+      "message_id": 14516,
+      "message_link": "https://t.me/zedTV/14516",
+      "text": "احضار سفیر جمهوری اسلامی در پاریس در پی کارزار دروغ‌پراکنی رژیم علیه دانشجویان معترض.\nفرانسه: انتشار اخبار کذب در حساب‌های رسمی وزارت خارجه ایران غیرقابل قبول است.\nپاریس خواستار توقف تحریکات بی‌اساس و پایان فرافکنی‌های دیپلماتیک تهران شد.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:08:39",
-      "gregorian_utc": "2026-10-07T16:38:39+00:00",
+      "tehran_time": "20:24:18",
+      "gregorian_utc": "2026-10-07T16:54:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230936+00:00"
+      "archived_at": "2026-10-07T19:39:03.168297+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361173,
-      "message_link": "https://t.me/IranintlTV/361173",
-      "text": "«جغرافیای انقلاب ملی» در ایران‌اینترنشنال به اعتراضات مردم در انقلاب ملی ۱۴۰۴ و سرکوب آن خواهد پرداخت. برای ثبت ابعاد این اعتراضات و گزارش درباره کشتار مردم، اطلاعات،‌ ویدیوها و روایت‌های خود درباره آمران و عاملان سرکوب را از طریق مدیابات به ایران اینترنشنال ارسال کنید.\nhttps://iranintl.com/202610075616",
+      "message_id": 361174,
+      "message_link": "https://t.me/IranintlTV/361174",
+      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:59:52",
-      "gregorian_utc": "2026-10-07T18:29:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 202087,
-      "media_size_human": "197.35 KB",
+      "tehran_time": "22:05:16",
+      "gregorian_utc": "2026-10-07T18:35:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 255273,
+      "media_size_human": "249.29 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361173_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361173_photo.jpg",
+      "media_local_path": "media/IranintlTV_361174_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361174_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532965+00:00"
+      "archived_at": "2026-10-07T19:39:03.667443+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.885943+00:00"
+      "archived_at": "2026-10-07T19:39:04.119632+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_121876_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121876_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299048+00:00"
+      "archived_at": "2026-10-07T19:39:04.586954+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14514,
-      "message_link": "https://t.me/zedTV/14514",
-      "text": "حمله به منزل فعال ایرانی در کانادا؛ تهدید نمادین با چاقو علیه سازمان‌دهنده تجمعات ضدحکومتی.\nتداوم تلاش‌های جمهوری اسلامی برای سرکوب فرامرزی و ارعاب منتقدان در خارج از مرزها.\nکارشناسان بر ضرورت مقابله با اقدامات استبدادی تهران علیه پناهندگان سیاسی تاکید کردند.",
+      "message_id": 14515,
+      "message_link": "https://t.me/zedTV/14515",
+      "text": "رئیس مجلس نمایندگان آمریکا: رژیم ایران برای مذاکره قابل اعتماد نیست.\nواشینگتن تهران را طرفی غیرقابل اتکا در گفتگوهای بین‌المللی می‌داند.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "20:08:33",
-      "gregorian_utc": "2026-10-07T16:38:33+00:00",
+      "tehran_time": "20:08:39",
+      "gregorian_utc": "2026-10-07T16:38:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230957+00:00"
+      "archived_at": "2026-10-07T19:39:03.168327+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361172,
-      "message_link": "https://t.me/IranintlTV/361172",
-      "text": "یک کشاورز با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گمبود سوخت در لرستان و گرانی قطعات تراکتور می‌گوید: «نمی‌دانیم چه کنیم. با این وضعیت معلوم نیست چطور کشت و کار کنیم.»",
+      "message_id": 361173,
+      "message_link": "https://t.me/IranintlTV/361173",
+      "text": "«جغرافیای انقلاب ملی» در ایران‌اینترنشنال به اعتراضات مردم در انقلاب ملی ۱۴۰۴ و سرکوب آن خواهد پرداخت. برای ثبت ابعاد این اعتراضات و گزارش درباره کشتار مردم، اطلاعات،‌ ویدیوها و روایت‌های خود درباره آمران و عاملان سرکوب را از طریق مدیابات به ایران اینترنشنال ارسال کنید.\nhttps://iranintl.com/202610075616",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:59:37",
-      "gregorian_utc": "2026-10-07T18:29:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 16043772,
-      "media_size_human": "15.30 MB",
+      "tehran_time": "21:59:52",
+      "gregorian_utc": "2026-10-07T18:29:52+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 202087,
+      "media_size_human": "197.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361172_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361172_video.mp4",
+      "media_local_path": "media/IranintlTV_361173_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361173_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.532994+00:00"
+      "archived_at": "2026-10-07T19:39:03.667524+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76577_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76577_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.886018+00:00"
+      "archived_at": "2026-10-07T19:39:04.119696+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": "media/Mellig_121875_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121875_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299079+00:00"
+      "archived_at": "2026-10-07T19:39:04.586993+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14513,
-      "message_link": "https://t.me/zedTV/14513",
-      "text": "رویترز: تضاد عمیق پیشنهادات واشینگتن با خواسته‌های رژیم در پرونده هسته‌ای.\nبن‌بست در دیپلماسی؛ عدم انجام هرگونه مذاکره میان طرفین تاکنون.\nپافشاری تهران بر مواضع قبلی و تداوم برنامه غنی‌سازی اورانیوم.",
+      "message_id": 14514,
+      "message_link": "https://t.me/zedTV/14514",
+      "text": "حمله به منزل فعال ایرانی در کانادا؛ تهدید نمادین با چاقو علیه سازمان‌دهنده تجمعات ضدحکومتی.\nتداوم تلاش‌های جمهوری اسلامی برای سرکوب فرامرزی و ارعاب منتقدان در خارج از مرزها.\nکارشناسان بر ضرورت مقابله با اقدامات استبدادی تهران علیه پناهندگان سیاسی تاکید کردند.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "19:52:56",
-      "gregorian_utc": "2026-10-07T16:22:56+00:00",
+      "tehran_time": "20:08:33",
+      "gregorian_utc": "2026-10-07T16:38:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.230980+00:00"
+      "archived_at": "2026-10-07T19:39:03.168353+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361171,
-      "message_link": "https://t.me/IranintlTV/361171",
-      "text": "سعید قاسمی‌نژاد، مدیر پروژه شکوفایی ایران و مشاور شاهزاده رضا پهلوی، گفت جمهوری اسلامی پس از هفتم اکتبر بخش بزرگی از موقعیت منطقه‌ای خود را از دست داده و نیروهای نیابتی تهران در لبنان، غزه، سوریه، عراق و یمن به‌شدت تضعیف شده‌اند.\n\nاو افزود همراهی مردم ایران و اپوزیسیون به رهبری شاهزاده رضا پهلوی، در کنار فشار اسرائیل و حمایت آمریکا، می‌تواند زمینه سرنگونی جمهوری اسلامی را فراهم کند. به گفته قاسمی‌نژاد، دولت آمریکا باید به این جمع‌بندی برسد که مدل ونزوئلا و اتکا به نیروهایی از درون سپاه پاسداران در ایران کارساز نخواهد بود.\n@iranintltv",
+      "message_id": 361172,
+      "message_link": "https://t.me/IranintlTV/361172",
+      "text": "یک کشاورز با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گمبود سوخت در لرستان و گرانی قطعات تراکتور می‌گوید: «نمی‌دانیم چه کنیم. با این وضعیت معلوم نیست چطور کشت و کار کنیم.»",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:55:06",
-      "gregorian_utc": "2026-10-07T18:25:06+00:00",
+      "tehran_time": "21:59:37",
+      "gregorian_utc": "2026-10-07T18:29:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 4745228,
-      "media_size_human": "4.53 MB",
+      "media_size_bytes": 16043772,
+      "media_size_human": "15.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361171_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361171_video.mp4",
+      "media_local_path": "media/IranintlTV_361172_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361172_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.533075+00:00"
+      "archived_at": "2026-10-07T19:39:03.667564+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76574_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76574_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.886066+00:00"
+      "archived_at": "2026-10-07T19:39:04.119736+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_121874_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121874_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299108+00:00"
+      "archived_at": "2026-10-07T19:39:04.587059+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14512,
-      "message_link": "https://t.me/zedTV/14512",
-      "text": "انسداد قریب‌الوقوع مسیرهای ترانزیتی در تنگه هرمز توسط نیروی دریایی سپاه.\nتشدید تنش‌ها و افزایش احتمال درگیری نظامی در منطقه.\nاخلال رژیم در امنیت دریانوردی و تجارت بین‌المللی.",
+      "message_id": 14513,
+      "message_link": "https://t.me/zedTV/14513",
+      "text": "رویترز: تضاد عمیق پیشنهادات واشینگتن با خواسته‌های رژیم در پرونده هسته‌ای.\nبن‌بست در دیپلماسی؛ عدم انجام هرگونه مذاکره میان طرفین تاکنون.\nپافشاری تهران بر مواضع قبلی و تداوم برنامه غنی‌سازی اورانیوم.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "19:52:43",
-      "gregorian_utc": "2026-10-07T16:22:43+00:00",
+      "tehran_time": "19:52:56",
+      "gregorian_utc": "2026-10-07T16:22:56+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.231002+00:00"
+      "archived_at": "2026-10-07T19:39:03.168379+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361170,
-      "message_link": "https://t.me/IranintlTV/361170",
-      "text": "تاثیر ۷ اکتبر بر انتخابات اسرائیل\n@iranintltv",
+      "message_id": 361171,
+      "message_link": "https://t.me/IranintlTV/361171",
+      "text": "سعید قاسمی‌نژاد، مدیر پروژه شکوفایی ایران و مشاور شاهزاده رضا پهلوی، گفت جمهوری اسلامی پس از هفتم اکتبر بخش بزرگی از موقعیت منطقه‌ای خود را از دست داده و نیروهای نیابتی تهران در لبنان، غزه، سوریه، عراق و یمن به‌شدت تضعیف شده‌اند.\n\nاو افزود همراهی مردم ایران و اپوزیسیون به رهبری شاهزاده رضا پهلوی، در کنار فشار اسرائیل و حمایت آمریکا، می‌تواند زمینه سرنگونی جمهوری اسلامی را فراهم کند. به گفته قاسمی‌نژاد، دولت آمریکا باید به این جمع‌بندی برسد که مدل ونزوئلا و اتکا به نیروهایی از درون سپاه پاسداران در ایران کارساز نخواهد بود.\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:54:44",
-      "gregorian_utc": "2026-10-07T18:24:44+00:00",
+      "tehran_time": "21:55:06",
+      "gregorian_utc": "2026-10-07T18:25:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 3838468,
-      "media_size_human": "3.66 MB",
+      "media_size_bytes": 4745228,
+      "media_size_human": "4.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361170_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361170_video.mp4",
+      "media_local_path": "media/IranintlTV_361171_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361171_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.533109+00:00"
+      "archived_at": "2026-10-07T19:39:03.667660+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76573_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76573_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.886156+00:00"
+      "archived_at": "2026-10-07T19:39:04.119807+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": "media/Mellig_121873_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121873_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299134+00:00"
+      "archived_at": "2026-10-07T19:39:04.587098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14511,
-      "message_link": "https://t.me/zedTV/14511",
-      "text": "احتمال فراخوان مشمولان ۶۰ ساله برای اعزام به خدمت سربازی.\nبحران شدید کمبود نیرو در بدنه نظامی رژیم علیرغم ادعاهای تبلیغاتی.\nنمایان شدن شکاف در سازمان رزم و نیاز به استفاده از توان سالمندان.",
+      "message_id": 14512,
+      "message_link": "https://t.me/zedTV/14512",
+      "text": "انسداد قریب‌الوقوع مسیرهای ترانزیتی در تنگه هرمز توسط نیروی دریایی سپاه.\nتشدید تنش‌ها و افزایش احتمال درگیری نظامی در منطقه.\nاخلال رژیم در امنیت دریانوردی و تجارت بین‌المللی.",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "17:24:10",
-      "gregorian_utc": "2026-10-07T13:54:10+00:00",
+      "tehran_time": "19:52:43",
+      "gregorian_utc": "2026-10-07T16:22:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-07T19:30:43.231022+00:00"
+      "archived_at": "2026-10-07T19:39:03.168403+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361168,
-      "message_link": "https://t.me/IranintlTV/361168",
-      "text": "شهروز سدیدی، ۳۹ ساله و ساکن سبزوار، هشتم مهر ۱۴۰۵ از سوی نیروهای اطلاعات سپاه بازداشت و به زندان سبزوار منتقل شد. او همچنان در انفرادی قرنطینه این زندان نگهداری می‌شود.\n\nشهرام سدیدی، فعال سیاسی و برادر او، اعلام کرد پرونده‌ای با ماهیت امنیتی برای شهروز سدیدی در شعبه اول بازپرسی دادسرای سبزوار به ریاست بازپرس گلستانی تشکیل شده و او با اتهام «تبلیغ علیه نظام» مواجه است. به گفته او، برای شهروز سدیدی قرار بازداشت موقت یک‌ماهه صادر شده است.\nhttps://iranintl.com/202610072146",
+      "message_id": 361170,
+      "message_link": "https://t.me/IranintlTV/361170",
+      "text": "تاثیر ۷ اکتبر بر انتخابات اسرائیل\n@iranintltv",
       "shamsi_date": "1405/07/15",
-      "tehran_time": "21:53:47",
-      "gregorian_utc": "2026-10-07T18:23:47+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 252218,
-      "media_size_human": "246.31 KB",
+      "tehran_time": "21:54:44",
+      "gregorian_utc": "2026-10-07T18:24:44+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3838468,
+      "media_size_human": "3.66 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361168_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361168_photo.jpg",
+      "media_local_path": "media/IranintlTV_361170_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361170_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.533187+00:00"
+      "archived_at": "2026-10-07T19:39:03.667709+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76572_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76572_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:43.886224+00:00"
+      "archived_at": "2026-10-07T19:39:04.119863+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_121872_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121872_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-07T19:30:44.299159+00:00"
+      "archived_at": "2026-10-07T19:39:04.587135+00:00"
     }
   ]
 }
