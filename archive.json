@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T19:43:56.380919+00:00",
-  "shamsi_generated": "1405/07/18 19:43:56 تهران",
+  "generated_at": "2026-10-10T19:53:20.815789+00:00",
+  "shamsi_generated": "1405/07/18 19:53:20 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677648+00:00"
+      "archived_at": "2026-10-10T19:50:31.448019+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361635,
-      "message_link": "https://t.me/IranintlTV/361635",
-      "text": "دونالد ترامپ، با انتقاد از ولودیمیر زلنسکی، رییس‌جمهور اوکراین، گفت: «او بارها می‌توانست جنگ را پایان دهد، اما خودش نخواست. فکر می‌کنم وقت آن رسیده که اوکراین رییس‌جمهور جدیدی داشته باشد.» \n\nترامپ همچنین زلنسکی را به ایجاد مشکل برای بازار جهانی سوخت و کشاورزان آمریکایی متهم کرد و گفت: «او بهتر است دست از حمله به پالایشگاه‌ها بردارد.» \n\nترامپ با اشاره به حملات اوکراین به پالایشگاه‌های نفتی روسیه گفت: «به او گفتیم به پالایشگاه‌ها حمله نکند، اما او می‌خواهد برای جهان مشکل ایجاد کند. روسیه گازوئیل تامین می‌کند و او به پالایشگاه‌های گازوئیل حمله می‌کند.» \n\nاو تاکید کرد که اجازه نخواهد داد این حملات به کشاورزان و دامداران آمریکایی آسیب بزند. \nhttps://iranintl.com/202610100018",
+      "message_id": 361637,
+      "message_link": "https://t.me/IranintlTV/361637",
+      "text": "میثم مهرانی، تحلیل‌گر سیاسی، گفت روسیه می‌تواند به باز شدن مسیر مذاکره میان جمهوری اسلامی و آمریکا کمک کند، اما پایان جنگ به‌خودی‌خود اولویت مسکو نیست و پوتین پیش از هر چیز به منافع روسیه، از جمله پرونده اوکراین، نگاه می‌کند.\n\nاو افزود رابطه نظامی روسیه با جمهوری اسلامی به معنای تعهد دفاعی مسکو نیست و روسیه برای تهران وارد جنگ مستقیم با آمریکا نخواهد شد. به گفته مهرانی، جمهوری اسلامی در شرایط فشار دریایی، هوایی و زمینی به دنبال میانجی قدرتمندتری است، اما نقش روسیه بیش از هر چیز در خدمت افزایش قدرت چانه‌زنی مسکو در برابر واشینگتن است.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "23:05:04",
-      "gregorian_utc": "2026-10-10T19:35:04+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 172549,
-      "media_size_human": "168.50 KB",
+      "tehran_time": "23:17:07",
+      "gregorian_utc": "2026-10-10T19:47:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5090059,
+      "media_size_human": "4.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361635_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361635_photo.jpg",
+      "media_local_path": "media/IranintlTV_361637_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361637_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.075537+00:00"
+      "archived_at": "2026-10-10T19:50:31.723475+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76603_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76603_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.476945+00:00"
+      "archived_at": "2026-10-10T19:50:32.015586+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-10T19:40:33.944981+00:00"
+      "archived_at": "2026-10-10T19:50:32.335469+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677701+00:00"
+      "archived_at": "2026-10-10T19:50:31.448069+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361634,
-      "message_link": "https://t.me/IranintlTV/361634",
-      "text": "آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!\n\nچشم‌انداز با مهدی مهدوی‌آزاد\n\nتماشای نسخه کامل این برنامه در یوتیوب:\n\nhttps://youtu.be/TTI0KGkfmZA\n@iranintltv",
+      "message_id": 361636,
+      "message_link": "https://t.me/IranintlTV/361636",
+      "text": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت مجموعه‌ای از فشارهای بی‌سابقه، از خطر جنگ تا تحریم و محاصره زمینی، دریایی و هوایی، جمهوری اسلامی را در موقعیتی قرار داده که احتمال جنگی تازه را افزایش داده است.\n\nاو افزود کارت تنگه هرمز دیگر برای جمهوری اسلامی ارزش سابق را ندارد و دونالد ترامپ با تصور تغییر موازنه به نفع واشینگتن، بر افزایش فشارها ایستاده است. به گفته مهدوی‌آزاد، اگر شمارش معکوس برای چنین ساختارهایی آغاز شود، «صدای تیک‌تاکش» شنیده می‌شود.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "23:02:51",
-      "gregorian_utc": "2026-10-10T19:32:51+00:00",
+      "tehran_time": "23:15:33",
+      "gregorian_utc": "2026-10-10T19:45:33+00:00",
       "media_type": "video",
-      "media_size_bytes": 9304261,
-      "media_size_human": "8.87 MB",
+      "media_size_bytes": 953001,
+      "media_size_human": "930.67 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361634_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361634_video.mp4",
+      "media_local_path": "media/IranintlTV_361636_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361636_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.075649+00:00"
+      "archived_at": "2026-10-10T19:50:31.723586+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 201.15 MB)",
-      "archived_at": "2026-10-10T19:40:33.477033+00:00"
+      "archived_at": "2026-10-10T19:50:32.015698+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121993_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121993_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945087+00:00"
+      "archived_at": "2026-10-10T19:50:32.335574+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677738+00:00"
+      "archived_at": "2026-10-10T19:50:31.448105+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361633,
-      "message_link": "https://t.me/IranintlTV/361633",
-      "text": "🔻ساکت الهامی، سرمربی پیکان در نشست خبری پس از بازی با شمس‌آذر درباره سیلی زدن به حجت احمدی پاسخ داد: «نمی‌دانم حواسم نبود و الان شما این سوال را می‌پرسید. حجت بچه خوش قلبی است و زحمت می‌کشد. اصلا اتفاقی نبود که بخواهیم صحبت کنیم.»\n\n🔹الهامی گفت: «او بچه خوبی است و چیز خاصی نبود. اصلا حواسم نبود و بحث خسته نباشید بود. به غیر از او به یک دو بازیکن دیگر هم اینطور خسته نباشید گفتم. باور کنید که چیزی یادم نیست.»\n\n@iranintltvsport",
+      "message_id": 361635,
+      "message_link": "https://t.me/IranintlTV/361635",
+      "text": "دونالد ترامپ، با انتقاد از ولودیمیر زلنسکی، رییس‌جمهور اوکراین، گفت: «او بارها می‌توانست جنگ را پایان دهد، اما خودش نخواست. فکر می‌کنم وقت آن رسیده که اوکراین رییس‌جمهور جدیدی داشته باشد.» \n\nترامپ همچنین زلنسکی را به ایجاد مشکل برای بازار جهانی سوخت و کشاورزان آمریکایی متهم کرد و گفت: «او بهتر است دست از حمله به پالایشگاه‌ها بردارد.» \n\nترامپ با اشاره به حملات اوکراین به پالایشگاه‌های نفتی روسیه گفت: «به او گفتیم به پالایشگاه‌ها حمله نکند، اما او می‌خواهد برای جهان مشکل ایجاد کند. روسیه گازوئیل تامین می‌کند و او به پالایشگاه‌های گازوئیل حمله می‌کند.» \n\nاو تاکید کرد که اجازه نخواهد داد این حملات به کشاورزان و دامداران آمریکایی آسیب بزند. \nhttps://iranintl.com/202610100018",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "22:39:14",
-      "gregorian_utc": "2026-10-10T19:09:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2117877,
-      "media_size_human": "2.02 MB",
+      "tehran_time": "23:05:04",
+      "gregorian_utc": "2026-10-10T19:35:04+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 172549,
+      "media_size_human": "168.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361633_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361633_video.mp4",
+      "media_local_path": "media/IranintlTV_361635_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361635_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096153+00:00"
+      "archived_at": "2026-10-10T19:50:31.723755+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477099+00:00"
+      "archived_at": "2026-10-10T19:50:32.015769+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121992_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121992_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945150+00:00"
+      "archived_at": "2026-10-10T19:50:32.335639+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677777+00:00"
+      "archived_at": "2026-10-10T19:50:31.448150+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361632,
-      "message_link": "https://t.me/IranintlTV/361632",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد که زادروز علی بیرامی با حضور خانواده و نزدیکانش بر سر مزار این جاویدنام برگزار شد.\n\nعلی بیرامی ۲۴ ساله در جریان اعتراضات ۱۹ دی‌ماه در نظرآباد استان البرز به دست سرکوبگران کشته شد.",
+      "message_id": 361634,
+      "message_link": "https://t.me/IranintlTV/361634",
+      "text": "آیا جنگ سوم باعث سقوط جمهوری اسلامی خواهد شد؟!\n\nچشم‌انداز با مهدی مهدوی‌آزاد\n\nتماشای نسخه کامل این برنامه در یوتیوب:\n\nhttps://youtu.be/TTI0KGkfmZA\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "22:33:29",
-      "gregorian_utc": "2026-10-10T19:03:29+00:00",
+      "tehran_time": "23:02:51",
+      "gregorian_utc": "2026-10-10T19:32:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 12105489,
-      "media_size_human": "11.54 MB",
+      "media_size_bytes": 9304261,
+      "media_size_human": "8.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361632_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361632_video.mp4",
+      "media_local_path": "media/IranintlTV_361634_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361634_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096283+00:00"
+      "archived_at": "2026-10-10T19:50:31.723843+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76600_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76600_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477224+00:00"
+      "archived_at": "2026-10-10T19:50:32.015897+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121991_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121991_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945215+00:00"
+      "archived_at": "2026-10-10T19:50:32.335731+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677809+00:00"
+      "archived_at": "2026-10-10T19:50:31.448182+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361631,
-      "message_link": "https://t.me/IranintlTV/361631",
-      "text": "🔻تیم فوتبال بارسلونا در هفته هشتم لالیگا، با گل‌های گوردون، گابریل ژسوس و ژول کونده، ختافه را شکست داد و به روند پیروزی‌های پرگل خود ادامه داد. شاگردان هانسی فلیک با حفظ روند صد در صد برد، جایگاهشان را در صدر جدول لالیگا مستحکم‌تر کردند.\n\n@iranintltvsport",
+      "message_id": 361633,
+      "message_link": "https://t.me/IranintlTV/361633",
+      "text": "🔻ساکت الهامی، سرمربی پیکان در نشست خبری پس از بازی با شمس‌آذر درباره سیلی زدن به حجت احمدی پاسخ داد: «نمی‌دانم حواسم نبود و الان شما این سوال را می‌پرسید. حجت بچه خوش قلبی است و زحمت می‌کشد. اصلا اتفاقی نبود که بخواهیم صحبت کنیم.»\n\n🔹الهامی گفت: «او بچه خوبی است و چیز خاصی نبود. اصلا حواسم نبود و بحث خسته نباشید بود. به غیر از او به یک دو بازیکن دیگر هم اینطور خسته نباشید گفتم. باور کنید که چیزی یادم نیست.»\n\n@iranintltvsport",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "22:10:51",
-      "gregorian_utc": "2026-10-10T18:40:51+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 271807,
-      "media_size_human": "265.44 KB",
+      "tehran_time": "22:39:14",
+      "gregorian_utc": "2026-10-10T19:09:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2117877,
+      "media_size_human": "2.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361631_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361631_photo.jpg",
+      "media_local_path": "media/IranintlTV_361633_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361633_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096394+00:00"
+      "archived_at": "2026-10-10T19:50:31.739510+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.477361+00:00"
+      "archived_at": "2026-10-10T19:50:32.016034+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121990_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121990_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945272+00:00"
+      "archived_at": "2026-10-10T19:50:32.335791+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677849+00:00"
+      "archived_at": "2026-10-10T19:50:31.448221+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361630,
-      "message_link": "https://t.me/IranintlTV/361630",
-      "text": "🔻تیم فوتبال منچستر یونایتد در هفته ششم لیگ برتر فوتبال انگلستان، در حالی که ۱۷ دقیقه مانده به پایان با گل برایان امبومو از تاتنهام پیش افتاده بود و حریفش نیز ۱۰ نفره شد، در وقت‌های تلف‌شده گل تساوی را از دومینیک سولانکه خورد تا بازی یک بر یک تمام شود.\n\n@iranintltvsport",
+      "message_id": 361632,
+      "message_link": "https://t.me/IranintlTV/361632",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد که زادروز علی بیرامی با حضور خانواده و نزدیکانش بر سر مزار این جاویدنام برگزار شد.\n\nعلی بیرامی ۲۴ ساله در جریان اعتراضات ۱۹ دی‌ماه در نظرآباد استان البرز به دست سرکوبگران کشته شد.",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "22:10:47",
-      "gregorian_utc": "2026-10-10T18:40:47+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 174223,
-      "media_size_human": "170.14 KB",
+      "tehran_time": "22:33:29",
+      "gregorian_utc": "2026-10-10T19:03:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 12105489,
+      "media_size_human": "11.54 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361630_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361630_photo.jpg",
+      "media_local_path": "media/IranintlTV_361632_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096488+00:00"
+      "archived_at": "2026-10-10T19:50:31.739577+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477531+00:00"
+      "archived_at": "2026-10-10T19:50:32.016202+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945322+00:00"
+      "archived_at": "2026-10-10T19:50:32.335844+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677878+00:00"
+      "archived_at": "2026-10-10T19:50:31.448251+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361629,
-      "message_link": "https://t.me/IranintlTV/361629",
-      "text": "روزنامه واشینگتن‌پست گزارش داد وزارت دفاع آمریکا، پنتاگون، شمار رسمی نظامیان آمریکایی جان‌باخته در عملیات علیه جمهوری اسلامی را به ۲۱ نفر افزایش داده است. این تغییر پس از اضافه شدن دو مورد مرگ غیررزمی به آمار رسمی انجام شد.\n\nبر اساس این گزارش، یکی از این افراد سورفلی دیویوس، سرگرد ۴۶ ساله گارد ملی ارتش آمریکا، بود که ۱۵ اسفند ۱۴۰۴ در کویت جان باخت. نفر دوم نیز از نیروهای نیروی دریایی آمریکا بود که در شهریور بر اثر خودکشی جان خود را از دست داد.\n\nواشینگتن‌پست همچنین نوشت شمار نظامیان آمریکایی زخمی‌شده در عملیات مرتبط با جنگ ایران به ۸۶۵ نفر رسیده است.\n\nاین روزنامه پیش‌تر در گزارشی اختصاصی به نقل از شش مقام آمریکایی نوشته بود شمار جان‌باختگان بیشتر از آمار رسمی پنتاگون است.\nhttps://iranintl.com/202610102482",
+      "message_id": 361631,
+      "message_link": "https://t.me/IranintlTV/361631",
+      "text": "🔻تیم فوتبال بارسلونا در هفته هشتم لالیگا، با گل‌های گوردون، گابریل ژسوس و ژول کونده، ختافه را شکست داد و به روند پیروزی‌های پرگل خود ادامه داد. شاگردان هانسی فلیک با حفظ روند صد در صد برد، جایگاهشان را در صدر جدول لالیگا مستحکم‌تر کردند.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "22:07:19",
-      "gregorian_utc": "2026-10-10T18:37:19+00:00",
+      "tehran_time": "22:10:51",
+      "gregorian_utc": "2026-10-10T18:40:51+00:00",
       "media_type": "photo",
-      "media_size_bytes": 169713,
-      "media_size_human": "165.74 KB",
+      "media_size_bytes": 271807,
+      "media_size_human": "265.44 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361629_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361629_photo.jpg",
+      "media_local_path": "media/IranintlTV_361631_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361631_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096668+00:00"
+      "archived_at": "2026-10-10T19:50:31.739710+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76596_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76596_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477576+00:00"
+      "archived_at": "2026-10-10T19:50:32.016247+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_121988_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121988_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945363+00:00"
+      "archived_at": "2026-10-10T19:50:32.335885+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677920+00:00"
+      "archived_at": "2026-10-10T19:50:31.448294+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361628,
-      "message_link": "https://t.me/IranintlTV/361628",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، با وجود حمایت از ادامه مذاکرات تهران و واشینگتن با میانجیگری قطر، همچنان گزینه حمله نظامی به جمهوری اسلامی را باز گذاشته است. هم‌زمان، کانال ۱۲ اسرائیل گزارش داده مقام‌های ارشد نظامی آمریکا به رییس ستاد ارتش اسرائیل گفته‌اند دستور دارند برای احتمال حمله‌ای گسترده به ایران طی سه هفته آینده آماده شوند.\n\nبر اساس گزارش‌های رسانه‌ای، در نشست مقام‌های ارشد امنیت ملی آمریکا طرح یک حمله کوتاه و فشرده سه‌روزه با تمرکز بر انبارهای موشکی و پهپادی، اهداف نظامی، تاسیسات انرژی و مراکز فرماندهی سپاه بررسی شده است. هم‌زمان، افزایش حضور ناوهای هواپیمابر آمریکا در حوزه عملیاتی سنتکام و گسترش حملات منتسب به ایران علیه نفتکش‌ها، بر نگرانی‌ها از احتمال تشدید درگیری افزوده است.\n@iranintltv",
+      "message_id": 361630,
+      "message_link": "https://t.me/IranintlTV/361630",
+      "text": "🔻تیم فوتبال منچستر یونایتد در هفته ششم لیگ برتر فوتبال انگلستان، در حالی که ۱۷ دقیقه مانده به پایان با گل برایان امبومو از تاتنهام پیش افتاده بود و حریفش نیز ۱۰ نفره شد، در وقت‌های تلف‌شده گل تساوی را از دومینیک سولانکه خورد تا بازی یک بر یک تمام شود.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:47:20",
-      "gregorian_utc": "2026-10-10T18:17:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2583572,
-      "media_size_human": "2.46 MB",
+      "tehran_time": "22:10:47",
+      "gregorian_utc": "2026-10-10T18:40:47+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 174223,
+      "media_size_human": "170.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361628_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361628_video.mp4",
+      "media_local_path": "media/IranintlTV_361630_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361630_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096818+00:00"
+      "archived_at": "2026-10-10T19:50:31.739818+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.477643+00:00"
+      "archived_at": "2026-10-10T19:50:32.016293+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945409+00:00"
+      "archived_at": "2026-10-10T19:50:32.335930+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677949+00:00"
+      "archived_at": "2026-10-10T19:50:31.448323+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361627,
-      "message_link": "https://t.me/IranintlTV/361627",
-      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: پوتین پیام تهران را به ترامپ رساند؛نشانه‌های تازه ازآمادگی آمریکا برای حمله\n@iranintlTV",
+      "message_id": 361629,
+      "message_link": "https://t.me/IranintlTV/361629",
+      "text": "روزنامه واشینگتن‌پست گزارش داد وزارت دفاع آمریکا، پنتاگون، شمار رسمی نظامیان آمریکایی جان‌باخته در عملیات علیه جمهوری اسلامی را به ۲۱ نفر افزایش داده است. این تغییر پس از اضافه شدن دو مورد مرگ غیررزمی به آمار رسمی انجام شد.\n\nبر اساس این گزارش، یکی از این افراد سورفلی دیویوس، سرگرد ۴۶ ساله گارد ملی ارتش آمریکا، بود که ۱۵ اسفند ۱۴۰۴ در کویت جان باخت. نفر دوم نیز از نیروهای نیروی دریایی آمریکا بود که در شهریور بر اثر خودکشی جان خود را از دست داد.\n\nواشینگتن‌پست همچنین نوشت شمار نظامیان آمریکایی زخمی‌شده در عملیات مرتبط با جنگ ایران به ۸۶۵ نفر رسیده است.\n\nاین روزنامه پیش‌تر در گزارشی اختصاصی به نقل از شش مقام آمریکایی نوشته بود شمار جان‌باختگان بیشتر از آمار رسمی پنتاگون است.\nhttps://iranintl.com/202610102482",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:37:39",
-      "gregorian_utc": "2026-10-10T18:07:39+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31704430,
-      "media_size_human": "30.24 MB",
+      "tehran_time": "22:07:19",
+      "gregorian_utc": "2026-10-10T18:37:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 169713,
+      "media_size_human": "165.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361627_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361627_audio.mp3",
+      "media_local_path": "media/IranintlTV_361629_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361629_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096892+00:00"
+      "archived_at": "2026-10-10T19:50:31.739953+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477689+00:00"
+      "archived_at": "2026-10-10T19:50:32.016338+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_121986_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121986_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945475+00:00"
+      "archived_at": "2026-10-10T19:50:32.335997+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.677976+00:00"
+      "archived_at": "2026-10-10T19:50:31.448350+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361626,
-      "message_link": "https://t.me/IranintlTV/361626",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد در زادروز علیرضا قسیمی، خواهر این جاویدنام یادنامه‌ای را خواند و گفت: «تو را از ما گرفتند اما نتوانستند نامت را خاموش کنند.»\n\nعلیرضا قسیمی ۲۳ ساله در جریان اعتراضات ۱۹ دی ۱۴۰۴ در مشهد، به دست ماموران جمهوری اسلامی کشته شد.",
+      "message_id": 361628,
+      "message_link": "https://t.me/IranintlTV/361628",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، با وجود حمایت از ادامه مذاکرات تهران و واشینگتن با میانجیگری قطر، همچنان گزینه حمله نظامی به جمهوری اسلامی را باز گذاشته است. هم‌زمان، کانال ۱۲ اسرائیل گزارش داده مقام‌های ارشد نظامی آمریکا به رییس ستاد ارتش اسرائیل گفته‌اند دستور دارند برای احتمال حمله‌ای گسترده به ایران طی سه هفته آینده آماده شوند.\n\nبر اساس گزارش‌های رسانه‌ای، در نشست مقام‌های ارشد امنیت ملی آمریکا طرح یک حمله کوتاه و فشرده سه‌روزه با تمرکز بر انبارهای موشکی و پهپادی، اهداف نظامی، تاسیسات انرژی و مراکز فرماندهی سپاه بررسی شده است. هم‌زمان، افزایش حضور ناوهای هواپیمابر آمریکا در حوزه عملیاتی سنتکام و گسترش حملات منتسب به ایران علیه نفتکش‌ها، بر نگرانی‌ها از احتمال تشدید درگیری افزوده است.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:34:03",
-      "gregorian_utc": "2026-10-10T18:04:03+00:00",
+      "tehran_time": "21:47:20",
+      "gregorian_utc": "2026-10-10T18:17:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 7442351,
-      "media_size_human": "7.10 MB",
+      "media_size_bytes": 2583572,
+      "media_size_human": "2.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361626_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361626_video.mp4",
+      "media_local_path": "media/IranintlTV_361628_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361628_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.096934+00:00"
+      "archived_at": "2026-10-10T19:50:31.740080+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477762+00:00"
+      "archived_at": "2026-10-10T19:50:32.016409+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945527+00:00"
+      "archived_at": "2026-10-10T19:50:32.336049+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.678001+00:00"
+      "archived_at": "2026-10-10T19:50:31.448376+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361625,
-      "message_link": "https://t.me/IranintlTV/361625",
-      "text": "گروه حقوق بشری حال‌وش، جمعه ۱۷ مهر، با انتشار ویدیوهایی در اینستاگرام، گزارشی از حمله به خودروی حامل نیروهای نظامی در چشمه‌زیارت زاهدان منتشر کرد.\n\nرسانه‌های حکومتی از کشته‌شدن نصرت افتخاری، معاون فرهنگی‌ـ‌اجتماعی فرماندهی انتظامی سیستان و بلوچستان، بر اثر انفجار بمب کنار جاده‌ای خبر دادند.\n\nحال‌وش همچنین گزارش داد یک شهروند بلوچ رهگذر که به گفته این گروه، ارتباطی با درگیری نداشته و مسلح نبوده، در تیراندازی نیروهای امنیتی کشته شده است.\n\n«جبهه مبارزین مردمی» مسئولیت این حمله را بر عهده گرفت.\n\nمحمدباقر قالیباف، رییس مجلس، خواستار شناسایی و «مجازات قاطع» همه عوامل و آمران این حمله شد.\n@iranintltv",
+      "message_id": 361627,
+      "message_link": "https://t.me/IranintlTV/361627",
+      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: پوتین پیام تهران را به ترامپ رساند؛نشانه‌های تازه ازآمادگی آمریکا برای حمله\n@iranintlTV",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:30:33",
-      "gregorian_utc": "2026-10-10T18:00:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 699566,
-      "media_size_human": "683.17 KB",
+      "tehran_time": "21:37:39",
+      "gregorian_utc": "2026-10-10T18:07:39+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31704430,
+      "media_size_human": "30.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361625_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361625_video.mp4",
+      "media_local_path": "media/IranintlTV_361627_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361627_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.097040+00:00"
+      "archived_at": "2026-10-10T19:50:31.740146+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477802+00:00"
+      "archived_at": "2026-10-10T19:50:32.016448+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945575+00:00"
+      "archived_at": "2026-10-10T19:50:32.336097+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.678026+00:00"
+      "archived_at": "2026-10-10T19:50:31.448404+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361624,
-      "message_link": "https://t.me/IranintlTV/361624",
-      "text": "نجات بهرامی، تحلیلگر سیاسی، با اشاره به واکنش‌ها به سخنان مارکو روبیو در آتن درباره حمله هخامنشیان به یونان گفت جمهوری اسلامی و رسانه‌های وابسته به آن تلاش کرده‌اند این سخنان را نشانه مخالفت آمریکا با تمدن ایران معرفی کنند، در حالی که روبیو در سال‌های گذشته بارها میان مردم و تمدن ایران از یک سو و جمهوری اسلامی از سوی دیگر تفکیک قائل شده است.\n@iranintltv",
+      "message_id": 361626,
+      "message_link": "https://t.me/IranintlTV/361626",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد در زادروز علیرضا قسیمی، خواهر این جاویدنام یادنامه‌ای را خواند و گفت: «تو را از ما گرفتند اما نتوانستند نامت را خاموش کنند.»\n\nعلیرضا قسیمی ۲۳ ساله در جریان اعتراضات ۱۹ دی ۱۴۰۴ در مشهد، به دست ماموران جمهوری اسلامی کشته شد.",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:08:59",
-      "gregorian_utc": "2026-10-10T17:38:59+00:00",
+      "tehran_time": "21:34:03",
+      "gregorian_utc": "2026-10-10T18:04:03+00:00",
       "media_type": "video",
-      "media_size_bytes": 5052162,
-      "media_size_human": "4.82 MB",
+      "media_size_bytes": 7442351,
+      "media_size_human": "7.10 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361624_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361624_video.mp4",
+      "media_local_path": "media/IranintlTV_361626_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361626_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.097123+00:00"
+      "archived_at": "2026-10-10T19:50:31.740188+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.477942+00:00"
+      "archived_at": "2026-10-10T19:50:32.016588+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945652+00:00"
+      "archived_at": "2026-10-10T19:50:32.336153+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.678051+00:00"
+      "archived_at": "2026-10-10T19:50:31.448430+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361623,
-      "message_link": "https://t.me/IranintlTV/361623",
-      "text": "وحید یزدانیان، معاون توسعه شبکه ملی اطلاعات وزارت ارتباطات، به سایت سیتنا گفت که در صورت «وقوع مجدد جنگ یا ناآرامی«، احتمال قطع اینترنت وجود دارد، اما مشخص نیست چنین محدودیتی در چه سطحی اعمال شود.»\n\nمعاون وزارت ارتباطات ادامه داد: «چه این اتفاق رخ دهد و چه رخ ندهد، با توجه به تدابیر اتخاذشده، احتمالا شاهد پررنگ‌تر شدن نقش دولت و رییس‌جمهور در این زمینه خواهیم بود.»\n\nاین در حالی است که پیش‌تر محمد حاتمی‌زاده، معاون حقوقی وزارت ارتباطات گفته بود: «کشور به سطحی از بلوغ رسیده که حتی در شرایط بحرانی و التهابات شدید نیز می‌تواند بدون قطع اینترنت مدیریت شود و دیگر شاهد قطع اینترنت نخواهیم بود.»\nhttps://iranintl.com/202610101171",
+      "message_id": 361625,
+      "message_link": "https://t.me/IranintlTV/361625",
+      "text": "گروه حقوق بشری حال‌وش، جمعه ۱۷ مهر، با انتشار ویدیوهایی در اینستاگرام، گزارشی از حمله به خودروی حامل نیروهای نظامی در چشمه‌زیارت زاهدان منتشر کرد.\n\nرسانه‌های حکومتی از کشته‌شدن نصرت افتخاری، معاون فرهنگی‌ـ‌اجتماعی فرماندهی انتظامی سیستان و بلوچستان، بر اثر انفجار بمب کنار جاده‌ای خبر دادند.\n\nحال‌وش همچنین گزارش داد یک شهروند بلوچ رهگذر که به گفته این گروه، ارتباطی با درگیری نداشته و مسلح نبوده، در تیراندازی نیروهای امنیتی کشته شده است.\n\n«جبهه مبارزین مردمی» مسئولیت این حمله را بر عهده گرفت.\n\nمحمدباقر قالیباف، رییس مجلس، خواستار شناسایی و «مجازات قاطع» همه عوامل و آمران این حمله شد.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:06:16",
-      "gregorian_utc": "2026-10-10T17:36:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 150776,
-      "media_size_human": "147.24 KB",
+      "tehran_time": "21:30:33",
+      "gregorian_utc": "2026-10-10T18:00:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 699566,
+      "media_size_human": "683.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361623_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361623_photo.jpg",
+      "media_local_path": "media/IranintlTV_361625_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361625_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.097244+00:00"
+      "archived_at": "2026-10-10T19:50:31.740291+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.477991+00:00"
+      "archived_at": "2026-10-10T19:50:32.016637+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945706+00:00"
+      "archived_at": "2026-10-10T19:50:32.336200+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.678077+00:00"
+      "archived_at": "2026-10-10T19:50:31.448458+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361622,
-      "message_link": "https://t.me/IranintlTV/361622",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم فنلاند ۱۸ مهر در هلسینکی با برگزاری تجمعی اعتراضی علیه جمهوری اسلامی، حمایت خود از شاهزاده رضا پهلوی را اعلام کردند.",
+      "message_id": 361624,
+      "message_link": "https://t.me/IranintlTV/361624",
+      "text": "نجات بهرامی، تحلیلگر سیاسی، با اشاره به واکنش‌ها به سخنان مارکو روبیو در آتن درباره حمله هخامنشیان به یونان گفت جمهوری اسلامی و رسانه‌های وابسته به آن تلاش کرده‌اند این سخنان را نشانه مخالفت آمریکا با تمدن ایران معرفی کنند، در حالی که روبیو در سال‌های گذشته بارها میان مردم و تمدن ایران از یک سو و جمهوری اسلامی از سوی دیگر تفکیک قائل شده است.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "21:00:34",
-      "gregorian_utc": "2026-10-10T17:30:34+00:00",
+      "tehran_time": "21:08:59",
+      "gregorian_utc": "2026-10-10T17:38:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 11396879,
-      "media_size_human": "10.87 MB",
+      "media_size_bytes": 5052162,
+      "media_size_human": "4.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361622_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361622_video.mp4",
+      "media_local_path": "media/IranintlTV_361624_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361624_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.097419+00:00"
+      "archived_at": "2026-10-10T19:50:31.740369+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.478055+00:00"
+      "archived_at": "2026-10-10T19:50:32.016724+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_121981_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121981_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.945746+00:00"
+      "archived_at": "2026-10-10T19:50:32.336237+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:32.678102+00:00"
+      "archived_at": "2026-10-10T19:50:31.448483+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361621,
-      "message_link": "https://t.me/IranintlTV/361621",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به پرسشی درباره اینکه آیا حمله تازه به فرودگاه ریاض در عربستان سعودی تصمیم او درباره زمان حمله به ایران را تغییر می‌دهد، گفت: «بررسی می‌کنیم.»\n\nترامپ در پاسخ به پرسشی درباره احتمال تغییر تصمیمش برای حمله به ایران پس از حمله اخیر در عربستان سعودی، گفت: «بررسی می‌کنیم.» \n\nاو پیش‌تر گفته بود تا پس از انتخابات میان‌دوره‌ای به ایران حمله نخواهد کرد.\nhttps://iranintl.com/202610103225",
+      "message_id": 361623,
+      "message_link": "https://t.me/IranintlTV/361623",
+      "text": "وحید یزدانیان، معاون توسعه شبکه ملی اطلاعات وزارت ارتباطات، به سایت سیتنا گفت که در صورت «وقوع مجدد جنگ یا ناآرامی«، احتمال قطع اینترنت وجود دارد، اما مشخص نیست چنین محدودیتی در چه سطحی اعمال شود.»\n\nمعاون وزارت ارتباطات ادامه داد: «چه این اتفاق رخ دهد و چه رخ ندهد، با توجه به تدابیر اتخاذشده، احتمالا شاهد پررنگ‌تر شدن نقش دولت و رییس‌جمهور در این زمینه خواهیم بود.»\n\nاین در حالی است که پیش‌تر محمد حاتمی‌زاده، معاون حقوقی وزارت ارتباطات گفته بود: «کشور به سطحی از بلوغ رسیده که حتی در شرایط بحرانی و التهابات شدید نیز می‌تواند بدون قطع اینترنت مدیریت شود و دیگر شاهد قطع اینترنت نخواهیم بود.»\nhttps://iranintl.com/202610101171",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "20:54:28",
-      "gregorian_utc": "2026-10-10T17:24:28+00:00",
+      "tehran_time": "21:06:16",
+      "gregorian_utc": "2026-10-10T17:36:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 171321,
-      "media_size_human": "167.31 KB",
+      "media_size_bytes": 150776,
+      "media_size_human": "147.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361621_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361621_photo.jpg",
+      "media_local_path": "media/IranintlTV_361623_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361623_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T19:40:33.097513+00:00"
+      "archived_at": "2026-10-10T19:50:31.740479+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.478153+00:00"
+      "archived_at": "2026-10-10T19:50:32.016827+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T19:40:33.945799+00:00"
+      "archived_at": "2026-10-10T19:50:32.336290+00:00"
     }
   ]
 }
