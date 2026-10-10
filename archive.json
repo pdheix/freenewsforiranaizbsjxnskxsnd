@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T11:07:30.045636+00:00",
-  "shamsi_generated": "1405/07/18 11:07:30 تهران",
+  "generated_at": "2026-10-10T11:15:58.523754+00:00",
+  "shamsi_generated": "1405/07/18 11:15:58 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.031832+00:00"
+      "archived_at": "2026-10-10T11:10:33.559861+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_361572_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361572_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.584197+00:00"
+      "archived_at": "2026-10-10T11:10:33.925903+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,25 +73,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 201.15 MB)",
-      "archived_at": "2026-10-10T11:01:00.168014+00:00"
+      "archived_at": "2026-10-10T11:10:34.284458+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121979,
-      "message_link": "https://t.me/Mellig/121979",
-      "text": "رائفی پور شیشه ای داره اعتراف میکنه که چقدر اسراییل و آمریکا قوی هستند\n\nتوجیح برای گول زدن عرزشی ها😄\n\n\n@mellig",
+      "message_id": 121980,
+      "message_link": "https://t.me/Mellig/121980",
+      "text": "🔴 #خبر_فوری\nدولت سریلانکا اعلام کرده است:\nبرنامه‌ای برای کمک به 19 نفتکش ایرانی که در آب‌های بین‌المللی نزدیک به این کشور سرگردان می‌باشند،\nو با کمبود شدید غذا، آب و سوخت مواجه هستند، ندارد.",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "13:49:02",
-      "gregorian_utc": "2026-10-10T10:19:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5115317,
-      "media_size_human": "4.88 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121979_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121979_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.681979+00:00"
+      "tehran_time": "14:35:31",
+      "gregorian_utc": "2026-10-10T11:05:31+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-10T11:10:34.640192+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.031883+00:00"
+      "archived_at": "2026-10-10T11:10:33.559904+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_361571_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361571_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.584250+00:00"
+      "archived_at": "2026-10-10T11:10:33.925948+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,25 +145,25 @@
       "media_local_path": "media/satlastnews_76601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168090+00:00"
+      "archived_at": "2026-10-10T11:10:34.284538+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121978,
-      "message_link": "https://t.me/Mellig/121978",
-      "text": "دو کلمه هم بشنویم از فاطی خرس الله که میگوید ناامید نباشید به زودی آخوند نابود میشه😄",
+      "message_id": 121979,
+      "message_link": "https://t.me/Mellig/121979",
+      "text": "رائفی پور شیشه ای داره اعتراف میکنه که چقدر اسراییل و آمریکا قوی هستند\n\nتوجیح برای گول زدن عرزشی ها😄\n\n\n@mellig",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "13:36:51",
-      "gregorian_utc": "2026-10-10T10:06:51+00:00",
+      "tehran_time": "13:49:02",
+      "gregorian_utc": "2026-10-10T10:19:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 2733907,
-      "media_size_human": "2.61 MB",
+      "media_size_bytes": 5115317,
+      "media_size_human": "4.88 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121978_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121978_video.mp4",
+      "media_local_path": "media/Mellig_121979_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121979_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682050+00:00"
+      "archived_at": "2026-10-10T11:10:34.640273+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.031942+00:00"
+      "archived_at": "2026-10-10T11:10:33.559932+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_361570_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361570_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.584354+00:00"
+      "archived_at": "2026-10-10T11:10:33.926039+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,25 +217,25 @@
       "media_local_path": "media/satlastnews_76600_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76600_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168212+00:00"
+      "archived_at": "2026-10-10T11:10:34.284648+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121977,
-      "message_link": "https://t.me/Mellig/121977",
-      "text": "**هوش مصنوعی پارسافای parsafy**\n\nهوش مصنوعی parsafy\n\nمزایای چت GPT و grok، اینستاگرام و ... را همزمان دارد\n\nقابلیت ها:\nساخت ویدئو، عکس و آهنگ با هوش مصنوعی\nتماس صوتی و تصویری رمزنگاری شده\nتنها با ساخت یک اکانت جیمیل\nبدون نیاز به شماره تلفن\n\nبرای استفاده از امکانات هوش مصنوعی پارسافای\nوارد سایت زیر شوید: \n(حتما از فیلترشکن استفاده کنید)\n\nhttps://Parsafy.com\n\nبرای ورود نیاز به Gmail دارید.\n\n**✅ آموزش ساخت جیمیل در بخش کامنت**\n\n♥️",
+      "message_id": 121978,
+      "message_link": "https://t.me/Mellig/121978",
+      "text": "دو کلمه هم بشنویم از فاطی خرس الله که میگوید ناامید نباشید به زودی آخوند نابود میشه😄",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "11:29:20",
-      "gregorian_utc": "2026-10-10T07:59:20+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 295852,
-      "media_size_human": "288.92 KB",
+      "tehran_time": "13:36:51",
+      "gregorian_utc": "2026-10-10T10:06:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2733907,
+      "media_size_human": "2.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121977_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121977_photo.jpg",
+      "media_local_path": "media/Mellig_121978_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121978_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682167+00:00"
+      "archived_at": "2026-10-10T11:10:34.640321+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.031987+00:00"
+      "archived_at": "2026-10-10T11:10:33.559963+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_361569_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361569_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.584479+00:00"
+      "archived_at": "2026-10-10T11:10:33.926146+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,25 +289,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.168349+00:00"
+      "archived_at": "2026-10-10T11:10:34.284769+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121976,
-      "message_link": "https://t.me/Mellig/121976",
-      "text": "ظریف به عرزشی ها داره توضیح میده بدیم بره 😁\n\nMellig.net",
+      "message_id": 121977,
+      "message_link": "https://t.me/Mellig/121977",
+      "text": "**هوش مصنوعی پارسافای parsafy**\n\nهوش مصنوعی parsafy\n\nمزایای چت GPT و grok، اینستاگرام و ... را همزمان دارد\n\nقابلیت ها:\nساخت ویدئو، عکس و آهنگ با هوش مصنوعی\nتماس صوتی و تصویری رمزنگاری شده\nتنها با ساخت یک اکانت جیمیل\nبدون نیاز به شماره تلفن\n\nبرای استفاده از امکانات هوش مصنوعی پارسافای\nوارد سایت زیر شوید: \n(حتما از فیلترشکن استفاده کنید)\n\nhttps://Parsafy.com\n\nبرای ورود نیاز به Gmail دارید.\n\n**✅ آموزش ساخت جیمیل در بخش کامنت**\n\n♥️",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "09:55:28",
-      "gregorian_utc": "2026-10-10T06:25:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6548296,
-      "media_size_human": "6.24 MB",
+      "tehran_time": "11:29:20",
+      "gregorian_utc": "2026-10-10T07:59:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 295852,
+      "media_size_human": "288.92 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121976_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121976_video.mp4",
+      "media_local_path": "media/Mellig_121977_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121977_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682226+00:00"
+      "archived_at": "2026-10-10T11:10:34.640421+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": "media/zedTV_14626_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_14626_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.032099+00:00"
+      "archived_at": "2026-10-10T11:10:33.560067+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_361568_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361568_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.584556+00:00"
+      "archived_at": "2026-10-10T11:10:33.926210+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,25 +361,25 @@
       "media_local_path": "media/satlastnews_76597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168516+00:00"
+      "archived_at": "2026-10-10T11:10:34.284911+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121975,
-      "message_link": "https://t.me/Mellig/121975",
-      "text": "[شنیده شدن صدای انفجار در شرق تهران و اختلال شدید جی پی اش، آخرین اخبار روز ۱۷ مهر ۲۵۸۵](https://www.youtube.com/live/K6aIHQhMuYI?is=sqtRGjdodWnLimMi)\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 132.07 MB)",
+      "message_id": 121976,
+      "message_link": "https://t.me/Mellig/121976",
+      "text": "ظریف به عرزشی ها داره توضیح میده بدیم بره 😁\n\nMellig.net",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "08:01:08",
-      "gregorian_utc": "2026-10-10T04:31:08+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 138483992,
-      "media_size_human": "132.07 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 132.07 MB)",
-      "archived_at": "2026-10-10T11:01:00.682293+00:00"
+      "tehran_time": "09:55:28",
+      "gregorian_utc": "2026-10-10T06:25:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6548296,
+      "media_size_human": "6.24 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121976_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121976_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-10T11:10:34.640492+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032146+00:00"
+      "archived_at": "2026-10-10T11:10:33.560104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_361567_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361567_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.593755+00:00"
+      "archived_at": "2026-10-10T11:10:33.938589+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,25 +433,25 @@
       "media_local_path": "media/satlastnews_76596_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76596_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168560+00:00"
+      "archived_at": "2026-10-10T11:10:34.284944+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121974,
-      "message_link": "https://t.me/Mellig/121974",
-      "text": "آزمایش گیلدا هوش مصنوعی پارسافای\n\nhttps://youtu.be/tclqgWBKPFU",
+      "message_id": 121975,
+      "message_link": "https://t.me/Mellig/121975",
+      "text": "[شنیده شدن صدای انفجار در شرق تهران و اختلال شدید جی پی اش، آخرین اخبار روز ۱۷ مهر ۲۵۸۵](https://www.youtube.com/live/K6aIHQhMuYI?is=sqtRGjdodWnLimMi)\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 132.07 MB)",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "03:57:39",
-      "gregorian_utc": "2026-10-10T00:27:39+00:00",
-      "media_type": "video",
-      "media_size_bytes": 50094054,
-      "media_size_human": "47.77 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121974_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121974_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682344+00:00"
+      "tehran_time": "08:01:08",
+      "gregorian_utc": "2026-10-10T04:31:08+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 138483992,
+      "media_size_human": "132.07 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 132.07 MB)",
+      "archived_at": "2026-10-10T11:10:34.640572+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032177+00:00"
+      "archived_at": "2026-10-10T11:10:33.560127+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_361566_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361566_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.593866+00:00"
+      "archived_at": "2026-10-10T11:10:33.938733+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,25 +505,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.168605+00:00"
+      "archived_at": "2026-10-10T11:10:34.284979+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121973,
-      "message_link": "https://t.me/Mellig/121973",
-      "text": "آقای میرقادری، این آخونده راست میگه ، سیدعلی گدا هم زنده ست، رفته آرژانتین خواننده رپ شده این هم فیلمش 😉",
+      "message_id": 121974,
+      "message_link": "https://t.me/Mellig/121974",
+      "text": "آزمایش گیلدا هوش مصنوعی پارسافای\n\nhttps://youtu.be/tclqgWBKPFU",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:47:42",
-      "gregorian_utc": "2026-10-09T23:17:42+00:00",
+      "tehran_time": "03:57:39",
+      "gregorian_utc": "2026-10-10T00:27:39+00:00",
       "media_type": "video",
-      "media_size_bytes": 3660915,
-      "media_size_human": "3.49 MB",
+      "media_size_bytes": 50094054,
+      "media_size_human": "47.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121973_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121973_video.mp4",
+      "media_local_path": "media/Mellig_121974_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121974_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682382+00:00"
+      "archived_at": "2026-10-10T11:10:34.640612+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032216+00:00"
+      "archived_at": "2026-10-10T11:10:33.560160+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_361565_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361565_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594041+00:00"
+      "archived_at": "2026-10-10T11:10:33.938851+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,25 +577,25 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168644+00:00"
+      "archived_at": "2026-10-10T11:10:34.285008+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121972,
-      "message_link": "https://t.me/Mellig/121972",
-      "text": "یکی شبیه موشقوا پیدا کردن اوردن عرزشی در ماتحتش عروسی شده\n\nخب سوال اینجاست اگر زنده هست بیا حرف بزنه خودشو نشون بده قایم موشک بازی نداره😄",
+      "message_id": 121973,
+      "message_link": "https://t.me/Mellig/121973",
+      "text": "آقای میرقادری، این آخونده راست میگه ، سیدعلی گدا هم زنده ست، رفته آرژانتین خواننده رپ شده این هم فیلمش 😉",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:45:10",
-      "gregorian_utc": "2026-10-09T23:15:10+00:00",
+      "tehran_time": "02:47:42",
+      "gregorian_utc": "2026-10-09T23:17:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 9225749,
-      "media_size_human": "8.80 MB",
+      "media_size_bytes": 3660915,
+      "media_size_human": "3.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121972_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121972_video.mp4",
+      "media_local_path": "media/Mellig_121973_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682443+00:00"
+      "archived_at": "2026-10-10T11:10:34.640641+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032244+00:00"
+      "archived_at": "2026-10-10T11:10:33.560184+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_361564_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361564_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594099+00:00"
+      "archived_at": "2026-10-10T11:10:33.938929+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,25 +649,25 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168714+00:00"
+      "archived_at": "2026-10-10T11:10:34.285065+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121971,
-      "message_link": "https://t.me/Mellig/121971",
-      "text": "برای ساختن اپلیکیشن تحت وب سایت پارسافای ابتدا سایت رو در مرورگر کروم موبایل باز کنید \nسپس مراحل یک و دو رو طبق عکس انجام دهید \n\nپس از انجام این مراحل شورتکت پارسافای روی صفحه موبایل شما قرار میگیرد \n\nhttps://app.parsafy.com/en/home",
+      "message_id": 121972,
+      "message_link": "https://t.me/Mellig/121972",
+      "text": "یکی شبیه موشقوا پیدا کردن اوردن عرزشی در ماتحتش عروسی شده\n\nخب سوال اینجاست اگر زنده هست بیا حرف بزنه خودشو نشون بده قایم موشک بازی نداره😄",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:26:46",
-      "gregorian_utc": "2026-10-09T22:56:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 185283,
-      "media_size_human": "180.94 KB",
+      "tehran_time": "02:45:10",
+      "gregorian_utc": "2026-10-09T23:15:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9225749,
+      "media_size_human": "8.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121971_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121971_photo.jpg",
+      "media_local_path": "media/Mellig_121972_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121972_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682520+00:00"
+      "archived_at": "2026-10-10T11:10:34.640688+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032271+00:00"
+      "archived_at": "2026-10-10T11:10:33.560207+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_361563_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361563_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594210+00:00"
+      "archived_at": "2026-10-10T11:10:33.939027+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,25 +721,25 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168752+00:00"
+      "archived_at": "2026-10-10T11:10:34.285094+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121970,
-      "message_link": "https://t.me/Mellig/121970",
-      "text": "",
+      "message_id": 121971,
+      "message_link": "https://t.me/Mellig/121971",
+      "text": "برای ساختن اپلیکیشن تحت وب سایت پارسافای ابتدا سایت رو در مرورگر کروم موبایل باز کنید \nسپس مراحل یک و دو رو طبق عکس انجام دهید \n\nپس از انجام این مراحل شورتکت پارسافای روی صفحه موبایل شما قرار میگیرد \n\nhttps://app.parsafy.com/en/home",
       "shamsi_date": "1405/07/18",
       "tehran_time": "02:26:46",
       "gregorian_utc": "2026-10-09T22:56:46+00:00",
       "media_type": "photo",
-      "media_size_bytes": 194896,
-      "media_size_human": "190.33 KB",
+      "media_size_bytes": 185283,
+      "media_size_human": "180.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121970_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121970_photo.jpg",
+      "media_local_path": "media/Mellig_121971_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121971_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682562+00:00"
+      "archived_at": "2026-10-10T11:10:34.640745+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032297+00:00"
+      "archived_at": "2026-10-10T11:10:33.560226+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_361562_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361562_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594283+00:00"
+      "archived_at": "2026-10-10T11:10:33.939090+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,25 +793,25 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.168885+00:00"
+      "archived_at": "2026-10-10T11:10:34.285210+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121969,
-      "message_link": "https://t.me/Mellig/121969",
-      "text": "**🔸بسنت: اعضای سپاه اگر جمهوری اسلامی را دوست دارند، همان‌جا گیر افتاده‌اند و می‌توانند از آن لذت ببرند**\n\nMellig.net",
+      "message_id": 121970,
+      "message_link": "https://t.me/Mellig/121970",
+      "text": "",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:25:01",
-      "gregorian_utc": "2026-10-09T22:55:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 17773927,
-      "media_size_human": "16.95 MB",
+      "tehran_time": "02:26:46",
+      "gregorian_utc": "2026-10-09T22:56:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 194896,
+      "media_size_human": "190.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_121969_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121969_video.mp4",
+      "media_local_path": "media/Mellig_121970_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121970_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682624+00:00"
+      "archived_at": "2026-10-10T11:10:34.640775+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032323+00:00"
+      "archived_at": "2026-10-10T11:10:33.560246+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_361561_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361561_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594394+00:00"
+      "archived_at": "2026-10-10T11:10:33.939187+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,25 +865,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.168972+00:00"
+      "archived_at": "2026-10-10T11:10:34.285248+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121968,
-      "message_link": "https://t.me/Mellig/121968",
-      "text": "🚨 ** پنتاگون به سنتکام دستور داده آماده باش کامل باشید**",
+      "message_id": 121969,
+      "message_link": "https://t.me/Mellig/121969",
+      "text": "**🔸بسنت: اعضای سپاه اگر جمهوری اسلامی را دوست دارند، همان‌جا گیر افتاده‌اند و می‌توانند از آن لذت ببرند**\n\nMellig.net",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:15:15",
-      "gregorian_utc": "2026-10-09T22:45:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.682673+00:00"
+      "tehran_time": "02:25:01",
+      "gregorian_utc": "2026-10-09T22:55:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 17773927,
+      "media_size_human": "16.95 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121969_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121969_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-10T11:10:34.640826+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032348+00:00"
+      "archived_at": "2026-10-10T11:10:33.560264+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_361560_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361560_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594470+00:00"
+      "archived_at": "2026-10-10T11:10:33.939250+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,17 +937,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.169047+00:00"
+      "archived_at": "2026-10-10T11:10:34.285303+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121967,
-      "message_link": "https://t.me/Mellig/121967",
-      "text": "🔴 #خبر_فوری\nوزارت امور خارجه آمریکا به شهروندان آمریکایی اعلام کرد:\nرویه‌های عبور از مرزهای زمینی ایران ممکن است بدون اطلاع قبلی یا با اطلاع‌رسانی بسیار کوتاه تغییر کنند،\nتحت هیچ شرایطی به ایران سفر نکنید و فوراً ایران را ترک کنید.",
+      "message_id": 121968,
+      "message_link": "https://t.me/Mellig/121968",
+      "text": "🚨 ** پنتاگون به سنتکام دستور داده آماده باش کامل باشید**",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:12:01",
-      "gregorian_utc": "2026-10-09T22:42:01+00:00",
+      "tehran_time": "02:15:15",
+      "gregorian_utc": "2026-10-09T22:45:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.682733+00:00"
+      "archived_at": "2026-10-10T11:10:34.640863+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032376+00:00"
+      "archived_at": "2026-10-10T11:10:33.560284+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_361559_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361559_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594548+00:00"
+      "archived_at": "2026-10-10T11:10:33.939318+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,25 +1009,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.169155+00:00"
+      "archived_at": "2026-10-10T11:10:34.285382+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121966,
-      "message_link": "https://t.me/Mellig/121966",
-      "text": "‏خط و نشان باقر شغال برای مارکو روبیو\n\nبهش گفته به سرنوشت والرین دچار میشید و زانو میزنید \n\n**بچه شیعه کونده پر رو** 🤣🤣🤣\n\n😂\n\nMellig.net",
+      "message_id": 121967,
+      "message_link": "https://t.me/Mellig/121967",
+      "text": "🔴 #خبر_فوری\nوزارت امور خارجه آمریکا به شهروندان آمریکایی اعلام کرد:\nرویه‌های عبور از مرزهای زمینی ایران ممکن است بدون اطلاع قبلی یا با اطلاع‌رسانی بسیار کوتاه تغییر کنند،\nتحت هیچ شرایطی به ایران سفر نکنید و فوراً ایران را ترک کنید.",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "01:45:01",
-      "gregorian_utc": "2026-10-09T22:15:01+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 102127,
-      "media_size_human": "99.73 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_121966_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121966_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.682804+00:00"
+      "tehran_time": "02:12:01",
+      "gregorian_utc": "2026-10-09T22:42:01+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-10T11:10:34.640914+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:00:59.032403+00:00"
+      "archived_at": "2026-10-10T11:10:33.560303+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_361558_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361558_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:00:59.594584+00:00"
+      "archived_at": "2026-10-10T11:10:33.939349+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,25 +1081,25 @@
       "media_local_path": "media/satlastnews_76580_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T11:01:00.169241+00:00"
+      "archived_at": "2026-10-10T11:10:34.285448+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 121965,
-      "message_link": "https://t.me/Mellig/121965",
-      "text": "🚨** درگیریهای شدید در تنگه هرمز\nو شنیده شدن انفجارهای متعدد \n\n**❗** شنیده شدن صدای انفجار از سیریک و بندرعباس ، احتمالا به دلیل پرتاب موشک**",
+      "message_id": 121966,
+      "message_link": "https://t.me/Mellig/121966",
+      "text": "‏خط و نشان باقر شغال برای مارکو روبیو\n\nبهش گفته به سرنوشت والرین دچار میشید و زانو میزنید \n\n**بچه شیعه کونده پر رو** 🤣🤣🤣\n\n😂\n\nMellig.net",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "01:34:02",
-      "gregorian_utc": "2026-10-09T22:04:02+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T11:01:00.682862+00:00"
+      "tehran_time": "01:45:01",
+      "gregorian_utc": "2026-10-09T22:15:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 102127,
+      "media_size_human": "99.73 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_121966_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121966_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-10T11:10:34.640973+00:00"
     }
   ]
 }
