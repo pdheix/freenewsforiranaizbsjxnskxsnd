@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T03:13:26.635353+00:00",
-  "shamsi_generated": "1405/07/18 03:13:26 تهران",
+  "generated_at": "2026-10-10T03:23:01.109546+00:00",
+  "shamsi_generated": "1405/07/18 03:23:01 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376582+00:00"
+      "archived_at": "2026-10-10T03:20:30.218698+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361532,
-      "message_link": "https://t.me/IranintlTV/361532",
-      "text": "ترامپ جمعه در سخنرانی خود در سیراکیوز نیویورک، از کمیته صلح نوبل به دلیل اعطا نکردن این جایزه به خودش انتقاد کرد. ترامپ با اشاره به موفقیتش در توقف بیش از هشت جنگ، اعطا نشدن این جایزه به خودش را «شرم‌آور» و «لکه ننگی» بر اعتبار نروژ خواند.\nکمیته نوبل نروژ جمعه ناوانتم (ناوی) پیلای، کمیسر عالی پیشین حقوق بشر سازمان ملل و از قضات پیشین دیوان کیفری بین‌المللی را به دلیل تلاش‌هایش برای «ترویج صلح و حقوق بین‌الملل»، به عنوان برنده جایزه نوبل صلح ۲۰۲۶ معرفی کرد. این حقوق‌دان ۸۵ ساله متولد آفریقای جنوبی است.\nتنها چند ساعت پس از اعطای جایزه صلح نوبل به یکی از قضات پیشین دیوان کیفری بین‌المللی، ترامپ این دیوان را تحریم کرد. \nدولت ترامپ مدت‌هاست با این نهاد مخالفت می‌کند و پیش‌تر نیز شماری از قضات و دادستان‌های آن را تحریم کرده است.\nواشینگتن به‌ویژه صدور حکم بازداشت برای مقام‌های اسرائیلی، از جمله نتانیاهو و تحقیقات پیشین این دیوان درباره اقدامات نظامیان آمریکایی در افغانستان را محکوم کرده است. \n\nhttps://iranintl.com/202610108848",
+      "message_id": 361533,
+      "message_link": "https://t.me/IranintlTV/361533",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت اگر جمهوری اسلامی به سلاح هسته‌ای دست می‌یافت، ممکن بود علاوه بر اسرائیل و دیگر کشورهای خاورمیانه، اروپا و شهرهای آمریکا از جمله لس‌آنجلس و سن‌دیگو را نیز هدف قرار دهد\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "05:38:55",
-      "gregorian_utc": "2026-10-10T02:08:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 179642,
-      "media_size_human": "175.43 KB",
+      "tehran_time": "06:48:11",
+      "gregorian_utc": "2026-10-10T03:18:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1498877,
+      "media_size_human": "1.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361532_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361532_photo.jpg",
+      "media_local_path": "media/IranintlTV_361533_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361533_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699282+00:00"
+      "archived_at": "2026-10-10T03:20:30.483533+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132335+00:00"
+      "archived_at": "2026-10-10T03:20:30.769964+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_121974_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121974_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531442+00:00"
+      "archived_at": "2026-10-10T03:20:31.065017+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376614+00:00"
+      "archived_at": "2026-10-10T03:20:30.218750+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361531,
-      "message_link": "https://t.me/IranintlTV/361531",
-      "text": "ترامپ در یک سخنرانی در سیراکیوز نیویورک گفت: «من مانع دستیابی ایران به سلاح هسته‌ای و منفجر کردن کل خاورمیانه شدم. این اتفاق در نهایت می‌توانست بسیار فراتر از خاورمیانه، از جمله اروپا و شاید حتی خود ما را دربر بگیرد.»\nاو گفت: «تکلیف ایران، به هر شکلی که باشد، خیلی زود مشخص خواهد شد. یا هر آنچه می‌خواهیم به ما می‌دهند، یا دیگر وجود نخواهند داشت. آن‌ها این را می‌دانند.»\nترامپ تاکید کرد مسائل روسیه، اوکراین و ایران با سرعت زیادی در حال پیشرفت هستند.\n\nhttps://iranintl.com/202610103344",
+      "message_id": 361532,
+      "message_link": "https://t.me/IranintlTV/361532",
+      "text": "ترامپ جمعه در سخنرانی خود در سیراکیوز نیویورک، از کمیته صلح نوبل به دلیل اعطا نکردن این جایزه به خودش انتقاد کرد. ترامپ با اشاره به موفقیتش در توقف بیش از هشت جنگ، اعطا نشدن این جایزه به خودش را «شرم‌آور» و «لکه ننگی» بر اعتبار نروژ خواند.\nکمیته نوبل نروژ جمعه ناوانتم (ناوی) پیلای، کمیسر عالی پیشین حقوق بشر سازمان ملل و از قضات پیشین دیوان کیفری بین‌المللی را به دلیل تلاش‌هایش برای «ترویج صلح و حقوق بین‌الملل»، به عنوان برنده جایزه نوبل صلح ۲۰۲۶ معرفی کرد. این حقوق‌دان ۸۵ ساله متولد آفریقای جنوبی است.\nتنها چند ساعت پس از اعطای جایزه صلح نوبل به یکی از قضات پیشین دیوان کیفری بین‌المللی، ترامپ این دیوان را تحریم کرد. \nدولت ترامپ مدت‌هاست با این نهاد مخالفت می‌کند و پیش‌تر نیز شماری از قضات و دادستان‌های آن را تحریم کرده است.\nواشینگتن به‌ویژه صدور حکم بازداشت برای مقام‌های اسرائیلی، از جمله نتانیاهو و تحقیقات پیشین این دیوان درباره اقدامات نظامیان آمریکایی در افغانستان را محکوم کرده است. \n\nhttps://iranintl.com/202610108848",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "04:48:57",
-      "gregorian_utc": "2026-10-10T01:18:57+00:00",
+      "tehran_time": "05:38:55",
+      "gregorian_utc": "2026-10-10T02:08:55+00:00",
       "media_type": "photo",
-      "media_size_bytes": 166342,
-      "media_size_human": "162.44 KB",
+      "media_size_bytes": 179642,
+      "media_size_human": "175.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361531_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361531_photo.jpg",
+      "media_local_path": "media/IranintlTV_361532_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361532_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699345+00:00"
+      "archived_at": "2026-10-10T03:20:30.483718+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76600_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76600_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132421+00:00"
+      "archived_at": "2026-10-10T03:20:30.770113+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_121973_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531471+00:00"
+      "archived_at": "2026-10-10T03:20:31.065070+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376634+00:00"
+      "archived_at": "2026-10-10T03:20:30.218789+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361530,
-      "message_link": "https://t.me/IranintlTV/361530",
-      "text": "ترامپ در یک سخنرانی در سیراکیوز نیویورک گفت: «ایران در وضعیت بسیار دشواری قرار دارد. تنها چیزی که دارند، تورم است. وضعیت همه چیز دیگر نامناسب است. آن‌ها تورم ۳۰۱ درصدی دارند. پولی ندارند. حقوق نیروهای نظامی‌شان پرداخت نمی‌شود. حقوق پلیس‌شان هم پرداخت نمی‌شود.»\nترامپ گفت: «اما این را به خاطر داشته باشید که آن‌ها هرگز، هرگز سلاح هسته‌ای نخواهند داشت. دلیل اینکه ما به آنجا رفتیم همین بود.»\n\nhttps://iranintl.com/202610107623",
+      "message_id": 361531,
+      "message_link": "https://t.me/IranintlTV/361531",
+      "text": "ترامپ در یک سخنرانی در سیراکیوز نیویورک گفت: «من مانع دستیابی ایران به سلاح هسته‌ای و منفجر کردن کل خاورمیانه شدم. این اتفاق در نهایت می‌توانست بسیار فراتر از خاورمیانه، از جمله اروپا و شاید حتی خود ما را دربر بگیرد.»\nاو گفت: «تکلیف ایران، به هر شکلی که باشد، خیلی زود مشخص خواهد شد. یا هر آنچه می‌خواهیم به ما می‌دهند، یا دیگر وجود نخواهند داشت. آن‌ها این را می‌دانند.»\nترامپ تاکید کرد مسائل روسیه، اوکراین و ایران با سرعت زیادی در حال پیشرفت هستند.\n\nhttps://iranintl.com/202610103344",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "04:20:21",
-      "gregorian_utc": "2026-10-10T00:50:21+00:00",
+      "tehran_time": "04:48:57",
+      "gregorian_utc": "2026-10-10T01:18:57+00:00",
       "media_type": "photo",
-      "media_size_bytes": 200917,
-      "media_size_human": "196.21 KB",
+      "media_size_bytes": 166342,
+      "media_size_human": "162.44 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361530_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361530_photo.jpg",
+      "media_local_path": "media/IranintlTV_361531_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361531_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699390+00:00"
+      "archived_at": "2026-10-10T03:20:30.483822+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132501+00:00"
+      "archived_at": "2026-10-10T03:20:30.770251+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_121972_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121972_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531519+00:00"
+      "archived_at": "2026-10-10T03:20:31.065146+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376656+00:00"
+      "archived_at": "2026-10-10T03:20:30.218828+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361529,
-      "message_link": "https://t.me/IranintlTV/361529",
-      "text": "زلنسکی در مصاحبه تلفنی با اکسیوس تصمیم ترامپ را برای لغو یک‌جانبه تحریم‌های روسیه و اجازه دادن به این کشور برای صادرات گازوییل، «ناعادلانه و غیرصادقانه» خواند. او گفت: «این اقدام شبیه هدیه تولد برای پوتین است. واقعا افتضاح به نظر می‌رسد.»\nزلنسکی تاکید کرد که آمریکا در هیچ مرحله‌ای از گفت‌وگوهای اخیر او با ویتکاف و کوشنر اشاره نکرده بود که توافقی با روسیه درباره گازوییل در دست بررسی است. \nاو گفت از صحبت‌های ویتکاف چنین برداشت کرده بود که فرستادگان آمریکا قصد دارند پیام‌های حاصل از مذاکرات فلوریدا را به روس‌ها منتقل کنند و سپس احتمالا برای نهایی کردن توافق صلح به کی‌یف سفر کنند.\nزلنسکی گفت یک ساعت پیش از اعلام موضع ترامپ، مذاکره‌کنندگان اوکراینی که در فلوریدا با کوشنر و ویتکاف دیدار می‌کردند، به او اطلاع دادند که ترامپ قصد دارد با پوتین گفت‌وگو کند.\n\nhttps://iranintl.com/202610101263",
+      "message_id": 361530,
+      "message_link": "https://t.me/IranintlTV/361530",
+      "text": "ترامپ در یک سخنرانی در سیراکیوز نیویورک گفت: «ایران در وضعیت بسیار دشواری قرار دارد. تنها چیزی که دارند، تورم است. وضعیت همه چیز دیگر نامناسب است. آن‌ها تورم ۳۰۱ درصدی دارند. پولی ندارند. حقوق نیروهای نظامی‌شان پرداخت نمی‌شود. حقوق پلیس‌شان هم پرداخت نمی‌شود.»\nترامپ گفت: «اما این را به خاطر داشته باشید که آن‌ها هرگز، هرگز سلاح هسته‌ای نخواهند داشت. دلیل اینکه ما به آنجا رفتیم همین بود.»\n\nhttps://iranintl.com/202610107623",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "04:07:29",
-      "gregorian_utc": "2026-10-10T00:37:29+00:00",
+      "tehran_time": "04:20:21",
+      "gregorian_utc": "2026-10-10T00:50:21+00:00",
       "media_type": "photo",
-      "media_size_bytes": 179657,
-      "media_size_human": "175.45 KB",
+      "media_size_bytes": 200917,
+      "media_size_human": "196.21 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361529_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361529_photo.jpg",
+      "media_local_path": "media/IranintlTV_361530_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361530_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699451+00:00"
+      "archived_at": "2026-10-10T03:20:30.483916+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132591+00:00"
+      "archived_at": "2026-10-10T03:20:30.770418+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_121971_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121971_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531562+00:00"
+      "archived_at": "2026-10-10T03:20:31.065226+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376672+00:00"
+      "archived_at": "2026-10-10T03:20:30.218861+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361528,
-      "message_link": "https://t.me/IranintlTV/361528",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، از دیوان عالی ایالات متحده خواست پرونده شکایت او علیه هیلاری کلینتون، رقیب دموکراتش در انتخابات ریاست‌جمهوری سال ۲۰۱۶ را دوباره به جریان بیندازد.\nترامپ کلینتون را متهم کرده است که به همراه جیمز کومی، رییس پیشین اف‌بی‌آی، و چند نفر دیگر برای دست‌کاری در نتیجه آن انتخابات، از طریق مرتبط کردن کارزار انتخاباتی او با روسیه، توطئه کرده بود.\nترامپ در سال ۲۰۲۲، پس از شکست در انتخابات ریاست‌جمهوری سال ۲۰۲۰ و در زمانی که دیگر در قدرت نبود، شکایتی را در دادگاه فدرال ایالت فلوریدا علیه کلینتون، کومی، کریستوفر استیل، افسر پیشین اطلاعاتی بریتانیا، کمیته ملی حزب دموکرات و افراد متعدد دیگری ثبت کرده بود.\nمقام‌های دولت آمریکا پیش‌تر روسیه را به مداخله در انتخابات سال ۲۰۱۶ متهم کرده‌ بودند. تحقیقاتی که رابرت مولر، رئیس پیشین اف‌بی‌آی، هدایت آن را بر عهده داشت، تماس‌های گسترده میان کارزار انتخاباتی ترامپ و عوامل روسیه را مستند کرد؛ عواملی که می‌کوشیدند بر نتیجه انتخابات به سود ترامپ تاثیر بگذارند. ترامپ ادعای مداخله روسیه را «فریب» خوانده است.\n\nhttps://iranintl.com/202610102193",
+      "message_id": 361529,
+      "message_link": "https://t.me/IranintlTV/361529",
+      "text": "زلنسکی در مصاحبه تلفنی با اکسیوس تصمیم ترامپ را برای لغو یک‌جانبه تحریم‌های روسیه و اجازه دادن به این کشور برای صادرات گازوییل، «ناعادلانه و غیرصادقانه» خواند. او گفت: «این اقدام شبیه هدیه تولد برای پوتین است. واقعا افتضاح به نظر می‌رسد.»\nزلنسکی تاکید کرد که آمریکا در هیچ مرحله‌ای از گفت‌وگوهای اخیر او با ویتکاف و کوشنر اشاره نکرده بود که توافقی با روسیه درباره گازوییل در دست بررسی است. \nاو گفت از صحبت‌های ویتکاف چنین برداشت کرده بود که فرستادگان آمریکا قصد دارند پیام‌های حاصل از مذاکرات فلوریدا را به روس‌ها منتقل کنند و سپس احتمالا برای نهایی کردن توافق صلح به کی‌یف سفر کنند.\nزلنسکی گفت یک ساعت پیش از اعلام موضع ترامپ، مذاکره‌کنندگان اوکراینی که در فلوریدا با کوشنر و ویتکاف دیدار می‌کردند، به او اطلاع دادند که ترامپ قصد دارد با پوتین گفت‌وگو کند.\n\nhttps://iranintl.com/202610101263",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "03:52:02",
-      "gregorian_utc": "2026-10-10T00:22:02+00:00",
+      "tehran_time": "04:07:29",
+      "gregorian_utc": "2026-10-10T00:37:29+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152540,
-      "media_size_human": "148.96 KB",
+      "media_size_bytes": 179657,
+      "media_size_human": "175.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361528_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361528_photo.jpg",
+      "media_local_path": "media/IranintlTV_361529_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361529_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699525+00:00"
+      "archived_at": "2026-10-10T03:20:30.484062+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76596_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76596_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132611+00:00"
+      "archived_at": "2026-10-10T03:20:30.770463+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_121970_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121970_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531581+00:00"
+      "archived_at": "2026-10-10T03:20:31.065270+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376692+00:00"
+      "archived_at": "2026-10-10T03:20:30.218897+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361527,
-      "message_link": "https://t.me/IranintlTV/361527",
-      "text": "",
+      "message_id": 361528,
+      "message_link": "https://t.me/IranintlTV/361528",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، از دیوان عالی ایالات متحده خواست پرونده شکایت او علیه هیلاری کلینتون، رقیب دموکراتش در انتخابات ریاست‌جمهوری سال ۲۰۱۶ را دوباره به جریان بیندازد.\nترامپ کلینتون را متهم کرده است که به همراه جیمز کومی، رییس پیشین اف‌بی‌آی، و چند نفر دیگر برای دست‌کاری در نتیجه آن انتخابات، از طریق مرتبط کردن کارزار انتخاباتی او با روسیه، توطئه کرده بود.\nترامپ در سال ۲۰۲۲، پس از شکست در انتخابات ریاست‌جمهوری سال ۲۰۲۰ و در زمانی که دیگر در قدرت نبود، شکایتی را در دادگاه فدرال ایالت فلوریدا علیه کلینتون، کومی، کریستوفر استیل، افسر پیشین اطلاعاتی بریتانیا، کمیته ملی حزب دموکرات و افراد متعدد دیگری ثبت کرده بود.\nمقام‌های دولت آمریکا پیش‌تر روسیه را به مداخله در انتخابات سال ۲۰۱۶ متهم کرده‌ بودند. تحقیقاتی که رابرت مولر، رئیس پیشین اف‌بی‌آی، هدایت آن را بر عهده داشت، تماس‌های گسترده میان کارزار انتخاباتی ترامپ و عوامل روسیه را مستند کرد؛ عواملی که می‌کوشیدند بر نتیجه انتخابات به سود ترامپ تاثیر بگذارند. ترامپ ادعای مداخله روسیه را «فریب» خوانده است.\n\nhttps://iranintl.com/202610102193",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "03:05:35",
-      "gregorian_utc": "2026-10-09T23:35:35+00:00",
+      "tehran_time": "03:52:02",
+      "gregorian_utc": "2026-10-10T00:22:02+00:00",
       "media_type": "photo",
-      "media_size_bytes": 201528,
-      "media_size_human": "196.80 KB",
+      "media_size_bytes": 152540,
+      "media_size_human": "148.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361527_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361527_photo.jpg",
+      "media_local_path": "media/IranintlTV_361528_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361528_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699545+00:00"
+      "archived_at": "2026-10-10T03:20:30.484206+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132633+00:00"
+      "archived_at": "2026-10-10T03:20:30.770509+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_121969_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121969_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531617+00:00"
+      "archived_at": "2026-10-10T03:20:31.065343+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376706+00:00"
+      "archived_at": "2026-10-10T03:20:30.218926+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361526,
-      "message_link": "https://t.me/IranintlTV/361526",
+      "message_id": 361527,
+      "message_link": "https://t.me/IranintlTV/361527",
       "text": "",
       "shamsi_date": "1405/07/18",
       "tehran_time": "03:05:35",
       "gregorian_utc": "2026-10-09T23:35:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 200498,
-      "media_size_human": "195.80 KB",
+      "media_size_bytes": 201528,
+      "media_size_human": "196.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361526_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361526_photo.jpg",
+      "media_local_path": "media/IranintlTV_361527_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361527_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699564+00:00"
+      "archived_at": "2026-10-10T03:20:30.484250+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132651+00:00"
+      "archived_at": "2026-10-10T03:20:30.770549+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531645+00:00"
+      "archived_at": "2026-10-10T03:20:31.065394+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376734+00:00"
+      "archived_at": "2026-10-10T03:20:30.218995+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361525,
-      "message_link": "https://t.me/IranintlTV/361525",
+      "message_id": 361526,
+      "message_link": "https://t.me/IranintlTV/361526",
       "text": "",
       "shamsi_date": "1405/07/18",
       "tehran_time": "03:05:35",
       "gregorian_utc": "2026-10-09T23:35:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 231572,
-      "media_size_human": "226.14 KB",
+      "media_size_bytes": 200498,
+      "media_size_human": "195.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361525_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361525_photo.jpg",
+      "media_local_path": "media/IranintlTV_361526_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.699587+00:00"
+      "archived_at": "2026-10-10T03:20:30.484296+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132686+00:00"
+      "archived_at": "2026-10-10T03:20:30.770619+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531675+00:00"
+      "archived_at": "2026-10-10T03:20:31.065456+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376749+00:00"
+      "archived_at": "2026-10-10T03:20:30.219025+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361524,
-      "message_link": "https://t.me/IranintlTV/361524",
-      "text": "🔻کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در لیگ حرفه‌ای عربستان سعودی گلزنی کرد. این گل شماره ۹۸۰ فوق‌ستاره بود.\n\n🔹هواداران النصر نیز پیش از آغاز مسابقه با بنری بزرگ از این فوق‌ستاره که در روزهای اخیر با انتقادهای زیادی روبه‌رو بوده، حمایت کردند.\n\n🔹روی این بنر با حروف بزرگ انگلیسی نوشته شده بود: «بزرگی به دست می‌آید» و زیر آن نیز عبارت «CR7»، نشان تجاری رونالدو، دیده می‌شد.\n\n🔹رونالدو مانند همیشه گل خود را با شور زیادی جشن گرفت و باشگاه النصر نیز در شبکه اجتماعی ایکس نوشت: «رونالدو. یک گل. هوادارانش؛ چه حسی!»\n\n🔹نیمکت‌نشینی رونالدو در لیگ ملت‌های اروپا همه خبرهای فوتبال دنیا در دو هفته گذشته را زیر سایه برده است؛ او پس از آنکه در دیدار رفت لیگ ملت‌های اروپا مقابل نروژ که با پیروزی ۲ بر یک پرتغال به پایان رسید، به میدان نرفت، اردوی تیم ملی پرتغال را زودتر از موعد ترک کرد.\n\n🔹رونالدو پس از این ماجرا، ژرژ ژسوس، سرمربی تیم ملی پرتغال، را علنا به عمل نکردن به قول خود متهم کرد. آینده رونالدو در تیم ملی همچنان نامشخص است.\n\n@iranintltvsport",
+      "message_id": 361525,
+      "message_link": "https://t.me/IranintlTV/361525",
+      "text": "",
       "shamsi_date": "1405/07/18",
       "tehran_time": "03:05:35",
       "gregorian_utc": "2026-10-09T23:35:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 211574,
-      "media_size_human": "206.62 KB",
+      "media_size_bytes": 231572,
+      "media_size_human": "226.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361524_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361524_photo.jpg",
+      "media_local_path": "media/IranintlTV_361525_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361525_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709659+00:00"
+      "archived_at": "2026-10-10T03:20:30.484338+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132703+00:00"
+      "archived_at": "2026-10-10T03:20:30.770657+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_121966_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121966_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531710+00:00"
+      "archived_at": "2026-10-10T03:20:31.065529+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376763+00:00"
+      "archived_at": "2026-10-10T03:20:30.219053+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361523,
-      "message_link": "https://t.me/IranintlTV/361523",
-      "text": "ترامپ در تروث‌سوشال نوشت که کیتی زاکاریا، مشاور ارشد ارتباطات تروت سوشال را به سمت سخنگوی کاخ سفید منصوب کرده است.\nترامپ گفت این وکیل و تحلیل‌گر در سمت خود در تروت سوشال «عملکرد فوق‌العاده‌ای» داشته است\nبه گفته دونالد ترامپ، زاکاریا فارغ‌التحصیل برجسته دانشگاه پپرداین و دانشکده حقوق کاروسو در این دانشگاه، وکیل دادگستری و تحلیلگر و از مفسران رسانه‌هایی از جمله فاکس‌نیوز و نیوزمکس است.\nرییس‌جمهوری آمریکا همچنین به مشارکت زاکاریا در کارزارهای انتخاباتی خود در ایالت‌های کلیدی و رقابتی و پیروزی کمپین ترامپ در همه این ایالت‌ها اشاره کرد.\n\nhttps://iranintl.com/202610091885",
+      "message_id": 361524,
+      "message_link": "https://t.me/IranintlTV/361524",
+      "text": "🔻کریستیانو رونالدو در نخستین بازی خود پس از ترک پرحاشیه اردوی تیم ملی پرتغال، در پیروزی ۳ بر صفر النصر مقابل الدریه در لیگ حرفه‌ای عربستان سعودی گلزنی کرد. این گل شماره ۹۸۰ فوق‌ستاره بود.\n\n🔹هواداران النصر نیز پیش از آغاز مسابقه با بنری بزرگ از این فوق‌ستاره که در روزهای اخیر با انتقادهای زیادی روبه‌رو بوده، حمایت کردند.\n\n🔹روی این بنر با حروف بزرگ انگلیسی نوشته شده بود: «بزرگی به دست می‌آید» و زیر آن نیز عبارت «CR7»، نشان تجاری رونالدو، دیده می‌شد.\n\n🔹رونالدو مانند همیشه گل خود را با شور زیادی جشن گرفت و باشگاه النصر نیز در شبکه اجتماعی ایکس نوشت: «رونالدو. یک گل. هوادارانش؛ چه حسی!»\n\n🔹نیمکت‌نشینی رونالدو در لیگ ملت‌های اروپا همه خبرهای فوتبال دنیا در دو هفته گذشته را زیر سایه برده است؛ او پس از آنکه در دیدار رفت لیگ ملت‌های اروپا مقابل نروژ که با پیروزی ۲ بر یک پرتغال به پایان رسید، به میدان نرفت، اردوی تیم ملی پرتغال را زودتر از موعد ترک کرد.\n\n🔹رونالدو پس از این ماجرا، ژرژ ژسوس، سرمربی تیم ملی پرتغال، را علنا به عمل نکردن به قول خود متهم کرد. آینده رونالدو در تیم ملی همچنان نامشخص است.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:28:29",
-      "gregorian_utc": "2026-10-09T22:58:29+00:00",
+      "tehran_time": "03:05:35",
+      "gregorian_utc": "2026-10-09T23:35:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 175999,
-      "media_size_human": "171.87 KB",
+      "media_size_bytes": 211574,
+      "media_size_human": "206.62 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361523_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361523_photo.jpg",
+      "media_local_path": "media/IranintlTV_361524_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361524_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709769+00:00"
+      "archived_at": "2026-10-10T03:20:30.494846+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132780+00:00"
+      "archived_at": "2026-10-10T03:20:30.770796+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531739+00:00"
+      "archived_at": "2026-10-10T03:20:31.065589+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376775+00:00"
+      "archived_at": "2026-10-10T03:20:30.219078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361522,
-      "message_link": "https://t.me/IranintlTV/361522",
-      "text": "🔻چهل و نهمین بازی پرسپولیس - صنعت نفت آبادان با پیروزی سه بر یک سرخ‌پوشان همراه شد. شاگردان مهدی تارتار، اگر دقت بیشتری داشتند، می‌توانستند با گل‌های بیشتری بازی را ترک کنند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/RJySgTBM5FM\n\n@iranintltvsport",
+      "message_id": 361523,
+      "message_link": "https://t.me/IranintlTV/361523",
+      "text": "ترامپ در تروث‌سوشال نوشت که کیتی زاکاریا، مشاور ارشد ارتباطات تروت سوشال را به سمت سخنگوی کاخ سفید منصوب کرده است.\nترامپ گفت این وکیل و تحلیل‌گر در سمت خود در تروت سوشال «عملکرد فوق‌العاده‌ای» داشته است\nبه گفته دونالد ترامپ، زاکاریا فارغ‌التحصیل برجسته دانشگاه پپرداین و دانشکده حقوق کاروسو در این دانشگاه، وکیل دادگستری و تحلیلگر و از مفسران رسانه‌هایی از جمله فاکس‌نیوز و نیوزمکس است.\nرییس‌جمهوری آمریکا همچنین به مشارکت زاکاریا در کارزارهای انتخاباتی خود در ایالت‌های کلیدی و رقابتی و پیروزی کمپین ترامپ در همه این ایالت‌ها اشاره کرد.\n\nhttps://iranintl.com/202610091885",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:14:18",
-      "gregorian_utc": "2026-10-09T22:44:18+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2825393,
-      "media_size_human": "2.69 MB",
+      "tehran_time": "02:28:29",
+      "gregorian_utc": "2026-10-09T22:58:29+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 175999,
+      "media_size_human": "171.87 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361522_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361522_video.mp4",
+      "media_local_path": "media/IranintlTV_361523_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361523_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709832+00:00"
+      "archived_at": "2026-10-10T03:20:30.495023+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132802+00:00"
+      "archived_at": "2026-10-10T03:20:30.770844+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-10T03:10:32.531768+00:00"
+      "archived_at": "2026-10-10T03:20:31.065650+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376788+00:00"
+      "archived_at": "2026-10-10T03:20:30.219103+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361521,
-      "message_link": "https://t.me/IranintlTV/361521",
-      "text": "تحقیقات ایران‌اینترنشنال بر اساس اسناد هک‌شده بانک پارسیان نشان می‌دهد این بانک، که مستقیما به دلیل تامین مالی بسیج تحریم شده، از صرافی زیرمجموعه خود برای انتقال میلیون‌ها دلار در خارج از کشور استفاده کرده است. مکاتبات داخلی بانک از آبان ۱۴۰۱ تا خرداد ۱۴۰۲ نشان می‌دهد بانک مرکزی جمهوری اسلامی و دیگر نهادها ارز حاصل از صادرات نفت، محصولات پتروشیمی و دیگر کالاها را، که در حساب‌های «تراستی» خارج از کشور نگهداری می‌شد، از طریق صرافی پارسیان به حساب‌های معرفی‌شده از سوی واردکنندگان منتقل می‌کردند؛ مسیری چندمرحله‌ای که در آن پولی با منشأ بانک مرکزی، در ظاهر به‌عنوان انتقال میان اشخاص یا شرکت‌های خصوصی ثبت می‌شد و شناسایی منشأ آن دشوارتر می‌شد. ایران‌اینترنشنال در این اسناد ۳۳ نامه درباره انتقال درهم، یوان و دلار شناسایی کرده که به امضای علیرضا علائی، مدیر امور بین‌الملل بانک پارسیان و عضو هیات مدیره صرافی پارسیان، رسیده است.\n@iranintltv",
+      "message_id": 361522,
+      "message_link": "https://t.me/IranintlTV/361522",
+      "text": "🔻چهل و نهمین بازی پرسپولیس - صنعت نفت آبادان با پیروزی سه بر یک سرخ‌پوشان همراه شد. شاگردان مهدی تارتار، اگر دقت بیشتری داشتند، می‌توانستند با گل‌های بیشتری بازی را ترک کنند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/RJySgTBM5FM\n\n@iranintltvsport",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:07:59",
-      "gregorian_utc": "2026-10-09T22:37:59+00:00",
+      "tehran_time": "02:14:18",
+      "gregorian_utc": "2026-10-09T22:44:18+00:00",
       "media_type": "video",
-      "media_size_bytes": 1958621,
-      "media_size_human": "1.87 MB",
+      "media_size_bytes": 2825393,
+      "media_size_human": "2.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361521_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361521_video.mp4",
+      "media_local_path": "media/IranintlTV_361522_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361522_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709895+00:00"
+      "archived_at": "2026-10-10T03:20:30.495137+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132841+00:00"
+      "archived_at": "2026-10-10T03:20:30.770909+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531780+00:00"
+      "archived_at": "2026-10-10T03:20:31.065679+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376800+00:00"
+      "archived_at": "2026-10-10T03:20:30.219128+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361520,
-      "message_link": "https://t.me/IranintlTV/361520",
-      "text": "سیامک آرام، تحلیل‌گر سیاسی و مدرس دانشگاه هریسبورگ، گفت انزوای جمهوری اسلامی یک واقعیت عینی است و تهران حتی در میان کشورهای همسایه نیز متحد جدی ندارد.\n\nاو افزود مواضع روزانه دونالد ترامپ ممکن است تغییر کند، اما گفت‌وگوهای پشت‌صحنه و فشارهای اقتصادی و نظامی همچنان ادامه دارد. به گفته آرام، هر دو طرف روی زمان‌بندی تحولات طرف مقابل حساب کرده‌اند و احتمال دارد حتی پس از یک رویارویی نظامی تازه، مسیر به توافقی ضعیف‌تر از گذشته ختم شود.\n@iranintltv",
+      "message_id": 361521,
+      "message_link": "https://t.me/IranintlTV/361521",
+      "text": "تحقیقات ایران‌اینترنشنال بر اساس اسناد هک‌شده بانک پارسیان نشان می‌دهد این بانک، که مستقیما به دلیل تامین مالی بسیج تحریم شده، از صرافی زیرمجموعه خود برای انتقال میلیون‌ها دلار در خارج از کشور استفاده کرده است. مکاتبات داخلی بانک از آبان ۱۴۰۱ تا خرداد ۱۴۰۲ نشان می‌دهد بانک مرکزی جمهوری اسلامی و دیگر نهادها ارز حاصل از صادرات نفت، محصولات پتروشیمی و دیگر کالاها را، که در حساب‌های «تراستی» خارج از کشور نگهداری می‌شد، از طریق صرافی پارسیان به حساب‌های معرفی‌شده از سوی واردکنندگان منتقل می‌کردند؛ مسیری چندمرحله‌ای که در آن پولی با منشأ بانک مرکزی، در ظاهر به‌عنوان انتقال میان اشخاص یا شرکت‌های خصوصی ثبت می‌شد و شناسایی منشأ آن دشوارتر می‌شد. ایران‌اینترنشنال در این اسناد ۳۳ نامه درباره انتقال درهم، یوان و دلار شناسایی کرده که به امضای علیرضا علائی، مدیر امور بین‌الملل بانک پارسیان و عضو هیات مدیره صرافی پارسیان، رسیده است.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:03:25",
-      "gregorian_utc": "2026-10-09T22:33:25+00:00",
+      "tehran_time": "02:07:59",
+      "gregorian_utc": "2026-10-09T22:37:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 3626479,
-      "media_size_human": "3.46 MB",
+      "media_size_bytes": 1958621,
+      "media_size_human": "1.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361520_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361520_video.mp4",
+      "media_local_path": "media/IranintlTV_361521_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361521_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709937+00:00"
+      "archived_at": "2026-10-10T03:20:30.495262+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132891+00:00"
+      "archived_at": "2026-10-10T03:20:30.771029+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531798+00:00"
+      "archived_at": "2026-10-10T03:20:31.065719+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376813+00:00"
+      "archived_at": "2026-10-10T03:20:30.219155+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361519,
-      "message_link": "https://t.me/IranintlTV/361519",
-      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت محاصره دریایی، محدودیت پرواز شرکت‌های هواپیمایی به ایران و تهدید به هدف قرار دادن مسیرهای زمینی، لایه‌های مختلف فشار اقتصادی آمریکا علیه جمهوری اسلامی را به هم نزدیک‌تر کرده است.\n\nاو افزود اعلام برنامه‌های تازه از سوی وزارت خزانه‌داری آمریکا می‌تواند پیش از اجرای رسمی تحریم‌ها نیز اثرگذار باشد و شرکت‌ها و افراد مرتبط با ایران را به قطع همکاری وادار کند. به گفته توانا، فارغ از لحن دونالد ترامپ، روند فشار اقتصادی واشینگتن علیه جمهوری اسلامی ادامه دارد.\n@iranintltv",
+      "message_id": 361520,
+      "message_link": "https://t.me/IranintlTV/361520",
+      "text": "سیامک آرام، تحلیل‌گر سیاسی و مدرس دانشگاه هریسبورگ، گفت انزوای جمهوری اسلامی یک واقعیت عینی است و تهران حتی در میان کشورهای همسایه نیز متحد جدی ندارد.\n\nاو افزود مواضع روزانه دونالد ترامپ ممکن است تغییر کند، اما گفت‌وگوهای پشت‌صحنه و فشارهای اقتصادی و نظامی همچنان ادامه دارد. به گفته آرام، هر دو طرف روی زمان‌بندی تحولات طرف مقابل حساب کرده‌اند و احتمال دارد حتی پس از یک رویارویی نظامی تازه، مسیر به توافقی ضعیف‌تر از گذشته ختم شود.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "02:01:13",
-      "gregorian_utc": "2026-10-09T22:31:13+00:00",
+      "tehran_time": "02:03:25",
+      "gregorian_utc": "2026-10-09T22:33:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 3358821,
-      "media_size_human": "3.20 MB",
+      "media_size_bytes": 3626479,
+      "media_size_human": "3.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361519_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361519_video.mp4",
+      "media_local_path": "media/IranintlTV_361520_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361520_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.709981+00:00"
+      "archived_at": "2026-10-10T03:20:30.495347+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76580_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.132931+00:00"
+      "archived_at": "2026-10-10T03:20:30.771116+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_121961_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_121961_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:32.531815+00:00"
+      "archived_at": "2026-10-10T03:20:31.065761+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:31.376825+00:00"
+      "archived_at": "2026-10-10T03:20:30.219179+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 361518,
-      "message_link": "https://t.me/IranintlTV/361518",
-      "text": "سازمان حقوق بشر کارون خبر داد که دستگاه قضایی جمهوری اسلامی بیش از ۱۰ کارگر متخصص و بومی عرب شرکت پتروپارس در هویزه خوزستان را به دلیل «مطالبه حقوق صنفی» خود، به تحمل شلاق تعزیری و پرداخت جریمه نقدی ۲۰۰ میلیون ریالی محکوم کرده است، و احکام شلاق نیز اجرا شده‌اند.\nاین سازمان حقوق بشری به نقل از گزارش‌های مستند رسیده از اهواز نوشت این کارگران در پی اعتراض به اخراج، تمدید نشدن قرارداد کار و جایگزینی با نیروهای غیربومی، با برخورد امنیتی و قضایی مواجه شدند.\nبر اساس این گزارش، اکثر این کارگران دارای مدارک دانشگاهی کارشناسی و کارشناسی ارشد هستند.\nکارون افزود پس از تجمع مسالمت‌آمیز این کارگران مقابل پتروپارس، مدیریت شرکت با طرح اتهام‌هایی، از جمله «انسداد مسیر و ایجاد ضرر و زیان» علیه آنان شکایت کرد. طبق گزارش کارون، در پی این شکایت، ماموران نیروی انتظامی این کارگران را با اعمال خشونت فیزیکی بازداشت کردند.\nاین سازمان حقوق بشری صدور و اجرای حکم شلاق برای کارگران را مصداق بارز «شکنجه» و نقض صریح ماده ۵ اعلامیه جهانی حقوق بشر و ماده ۷ میثاق بین‌المللی حقوق مدنی و سیاسی دانست.\n\n\nhttps://iranintl.com/202610099207",
+      "message_id": 361519,
+      "message_link": "https://t.me/IranintlTV/361519",
+      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت محاصره دریایی، محدودیت پرواز شرکت‌های هواپیمایی به ایران و تهدید به هدف قرار دادن مسیرهای زمینی، لایه‌های مختلف فشار اقتصادی آمریکا علیه جمهوری اسلامی را به هم نزدیک‌تر کرده است.\n\nاو افزود اعلام برنامه‌های تازه از سوی وزارت خزانه‌داری آمریکا می‌تواند پیش از اجرای رسمی تحریم‌ها نیز اثرگذار باشد و شرکت‌ها و افراد مرتبط با ایران را به قطع همکاری وادار کند. به گفته توانا، فارغ از لحن دونالد ترامپ، روند فشار اقتصادی واشینگتن علیه جمهوری اسلامی ادامه دارد.\n@iranintltv",
       "shamsi_date": "1405/07/18",
-      "tehran_time": "01:36:31",
-      "gregorian_utc": "2026-10-09T22:06:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 233542,
-      "media_size_human": "228.07 KB",
+      "tehran_time": "02:01:13",
+      "gregorian_utc": "2026-10-09T22:31:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3358821,
+      "media_size_human": "3.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_361518_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361518_photo.jpg",
+      "media_local_path": "media/IranintlTV_361519_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_361519_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-10T03:10:31.710051+00:00"
+      "archived_at": "2026-10-10T03:20:30.495436+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.132951+00:00"
+      "archived_at": "2026-10-10T03:20:30.771160+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-10T03:10:32.531828+00:00"
+      "archived_at": "2026-10-10T03:20:31.065788+00:00"
     }
   ]
 }
