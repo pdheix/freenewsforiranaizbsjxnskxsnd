@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T00:02:55.984399+00:00",
-  "shamsi_generated": "1405/07/22 00:02:55 تهران",
+  "generated_at": "2026-10-14T00:12:55.040283+00:00",
+  "shamsi_generated": "1405/07/22 00:12:55 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14792,
-      "message_link": "https://t.me/zedTV/14792",
-      "text": "پیش‌بینی نماینده مجلس از حمله قریب‌الوقوع اسرائیل به ایران.\nتلاش نتانیاهو برای بقا در قدرت با آغاز درگیری نظامی.\nگزارش رسانه‌های عبری از احتمال حمله طی ۷۲ ساعت آینده.",
+      "message_id": 14793,
+      "message_link": "https://t.me/zedTV/14793",
+      "text": "سکوت ممتد اصلاح‌طلبان در برابر کشتار معترضان؛ امتناع از اعتراف به اصلاح‌ناپذیری رژیم.\nتداوم فریبکاری سیاسی برای حفظ بقای جمهوری اسلامی.\nافزایش انتقادها از نقش اصلاح‌طلبان در سرپوش نهادن بر جنایات حاکمیت.",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:51:03",
-      "gregorian_utc": "2026-10-13T22:21:03+00:00",
+      "tehran_time": "03:34:58",
+      "gregorian_utc": "2026-10-14T00:04:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832667+00:00"
+      "archived_at": "2026-10-14T00:10:32.685598+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362164,
-      "message_link": "https://t.me/IranintlTV/362164",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جنگ، از جمله سناریوی درگیری زمینی، است و احتمال حمله به کشورهایی مانند کویت و عربستان سعودی نیز در محاسبات نظامی تهران مطرح شده است.\n\nاو افزود مقام‌های نظامی جمهوری اسلامی پیش‌تر نیز درباره چنین سناریوهایی سخن گفته‌اند و تهران با گسترش ناامنی در منطقه می‌کوشد هزینه تقابل با خود را افزایش دهد.\n@iranintltv",
+      "message_id": 362165,
+      "message_link": "https://t.me/IranintlTV/362165",
+      "text": "مصر اعلام کرده آماده هر نوع کمک به عربستان سعودی است، هرچند تحلیلگران درباره اینکه مشارکت مستقیم مصر بتواند حوثی‌ها را از ادامه حملات بازدارد، تردید دارند. هم‌زمان، ورود احتمالی آمریکا به درگیری‌ها همچنان در هاله‌ای از ابهام است، هرچند واشینگتن از ائتلاف به رهبری عربستان در زمینه تبادل اطلاعات، شناسایی اهداف و برنامه‌ریزی عملیاتی حمایت می‌کند.\n\nجزئیات بیشتر در گفت‌وگو با نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "03:00:06",
-      "gregorian_utc": "2026-10-13T23:30:06+00:00",
+      "tehran_time": "03:32:51",
+      "gregorian_utc": "2026-10-14T00:02:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 656640,
-      "media_size_human": "641.25 KB",
+      "media_size_bytes": 3284123,
+      "media_size_human": "3.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362164_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362164_video.mp4",
+      "media_local_path": "media/IranintlTV_362165_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362165_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246574+00:00"
+      "archived_at": "2026-10-14T00:10:33.140830+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:50.657073+00:00"
+      "archived_at": "2026-10-14T00:10:33.694549+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_122128_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122128_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124422+00:00"
+      "archived_at": "2026-10-14T00:10:34.116753+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14791,
-      "message_link": "https://t.me/zedTV/14791",
-      "text": "♦️ کانال ۱۴ اسرائیل: رصد فعالیت‌های هسته‌ای جدید در ایران / تداوم برنامه‌های اتمی رژیم جمهوری اسلامی زیر ذره‌بین",
+      "message_id": 14792,
+      "message_link": "https://t.me/zedTV/14792",
+      "text": "پیش‌بینی نماینده مجلس از حمله قریب‌الوقوع اسرائیل به ایران.\nتلاش نتانیاهو برای بقا در قدرت با آغاز درگیری نظامی.\nگزارش رسانه‌های عبری از احتمال حمله طی ۷۲ ساعت آینده.",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "00:38:38",
-      "gregorian_utc": "2026-10-13T21:08:38+00:00",
+      "tehran_time": "01:51:03",
+      "gregorian_utc": "2026-10-13T22:21:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832699+00:00"
+      "archived_at": "2026-10-14T00:10:32.685650+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362163,
-      "message_link": "https://t.me/IranintlTV/362163",
-      "text": "جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خود که در حمایت از کارزار «سه‌شنبه‌های نه به اعدام» انجام شد، سپاسگزاری کرد.\n\nاو در شبکه اجتماعی ایکس با اشاره به دریافت هزاران پیام حمایت‌آمیز نوشت: «این همبستگی مرا عمیقا تحت تاثیر قرار داده است و از همه کسانی که در سراسر جهان به این حرکت پیوستند، بسیار سپاسگزارم.»\n\nرومرو نوشت: «هرگز چنین احساس قدرتمندی از همبستگی و نیروی جمعی را تجربه نکرده بودم. من فردی مذهبی نیستم، حتی اعتقادات دینی هم ندارم، اما احساس بسیار نیرومندی را تجربه کردم؛ احساسی که سنگین، اما در عین حال زیبا بود.»\n\nاو ابراز امیدواری کرد: «روزی جهانی را شاهد باشیم که در آن مجازات اعدام دیگر وجود نداشته باشد و به‌ویژه، هرگز علیه افرادی به کار نرود که صرفا از آزادی‌ها و حقوق خود، از جمله حق اعتراض مسالمت‌آمیز، استفاده می‌کنند.»\nhttps://iranintl.com/202610131818",
+      "message_id": 362164,
+      "message_link": "https://t.me/IranintlTV/362164",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش وال‌استریت ژورنال گفت جمهوری اسلامی در حال آماده شدن برای جنگ، از جمله سناریوی درگیری زمینی، است و احتمال حمله به کشورهایی مانند کویت و عربستان سعودی نیز در محاسبات نظامی تهران مطرح شده است.\n\nاو افزود مقام‌های نظامی جمهوری اسلامی پیش‌تر نیز درباره چنین سناریوهایی سخن گفته‌اند و تهران با گسترش ناامنی در منطقه می‌کوشد هزینه تقابل با خود را افزایش دهد.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "02:36:03",
-      "gregorian_utc": "2026-10-13T23:06:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 176328,
-      "media_size_human": "172.20 KB",
+      "tehran_time": "03:00:06",
+      "gregorian_utc": "2026-10-13T23:30:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 656640,
+      "media_size_human": "641.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362163_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362163_photo.jpg",
+      "media_local_path": "media/IranintlTV_362164_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362164_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246678+00:00"
+      "archived_at": "2026-10-14T00:10:33.140932+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76612_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76612_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657120+00:00"
+      "archived_at": "2026-10-14T00:10:33.694616+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_122127_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122127_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124451+00:00"
+      "archived_at": "2026-10-14T00:10:34.116803+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14790,
-      "message_link": "https://t.me/zedTV/14790",
-      "text": "حمله به تیپ واکنش سریع ارتش؛ گزارش‌ها از ضربه به این مرکز نظامی؛ هدف قرار گرفتن نیروهای رژیم در حملات اخیر.",
+      "message_id": 14791,
+      "message_link": "https://t.me/zedTV/14791",
+      "text": "♦️ کانال ۱۴ اسرائیل: رصد فعالیت‌های هسته‌ای جدید در ایران / تداوم برنامه‌های اتمی رژیم جمهوری اسلامی زیر ذره‌بین",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "00:20:03",
-      "gregorian_utc": "2026-10-13T20:50:03+00:00",
+      "tehran_time": "00:38:38",
+      "gregorian_utc": "2026-10-13T21:08:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832717+00:00"
+      "archived_at": "2026-10-14T00:10:32.685687+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362162,
-      "message_link": "https://t.me/IranintlTV/362162",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت در ماه‌های آینده ممکن است جهشی مهم در فناوری ارتباطات رخ دهد و گوشی‌های همراه بدون تجهیزات اضافی مستقیما به شبکه‌هایی مانند استارلینک متصل شوند.\n\nاو افزود گسترش این فناوری می‌تواند توان جمهوری اسلامی برای قطع کامل اینترنت در جریان اعتراضات را به‌شدت محدود کند، زیرا کاربران برای دسترسی به اینترنت دیگر الزاما به زیرساخت‌های زمینی و شبکه‌های تحت کنترل حکومت وابسته نخواهند بود.\n@iranintltv",
+      "message_id": 362163,
+      "message_link": "https://t.me/IranintlTV/362163",
+      "text": "جینا رومرو، گزارشگر ویژه سازمان ملل در امور آزادی تجمعات مسالمت‌آمیز و تشکل، از همبستگی جهانی با اعتصاب غذای ۲۴ ساعته خود که در حمایت از کارزار «سه‌شنبه‌های نه به اعدام» انجام شد، سپاسگزاری کرد.\n\nاو در شبکه اجتماعی ایکس با اشاره به دریافت هزاران پیام حمایت‌آمیز نوشت: «این همبستگی مرا عمیقا تحت تاثیر قرار داده است و از همه کسانی که در سراسر جهان به این حرکت پیوستند، بسیار سپاسگزارم.»\n\nرومرو نوشت: «هرگز چنین احساس قدرتمندی از همبستگی و نیروی جمعی را تجربه نکرده بودم. من فردی مذهبی نیستم، حتی اعتقادات دینی هم ندارم، اما احساس بسیار نیرومندی را تجربه کردم؛ احساسی که سنگین، اما در عین حال زیبا بود.»\n\nاو ابراز امیدواری کرد: «روزی جهانی را شاهد باشیم که در آن مجازات اعدام دیگر وجود نداشته باشد و به‌ویژه، هرگز علیه افرادی به کار نرود که صرفا از آزادی‌ها و حقوق خود، از جمله حق اعتراض مسالمت‌آمیز، استفاده می‌کنند.»\nhttps://iranintl.com/202610131818",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "02:33:36",
-      "gregorian_utc": "2026-10-13T23:03:36+00:00",
-      "media_type": "video",
-      "media_size_bytes": 706132,
-      "media_size_human": "689.58 KB",
+      "tehran_time": "02:36:03",
+      "gregorian_utc": "2026-10-13T23:06:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 176328,
+      "media_size_human": "172.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362162_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362162_video.mp4",
+      "media_local_path": "media/IranintlTV_362163_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362163_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246729+00:00"
+      "archived_at": "2026-10-14T00:10:33.141104+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:50.657145+00:00"
+      "archived_at": "2026-10-14T00:10:33.694666+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_122126_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122126_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124487+00:00"
+      "archived_at": "2026-10-14T00:10:34.116874+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14789,
-      "message_link": "https://t.me/zedTV/14789",
-      "text": "گزارش از هدف قرار گرفتن دومین کشتی در تنگه هرمز.\nتداوم ناامنی در مسیرهای دریانوردی بین‌المللی.\nاخلال در امنیت ترانزیت انرژی در منطقه.",
-      "shamsi_date": "1405/07/21",
-      "tehran_time": "23:38:19",
-      "gregorian_utc": "2026-10-13T20:08:19+00:00",
+      "message_id": 14790,
+      "message_link": "https://t.me/zedTV/14790",
+      "text": "حمله به تیپ واکنش سریع ارتش؛ گزارش‌ها از ضربه به این مرکز نظامی؛ هدف قرار گرفتن نیروهای رژیم در حملات اخیر.",
+      "shamsi_date": "1405/07/22",
+      "tehran_time": "00:20:03",
+      "gregorian_utc": "2026-10-13T20:50:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832739+00:00"
+      "archived_at": "2026-10-14T00:10:32.685727+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362161,
-      "message_link": "https://t.me/IranintlTV/362161",
-      "text": "جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحریم به‌تنهایی مانع عملیات برون‌مرزی جمهوری اسلامی نشده است، اما تحریم‌های هدفمند علیه مقام‌ها و افراد وابسته می‌تواند بخشی از توان عملیاتی و امنیتی جمهوری اسلامی را محدود کند.\n@iranintltv",
+      "message_id": 362162,
+      "message_link": "https://t.me/IranintlTV/362162",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به آزمایش موفق اتصال مستقیم تلفن‌های همراه به ماهواره در ایتالیا گفت در ماه‌های آینده ممکن است جهشی مهم در فناوری ارتباطات رخ دهد و گوشی‌های همراه بدون تجهیزات اضافی مستقیما به شبکه‌هایی مانند استارلینک متصل شوند.\n\nاو افزود گسترش این فناوری می‌تواند توان جمهوری اسلامی برای قطع کامل اینترنت در جریان اعتراضات را به‌شدت محدود کند، زیرا کاربران برای دسترسی به اینترنت دیگر الزاما به زیرساخت‌های زمینی و شبکه‌های تحت کنترل حکومت وابسته نخواهند بود.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "02:23:17",
-      "gregorian_utc": "2026-10-13T22:53:17+00:00",
+      "tehran_time": "02:33:36",
+      "gregorian_utc": "2026-10-13T23:03:36+00:00",
       "media_type": "video",
-      "media_size_bytes": 4035294,
-      "media_size_human": "3.85 MB",
+      "media_size_bytes": 706132,
+      "media_size_human": "689.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362161_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362161_video.mp4",
+      "media_local_path": "media/IranintlTV_362162_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362162_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246769+00:00"
+      "archived_at": "2026-10-14T00:10:33.141211+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76607_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76607_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657178+00:00"
+      "archived_at": "2026-10-14T00:10:33.694728+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124502+00:00"
+      "archived_at": "2026-10-14T00:10:34.116908+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14788,
-      "message_link": "https://t.me/zedTV/14788",
-      "text": "بحران درمانی در ماهشهر؛ ناتوانی شهروندان در تأمین مخارج اولیه بیماری‌های فصلی.\nافزایش سرسام‌آور قیمت دارو و ویزیت؛ خانواده‌ها به دلیل فقر از مراجعه به پزشک خودداری می‌کنند.\nاختصاص ۲۰۰ میلیون دلار به حزب‌الله لبنان همزمان با گسترش فقر و بیماری در ایران.",
+      "message_id": 14789,
+      "message_link": "https://t.me/zedTV/14789",
+      "text": "گزارش از هدف قرار گرفتن دومین کشتی در تنگه هرمز.\nتداوم ناامنی در مسیرهای دریانوردی بین‌المللی.\nاخلال در امنیت ترانزیت انرژی در منطقه.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "23:07:42",
-      "gregorian_utc": "2026-10-13T19:37:42+00:00",
+      "tehran_time": "23:38:19",
+      "gregorian_utc": "2026-10-13T20:08:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832756+00:00"
+      "archived_at": "2026-10-14T00:10:32.685762+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362160,
-      "message_link": "https://t.me/IranintlTV/362160",
-      "text": "باربد از تهران: بچه دبیرستانی‌ام کتاب ندارد و مدرسه ۳ میلیون تومان پول می‌خواهد\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis\n@iranintltv",
+      "message_id": 362161,
+      "message_link": "https://t.me/IranintlTV/362161",
+      "text": "جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به گسترش فعالیت‌های برون‌مرزی سپاه پاسداران گفت تجربه نشان داده تحریم به‌تنهایی مانع عملیات برون‌مرزی جمهوری اسلامی نشده است، اما تحریم‌های هدفمند علیه مقام‌ها و افراد وابسته می‌تواند بخشی از توان عملیاتی و امنیتی جمهوری اسلامی را محدود کند.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "02:05:31",
-      "gregorian_utc": "2026-10-13T22:35:31+00:00",
+      "tehran_time": "02:23:17",
+      "gregorian_utc": "2026-10-13T22:53:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 5232413,
-      "media_size_human": "4.99 MB",
+      "media_size_bytes": 4035294,
+      "media_size_human": "3.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362160_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362160_video.mp4",
+      "media_local_path": "media/IranintlTV_362161_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362161_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246804+00:00"
+      "archived_at": "2026-10-14T00:10:33.141287+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76604_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76604_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657273+00:00"
+      "archived_at": "2026-10-14T00:10:33.694911+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124670+00:00"
+      "archived_at": "2026-10-14T00:10:34.117158+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14787,
-      "message_link": "https://t.me/zedTV/14787",
-      "text": "آکسیوس به نقل از مقام ارشد آمریکایی: ترامپ به نتانیاهو دستور داد فوراً برای جنگ علیه جمهوری اسلامی آماده شود.\nآمادگی برای آغاز عملیات نظامی علیه رژیم در دستور کار قرار گرفت.",
+      "message_id": 14788,
+      "message_link": "https://t.me/zedTV/14788",
+      "text": "بحران درمانی در ماهشهر؛ ناتوانی شهروندان در تأمین مخارج اولیه بیماری‌های فصلی.\nافزایش سرسام‌آور قیمت دارو و ویزیت؛ خانواده‌ها به دلیل فقر از مراجعه به پزشک خودداری می‌کنند.\nاختصاص ۲۰۰ میلیون دلار به حزب‌الله لبنان همزمان با گسترش فقر و بیماری در ایران.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "23:07:36",
-      "gregorian_utc": "2026-10-13T19:37:36+00:00",
+      "tehran_time": "23:07:42",
+      "gregorian_utc": "2026-10-13T19:37:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832773+00:00"
+      "archived_at": "2026-10-14T00:10:32.685797+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362159,
-      "message_link": "https://t.me/IranintlTV/362159",
-      "text": "تینا از تهران: یک ماشین ۲۰۷ شده رویا!\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis \n@iranintltv",
+      "message_id": 362160,
+      "message_link": "https://t.me/IranintlTV/362160",
+      "text": "باربد از تهران: بچه دبیرستانی‌ام کتاب ندارد و مدرسه ۳ میلیون تومان پول می‌خواهد\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "02:02:16",
-      "gregorian_utc": "2026-10-13T22:32:16+00:00",
+      "tehran_time": "02:05:31",
+      "gregorian_utc": "2026-10-13T22:35:31+00:00",
       "media_type": "video",
-      "media_size_bytes": 4835263,
-      "media_size_human": "4.61 MB",
+      "media_size_bytes": 5232413,
+      "media_size_human": "4.99 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362159_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362159_video.mp4",
+      "media_local_path": "media/IranintlTV_362160_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362160_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246836+00:00"
+      "archived_at": "2026-10-14T00:10:33.141359+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76603_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76603_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657300+00:00"
+      "archived_at": "2026-10-14T00:10:33.694970+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_122123_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122123_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124732+00:00"
+      "archived_at": "2026-10-14T00:10:34.117281+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14786,
-      "message_link": "https://t.me/zedTV/14786",
-      "text": "وقوع انفجار در شهر الخبر واقع در استان شرقی عربستان؛ گزارش منابع خبری از وقوع انفجارهای پیاپی؛ تداوم تنش‌های نظامی در سطح منطقه.",
+      "message_id": 14787,
+      "message_link": "https://t.me/zedTV/14787",
+      "text": "آکسیوس به نقل از مقام ارشد آمریکایی: ترامپ به نتانیاهو دستور داد فوراً برای جنگ علیه جمهوری اسلامی آماده شود.\nآمادگی برای آغاز عملیات نظامی علیه رژیم در دستور کار قرار گرفت.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "22:35:22",
-      "gregorian_utc": "2026-10-13T19:05:22+00:00",
+      "tehran_time": "23:07:36",
+      "gregorian_utc": "2026-10-13T19:37:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832789+00:00"
+      "archived_at": "2026-10-14T00:10:32.685826+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362158,
-      "message_link": "https://t.me/IranintlTV/362158",
-      "text": "علیرضا از اصفهان: ما یک ایران برای مسئولان جمهوری اسلامی داریم و یک ایران برای مردم ایران\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis\n@iranintltv",
+      "message_id": 362159,
+      "message_link": "https://t.me/IranintlTV/362159",
+      "text": "تینا از تهران: یک ماشین ۲۰۷ شده رویا!\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis \n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:59:42",
-      "gregorian_utc": "2026-10-13T22:29:42+00:00",
+      "tehran_time": "02:02:16",
+      "gregorian_utc": "2026-10-13T22:32:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 3639829,
-      "media_size_human": "3.47 MB",
+      "media_size_bytes": 4835263,
+      "media_size_human": "4.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362158_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362158_video.mp4",
+      "media_local_path": "media/IranintlTV_362159_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362159_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246869+00:00"
+      "archived_at": "2026-10-14T00:10:33.141430+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 201.15 MB)",
-      "archived_at": "2026-10-14T00:00:50.657339+00:00"
+      "archived_at": "2026-10-14T00:10:33.695045+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_122122_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122122_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124756+00:00"
+      "archived_at": "2026-10-14T00:10:34.117332+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14785,
-      "message_link": "https://t.me/zedTV/14785",
-      "text": "کانال ۱۲ اسرائیل: احتمال بسیار بالای عملیات نظامی قریب‌الوقوع علیه جمهوری اسلامی.\nگزارش‌ها از آمادگی برای اقدام نظامی علیه مواضع رژیم حکایت دارد.",
+      "message_id": 14786,
+      "message_link": "https://t.me/zedTV/14786",
+      "text": "وقوع انفجار در شهر الخبر واقع در استان شرقی عربستان؛ گزارش منابع خبری از وقوع انفجارهای پیاپی؛ تداوم تنش‌های نظامی در سطح منطقه.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "22:08:13",
-      "gregorian_utc": "2026-10-13T18:38:13+00:00",
+      "tehran_time": "22:35:22",
+      "gregorian_utc": "2026-10-13T19:05:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832815+00:00"
+      "archived_at": "2026-10-14T00:10:32.685873+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362157,
-      "message_link": "https://t.me/IranintlTV/362157",
-      "text": "خبرگزاری رویترز به نقل از یک منبع در شرکت آرامکوی عربستان سعودی نوشت که یک موشک بالستیک به مجموعه مرکزی این شرکت، بزرگ‌ترین شرکت نفتی جهان و ستون اصلی اقتصاد عربستان سعودی، اصابت کرده است.\n\nاین منبع که رویترز به نام او اشاره نکرد، گفت شامگاه سه‌شنبه یک برج اداری در مجموعه آرامکو در شهر ظهران، در شرق عربستان، هدف قرار گرفت و سه طبقه بالایی آن آسیب دید. این منبع و دو فرد دیگر آگاه از موضوع گفتند که ساختمان دچار آتش‌سوزی شده است.\n\nبه نوشته رویترز، این مجموعه میزبان یکی از مراکز اصلی عملیات آرامکو است که شبکه گسترده‌ای از سکوهای نفتی خشکی و دریایی، خطوط لوله، پالایشگاه‌ها و پایانه‌های صادرات نفت را مدیریت می‌کند.\n\nپیش‌تر، شش منبع به رویترز گفته بودند که صدای انفجارهای مهیبی را در نزدیکی این مجموعه شنیده‌اند. شرکت آرامکو تاکنون در این‌باره اظهارنظر رسمی نکرده است.\nhttps://iranintl.com/202610134292",
+      "message_id": 362158,
+      "message_link": "https://t.me/IranintlTV/362158",
+      "text": "علیرضا از اصفهان: ما یک ایران برای مسئولان جمهوری اسلامی داریم و یک ایران برای مردم ایران\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/QwgQdIYkvis\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:54:25",
-      "gregorian_utc": "2026-10-13T22:24:25+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123274,
-      "media_size_human": "120.38 KB",
+      "tehran_time": "01:59:42",
+      "gregorian_utc": "2026-10-13T22:29:42+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3639829,
+      "media_size_human": "3.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362157_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362157_photo.jpg",
+      "media_local_path": "media/IranintlTV_362158_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362158_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.246941+00:00"
+      "archived_at": "2026-10-14T00:10:33.141506+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657366+00:00"
+      "archived_at": "2026-10-14T00:10:33.695127+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_122121_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122121_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124781+00:00"
+      "archived_at": "2026-10-14T00:10:34.117379+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14784,
-      "message_link": "https://t.me/zedTV/14784",
-      "text": "آکسیوس: ارائه گزارش اقدامات هسته‌ای تهران توسط نتانیاهو به ترامپ.\nرایزنی درباره طرح حمله نظامی مشترک به جمهوری اسلامی پیش از انتخابات.",
+      "message_id": 14785,
+      "message_link": "https://t.me/zedTV/14785",
+      "text": "کانال ۱۲ اسرائیل: احتمال بسیار بالای عملیات نظامی قریب‌الوقوع علیه جمهوری اسلامی.\nگزارش‌ها از آمادگی برای اقدام نظامی علیه مواضع رژیم حکایت دارد.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "21:22:50",
-      "gregorian_utc": "2026-10-13T17:52:50+00:00",
+      "tehran_time": "22:08:13",
+      "gregorian_utc": "2026-10-13T18:38:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832831+00:00"
+      "archived_at": "2026-10-14T00:10:32.685904+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362156,
-      "message_link": "https://t.me/IranintlTV/362156",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: پیشنهاد نتانیاهو به ترامپ؛ حمله کنیم\n@iranintlTV",
+      "message_id": 362157,
+      "message_link": "https://t.me/IranintlTV/362157",
+      "text": "خبرگزاری رویترز به نقل از یک منبع در شرکت آرامکوی عربستان سعودی نوشت که یک موشک بالستیک به مجموعه مرکزی این شرکت، بزرگ‌ترین شرکت نفتی جهان و ستون اصلی اقتصاد عربستان سعودی، اصابت کرده است.\n\nاین منبع که رویترز به نام او اشاره نکرد، گفت شامگاه سه‌شنبه یک برج اداری در مجموعه آرامکو در شهر ظهران، در شرق عربستان، هدف قرار گرفت و سه طبقه بالایی آن آسیب دید. این منبع و دو فرد دیگر آگاه از موضوع گفتند که ساختمان دچار آتش‌سوزی شده است.\n\nبه نوشته رویترز، این مجموعه میزبان یکی از مراکز اصلی عملیات آرامکو است که شبکه گسترده‌ای از سکوهای نفتی خشکی و دریایی، خطوط لوله، پالایشگاه‌ها و پایانه‌های صادرات نفت را مدیریت می‌کند.\n\nپیش‌تر، شش منبع به رویترز گفته بودند که صدای انفجارهای مهیبی را در نزدیکی این مجموعه شنیده‌اند. شرکت آرامکو تاکنون در این‌باره اظهارنظر رسمی نکرده است.\nhttps://iranintl.com/202610134292",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:42:18",
-      "gregorian_utc": "2026-10-13T22:12:18+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 17373526,
-      "media_size_human": "16.57 MB",
+      "tehran_time": "01:54:25",
+      "gregorian_utc": "2026-10-13T22:24:25+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 123274,
+      "media_size_human": "120.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362156_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362156_audio.mp3",
+      "media_local_path": "media/IranintlTV_362157_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362157_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255652+00:00"
+      "archived_at": "2026-10-14T00:10:33.141633+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76600_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76600_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657423+00:00"
+      "archived_at": "2026-10-14T00:10:33.695250+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124795+00:00"
+      "archived_at": "2026-10-14T00:10:34.117407+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14783,
-      "message_link": "https://t.me/zedTV/14783",
-      "text": "وزیر دفاع اسرائیل: شناسایی تلاش‌های تروریستی رژیم ایران و گروه‌های نیابتی.\nهدف جمهوری اسلامی: مداخله و تأثیرگذاری بر نتایج انتخابات اسرائیل.",
+      "message_id": 14784,
+      "message_link": "https://t.me/zedTV/14784",
+      "text": "آکسیوس: ارائه گزارش اقدامات هسته‌ای تهران توسط نتانیاهو به ترامپ.\nرایزنی درباره طرح حمله نظامی مشترک به جمهوری اسلامی پیش از انتخابات.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "21:22:49",
-      "gregorian_utc": "2026-10-13T17:52:49+00:00",
+      "tehran_time": "21:22:50",
+      "gregorian_utc": "2026-10-13T17:52:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832845+00:00"
+      "archived_at": "2026-10-14T00:10:32.685931+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362155,
-      "message_link": "https://t.me/IranintlTV/362155",
-      "text": "اکسیوس گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، هفته گذشته درباره احتمال عملیات نظامی گسترده جدید علیه جمهوری اسلامی پیش از انتخابات دو کشور گفت‌وگو کردند؛ گزارشی که کاخ سفید آن را رد کرده است.\n\nبه نوشته اکسیوس، نتانیاهو درباره اطلاعاتی ابراز نگرانی کرد که به گفته اسرائیل نشان‌دهنده تلاش جمهوری اسلامی برای بازسازی برنامه هسته‌ای است. منابع این وب‌سایت گفتند ارتش‌های آمریکا و اسرائیل همچنان در آماده‌باش هستند.\n\nاکسیوس نوشت ترامپ ابتدا به ازسرگیری حملات تمایل داشت، اما بعدا محتاط‌تر شد. پیت هگست، وزیر دفاع آمریکا، و فرماندهان سنتکام از حامیان حمله دوباره‌اند، در حالی که بیشتر مشاوران ترامپ ادامه فشار اقتصادی را ترجیح می‌دهند.\n\nهم‌زمان، معاریو گزارش داد واشینگتن پیش‌تر خواستار حمله مستقل اسرائیل شده بود، اما پس از هشدار ایال زمیر، رییس ستاد ارتش اسرائیل، درباره احتمال تعویق انتخابات اسرائیل از این خواسته صرف نظر کرد.\n\nدر همین حال، میانجیگران قطری منتظر پاسخ جمهوری اسلامی به تازه‌ترین پیشنهاد آمریکا برای پایان جنگ هستند.\nhttps://iranintl.com/202610135439",
+      "message_id": 362156,
+      "message_link": "https://t.me/IranintlTV/362156",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: پیشنهاد نتانیاهو به ترامپ؛ حمله کنیم\n@iranintlTV",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:38:00",
-      "gregorian_utc": "2026-10-13T22:08:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162584,
-      "media_size_human": "158.77 KB",
+      "tehran_time": "01:42:18",
+      "gregorian_utc": "2026-10-13T22:12:18+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 17373526,
+      "media_size_human": "16.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362155_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362155_photo.jpg",
+      "media_local_path": "media/IranintlTV_362156_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362156_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255763+00:00"
+      "archived_at": "2026-10-14T00:10:33.151877+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:50.657488+00:00"
+      "archived_at": "2026-10-14T00:10:33.695374+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124808+00:00"
+      "archived_at": "2026-10-14T00:10:34.117433+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14782,
-      "message_link": "https://t.me/zedTV/14782",
-      "text": "هشدار نسبت به وقوع حملات نظامی قریب‌الوقوع؛ افزایش سطح آماده‌باش در پی تهدیدات جدی؛ احتمال هدف قرار گرفتن مواضع حساس در ساعات پیش‌رو.",
+      "message_id": 14783,
+      "message_link": "https://t.me/zedTV/14783",
+      "text": "وزیر دفاع اسرائیل: شناسایی تلاش‌های تروریستی رژیم ایران و گروه‌های نیابتی.\nهدف جمهوری اسلامی: مداخله و تأثیرگذاری بر نتایج انتخابات اسرائیل.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "21:22:30",
-      "gregorian_utc": "2026-10-13T17:52:30+00:00",
+      "tehran_time": "21:22:49",
+      "gregorian_utc": "2026-10-13T17:52:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832858+00:00"
+      "archived_at": "2026-10-14T00:10:32.685958+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362154,
-      "message_link": "https://t.me/IranintlTV/362154",
-      "text": "عربستان سعودی با انجام حملات هوایی، تأسیسات نفتی در مناطق تحت کنترل حوثی‌ها در یمن را هدف قرار داد. در این حملات، یک جایگاه سوخت در صنعا، مخازن ذخیره‌سازی در بندر راس عیسی و یک نقطه دیگر در شهرستان باجل در استان حدیده مورد اصابت قرار گرفت.\n@iranintltv",
+      "message_id": 362155,
+      "message_link": "https://t.me/IranintlTV/362155",
+      "text": "اکسیوس گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، و بنیامین نتانیاهو، نخست‌وزیر اسرائیل، هفته گذشته درباره احتمال عملیات نظامی گسترده جدید علیه جمهوری اسلامی پیش از انتخابات دو کشور گفت‌وگو کردند؛ گزارشی که کاخ سفید آن را رد کرده است.\n\nبه نوشته اکسیوس، نتانیاهو درباره اطلاعاتی ابراز نگرانی کرد که به گفته اسرائیل نشان‌دهنده تلاش جمهوری اسلامی برای بازسازی برنامه هسته‌ای است. منابع این وب‌سایت گفتند ارتش‌های آمریکا و اسرائیل همچنان در آماده‌باش هستند.\n\nاکسیوس نوشت ترامپ ابتدا به ازسرگیری حملات تمایل داشت، اما بعدا محتاط‌تر شد. پیت هگست، وزیر دفاع آمریکا، و فرماندهان سنتکام از حامیان حمله دوباره‌اند، در حالی که بیشتر مشاوران ترامپ ادامه فشار اقتصادی را ترجیح می‌دهند.\n\nهم‌زمان، معاریو گزارش داد واشینگتن پیش‌تر خواستار حمله مستقل اسرائیل شده بود، اما پس از هشدار ایال زمیر، رییس ستاد ارتش اسرائیل، درباره احتمال تعویق انتخابات اسرائیل از این خواسته صرف نظر کرد.\n\nدر همین حال، میانجیگران قطری منتظر پاسخ جمهوری اسلامی به تازه‌ترین پیشنهاد آمریکا برای پایان جنگ هستند.\nhttps://iranintl.com/202610135439",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:26:21",
-      "gregorian_utc": "2026-10-13T21:56:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 381201,
-      "media_size_human": "372.27 KB",
+      "tehran_time": "01:38:00",
+      "gregorian_utc": "2026-10-13T22:08:00+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162584,
+      "media_size_human": "158.77 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362154_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362154_video.mp4",
+      "media_local_path": "media/IranintlTV_362155_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362155_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255806+00:00"
+      "archived_at": "2026-10-14T00:10:33.152055+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657566+00:00"
+      "archived_at": "2026-10-14T00:10:33.695531+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-14T00:00:51.124839+00:00"
+      "archived_at": "2026-10-14T00:10:34.117495+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14781,
-      "message_link": "https://t.me/zedTV/14781",
-      "text": "آکسیوس: رایزنی نتانیاهو و ترامپ درباره حمله احتمالی به جمهوری اسلامی پیش از انتخابات.\nارائه گزارش اقدامات هسته‌ای خطرناک تهران به رئیس‌جمهور سابق آمریکا.",
+      "message_id": 14782,
+      "message_link": "https://t.me/zedTV/14782",
+      "text": "هشدار نسبت به وقوع حملات نظامی قریب‌الوقوع؛ افزایش سطح آماده‌باش در پی تهدیدات جدی؛ احتمال هدف قرار گرفتن مواضع حساس در ساعات پیش‌رو.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "21:07:24",
-      "gregorian_utc": "2026-10-13T17:37:24+00:00",
+      "tehran_time": "21:22:30",
+      "gregorian_utc": "2026-10-13T17:52:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832871+00:00"
+      "archived_at": "2026-10-14T00:10:32.685984+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362153,
-      "message_link": "https://t.me/IranintlTV/362153",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش کانال ۱۲ اسرائیل گفت بنیامین نتانیاهو به دونالد ترامپ پیشنهاد کرده آمریکا و اسرائیل حمله‌ای جدید و گسترده علیه جمهوری اسلامی آغاز کنند.\n\nاو افزود فارغ از اینکه ابتکار این حمله از سوی ترامپ یا نتانیاهو مطرح شده، نکته مهم این است که هر دو درباره انجام یک حمله نظامی جدید به جمهوری اسلامی گفت‌وگو می‌کنند.\n@iranintltv",
+      "message_id": 362154,
+      "message_link": "https://t.me/IranintlTV/362154",
+      "text": "عربستان سعودی با انجام حملات هوایی، تأسیسات نفتی در مناطق تحت کنترل حوثی‌ها در یمن را هدف قرار داد. در این حملات، یک جایگاه سوخت در صنعا، مخازن ذخیره‌سازی در بندر راس عیسی و یک نقطه دیگر در شهرستان باجل در استان حدیده مورد اصابت قرار گرفت.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:15:50",
-      "gregorian_utc": "2026-10-13T21:45:50+00:00",
+      "tehran_time": "01:26:21",
+      "gregorian_utc": "2026-10-13T21:56:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 699186,
-      "media_size_human": "682.80 KB",
+      "media_size_bytes": 381201,
+      "media_size_human": "372.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362153_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362153_video.mp4",
+      "media_local_path": "media/IranintlTV_362154_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362154_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255843+00:00"
+      "archived_at": "2026-10-14T00:10:33.152180+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76596_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76596_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657583+00:00"
+      "archived_at": "2026-10-14T00:10:33.695574+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124863+00:00"
+      "archived_at": "2026-10-14T00:10:34.117547+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14780,
-      "message_link": "https://t.me/zedTV/14780",
-      "text": "نتانیاهو از تدارک بزرگترین حمله تاریخ علیه رژیم ایران خبر داد. شمارش معکوس برای وقوع گسترده‌ترین نبرد نظامی در منطقه آغاز شد. تنش‌ها به مرحله‌ای بی‌سابقه رسیده است.",
+      "message_id": 14781,
+      "message_link": "https://t.me/zedTV/14781",
+      "text": "آکسیوس: رایزنی نتانیاهو و ترامپ درباره حمله احتمالی به جمهوری اسلامی پیش از انتخابات.\nارائه گزارش اقدامات هسته‌ای خطرناک تهران به رئیس‌جمهور سابق آمریکا.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "20:53:27",
-      "gregorian_utc": "2026-10-13T17:23:27+00:00",
+      "tehran_time": "21:07:24",
+      "gregorian_utc": "2026-10-13T17:37:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832884+00:00"
+      "archived_at": "2026-10-14T00:10:32.686010+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362152,
-      "message_link": "https://t.me/IranintlTV/362152",
-      "text": "گروهی از زندانیان سیاسی در زندان‌های مختلف جمهوری اسلامی در پیامی به مناسبت زادروز شهبانو فرح پهلوی، او را «نماد فرهنگ و هنر ایران» دانستند. \nاین زندانیان سیاسی ابراز امیدواری کردند که روزی جشن زادروز شهبانو فرح پهلوی در ایرانی آزاد و آباد برگزار شود.\nhttps://iranintl.com/202610130178",
+      "message_id": 362153,
+      "message_link": "https://t.me/IranintlTV/362153",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به گزارش کانال ۱۲ اسرائیل گفت بنیامین نتانیاهو به دونالد ترامپ پیشنهاد کرده آمریکا و اسرائیل حمله‌ای جدید و گسترده علیه جمهوری اسلامی آغاز کنند.\n\nاو افزود فارغ از اینکه ابتکار این حمله از سوی ترامپ یا نتانیاهو مطرح شده، نکته مهم این است که هر دو درباره انجام یک حمله نظامی جدید به جمهوری اسلامی گفت‌وگو می‌کنند.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "01:02:18",
-      "gregorian_utc": "2026-10-13T21:32:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 161231,
-      "media_size_human": "157.45 KB",
+      "tehran_time": "01:15:50",
+      "gregorian_utc": "2026-10-13T21:45:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 699186,
+      "media_size_human": "682.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362152_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362152_photo.jpg",
+      "media_local_path": "media/IranintlTV_362153_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362153_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255878+00:00"
+      "archived_at": "2026-10-14T00:10:33.152274+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:50.657614+00:00"
+      "archived_at": "2026-10-14T00:10:33.695619+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_122116_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122116_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124882+00:00"
+      "archived_at": "2026-10-14T00:10:34.117599+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14779,
-      "message_link": "https://t.me/zedTV/14779",
-      "text": "اسارت یک فرمانده ارشد سپاه پاسداران در خاک یمن\nضربه سنگین به شبکه نظامی و مهره‌های برون‌مرزی جمهوری اسلامی\nتضعیف نفوذ منطقه‌ای رژیم در پی تحولات اخیر میدانی",
+      "message_id": 14780,
+      "message_link": "https://t.me/zedTV/14780",
+      "text": "نتانیاهو از تدارک بزرگترین حمله تاریخ علیه رژیم ایران خبر داد. شمارش معکوس برای وقوع گسترده‌ترین نبرد نظامی در منطقه آغاز شد. تنش‌ها به مرحله‌ای بی‌سابقه رسیده است.",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "20:19:45",
-      "gregorian_utc": "2026-10-13T16:49:45+00:00",
+      "tehran_time": "20:53:27",
+      "gregorian_utc": "2026-10-13T17:23:27+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832898+00:00"
+      "archived_at": "2026-10-14T00:10:32.686036+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362151,
-      "message_link": "https://t.me/IranintlTV/362151",
-      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در شبکه اجتماعی ایکس «ادعای فرمانده نیروی دریایی سپاه پاسداران مبنی بر اینکه تنگه هرمز تحت کنترل سپاه است و هر ناو جنگی نیروی دریایی آمریکا که به این تنگه نزدیک شود، غرق خواهد شد» را رد کرد.\n\nسنتکام نوشت: «فرمانده نیروی دریایی سپاه، نیروی دریایی در اختیار ندارد.»\n\nدر بیانیه سنتکام آمده است: «نیروهای آمریکایی و شرکای منطقه‌ای آنها کنترل تنگه هرمز را به‌وضوح در دست دارند.»\n\nسنتکام افزود: «نیروهای آمریکایی همین دیروز، دوشنبه، به کشورهای حاشیه خلیج فارس کمک کردند بیش از ۱۹ میلیون بشکه نفت خام را از طریق این تنگه منتقل کنند.»\nhttps://iranintl.com/202610138498",
+      "message_id": 362152,
+      "message_link": "https://t.me/IranintlTV/362152",
+      "text": "گروهی از زندانیان سیاسی در زندان‌های مختلف جمهوری اسلامی در پیامی به مناسبت زادروز شهبانو فرح پهلوی، او را «نماد فرهنگ و هنر ایران» دانستند. \nاین زندانیان سیاسی ابراز امیدواری کردند که روزی جشن زادروز شهبانو فرح پهلوی در ایرانی آزاد و آباد برگزار شود.\nhttps://iranintl.com/202610130178",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "00:53:04",
-      "gregorian_utc": "2026-10-13T21:23:04+00:00",
+      "tehran_time": "01:02:18",
+      "gregorian_utc": "2026-10-13T21:32:18+00:00",
       "media_type": "photo",
-      "media_size_bytes": 175295,
-      "media_size_human": "171.19 KB",
+      "media_size_bytes": 161231,
+      "media_size_human": "157.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362151_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362151_photo.jpg",
+      "media_local_path": "media/IranintlTV_362152_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362152_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255924+00:00"
+      "archived_at": "2026-10-14T00:10:33.152352+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657632+00:00"
+      "archived_at": "2026-10-14T00:10:33.695658+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:51.124894+00:00"
+      "archived_at": "2026-10-14T00:10:34.117626+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 14778,
-      "message_link": "https://t.me/zedTV/14778",
-      "text": "ادعای رئیس مرکز ملی فضای مجازی مبنی بر دستیابی به تکنولوژی پارازیت و مقابله با استارلینک.\nاعلام آمادگی رژیم برای صادرات تجهیزات سرکوب اینترنت آزاد به سایر کشورها.\nتکرار تلاش‌های ناکام گذشته در مسدودسازی ماهواره و تلویزیون، این بار در برابر اینترنت ماهواره‌ای.",
+      "message_id": 14779,
+      "message_link": "https://t.me/zedTV/14779",
+      "text": "اسارت یک فرمانده ارشد سپاه پاسداران در خاک یمن\nضربه سنگین به شبکه نظامی و مهره‌های برون‌مرزی جمهوری اسلامی\nتضعیف نفوذ منطقه‌ای رژیم در پی تحولات اخیر میدانی",
       "shamsi_date": "1405/07/21",
-      "tehran_time": "19:52:38",
-      "gregorian_utc": "2026-10-13T16:22:38+00:00",
+      "tehran_time": "20:19:45",
+      "gregorian_utc": "2026-10-13T16:49:45+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T00:00:49.832911+00:00"
+      "archived_at": "2026-10-14T00:10:32.686062+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362150,
-      "message_link": "https://t.me/IranintlTV/362150",
-      "text": "🔻تیم فوتبال بارسلونا در هفته دوم لیگ قهرمانان اروپا با نتیجه ۴-۱ گالاتاسرای را در استانبول شکست داد. گالاتاسرای در نیمه اول با گل باتراکوف پیش افتاد اما در نیمه دوم شاگردان هانسی فلیک کامبک زدند و چهار بار دروازه گالا را باز کردند. کانسلو، لوپز، گوردون و آدیمی گل‌های بارسلونا را به ثمر رساندند.\n\n🔹در دیگر بازی‌ها هم اتلتیکومادرید ۲-۰ منچستریونایتد را در مادرید شکست داد. صباح باکو ۲-۰ اسلاویا پراگ را مغلوب کرد. کلوپ بروژ با نتیجه ۴-۳ برابر اینتر به برتری رسید و دیدار بایرن مونیخ برابر وایکنیگ با تساوی ۳-۳ به پایان رسید.\n\n🔹همچنین آرسنال توانست ۳-۰ لیل را مغلوب کند و ویارئال هم با نتیجه ۳-۱ ناپولی را از پیش‌رو برداشت.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 362151,
+      "message_link": "https://t.me/IranintlTV/362151",
+      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در شبکه اجتماعی ایکس «ادعای فرمانده نیروی دریایی سپاه پاسداران مبنی بر اینکه تنگه هرمز تحت کنترل سپاه است و هر ناو جنگی نیروی دریایی آمریکا که به این تنگه نزدیک شود، غرق خواهد شد» را رد کرد.\n\nسنتکام نوشت: «فرمانده نیروی دریایی سپاه، نیروی دریایی در اختیار ندارد.»\n\nدر بیانیه سنتکام آمده است: «نیروهای آمریکایی و شرکای منطقه‌ای آنها کنترل تنگه هرمز را به‌وضوح در دست دارند.»\n\nسنتکام افزود: «نیروهای آمریکایی همین دیروز، دوشنبه، به کشورهای حاشیه خلیج فارس کمک کردند بیش از ۱۹ میلیون بشکه نفت خام را از طریق این تنگه منتقل کنند.»\nhttps://iranintl.com/202610138498",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "00:36:35",
-      "gregorian_utc": "2026-10-13T21:06:35+00:00",
+      "tehran_time": "00:53:04",
+      "gregorian_utc": "2026-10-13T21:23:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 203215,
-      "media_size_human": "198.45 KB",
+      "media_size_bytes": 175295,
+      "media_size_human": "171.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362150_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362150_photo.jpg",
+      "media_local_path": "media/IranintlTV_362151_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362151_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.255987+00:00"
+      "archived_at": "2026-10-14T00:10:33.152454+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:50.657666+00:00"
+      "archived_at": "2026-10-14T00:10:33.695729+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_122114_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122114_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T00:00:51.124920+00:00"
+      "archived_at": "2026-10-14T00:10:34.117678+00:00"
     }
   ]
 }
