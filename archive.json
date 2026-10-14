@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:43:53.348314+00:00",
-  "shamsi_generated": "1405/07/22 07:43:53 تهران",
+  "generated_at": "2026-10-14T07:53:41.427257+00:00",
+  "shamsi_generated": "1405/07/22 07:53:41 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200194+00:00"
+      "archived_at": "2026-10-14T07:50:32.667416+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362188,
-      "message_link": "https://t.me/IranintlTV/362188",
-      "text": "حسینعلی شهریاری، رییس کمیسیون بهداشت و درمان مجلس، با هشدار درباره کمبود تجهیزات و اقلام مصرفی پزشکی گفت وضعیت در برخی بیمارستان‌های دولتی به‌گونه‌ای است که از بیماران هنگام بستری خواسته می‌شود ملحفه، پتو و لباس مورد نیاز خود را همراه بیاورند.\n\nشهریاری گفت: «در زمینه تجهیزات پزشکی و اقلام مصرفی پزشکی بدترین و جدی‌ترین مشکلات را داریم. حتی در برخی بیمارستان‌ها که از ذکر نام آن‌ها خودداری می‌کنم، هنگامی که بیمار برای بستری مراجعه می‌کند، به او می‌گویند ملحفه، پتو و لباس مورد نیاز خود را تهیه کند و همراه بیاورد؛ آن هم در بیمارستان دولتی.»\n\nاو تاکید کرد که این وضعیت نشان‌دهنده مشکلات جدی در تامین اقلام و تجهیزات مورد نیاز بیماران است.\n\nرییس کمیسیون بهداشت و درمان مجلس جمهوری اسلامی همچنین با اشاره به افزایش قیمت دارو و ناکافی بودن اعتبارات صندوق بیماری‌های خاص و صعب‌العلاج هشدار داد که ادامه مشکلات حوزه دارو و درمان می‌تواند برخی بیماران را از ادامه روند درمان باز دارد.\nhttps://iranintl.com/202610144917",
+      "message_id": 362190,
+      "message_link": "https://t.me/IranintlTV/362190",
+      "text": "نمایشگاه «رویاها در گسست» با آثار افشین ناغونی، نقاش ایرانی، و اجرای موسیقی زنده امیر کنجانی در لندن برگزار شد؛ پروژه‌ای مشترک که با ترکیب نقاشی و موسیقی، نگاهی تازه به تاریخ و هنر ارائه می‌کند.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "11:04:11",
-      "gregorian_utc": "2026-10-14T07:34:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 202125,
-      "media_size_human": "197.39 KB",
+      "tehran_time": "11:16:28",
+      "gregorian_utc": "2026-10-14T07:46:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2338546,
+      "media_size_human": "2.23 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362188_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362188_photo.jpg",
+      "media_local_path": "media/IranintlTV_362190_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362190_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.505965+00:00"
+      "archived_at": "2026-10-14T07:50:32.975135+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.940891+00:00"
+      "archived_at": "2026-10-14T07:50:33.346660+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_122132_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122132_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378129+00:00"
+      "archived_at": "2026-10-14T07:50:33.665742+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200251+00:00"
+      "archived_at": "2026-10-14T07:50:32.667448+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362187,
-      "message_link": "https://t.me/IranintlTV/362187",
-      "text": "یک دانش‌آموز با ارسال ویدیویی نشان می‌دهد که عکس روح‌الله خمینی در کتاب درسی خود را پاره کرده و او را «جلاد» می‌خواند و می‌گوید «ما پیروز می‌شویم.»",
+      "message_id": 362189,
+      "message_link": "https://t.me/IranintlTV/362189",
+      "text": "خبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران، چهارشنبه ۲۲ مهر گزارش داد که در حمله پهپادی به یک شناور در آب‌های نزدیک سیریک، سه نفر زخمی شدند.\n\nتسنیم این شناور را «قایق صیادی» توصیف کرد و نوشت که حمله از سوی آمریکا انجام شده است.\n\nاین خبرگزاری افزود: «جزییات مربوط به چگونگی وقوع حادثه و هدف قرار گرفتن شناور هنوز به‌طور رسمی اعلام نشده است.»\n\nتسنیم در گزارش خود به زمان دقیق وقوع این حمله اشاره نکرد اما در گزارش نوشته شده که یک قایق در حال انتقال مصدومان به ساحل است.\nhttps://iranintl.com/202610143732",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "11:02:00",
-      "gregorian_utc": "2026-10-14T07:32:00+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5555358,
-      "media_size_human": "5.30 MB",
+      "tehran_time": "11:14:02",
+      "gregorian_utc": "2026-10-14T07:44:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 68549,
+      "media_size_human": "66.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362187_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362187_video.mp4",
+      "media_local_path": "media/IranintlTV_362189_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362189_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.506028+00:00"
+      "archived_at": "2026-10-14T07:50:32.975211+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76607_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76607_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.940970+00:00"
+      "archived_at": "2026-10-14T07:50:33.346714+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_122131_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122131_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378179+00:00"
+      "archived_at": "2026-10-14T07:50:33.665770+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200288+00:00"
+      "archived_at": "2026-10-14T07:50:32.667466+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362186,
-      "message_link": "https://t.me/IranintlTV/362186",
-      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۲۲ مهر\n@iranintlTV",
+      "message_id": 362188,
+      "message_link": "https://t.me/IranintlTV/362188",
+      "text": "حسینعلی شهریاری، رییس کمیسیون بهداشت و درمان مجلس، با هشدار درباره کمبود تجهیزات و اقلام مصرفی پزشکی گفت وضعیت در برخی بیمارستان‌های دولتی به‌گونه‌ای است که از بیماران هنگام بستری خواسته می‌شود ملحفه، پتو و لباس مورد نیاز خود را همراه بیاورند.\n\nشهریاری گفت: «در زمینه تجهیزات پزشکی و اقلام مصرفی پزشکی بدترین و جدی‌ترین مشکلات را داریم. حتی در برخی بیمارستان‌ها که از ذکر نام آن‌ها خودداری می‌کنم، هنگامی که بیمار برای بستری مراجعه می‌کند، به او می‌گویند ملحفه، پتو و لباس مورد نیاز خود را تهیه کند و همراه بیاورد؛ آن هم در بیمارستان دولتی.»\n\nاو تاکید کرد که این وضعیت نشان‌دهنده مشکلات جدی در تامین اقلام و تجهیزات مورد نیاز بیماران است.\n\nرییس کمیسیون بهداشت و درمان مجلس جمهوری اسلامی همچنین با اشاره به افزایش قیمت دارو و ناکافی بودن اعتبارات صندوق بیماری‌های خاص و صعب‌العلاج هشدار داد که ادامه مشکلات حوزه دارو و درمان می‌تواند برخی بیماران را از ادامه روند درمان باز دارد.\nhttps://iranintl.com/202610144917",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "10:55:25",
-      "gregorian_utc": "2026-10-14T07:25:25+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30111948,
-      "media_size_human": "28.72 MB",
+      "tehran_time": "11:04:11",
+      "gregorian_utc": "2026-10-14T07:34:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 202125,
+      "media_size_human": "197.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362186_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362186_audio.mp3",
+      "media_local_path": "media/IranintlTV_362188_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362188_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.546158+00:00"
+      "archived_at": "2026-10-14T07:50:32.975300+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76604_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76604_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941155+00:00"
+      "archived_at": "2026-10-14T07:50:33.346824+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_122130_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122130_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378226+00:00"
+      "archived_at": "2026-10-14T07:50:33.665793+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200327+00:00"
+      "archived_at": "2026-10-14T07:50:32.667486+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362185,
-      "message_link": "https://t.me/IranintlTV/362185",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۲۲ مهر:**\n\n🔹کفش بچه من پاره بود وصله کردم بند نو انداختم واکس زدم. می‌گه نمی‌پوشم، مدرسه نمی‌رم. من یک بازنشسته‌ام. ندارم. از کجا بیارم بخرم؟ شب و روز نداریم، خواب نداریم.\n\n🔹از مشکین دشت کرج: وضع مالی مردم انقدر بده و انقدر درآمدشون کفاف خرج‌های زندگی رو نمی‌ده که هر ماه امید می‌بندن به کالابرگی که با پولش حتی نمی‌شه یه روغن خرید.\n\n🔹دخترم از دانشگاه برمی‌گشت، تو اتوبان همت پشت فرمون ماشین خودش بود که از شیشه نیمه‌باز زدند تو صورتش و گوشی‌شو دزدیدند! واقعاً مردم کجا باید احساس امنیت کنند؟ مسئول امنیت ما کیه؟ تا کی باید با ترس زندگی کنیم؟\n\n🔹از تبریز: ۴۲ سال دارم، ۳ ماهه دنبال کار می‌گردم. دریغ از کار. اگر هم کاری باشد روزی باید ۱۵ ساعت سر کار باشی تا آخر ماه ۲۰ میلیون پول بگیری. با این وضع گرانی با ۲۰ میلیون من پول آب، برق، گاز، اجاره خانه، چی بدم؟ یخچال خالیه، شرمنده برادر مریضمم.\n\n🔹قهوه کیلویی ۶ میلیون تومن شده، تخم مرغ کیلویی ۲۷۰ هزار تومن، هزینه باشگاه بدنسازی شده ماهی ۱.۵ میلیون تومن.\n\n🔹از تهران: گرانی بیداد می‌کنه. امروز رفتم سوپرمارکت ۵ تا قلم جنس لبنیاتی کوچیک خریدم، شده ۲ میلیون و ۳۰۰ هزار تومان. همین اجناس رو تا ۶ ماه پیش با ۶۰۰ هزار تومن می‌خریدم. داریم له می‌شیم زیر بار گرانی.\n\n🔹روغن موتور پارس ۲۰ لیتری دو ماه قبل شش میلیون و ۵۰۰ هزار تومن بود امروز شده ۱۴ میلیون و ۵۰۰ هزار تومن. داریم به قله‌ها نزدیک می‌شیم.\n\n🔹ظاهراً هیچ شهروندی دیگه پیامک جریمه خودرو دریافت نمی‌کنه و بعد از مدتی که بنا به دلیلی مجبور به پرداخت خلافی ماشینت شدی، از مبلغش شوکه می‌شی، به‌خصوص با دوربین‌هایی که جدیداً نصب کردن و مثل دوربین‌های قبلی قابل تشخیص نیست.",
+      "message_id": 362187,
+      "message_link": "https://t.me/IranintlTV/362187",
+      "text": "یک دانش‌آموز با ارسال ویدیویی نشان می‌دهد که عکس روح‌الله خمینی در کتاب درسی خود را پاره کرده و او را «جلاد» می‌خواند و می‌گوید «ما پیروز می‌شویم.»",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "10:27:10",
-      "gregorian_utc": "2026-10-14T06:57:10+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.546427+00:00"
+      "tehran_time": "11:02:00",
+      "gregorian_utc": "2026-10-14T07:32:00+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5555358,
+      "media_size_human": "5.30 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_362187_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362187_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-14T07:50:32.975324+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76603_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76603_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941218+00:00"
+      "archived_at": "2026-10-14T07:50:33.346858+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 107.44 MB)",
-      "archived_at": "2026-10-14T07:40:38.378293+00:00"
+      "archived_at": "2026-10-14T07:50:33.665828+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200361+00:00"
+      "archived_at": "2026-10-14T07:50:32.667503+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362184,
-      "message_link": "https://t.me/IranintlTV/362184",
-      "text": "🔻در مسابقات کشتی فرنگی زیر ۲۳ سال قهرمانی ۲۰۲۶ جهان در شهر لاس‌وگاس آمریکا، ابوالفضل مهمدی با کسب مدال طلا بر سکوی نخست جهان ایستاد و محمد کمالی نیز صاحب گردن‌آویز برنز شد.\n\n🔹در دیدارهای فینال و رده‌بندی پنج وزن نخست که بامداد چهارشنبه برگزار شد، ابوالفضل مهمدی در وزن ۸۲ کیلوگرم در مبارزه پایانی با نتیجه ۲ بر ۱ مقابل مارتیک پتروسیان از ارمنستان به پیروزی رسید و نخستین مدال طلای ایران را به نام خود ثبت کرد. همچنین در وزن ۶۷ کیلوگرم، محمد کمالی در دیدار رده‌بندی به مصاف یوریک هوویان از ارمنستان رفت و با نتیجه ۶ بر صفر حریف خود را مغلوب کرد تا صاحب مدال برنز شود.\n\n🔹در پنج وزن دوم، عرفان جرکنی در ۶۳ و یاسین یزدی در ۸۷ کیلوگرم با شکست تمام رقبا به فینال رسیدند و برای مدال طلا به مصاف نمایندگان ژاپن و قزاقستان می‌روند. آرمین شمسی‌پور در ۵۵ و اهورا بویری در ۷۷ کیلوگرم با راهیابی حریفانشان به فینال، راهی گروه شانس مجدد شدند تا برای مدال برنز تلاش کنند. ابوالفضل فتحی‌تزنگی نیز در ۱۳۰ کیلوگرم از دور رقابت‌ها حذف شد.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 362186,
+      "message_link": "https://t.me/IranintlTV/362186",
+      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۲۲ مهر\n@iranintlTV",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "10:17:34",
-      "gregorian_utc": "2026-10-14T06:47:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 138326,
-      "media_size_human": "135.08 KB",
+      "tehran_time": "10:55:25",
+      "gregorian_utc": "2026-10-14T07:25:25+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30111948,
+      "media_size_human": "28.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362184_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362184_photo.jpg",
+      "media_local_path": "media/IranintlTV_362186_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362186_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.546613+00:00"
+      "archived_at": "2026-10-14T07:50:33.001693+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 201.15 MB)",
-      "archived_at": "2026-10-14T07:40:37.941296+00:00"
+      "archived_at": "2026-10-14T07:50:33.346900+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_122128_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122128_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378360+00:00"
+      "archived_at": "2026-10-14T07:50:33.665861+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200396+00:00"
+      "archived_at": "2026-10-14T07:50:32.667520+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362183,
-      "message_link": "https://t.me/IranintlTV/362183",
-      "text": "قوه قضاییه جمهوری اسلامی از اجرای حکم اعدام علی‌سینا مصطفوی، زندانی سیاسی، خبر داد.\n\nقوه قضاییه او را به دو مورد تیراندازی در کرمان، در فروردین و اردیبهشت ۱۴۰۵، متهم کرده بود. قوه قضاییه همچنین اعلام کرده که مصطفوی در جریان اعتراضات دی‌ماه ۱۴۰۴ نیز حضور داشته است.\n\nقوه قضاییه همچنین او را به ارسال تصاویر و ویدئوها برای شبکه‌های فارسی‌زبان خارج از کشور متهم کرده است.\n\nبر اساس گزارش‌های رسانه‌های حقوق بشری، از علی‌سینا مصطفوی اعترافات اجباری اخذ شده است. مصطفوی موزیسین و کوهنورد بود.\nhttps://iranintl.com/202610143788",
+      "message_id": 362185,
+      "message_link": "https://t.me/IranintlTV/362185",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۲۲ مهر:**\n\n🔹کفش بچه من پاره بود وصله کردم بند نو انداختم واکس زدم. می‌گه نمی‌پوشم، مدرسه نمی‌رم. من یک بازنشسته‌ام. ندارم. از کجا بیارم بخرم؟ شب و روز نداریم، خواب نداریم.\n\n🔹از مشکین دشت کرج: وضع مالی مردم انقدر بده و انقدر درآمدشون کفاف خرج‌های زندگی رو نمی‌ده که هر ماه امید می‌بندن به کالابرگی که با پولش حتی نمی‌شه یه روغن خرید.\n\n🔹دخترم از دانشگاه برمی‌گشت، تو اتوبان همت پشت فرمون ماشین خودش بود که از شیشه نیمه‌باز زدند تو صورتش و گوشی‌شو دزدیدند! واقعاً مردم کجا باید احساس امنیت کنند؟ مسئول امنیت ما کیه؟ تا کی باید با ترس زندگی کنیم؟\n\n🔹از تبریز: ۴۲ سال دارم، ۳ ماهه دنبال کار می‌گردم. دریغ از کار. اگر هم کاری باشد روزی باید ۱۵ ساعت سر کار باشی تا آخر ماه ۲۰ میلیون پول بگیری. با این وضع گرانی با ۲۰ میلیون من پول آب، برق، گاز، اجاره خانه، چی بدم؟ یخچال خالیه، شرمنده برادر مریضمم.\n\n🔹قهوه کیلویی ۶ میلیون تومن شده، تخم مرغ کیلویی ۲۷۰ هزار تومن، هزینه باشگاه بدنسازی شده ماهی ۱.۵ میلیون تومن.\n\n🔹از تهران: گرانی بیداد می‌کنه. امروز رفتم سوپرمارکت ۵ تا قلم جنس لبنیاتی کوچیک خریدم، شده ۲ میلیون و ۳۰۰ هزار تومان. همین اجناس رو تا ۶ ماه پیش با ۶۰۰ هزار تومن می‌خریدم. داریم له می‌شیم زیر بار گرانی.\n\n🔹روغن موتور پارس ۲۰ لیتری دو ماه قبل شش میلیون و ۵۰۰ هزار تومن بود امروز شده ۱۴ میلیون و ۵۰۰ هزار تومن. داریم به قله‌ها نزدیک می‌شیم.\n\n🔹ظاهراً هیچ شهروندی دیگه پیامک جریمه خودرو دریافت نمی‌کنه و بعد از مدتی که بنا به دلیلی مجبور به پرداخت خلافی ماشینت شدی، از مبلغش شوکه می‌شی، به‌خصوص با دوربین‌هایی که جدیداً نصب کردن و مثل دوربین‌های قبلی قابل تشخیص نیست.",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "08:19:33",
-      "gregorian_utc": "2026-10-14T04:49:33+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 172022,
-      "media_size_human": "167.99 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362183_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362183_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.546755+00:00"
+      "tehran_time": "10:27:10",
+      "gregorian_utc": "2026-10-14T06:57:10+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-14T07:50:33.001842+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941358+00:00"
+      "archived_at": "2026-10-14T07:50:33.346929+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122127_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122127_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378402+00:00"
+      "archived_at": "2026-10-14T07:50:33.665879+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200425+00:00"
+      "archived_at": "2026-10-14T07:50:32.667534+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362182,
-      "message_link": "https://t.me/IranintlTV/362182",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت واشینگتن به‌زودی درباره گام بعدی در قبال جمهوری اسلامی تصمیم می‌گیرد. او تاکید کرد تنگه هرمز کاملا تحت کنترل نیروهای آمریکایی است و جمهوری اسلامی توان هوایی، دریایی و پدافندی خود را از دست داده است. ترامپ همچنین گفت با پایان جنگ، قیمت حامل‌های انرژی کاهش خواهد یافت.\n@iranintltv",
+      "message_id": 362184,
+      "message_link": "https://t.me/IranintlTV/362184",
+      "text": "🔻در مسابقات کشتی فرنگی زیر ۲۳ سال قهرمانی ۲۰۲۶ جهان در شهر لاس‌وگاس آمریکا، ابوالفضل مهمدی با کسب مدال طلا بر سکوی نخست جهان ایستاد و محمد کمالی نیز صاحب گردن‌آویز برنز شد.\n\n🔹در دیدارهای فینال و رده‌بندی پنج وزن نخست که بامداد چهارشنبه برگزار شد، ابوالفضل مهمدی در وزن ۸۲ کیلوگرم در مبارزه پایانی با نتیجه ۲ بر ۱ مقابل مارتیک پتروسیان از ارمنستان به پیروزی رسید و نخستین مدال طلای ایران را به نام خود ثبت کرد. همچنین در وزن ۶۷ کیلوگرم، محمد کمالی در دیدار رده‌بندی به مصاف یوریک هوویان از ارمنستان رفت و با نتیجه ۶ بر صفر حریف خود را مغلوب کرد تا صاحب مدال برنز شود.\n\n🔹در پنج وزن دوم، عرفان جرکنی در ۶۳ و یاسین یزدی در ۸۷ کیلوگرم با شکست تمام رقبا به فینال رسیدند و برای مدال طلا به مصاف نمایندگان ژاپن و قزاقستان می‌روند. آرمین شمسی‌پور در ۵۵ و اهورا بویری در ۷۷ کیلوگرم با راهیابی حریفانشان به فینال، راهی گروه شانس مجدد شدند تا برای مدال برنز تلاش کنند. ابوالفضل فتحی‌تزنگی نیز در ۱۳۰ کیلوگرم از دور رقابت‌ها حذف شد.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "08:10:47",
-      "gregorian_utc": "2026-10-14T04:40:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7062226,
-      "media_size_human": "6.74 MB",
+      "tehran_time": "10:17:34",
+      "gregorian_utc": "2026-10-14T06:47:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 138326,
+      "media_size_human": "135.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362182_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362182_video.mp4",
+      "media_local_path": "media/IranintlTV_362184_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362184_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.546846+00:00"
+      "archived_at": "2026-10-14T07:50:33.001932+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76600_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76600_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941477+00:00"
+      "archived_at": "2026-10-14T07:50:33.346989+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_122126_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122126_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378461+00:00"
+      "archived_at": "2026-10-14T07:50:33.665906+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200467+00:00"
+      "archived_at": "2026-10-14T07:50:32.667561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362181,
-      "message_link": "https://t.me/IranintlTV/362181",
-      "text": "دونالد ترامپ، رییس‌جمهوری ایالات متحده، اعلام کرد اکتشاف گسترده نفت، گاز و مواد معدنی در گرینلند به‌زودی آغاز می‌شود. او در شبکه تروث سوشال نوشت ذخایر نفت قابل‌دسترس این جزیره از بسیاری از مناطق جهان بیشتر است.\n\nترامپ با تاکید بر «اهمیت راهبردی گرینلند»، نوشت این جزیره از نظر دفاعی و امنیتی برای آمریکا و اروپا جایگاهی بی‌نظیر دارد.\n\nرییس‌جمهوری آمریکا همچنین نوشت هر حمله آینده به آمریکا باید از مسیر گرینلند عبور کند و موقعیت جغرافیایی این جزیره امکان شناسایی و رهگیری پهپادها، موشک‌ها یا هر نوع سلاح دیگری را فراهم می‌کند.\nhttps://iranintl.com/202610141588",
+      "message_id": 362183,
+      "message_link": "https://t.me/IranintlTV/362183",
+      "text": "قوه قضاییه جمهوری اسلامی از اجرای حکم اعدام علی‌سینا مصطفوی، زندانی سیاسی، خبر داد.\n\nقوه قضاییه او را به دو مورد تیراندازی در کرمان، در فروردین و اردیبهشت ۱۴۰۵، متهم کرده بود. قوه قضاییه همچنین اعلام کرده که مصطفوی در جریان اعتراضات دی‌ماه ۱۴۰۴ نیز حضور داشته است.\n\nقوه قضاییه همچنین او را به ارسال تصاویر و ویدئوها برای شبکه‌های فارسی‌زبان خارج از کشور متهم کرده است.\n\nبر اساس گزارش‌های رسانه‌های حقوق بشری، از علی‌سینا مصطفوی اعترافات اجباری اخذ شده است. مصطفوی موزیسین و کوهنورد بود.\nhttps://iranintl.com/202610143788",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "08:02:16",
-      "gregorian_utc": "2026-10-14T04:32:16+00:00",
+      "tehran_time": "08:19:33",
+      "gregorian_utc": "2026-10-14T04:49:33+00:00",
       "media_type": "photo",
-      "media_size_bytes": 143192,
-      "media_size_human": "139.84 KB",
+      "media_size_bytes": 172022,
+      "media_size_human": "167.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362181_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362181_photo.jpg",
+      "media_local_path": "media/IranintlTV_362183_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362183_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.546960+00:00"
+      "archived_at": "2026-10-14T07:50:33.001983+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.941606+00:00"
+      "archived_at": "2026-10-14T07:50:33.347067+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:38.378492+00:00"
+      "archived_at": "2026-10-14T07:50:33.665919+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200496+00:00"
+      "archived_at": "2026-10-14T07:50:32.667576+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362180,
-      "message_link": "https://t.me/IranintlTV/362180",
-      "text": "نوید محبی، تحلیلگر سیاسی، می‌گوید جمهوری اسلامی و حوثی‌ها با تشدید تنش‌های منطقه‌ای تلاش می‌کنند بر واشینگتن و ریاض فشار وارد کنند. او با اشاره به احتمال تشدید درگیری‌ها گفت آمریکا و اسرائیل ممکن است ضربات بسیار سختی به جمهوری اسلامی وارد کنند.\n@iranintltv",
+      "message_id": 362182,
+      "message_link": "https://t.me/IranintlTV/362182",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت واشینگتن به‌زودی درباره گام بعدی در قبال جمهوری اسلامی تصمیم می‌گیرد. او تاکید کرد تنگه هرمز کاملا تحت کنترل نیروهای آمریکایی است و جمهوری اسلامی توان هوایی، دریایی و پدافندی خود را از دست داده است. ترامپ همچنین گفت با پایان جنگ، قیمت حامل‌های انرژی کاهش خواهد یافت.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "08:00:24",
-      "gregorian_utc": "2026-10-14T04:30:24+00:00",
+      "tehran_time": "08:10:47",
+      "gregorian_utc": "2026-10-14T04:40:47+00:00",
       "media_type": "video",
-      "media_size_bytes": 3601183,
-      "media_size_human": "3.43 MB",
+      "media_size_bytes": 7062226,
+      "media_size_human": "6.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362180_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362180_video.mp4",
+      "media_local_path": "media/IranintlTV_362182_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362182_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547041+00:00"
+      "archived_at": "2026-10-14T07:50:33.002058+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941885+00:00"
+      "archived_at": "2026-10-14T07:50:33.347142+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:38.378743+00:00"
+      "archived_at": "2026-10-14T07:50:33.666062+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200524+00:00"
+      "archived_at": "2026-10-14T07:50:32.667590+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362179,
-      "message_link": "https://t.me/IranintlTV/362179",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به استفاده فزاینده جمهوری اسلامی از نمادهای تاریخی و ملی ایران می‌گوید این تغییر در شرایطی رخ می‌دهد که ایدئولوژی انقلابی حکومت دیگر توان گذشته را برای بسیج نیروهایش ندارد.\n@iranintltv",
+      "message_id": 362181,
+      "message_link": "https://t.me/IranintlTV/362181",
+      "text": "دونالد ترامپ، رییس‌جمهوری ایالات متحده، اعلام کرد اکتشاف گسترده نفت، گاز و مواد معدنی در گرینلند به‌زودی آغاز می‌شود. او در شبکه تروث سوشال نوشت ذخایر نفت قابل‌دسترس این جزیره از بسیاری از مناطق جهان بیشتر است.\n\nترامپ با تاکید بر «اهمیت راهبردی گرینلند»، نوشت این جزیره از نظر دفاعی و امنیتی برای آمریکا و اروپا جایگاهی بی‌نظیر دارد.\n\nرییس‌جمهوری آمریکا همچنین نوشت هر حمله آینده به آمریکا باید از مسیر گرینلند عبور کند و موقعیت جغرافیایی این جزیره امکان شناسایی و رهگیری پهپادها، موشک‌ها یا هر نوع سلاح دیگری را فراهم می‌کند.\nhttps://iranintl.com/202610141588",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:49:25",
-      "gregorian_utc": "2026-10-14T04:19:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2570557,
-      "media_size_human": "2.45 MB",
+      "tehran_time": "08:02:16",
+      "gregorian_utc": "2026-10-14T04:32:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 143192,
+      "media_size_human": "139.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362179_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362179_video.mp4",
+      "media_local_path": "media/IranintlTV_362181_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362181_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547112+00:00"
+      "archived_at": "2026-10-14T07:50:33.002108+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76596_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76596_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.941933+00:00"
+      "archived_at": "2026-10-14T07:50:33.347161+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_122123_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122123_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378862+00:00"
+      "archived_at": "2026-10-14T07:50:33.666117+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200550+00:00"
+      "archived_at": "2026-10-14T07:50:32.667603+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362178,
-      "message_link": "https://t.me/IranintlTV/362178",
-      "text": "فیلم «خانه دوست اینجاست» روایتی از زندگی هنرمندان جوان ایرانی است که در سایه محدودیت‌های حکومتی به فعالیت خود ادامه می‌دهند.\n\nاین فیلم که نسخه آن مخفیانه از ایران خارج شده و جایزه‌ای از جشنواره ساندنس آمریکا دریافت کرده، در جشنواره فیلم لندن به نمایش درآمده است.\n\nتهمینه رستمی، خبرنگار ایران‌اینترنشنال، به داستان ساخت این فیلم و روایت سازندگان آن پرداخته است.\n\n@iranintltv",
+      "message_id": 362180,
+      "message_link": "https://t.me/IranintlTV/362180",
+      "text": "نوید محبی، تحلیلگر سیاسی، می‌گوید جمهوری اسلامی و حوثی‌ها با تشدید تنش‌های منطقه‌ای تلاش می‌کنند بر واشینگتن و ریاض فشار وارد کنند. او با اشاره به احتمال تشدید درگیری‌ها گفت آمریکا و اسرائیل ممکن است ضربات بسیار سختی به جمهوری اسلامی وارد کنند.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:41:39",
-      "gregorian_utc": "2026-10-14T04:11:39+00:00",
+      "tehran_time": "08:00:24",
+      "gregorian_utc": "2026-10-14T04:30:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 2140464,
-      "media_size_human": "2.04 MB",
+      "media_size_bytes": 3601183,
+      "media_size_human": "3.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362178_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362178_video.mp4",
+      "media_local_path": "media/IranintlTV_362180_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362180_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547193+00:00"
+      "archived_at": "2026-10-14T07:50:33.002141+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.941979+00:00"
+      "archived_at": "2026-10-14T07:50:33.347183+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_122122_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122122_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378914+00:00"
+      "archived_at": "2026-10-14T07:50:33.666138+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200576+00:00"
+      "archived_at": "2026-10-14T07:50:32.667616+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362177,
-      "message_link": "https://t.me/IranintlTV/362177",
-      "text": "مسعود نورمحمدی، پسرخاله ترانه و رومینا رحیمی، دو خواهر دوقلوی زندانی در اصفهان و از معترضان دی‌ماه، به ایران‌اینترنشنال گفت مسئولان زندان، ترانه را از دریافت غذا محروم کرده‌اند.\n\nبه گفته او، مسئولان زندان به ترانه گفته‌اند این اقدام در واکنش به اطلاع‌رسانی خانواده‌اش در خارج از ایران انجام شده است.\n\nترانه رحیمی به اعدام محکوم شده است.\n@iranintltv",
+      "message_id": 362179,
+      "message_link": "https://t.me/IranintlTV/362179",
+      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به استفاده فزاینده جمهوری اسلامی از نمادهای تاریخی و ملی ایران می‌گوید این تغییر در شرایطی رخ می‌دهد که ایدئولوژی انقلابی حکومت دیگر توان گذشته را برای بسیج نیروهایش ندارد.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:31:50",
-      "gregorian_utc": "2026-10-14T04:01:50+00:00",
+      "tehran_time": "07:49:25",
+      "gregorian_utc": "2026-10-14T04:19:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 4159491,
-      "media_size_human": "3.97 MB",
+      "media_size_bytes": 2570557,
+      "media_size_human": "2.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362177_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362177_video.mp4",
+      "media_local_path": "media/IranintlTV_362179_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547271+00:00"
+      "archived_at": "2026-10-14T07:50:33.002171+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76594_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76594_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.942021+00:00"
+      "archived_at": "2026-10-14T07:50:33.347200+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_122121_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122121_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:38.378958+00:00"
+      "archived_at": "2026-10-14T07:50:33.666157+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200605+00:00"
+      "archived_at": "2026-10-14T07:50:32.667628+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362176,
-      "message_link": "https://t.me/IranintlTV/362176",
-      "text": "سرخط خبرهای چهارشنبه ۲۲ مهر\n@iranintltv",
+      "message_id": 362178,
+      "message_link": "https://t.me/IranintlTV/362178",
+      "text": "فیلم «خانه دوست اینجاست» روایتی از زندگی هنرمندان جوان ایرانی است که در سایه محدودیت‌های حکومتی به فعالیت خود ادامه می‌دهند.\n\nاین فیلم که نسخه آن مخفیانه از ایران خارج شده و جایزه‌ای از جشنواره ساندنس آمریکا دریافت کرده، در جشنواره فیلم لندن به نمایش درآمده است.\n\nتهمینه رستمی، خبرنگار ایران‌اینترنشنال، به داستان ساخت این فیلم و روایت سازندگان آن پرداخته است.\n\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:29:25",
-      "gregorian_utc": "2026-10-14T03:59:25+00:00",
+      "tehran_time": "07:41:39",
+      "gregorian_utc": "2026-10-14T04:11:39+00:00",
       "media_type": "video",
-      "media_size_bytes": 969637,
-      "media_size_human": "946.91 KB",
+      "media_size_bytes": 2140464,
+      "media_size_human": "2.04 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362176_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362176_video.mp4",
+      "media_local_path": "media/IranintlTV_362178_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362178_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547318+00:00"
+      "archived_at": "2026-10-14T07:50:33.002208+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76592_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76592_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.942095+00:00"
+      "archived_at": "2026-10-14T07:50:33.347235+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:38.378986+00:00"
+      "archived_at": "2026-10-14T07:50:33.666170+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200632+00:00"
+      "archived_at": "2026-10-14T07:50:32.667641+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362175,
-      "message_link": "https://t.me/IranintlTV/362175",
-      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به بازسازی ساختار ترور در سپاه پاسداران و استفاده دوباره از چهره‌های قدیمی می‌گوید این روند از محدود شدن حلقه اعتماد در فرماندهی جمهوری اسلامی حکایت دارد.\n\nاو همچنین تاکید می‌کند که احیای این یگان‌ها نشان می‌دهد حکومت همچنان ترور مخالفان را ابزاری برای سرکوب و ایجاد ترس می‌داند.\n@iranintltv",
+      "message_id": 362177,
+      "message_link": "https://t.me/IranintlTV/362177",
+      "text": "مسعود نورمحمدی، پسرخاله ترانه و رومینا رحیمی، دو خواهر دوقلوی زندانی در اصفهان و از معترضان دی‌ماه، به ایران‌اینترنشنال گفت مسئولان زندان، ترانه را از دریافت غذا محروم کرده‌اند.\n\nبه گفته او، مسئولان زندان به ترانه گفته‌اند این اقدام در واکنش به اطلاع‌رسانی خانواده‌اش در خارج از ایران انجام شده است.\n\nترانه رحیمی به اعدام محکوم شده است.\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:26:50",
-      "gregorian_utc": "2026-10-14T03:56:50+00:00",
+      "tehran_time": "07:31:50",
+      "gregorian_utc": "2026-10-14T04:01:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 3555494,
-      "media_size_human": "3.39 MB",
+      "media_size_bytes": 4159491,
+      "media_size_human": "3.97 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362175_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362175_video.mp4",
+      "media_local_path": "media/IranintlTV_362177_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362177_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547386+00:00"
+      "archived_at": "2026-10-14T07:50:33.002243+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76589_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76589_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.942135+00:00"
+      "archived_at": "2026-10-14T07:50:33.347252+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:38.379012+00:00"
+      "archived_at": "2026-10-14T07:50:33.666182+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-14T07:40:37.200657+00:00"
+      "archived_at": "2026-10-14T07:50:32.667654+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 362174,
-      "message_link": "https://t.me/IranintlTV/362174",
-      "text": "واتیکان اعلام کرد پس از برداشتن بخشی از ریه راست پاپ لئو در جریان جراحی، ابتلای او به سرطان ریه تشخیص داده شده است.\n\nرویترز گزارش داد آزمایش‌ها نشان داده پاپ ۷۱ ساله به «آدنوکارسینوم ریه» مبتلاست. پاپ لئو سه‌شنبه پس از شناسایی یک توده در معاینه‌ای معمول، در بیمارستان جملی رم تحت جراحی قرار گرفت.\n\nپزشکان پاپ اعلام کردند این عمل حدود ۹۰ دقیقه طول کشید و بدون عارضه انجام شد. آنها برای حذف بافت‌های سرطانی، بخش تحتانی ریه راست او را برداشتند.\n\nاستیون لیو، متخصص سرطان ریه، به رویترز گفت هنوز مرحله سرطان مشخص نیست و برای تعیین روند درمان باید اندازه تومور و احتمال گسترش بیماری به غدد لنفاوی بررسی شود. به گفته او، اگر سرطان کوچک باشد و غدد لنفاوی درگیر نشده باشند، ممکن است جراحی برای درمان کافی باشد.\n\nواتیکان اعلام کرد پاپ پس از جراحی به‌طور طبیعی به هوش آمد و در بیمارستان استراحت می‌کند. انتظار می‌رود او حدود یک هفته بستری بماند و برنامه‌های عمومی‌اش تا ۲۰ اکتبر لغو شده است. هنوز مشخص نیست سفر او به آمریکای جنوبی در نوامبر انجام خواهد شد یا خیر.\nhttps://iranintl.com/202610142008",
+      "message_id": 362176,
+      "message_link": "https://t.me/IranintlTV/362176",
+      "text": "سرخط خبرهای چهارشنبه ۲۲ مهر\n@iranintltv",
       "shamsi_date": "1405/07/22",
-      "tehran_time": "07:24:46",
-      "gregorian_utc": "2026-10-14T03:54:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 144309,
-      "media_size_human": "140.93 KB",
+      "tehran_time": "07:29:25",
+      "gregorian_utc": "2026-10-14T03:59:25+00:00",
+      "media_type": "video",
+      "media_size_bytes": 969637,
+      "media_size_human": "946.91 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_362174_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362174_photo.jpg",
+      "media_local_path": "media/IranintlTV_362176_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_362176_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.547517+00:00"
+      "archived_at": "2026-10-14T07:50:33.002266+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76585_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76585_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-14T07:40:37.942295+00:00"
+      "archived_at": "2026-10-14T07:50:33.347324+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-14T07:40:38.379073+00:00"
+      "archived_at": "2026-10-14T07:50:33.666210+00:00"
     }
   ]
 }
