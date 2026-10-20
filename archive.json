@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T14:23:27.052335+00:00",
-  "shamsi_generated": "1405/07/28 14:23:27 تهران",
+  "generated_at": "2026-10-20T14:34:09.519197+00:00",
+  "shamsi_generated": "1405/07/28 14:34:09 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.391808+00:00"
+      "archived_at": "2026-10-20T14:30:50.390753+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363140,
-      "message_link": "https://t.me/IranintlTV/363140",
-      "text": "مسعود پزشکیان می‌گوید قرار بوده دولت ۱۲ میلیارد دلار بنزین وارد کند، اما تاکنون تنها دو تا سه میلیارد دلار صرف واردات بنزین شده و باقی آن صرفه‌جویی شده است. او همچنین از صرفه‌جویی ۱۰ میلیارد دلاری در بخش انرژی خبر داده و وعده داده است درآمد حاصل از گرانی بنزین به کالابرگ مردم اختصاص پیدا کند.\n\nاما این منابع چقدر به سفره مردم می‌رسد؟ مهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» این موضوع را بررسی می‌کند.\n@iranintltv",
+      "message_id": 363142,
+      "message_link": "https://t.me/IranintlTV/363142",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، سه‌شنبه ۲۸ مهر در ویدیویی که در ایکس منتشر کرد، به جمهوری اسلامی و حزب‌الله هشدار داد در صورت حمله به اسرائیل، «ضربه‌ای خواهید خورد که حتی تصورش را هم نکرده‌اید».\n\nاو همچنین گفت تا زمانی که نخست‌وزیر باشد، جمهوری اسلامی به سلاح هسته‌ای دست نخواهد یافت.\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:49:37",
-      "gregorian_utc": "2026-10-20T14:19:37+00:00",
+      "tehran_time": "17:58:03",
+      "gregorian_utc": "2026-10-20T14:28:03+00:00",
       "media_type": "video",
-      "media_size_bytes": 4893836,
-      "media_size_human": "4.67 MB",
+      "media_size_bytes": 619257,
+      "media_size_human": "604.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363140_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363140_video.mp4",
+      "media_local_path": "media/IranintlTV_363142_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363142_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.642829+00:00"
+      "archived_at": "2026-10-20T14:30:50.787767+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76659_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76659_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937359+00:00"
+      "archived_at": "2026-10-20T14:30:51.128001+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292441+00:00"
+      "archived_at": "2026-10-20T14:30:51.443834+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.391860+00:00"
+      "archived_at": "2026-10-20T14:30:50.390786+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363139,
-      "message_link": "https://t.me/IranintlTV/363139",
-      "text": "وزارت دفاع بریتانیا اعلام کرد نیروی هوایی سلطنتی این کشور در ماموریت‌های دفاعی برای مقابله با حملات حوثی‌ها مشارکت می‌کند. هم‌زمان، سخنگوی ائتلاف نظامی به رهبری عربستان سعودی از رهگیری و انهدام یک موشک بالستیک حوثی‌ها در مسیر ریاض خبر داد.\n\nجزییات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 363141,
+      "message_link": "https://t.me/IranintlTV/363141",
+      "text": "مسعود پزشکیان می‌گوید قرار بوده دولت ۱۲ میلیارد دلار بنزین وارد کند، اما تاکنون تنها دو تا سه میلیارد دلار صرف واردات بنزین شده و باقی آن صرفه‌جویی شده است. او همچنین از صرفه‌جویی ۱۰ میلیارد دلاری در بخش انرژی خبر داده و وعده داده است درآمد حاصل از گرانی بنزین به کالابرگ مردم اختصاص پیدا کند.\n\nاما این منابع چقدر به سفره مردم می‌رسد؟ \n\nمهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» این موضوع را بررسی می‌کند\n\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:41:08",
-      "gregorian_utc": "2026-10-20T14:11:08+00:00",
+      "tehran_time": "17:52:49",
+      "gregorian_utc": "2026-10-20T14:22:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 2626839,
-      "media_size_human": "2.51 MB",
+      "media_size_bytes": 4893836,
+      "media_size_human": "4.67 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363139_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363139_video.mp4",
+      "media_local_path": "media/IranintlTV_363141_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363141_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.642921+00:00"
+      "archived_at": "2026-10-20T14:30:50.787829+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76658_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76658_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937415+00:00"
+      "archived_at": "2026-10-20T14:30:51.128031+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_122368_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122368_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.292520+00:00"
+      "archived_at": "2026-10-20T14:30:51.443888+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.391897+00:00"
+      "archived_at": "2026-10-20T14:30:50.390805+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363138,
-      "message_link": "https://t.me/IranintlTV/363138",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | سه‌شنبه ۲۸ مهر\n@iranintlTV",
+      "message_id": 363139,
+      "message_link": "https://t.me/IranintlTV/363139",
+      "text": "وزارت دفاع بریتانیا اعلام کرد نیروی هوایی سلطنتی این کشور در ماموریت‌های دفاعی برای مقابله با حملات حوثی‌ها مشارکت می‌کند. هم‌زمان، سخنگوی ائتلاف نظامی به رهبری عربستان سعودی از رهگیری و انهدام یک موشک بالستیک حوثی‌ها در مسیر ریاض خبر داد.\n\nجزییات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:37:23",
-      "gregorian_utc": "2026-10-20T14:07:23+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30195549,
-      "media_size_human": "28.80 MB",
+      "tehran_time": "17:41:08",
+      "gregorian_utc": "2026-10-20T14:11:08+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2626839,
+      "media_size_human": "2.51 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363138_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363138_audio.mp3",
+      "media_local_path": "media/IranintlTV_363139_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363139_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652170+00:00"
+      "archived_at": "2026-10-20T14:30:50.787871+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76657_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76657_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937492+00:00"
+      "archived_at": "2026-10-20T14:30:51.128089+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_122367_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122367_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.292585+00:00"
+      "archived_at": "2026-10-20T14:30:51.443912+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.391940+00:00"
+      "archived_at": "2026-10-20T14:30:50.390827+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363137,
-      "message_link": "https://t.me/IranintlTV/363137",
-      "text": "بنیامین نتانیاهو به کانال ۱۴ اسرائیل گفت سرنگونی جمهوری اسلامی اکنون در دستور کار موساد و ارتش اسرائیل قرار دارد و افزود پس از وارد کردن «ضربه» به جمهوری اسلامی، دستور سرنگونی حکومت ایران را صادر کرده است.\n\nاو همچنین گفت ممکن است اسرائیل تا پیش از انتخابات نیاز به حمله داشته باشد و ایران و نیروهای نیابتی‌اش را به تلاش برای انجام حملاتی با هدف تاثیرگذاری بر انتخابات اسرائیل متهم کرد.\n\nنتانیاهو افزود دونالد ترامپ نیز با سرنگونی جمهوری اسلامی موافق است.\nhttps://iranintl.com/202610206134",
+      "message_id": 363138,
+      "message_link": "https://t.me/IranintlTV/363138",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | سه‌شنبه ۲۸ مهر\n@iranintlTV",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:33:12",
-      "gregorian_utc": "2026-10-20T14:03:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 210574,
-      "media_size_human": "205.64 KB",
+      "tehran_time": "17:37:23",
+      "gregorian_utc": "2026-10-20T14:07:23+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30195549,
+      "media_size_human": "28.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363137_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363137_photo.jpg",
+      "media_local_path": "media/IranintlTV_363138_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363138_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652325+00:00"
+      "archived_at": "2026-10-20T14:30:50.801325+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76656_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76656_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937557+00:00"
+      "archived_at": "2026-10-20T14:30:51.128121+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292668+00:00"
+      "archived_at": "2026-10-20T14:30:51.443953+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.391976+00:00"
+      "archived_at": "2026-10-20T14:30:50.390845+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363136,
-      "message_link": "https://t.me/IranintlTV/363136",
-      "text": "سرخط خبرهای سه‌شنبه ۲۸ مهر\n@iranintltv",
+      "message_id": 363137,
+      "message_link": "https://t.me/IranintlTV/363137",
+      "text": "بنیامین نتانیاهو به کانال ۱۴ اسرائیل گفت سرنگونی جمهوری اسلامی اکنون در دستور کار موساد و ارتش اسرائیل قرار دارد و افزود پس از وارد کردن «ضربه» به جمهوری اسلامی، دستور سرنگونی حکومت ایران را صادر کرده است.\n\nاو همچنین گفت ممکن است اسرائیل تا پیش از انتخابات نیاز به حمله داشته باشد و ایران و نیروهای نیابتی‌اش را به تلاش برای انجام حملاتی با هدف تاثیرگذاری بر انتخابات اسرائیل متهم کرد.\n\nنتانیاهو افزود دونالد ترامپ نیز با سرنگونی جمهوری اسلامی موافق است.\nhttps://iranintl.com/202610206134",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:24:50",
-      "gregorian_utc": "2026-10-20T13:54:50+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1130942,
-      "media_size_human": "1.08 MB",
+      "tehran_time": "17:33:12",
+      "gregorian_utc": "2026-10-20T14:03:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 210574,
+      "media_size_human": "205.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363136_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363136_video.mp4",
+      "media_local_path": "media/IranintlTV_363137_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363137_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652385+00:00"
+      "archived_at": "2026-10-20T14:30:50.801601+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.937656+00:00"
+      "archived_at": "2026-10-20T14:30:51.128153+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292699+00:00"
+      "archived_at": "2026-10-20T14:30:51.443968+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392013+00:00"
+      "archived_at": "2026-10-20T14:30:50.390864+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363135,
-      "message_link": "https://t.me/IranintlTV/363135",
-      "text": "وزارت خارجه جمهوری اسلامی اعلام کرد که پاکستان به دلیل مسائل فنی، گذرگاه‌های مرزی با ایران را از ابتدای هفته بسته است. در همین رابطه، گزارش‌های زیادی درباره وضعیت بحرانی در نقاط مرزی با پاکستان در رسانه‌های اجتماعی منتشر شده است.\n\nارزیابی معصومه طاهرخانی، تحلیل‌گر اقتصادی\n@iranintltv",
+      "message_id": 363136,
+      "message_link": "https://t.me/IranintlTV/363136",
+      "text": "سرخط خبرهای سه‌شنبه ۲۸ مهر\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:21:51",
-      "gregorian_utc": "2026-10-20T13:51:51+00:00",
+      "tehran_time": "17:24:50",
+      "gregorian_utc": "2026-10-20T13:54:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 4020227,
-      "media_size_human": "3.83 MB",
+      "media_size_bytes": 1130942,
+      "media_size_human": "1.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363135_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363135_video.mp4",
+      "media_local_path": "media/IranintlTV_363136_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363136_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652457+00:00"
+      "archived_at": "2026-10-20T14:30:50.801637+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76651_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76651_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937754+00:00"
+      "archived_at": "2026-10-20T14:30:51.128213+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292752+00:00"
+      "archived_at": "2026-10-20T14:30:51.443995+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392042+00:00"
+      "archived_at": "2026-10-20T14:30:50.390879+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363134,
-      "message_link": "https://t.me/IranintlTV/363134",
-      "text": "🔻زمان و مکان برگزاری نخستین دربی استقلال و پرسپولیس در لیگ برتر زنان تغییر یافت. این مسابقه از هفته پنجم لیگ برتر زنان که پیش‌تر قرار بود جمعه اول آبان برگزار شود، سرانجام به روز چهارشنبه ششم آبان‌ماه موکول شد و ورزشگاه قلعه‌حسن‌خان میزبانی از این جدال را بر عهده خواهد داشت.\n\n🔹دلیل این تعویق، مخالفت شورای تامین با میزبانی سرخ‌پوشان در ورزشگاه کاظمی و لزوم برپایی بازی در استادیومی مجهزتر عنوان شده است. \n\n🔹با توجه به ترافیک مسابقات تیم‌های مردان در ورزشگاه قلعه‌حسن‌خان، تقاضای تغییر زمان بازی مورد موافقت هر دو باشگاه قرار گرفت. \n\n🔹این دیدار در حالی برگزار خواهد شد که چالش‌های داوری و تدارکاتی آن همچنان خبرساز است. \n\n🔹در حالی که حضور موعود بنیادی‌فر به عنوان داور VAR نهایی شده، رسانه‌های ایران خبر دادند که مهناز ذکایی و بهاره سیفی به دلیل قضاوت در کشور هند ممکن است در تاریخ جدید در دسترس نباشند و سازمان لیگ باید درباره داوری تصمیم‌گیری کند.\n\n@iranintltvsport",
+      "message_id": 363135,
+      "message_link": "https://t.me/IranintlTV/363135",
+      "text": "وزارت خارجه جمهوری اسلامی اعلام کرد که پاکستان به دلیل مسائل فنی، گذرگاه‌های مرزی با ایران را از ابتدای هفته بسته است. در همین رابطه، گزارش‌های زیادی درباره وضعیت بحرانی در نقاط مرزی با پاکستان در رسانه‌های اجتماعی منتشر شده است.\n\nمعصومه طاهرخانی، تحلیل‌گر اقتصادی، گفت: «آمریکا بزرگ‌ترین بازار صادراتی پاکستان است و این کشور با بستن مرز خود با ایران، در راستای سیاست فشار آمریکا بر جمهوری اسلامی و حفظ منافع اقتصادی خود عمل می‌کند.»\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:17:30",
-      "gregorian_utc": "2026-10-20T13:47:30+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 153626,
-      "media_size_human": "150.03 KB",
+      "tehran_time": "17:21:51",
+      "gregorian_utc": "2026-10-20T13:51:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4020227,
+      "media_size_human": "3.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363134_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363134_photo.jpg",
+      "media_local_path": "media/IranintlTV_363135_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363135_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652679+00:00"
+      "archived_at": "2026-10-20T14:30:50.801686+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76650_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76650_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937797+00:00"
+      "archived_at": "2026-10-20T14:30:51.128233+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_122363_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122363_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.292793+00:00"
+      "archived_at": "2026-10-20T14:30:51.444014+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": "media/zedTV_15068_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15068_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.392128+00:00"
+      "archived_at": "2026-10-20T14:30:50.390947+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363132,
-      "message_link": "https://t.me/IranintlTV/363132",
-      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، سه‌شنبه ۲۸ مهر در منطقه صخیر با شیخ حمد بن عیسی آل خلیفه، پادشاه بحرین، دیدار کرد.\n\nبحرین بخشی از سفر منطقه‌ای مکرون به کشورهای خلیج فارس است که پیش‌تر شامل کویت و امارات متحده عربی بوده و قرار است با سفر به قطر در روز چهارشنبه پایان یابد. دفتر مکرون اعلام کرد او در دیدار با رهبران کشورهای خلیج فارس درباره وضعیت تنگه هرمز و تأثیر آن بر قیمت انرژی گفت‌وگو خواهد کرد.\n@iranintltv",
+      "message_id": 363134,
+      "message_link": "https://t.me/IranintlTV/363134",
+      "text": "🔻زمان و مکان برگزاری نخستین دربی استقلال و پرسپولیس در لیگ برتر زنان تغییر یافت. این مسابقه از هفته پنجم لیگ برتر زنان که پیش‌تر قرار بود جمعه اول آبان برگزار شود، سرانجام به روز چهارشنبه ششم آبان‌ماه موکول شد و ورزشگاه قلعه‌حسن‌خان میزبانی از این جدال را بر عهده خواهد داشت.\n\n🔹دلیل این تعویق، مخالفت شورای تامین با میزبانی سرخ‌پوشان در ورزشگاه کاظمی و لزوم برپایی بازی در استادیومی مجهزتر عنوان شده است. \n\n🔹با توجه به ترافیک مسابقات تیم‌های مردان در ورزشگاه قلعه‌حسن‌خان، تقاضای تغییر زمان بازی مورد موافقت هر دو باشگاه قرار گرفت. \n\n🔹این دیدار در حالی برگزار خواهد شد که چالش‌های داوری و تدارکاتی آن همچنان خبرساز است. \n\n🔹در حالی که حضور موعود بنیادی‌فر به عنوان داور VAR نهایی شده، رسانه‌های ایران خبر دادند که مهناز ذکایی و بهاره سیفی به دلیل قضاوت در کشور هند ممکن است در تاریخ جدید در دسترس نباشند و سازمان لیگ باید درباره داوری تصمیم‌گیری کند.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:07:34",
-      "gregorian_utc": "2026-10-20T13:37:34+00:00",
-      "media_type": "video",
-      "media_size_bytes": 361654,
-      "media_size_human": "353.18 KB",
+      "tehran_time": "17:17:30",
+      "gregorian_utc": "2026-10-20T13:47:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 153626,
+      "media_size_human": "150.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363132_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363132_video.mp4",
+      "media_local_path": "media/IranintlTV_363134_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363134_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652780+00:00"
+      "archived_at": "2026-10-20T14:30:50.801913+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76649_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76649_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937853+00:00"
+      "archived_at": "2026-10-20T14:30:51.128261+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292847+00:00"
+      "archived_at": "2026-10-20T14:30:51.444041+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": "media/zedTV_15067_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15067_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.392177+00:00"
+      "archived_at": "2026-10-20T14:30:50.390973+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363131,
-      "message_link": "https://t.me/IranintlTV/363131",
-      "text": "🔻در پایان دومین روز از بازی‌های پاراآسیایی ۲۰۲۶ ناگویا، ورزشکاران ایران با کسب ۳۰ مدال، شامل ۷ طلا، ۹ نقره و ۱۴ برنز، به رده پنجم جدول توزیع مدال‌ها صعود کرد.\n\n🔹فائزه احمدی در پاراتیراندازی، سامان پاکباز، عرفان بندری، امیرحسین علیپور، محمد صابر و یاسین خسروی در پارادوومیدانی و امیرمحمد حقیقت‌شناس در پاراتکواندو به مدال طلا رسیدند.\n\n🔹بهروز فرزاد در پارادوچرخه‌سواری، ساره جوانمردی در پاراتیراندازی، علی الفت‌نیا، مهدی اولاد، آتنا محمدی‌ها، هاجر صفرزاده، زینب مرادی و پرستو حبیبی در پارادوومیدانی و ابوالفضل ظریف در پاراشنا عنوان نایب‌قهرمانی را از آن خود کردند.\n\n🔹همچنین محمد دلیر در پارادوچرخه‌سواری، حسن جانفشان در پاراتنیس روی میز، مهدی برچلو و موسی غلامی در پاراجودو، محسن بختیار در پاراوزنه‌برداری، سینا ضیغمی‌نژاد، علی مطلبی و محمدحسین کریمی در پاراشنا، سعید صادقیان‌پور، مریم عبدالله‌پور و پریماه تورانی در پاراتکواندو و علیرضا مختاری، هاشمیه متقیان و رضا حاتمی در پارادوومیدانی روی سکوی سوم ایستادند.\n\n@iranintltvsport",
+      "message_id": 363132,
+      "message_link": "https://t.me/IranintlTV/363132",
+      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، سه‌شنبه ۲۸ مهر در منطقه صخیر با شیخ حمد بن عیسی آل خلیفه، پادشاه بحرین، دیدار کرد.\n\nبحرین بخشی از سفر منطقه‌ای مکرون به کشورهای خلیج فارس است که پیش‌تر شامل کویت و امارات متحده عربی بوده و قرار است با سفر به قطر در روز چهارشنبه پایان یابد. دفتر مکرون اعلام کرد او در دیدار با رهبران کشورهای خلیج فارس درباره وضعیت تنگه هرمز و تأثیر آن بر قیمت انرژی گفت‌وگو خواهد کرد.\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "17:00:33",
-      "gregorian_utc": "2026-10-20T13:30:33+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 193463,
-      "media_size_human": "188.93 KB",
+      "tehran_time": "17:07:34",
+      "gregorian_utc": "2026-10-20T13:37:34+00:00",
+      "media_type": "video",
+      "media_size_bytes": 361654,
+      "media_size_human": "353.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363131_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363131_photo.jpg",
+      "media_local_path": "media/IranintlTV_363132_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363132_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.652929+00:00"
+      "archived_at": "2026-10-20T14:30:50.802035+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76648_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937909+00:00"
+      "archived_at": "2026-10-20T14:30:51.128289+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292904+00:00"
+      "archived_at": "2026-10-20T14:30:51.444072+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392206+00:00"
+      "archived_at": "2026-10-20T14:30:50.390988+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363130,
-      "message_link": "https://t.me/IranintlTV/363130",
-      "text": "وزارت دفاع بریتانیا سه‌شنبه ۲۸ مهر اعلام کرد جنگنده‌های تایفون نیروی هوایی سلطنتی این کشور برای حفاظت از شهرها و زیرساخت‌های حیاتی عربستان سعودی در برابر حملات هوایی حوثی‌های مورد حمایت جمهوری اسلامی، ماموریت‌های دفاعی انجام خواهند داد.\n\nبه گزارش رویترز، این جنگنده‌ها تنها ماموریت دفاعی خواهند داشت و حملات تهاجمی علیه حوثی‌ها انجام نخواهند داد.\n\nوس استریتینگ، وزیر دفاع بریتانیا، حملات حوثی‌ها به عربستان سعودی را «کاملا نفرت‌انگیز» خواند و گفت هدف قرار گرفتن فرودگاه ریاض نشان‌دهنده تلاش حوثی‌ها برای تشدید تنش در منطقه است.\n\nوزارت دفاع بریتانیا همچنین اعلام کرد در پاسخ به درخواست دولت عربستان سعودی، یک هواپیمای ترابری اطلس A400M و مشاوران نظامی نیز اعزام خواهد کرد.\n\nبریتانیا در ماه سپتامبر نیز از پشتیبانی سوخت‌رسانی هوایی به عربستان سعودی با هواپیمای وویجر خبر داده بود، اما این کمک‌ها شامل اعزام جنگنده نمی‌شد.\nhttps://iranintl.com/202610202974",
+      "message_id": 363131,
+      "message_link": "https://t.me/IranintlTV/363131",
+      "text": "🔻در پایان دومین روز از بازی‌های پاراآسیایی ۲۰۲۶ ناگویا، ورزشکاران ایران با کسب ۳۰ مدال، شامل ۷ طلا، ۹ نقره و ۱۴ برنز، به رده پنجم جدول توزیع مدال‌ها صعود کرد.\n\n🔹فائزه احمدی در پاراتیراندازی، سامان پاکباز، عرفان بندری، امیرحسین علیپور، محمد صابر و یاسین خسروی در پارادوومیدانی و امیرمحمد حقیقت‌شناس در پاراتکواندو به مدال طلا رسیدند.\n\n🔹بهروز فرزاد در پارادوچرخه‌سواری، ساره جوانمردی در پاراتیراندازی، علی الفت‌نیا، مهدی اولاد، آتنا محمدی‌ها، هاجر صفرزاده، زینب مرادی و پرستو حبیبی در پارادوومیدانی و ابوالفضل ظریف در پاراشنا عنوان نایب‌قهرمانی را از آن خود کردند.\n\n🔹همچنین محمد دلیر در پارادوچرخه‌سواری، حسن جانفشان در پاراتنیس روی میز، مهدی برچلو و موسی غلامی در پاراجودو، محسن بختیار در پاراوزنه‌برداری، سینا ضیغمی‌نژاد، علی مطلبی و محمدحسین کریمی در پاراشنا، سعید صادقیان‌پور، مریم عبدالله‌پور و پریماه تورانی در پاراتکواندو و علیرضا مختاری، هاشمیه متقیان و رضا حاتمی در پارادوومیدانی روی سکوی سوم ایستادند.\n\n@iranintltvsport",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:59:15",
-      "gregorian_utc": "2026-10-20T13:29:15+00:00",
+      "tehran_time": "17:00:33",
+      "gregorian_utc": "2026-10-20T13:30:33+00:00",
       "media_type": "photo",
-      "media_size_bytes": 133816,
-      "media_size_human": "130.68 KB",
+      "media_size_bytes": 193463,
+      "media_size_human": "188.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363130_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363130_photo.jpg",
+      "media_local_path": "media/IranintlTV_363131_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363131_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653054+00:00"
+      "archived_at": "2026-10-20T14:30:50.802310+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76647_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76647_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.937969+00:00"
+      "archived_at": "2026-10-20T14:30:51.128318+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:36.292959+00:00"
+      "archived_at": "2026-10-20T14:30:51.444098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": "media/zedTV_15065_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15065_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.392249+00:00"
+      "archived_at": "2026-10-20T14:30:50.391009+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363129,
-      "message_link": "https://t.me/IranintlTV/363129",
-      "text": "در فاصله یک هفته تا انتخابات پارلمانی اسرائیل، بنی گانتس، وزیر دفاع پیشین اسرائیل و رهبر حزب آبی‌وسفید، از ادامه رقابت در این انتخابات کناره‌گیری کرد.\n\nارزیابی بهروز یوسیان، افسر سابق ارتش اسرائیل و محقق امور خاورمیانه در پژوهشکده امنیت ملی\n\n@iranintltv",
+      "message_id": 363130,
+      "message_link": "https://t.me/IranintlTV/363130",
+      "text": "وزارت دفاع بریتانیا سه‌شنبه ۲۸ مهر اعلام کرد جنگنده‌های تایفون نیروی هوایی سلطنتی این کشور برای حفاظت از شهرها و زیرساخت‌های حیاتی عربستان سعودی در برابر حملات هوایی حوثی‌های مورد حمایت جمهوری اسلامی، ماموریت‌های دفاعی انجام خواهند داد.\n\nبه گزارش رویترز، این جنگنده‌ها تنها ماموریت دفاعی خواهند داشت و حملات تهاجمی علیه حوثی‌ها انجام نخواهند داد.\n\nوس استریتینگ، وزیر دفاع بریتانیا، حملات حوثی‌ها به عربستان سعودی را «کاملا نفرت‌انگیز» خواند و گفت هدف قرار گرفتن فرودگاه ریاض نشان‌دهنده تلاش حوثی‌ها برای تشدید تنش در منطقه است.\n\nوزارت دفاع بریتانیا همچنین اعلام کرد در پاسخ به درخواست دولت عربستان سعودی، یک هواپیمای ترابری اطلس A400M و مشاوران نظامی نیز اعزام خواهد کرد.\n\nبریتانیا در ماه سپتامبر نیز از پشتیبانی سوخت‌رسانی هوایی به عربستان سعودی با هواپیمای وویجر خبر داده بود، اما این کمک‌ها شامل اعزام جنگنده نمی‌شد.\nhttps://iranintl.com/202610202974",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:40:51",
-      "gregorian_utc": "2026-10-20T13:10:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2471524,
-      "media_size_human": "2.36 MB",
+      "tehran_time": "16:59:15",
+      "gregorian_utc": "2026-10-20T13:29:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 133816,
+      "media_size_human": "130.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363129_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363129_video.mp4",
+      "media_local_path": "media/IranintlTV_363130_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363130_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653123+00:00"
+      "archived_at": "2026-10-20T14:30:50.802431+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76646_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76646_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.938022+00:00"
+      "archived_at": "2026-10-20T14:30:51.128344+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_122359_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122359_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.292998+00:00"
+      "archived_at": "2026-10-20T14:30:51.444117+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": "media/zedTV_15064_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15064_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.392290+00:00"
+      "archived_at": "2026-10-20T14:30:50.391031+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363128,
-      "message_link": "https://t.me/IranintlTV/363128",
-      "text": "یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید: «فشار اقتصادی در ایران به قدری است که صبر مردم در حال لبریز شدن است.»",
+      "message_id": 363129,
+      "message_link": "https://t.me/IranintlTV/363129",
+      "text": "در فاصله یک هفته تا انتخابات پارلمانی اسرائیل، بنی گانتس، وزیر دفاع پیشین اسرائیل و رهبر حزب آبی‌وسفید، از ادامه رقابت در این انتخابات کناره‌گیری کرد.\n\nارزیابی بهروز یوسیان، افسر سابق ارتش اسرائیل و محقق امور خاورمیانه در پژوهشکده امنیت ملی\n\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:32:53",
-      "gregorian_utc": "2026-10-20T13:02:53+00:00",
+      "tehran_time": "16:40:51",
+      "gregorian_utc": "2026-10-20T13:10:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 7364905,
-      "media_size_human": "7.02 MB",
+      "media_size_bytes": 2471524,
+      "media_size_human": "2.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363128_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363128_video.mp4",
+      "media_local_path": "media/IranintlTV_363129_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363129_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653163+00:00"
+      "archived_at": "2026-10-20T14:30:50.802498+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-20T14:20:35.938099+00:00"
+      "archived_at": "2026-10-20T14:30:51.128385+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 127.94 MB)",
-      "archived_at": "2026-10-20T14:20:36.293064+00:00"
+      "archived_at": "2026-10-20T14:30:51.444155+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392318+00:00"
+      "archived_at": "2026-10-20T14:30:50.391045+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363127,
-      "message_link": "https://t.me/IranintlTV/363127",
-      "text": "خبرگزاری رویترز به نقل از سه مقام ارشد ایرانی گزارش داد جمهوری اسلامی عمدا روند مذاکرات با آمریکا را طولانی کرده تا با افزایش فشار سیاسی بر دونالد ترامپ، بر انتخابات میان‌دوره‌ای کنگره آمریکا تاثیر بگذارد.\n\nجزییات بیشتر در گفت‌وگو با مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 363128,
+      "message_link": "https://t.me/IranintlTV/363128",
+      "text": "یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید: «فشار اقتصادی در ایران به قدری است که صبر مردم در حال لبریز شدن است.»",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:30:12",
-      "gregorian_utc": "2026-10-20T13:00:12+00:00",
+      "tehran_time": "16:32:53",
+      "gregorian_utc": "2026-10-20T13:02:53+00:00",
       "media_type": "video",
-      "media_size_bytes": 2561316,
-      "media_size_human": "2.44 MB",
+      "media_size_bytes": 7364905,
+      "media_size_human": "7.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363127_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363127_video.mp4",
+      "media_local_path": "media/IranintlTV_363128_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363128_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653229+00:00"
+      "archived_at": "2026-10-20T14:30:50.802517+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76640_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76640_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.938154+00:00"
+      "archived_at": "2026-10-20T14:30:51.128409+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_122357_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122357_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.293110+00:00"
+      "archived_at": "2026-10-20T14:30:51.444193+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392358+00:00"
+      "archived_at": "2026-10-20T14:30:50.391060+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363125,
-      "message_link": "https://t.me/IranintlTV/363125",
-      "text": "در فاصله یک هفته تا انتخابات اسرائیل، بنیامین نتانیاهو بر عزم مشترک دولت خود و دونالد ترامپ برای مقابله با جمهوری اسلامی تاکید کرد. او با هشدار به تهران و حزب‌الله گفت اسرائیل و آمریکا حکومت آیت‌الله‌ها را نابود خواهند کرد.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+      "message_id": 363127,
+      "message_link": "https://t.me/IranintlTV/363127",
+      "text": "خبرگزاری رویترز به نقل از سه مقام ارشد ایرانی گزارش داد جمهوری اسلامی عمدا روند مذاکرات با آمریکا را طولانی کرده تا با افزایش فشار سیاسی بر دونالد ترامپ، بر انتخابات میان‌دوره‌ای کنگره آمریکا تاثیر بگذارد.\n\nجزییات بیشتر در گفت‌وگو با مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:24:25",
-      "gregorian_utc": "2026-10-20T12:54:25+00:00",
+      "tehran_time": "16:30:12",
+      "gregorian_utc": "2026-10-20T13:00:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 2073937,
-      "media_size_human": "1.98 MB",
+      "media_size_bytes": 2561316,
+      "media_size_human": "2.44 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363125_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363125_video.mp4",
+      "media_local_path": "media/IranintlTV_363127_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363127_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653295+00:00"
+      "archived_at": "2026-10-20T14:30:50.802633+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76639_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76639_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.938212+00:00"
+      "archived_at": "2026-10-20T14:30:51.128436+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_122356_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122356_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.293149+00:00"
+      "archived_at": "2026-10-20T14:30:51.444212+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-20T14:20:35.392385+00:00"
+      "archived_at": "2026-10-20T14:30:50.391072+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363124,
-      "message_link": "https://t.me/IranintlTV/363124",
-      "text": "رسانه حقوق بشری حال‌وش سه‌شنبه ۲۸ مهر با انتشار ویدیویی از استقرار نیروهای نظامی و امنیتی، خودروهای زرهی و یک هلیکوپتر نظامی در شهرستان مرزی گلشن در سیستان و بلوچستان خبر داد.\n\nبه گفته حال‌وش، هلیکوپتر در منطقه فرود آمده است. علت و مدت استقرار نیروهای نظامی هنوز مشخص نیست.\n@iranintltv",
+      "message_id": 363125,
+      "message_link": "https://t.me/IranintlTV/363125",
+      "text": "در فاصله یک هفته تا انتخابات اسرائیل، بنیامین نتانیاهو بر عزم مشترک دولت خود و دونالد ترامپ برای مقابله با جمهوری اسلامی تاکید کرد. او با هشدار به تهران و حزب‌الله گفت اسرائیل و آمریکا حکومت آیت‌الله‌ها را نابود خواهند کرد.\n\nبابک اسحاقی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/07/28",
-      "tehran_time": "16:24:20",
-      "gregorian_utc": "2026-10-20T12:54:20+00:00",
+      "tehran_time": "16:24:25",
+      "gregorian_utc": "2026-10-20T12:54:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 281879,
-      "media_size_human": "275.27 KB",
+      "media_size_bytes": 2073937,
+      "media_size_human": "1.98 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363124_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363124_video.mp4",
+      "media_local_path": "media/IranintlTV_363125_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363125_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.653362+00:00"
+      "archived_at": "2026-10-20T14:30:50.802685+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76635_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76635_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:35.938651+00:00"
+      "archived_at": "2026-10-20T14:30:51.128665+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_122355_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122355_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-20T14:20:36.293219+00:00"
+      "archived_at": "2026-10-20T14:30:51.444247+00:00"
     }
   ]
 }
