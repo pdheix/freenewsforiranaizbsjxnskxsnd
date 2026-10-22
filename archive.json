@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T01:44:58.602882+00:00",
-  "shamsi_generated": "1405/07/30 01:44:58 تهران",
+  "generated_at": "2026-10-22T01:51:46.530039+00:00",
+  "shamsi_generated": "1405/07/30 01:51:46 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696049+00:00"
+      "archived_at": "2026-10-22T01:50:31.424415+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_363365_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363365_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016239+00:00"
+      "archived_at": "2026-10-22T01:50:31.745103+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,25 +73,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-22T01:43:41.320397+00:00"
+      "archived_at": "2026-10-22T01:50:32.022518+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122436,
-      "message_link": "https://t.me/Mellig/122436",
-      "text": "[بی بی نتانیاهو مجتبی خامنه ای را تهدید کرد، احتمال قطع اینترنت با آغاز جنگ تاریخ ۲۹ مهر ۲۵۸۵](https://www.youtube.com/live/gK8npjCI1iI?si=pwMObdno9VjkmV5F)\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.77 MB)",
+      "message_id": 122437,
+      "message_link": "https://t.me/Mellig/122437",
+      "text": "بنیامین نتانیاهو روز گذشته در مراسم فارغ‌التحصیلی افسران ارتش اسرائیل گفت: «تنها یک راه برای رفع این تهدید، یک بار برای همیشه، وجود دارد: سرنگونی رژیم در ایران.» و بلافاصله افزود این دستور او به ارتش، موساد و نهادهای امنیتی است.",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "05:08:39",
-      "gregorian_utc": "2026-10-22T01:38:39+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 140272837,
-      "media_size_human": "133.77 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.77 MB)",
-      "archived_at": "2026-10-22T01:43:41.708577+00:00"
+      "tehran_time": "05:14:11",
+      "gregorian_utc": "2026-10-22T01:44:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7526901,
+      "media_size_human": "7.18 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122437_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122437_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-22T01:50:32.389929+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696104+00:00"
+      "archived_at": "2026-10-22T01:50:31.424475+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_363364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016429+00:00"
+      "archived_at": "2026-10-22T01:50:31.745272+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,25 +145,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.320451+00:00"
+      "archived_at": "2026-10-22T01:50:32.022573+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122435,
-      "message_link": "https://t.me/Mellig/122435",
-      "text": "🔺 نرخ بلیت قطار از اول آبان ۲۰ درصد گران‌تر می‌‌شود",
+      "message_id": 122436,
+      "message_link": "https://t.me/Mellig/122436",
+      "text": "[بی بی نتانیاهو مجتبی خامنه ای را تهدید کرد، احتمال قطع اینترنت با آغاز جنگ تاریخ ۲۹ مهر ۲۵۸۵](https://www.youtube.com/live/gK8npjCI1iI?si=pwMObdno9VjkmV5F)\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.77 MB)",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "03:46:26",
-      "gregorian_utc": "2026-10-22T00:16:26+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
+      "tehran_time": "05:08:39",
+      "gregorian_utc": "2026-10-22T01:38:39+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 140272837,
+      "media_size_human": "133.77 MB",
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.708618+00:00"
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.77 MB)",
+      "archived_at": "2026-10-22T01:50:32.390022+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696146+00:00"
+      "archived_at": "2026-10-22T01:50:31.424539+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_363362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016534+00:00"
+      "archived_at": "2026-10-22T01:50:31.745373+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,25 +217,25 @@
       "media_local_path": "media/satlastnews_76664_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76664_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320535+00:00"
+      "archived_at": "2026-10-22T01:50:32.022656+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122434,
-      "message_link": "https://t.me/Mellig/122434",
-      "text": "🇺🇸 آیا معاون رئیس‌جمهور، جی‌دی ونس، را جانشین خود در سال ۲۰۲۸ می‌دانید؟\n\nرئیس‌جمهور ترامپ: «نه»",
+      "message_id": 122435,
+      "message_link": "https://t.me/Mellig/122435",
+      "text": "🔺 نرخ بلیت قطار از اول آبان ۲۰ درصد گران‌تر می‌‌شود",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "03:10:03",
-      "gregorian_utc": "2026-10-21T23:40:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 965762,
-      "media_size_human": "943.13 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122434_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122434_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.708664+00:00"
+      "tehran_time": "03:46:26",
+      "gregorian_utc": "2026-10-22T00:16:26+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-22T01:50:32.390059+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696189+00:00"
+      "archived_at": "2026-10-22T01:50:31.424581+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_363361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016670+00:00"
+      "archived_at": "2026-10-22T01:50:31.745530+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,25 +289,25 @@
       "media_local_path": "media/satlastnews_76662_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76662_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320604+00:00"
+      "archived_at": "2026-10-22T01:50:32.022725+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122433,
-      "message_link": "https://t.me/Mellig/122433",
-      "text": "Happy birthday BiBi Joon ❤️ 🥳 🎈💙",
+      "message_id": 122434,
+      "message_link": "https://t.me/Mellig/122434",
+      "text": "🇺🇸 آیا معاون رئیس‌جمهور، جی‌دی ونس، را جانشین خود در سال ۲۰۲۸ می‌دانید؟\n\nرئیس‌جمهور ترامپ: «نه»",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "02:48:27",
-      "gregorian_utc": "2026-10-21T23:18:27+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 357225,
-      "media_size_human": "348.85 KB",
+      "tehran_time": "03:10:03",
+      "gregorian_utc": "2026-10-21T23:40:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 965762,
+      "media_size_human": "943.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122433_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122433_photo.jpg",
+      "media_local_path": "media/Mellig_122434_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122434_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.708738+00:00"
+      "archived_at": "2026-10-22T01:50:32.390100+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696220+00:00"
+      "archived_at": "2026-10-22T01:50:31.424614+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_363360_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363360_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016805+00:00"
+      "archived_at": "2026-10-22T01:50:31.745668+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,25 +361,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.320672+00:00"
+      "archived_at": "2026-10-22T01:50:32.022794+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122432,
-      "message_link": "https://t.me/Mellig/122432",
-      "text": "",
+      "message_id": 122433,
+      "message_link": "https://t.me/Mellig/122433",
+      "text": "Happy birthday BiBi Joon ❤️ 🥳 🎈💙",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "02:43:02",
-      "gregorian_utc": "2026-10-21T23:13:02+00:00",
+      "tehran_time": "02:48:27",
+      "gregorian_utc": "2026-10-21T23:18:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 70849,
-      "media_size_human": "69.19 KB",
+      "media_size_bytes": 357225,
+      "media_size_human": "348.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122432_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122432_photo.jpg",
+      "media_local_path": "media/Mellig_122433_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122433_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.708784+00:00"
+      "archived_at": "2026-10-22T01:50:32.390173+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696257+00:00"
+      "archived_at": "2026-10-22T01:50:31.424651+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_363359_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363359_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.016913+00:00"
+      "archived_at": "2026-10-22T01:50:31.745775+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,25 +433,25 @@
       "media_local_path": "media/satlastnews_76659_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76659_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320717+00:00"
+      "archived_at": "2026-10-22T01:50:32.022840+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122431,
-      "message_link": "https://t.me/Mellig/122431",
-      "text": "🚨**تخلیه پایگاه هوایی العدید در  جریانه**",
+      "message_id": 122432,
+      "message_link": "https://t.me/Mellig/122432",
+      "text": "",
       "shamsi_date": "1405/07/30",
       "tehran_time": "02:43:02",
       "gregorian_utc": "2026-10-21T23:13:02+00:00",
       "media_type": "photo",
-      "media_size_bytes": 74348,
-      "media_size_human": "72.61 KB",
+      "media_size_bytes": 70849,
+      "media_size_human": "69.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122431_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122431_photo.jpg",
+      "media_local_path": "media/Mellig_122432_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122432_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.708844+00:00"
+      "archived_at": "2026-10-22T01:50:32.390218+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696325+00:00"
+      "archived_at": "2026-10-22T01:50:31.424681+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_363358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.017026+00:00"
+      "archived_at": "2026-10-22T01:50:31.745893+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,25 +505,25 @@
       "media_local_path": "media/satlastnews_76658_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76658_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320756+00:00"
+      "archived_at": "2026-10-22T01:50:32.022880+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122430,
-      "message_link": "https://t.me/Mellig/122430",
-      "text": "🔴 #خبر_فوری\nمقامات ارشد دولت ترامپ به هاآرتص:\nدر ساعات اخیر ترامپ به حمایت از حمله قریب‌الوقوع اسرائیل به ایران متمایل شده است.",
+      "message_id": 122431,
+      "message_link": "https://t.me/Mellig/122431",
+      "text": "🚨**تخلیه پایگاه هوایی العدید در  جریانه**",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "02:37:20",
-      "gregorian_utc": "2026-10-21T23:07:20+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.708899+00:00"
+      "tehran_time": "02:43:02",
+      "gregorian_utc": "2026-10-21T23:13:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 74348,
+      "media_size_human": "72.61 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122431_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122431_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-22T01:50:32.390277+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696371+00:00"
+      "archived_at": "2026-10-22T01:50:31.424724+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_363357_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363357_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027188+00:00"
+      "archived_at": "2026-10-22T01:50:31.747788+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,17 +577,17 @@
       "media_local_path": "media/satlastnews_76657_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76657_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320810+00:00"
+      "archived_at": "2026-10-22T01:50:32.022937+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122429,
-      "message_link": "https://t.me/Mellig/122429",
-      "text": "🔴 #خبر_فوری\nهم اکنون گزارش های محلی تأیید نشده از حمله هوایی آمریکا به یک سامانه موشکی دیگر ایران در شهرستان سیریک.",
+      "message_id": 122430,
+      "message_link": "https://t.me/Mellig/122430",
+      "text": "🔴 #خبر_فوری\nمقامات ارشد دولت ترامپ به هاآرتص:\nدر ساعات اخیر ترامپ به حمایت از حمله قریب‌الوقوع اسرائیل به ایران متمایل شده است.",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "02:15:21",
-      "gregorian_utc": "2026-10-21T22:45:21+00:00",
+      "tehran_time": "02:37:20",
+      "gregorian_utc": "2026-10-21T23:07:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.708949+00:00"
+      "archived_at": "2026-10-22T01:50:32.390334+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696401+00:00"
+      "archived_at": "2026-10-22T01:50:31.424754+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_363356_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363356_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027380+00:00"
+      "archived_at": "2026-10-22T01:50:31.747941+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,17 +649,17 @@
       "media_local_path": "media/satlastnews_76656_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76656_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.320867+00:00"
+      "archived_at": "2026-10-22T01:50:32.022994+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122428,
-      "message_link": "https://t.me/Mellig/122428",
-      "text": "🔴صدای پرواز جنگنده‌های اسرائیلی بر فراز شهر اربیل، مرکز اقلیم کردستان عراق، شنیده شد",
+      "message_id": 122429,
+      "message_link": "https://t.me/Mellig/122429",
+      "text": "🔴 #خبر_فوری\nهم اکنون گزارش های محلی تأیید نشده از حمله هوایی آمریکا به یک سامانه موشکی دیگر ایران در شهرستان سیریک.",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "02:05:06",
-      "gregorian_utc": "2026-10-21T22:35:06+00:00",
+      "tehran_time": "02:15:21",
+      "gregorian_utc": "2026-10-21T22:45:21+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.708983+00:00"
+      "archived_at": "2026-10-22T01:50:32.390384+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696429+00:00"
+      "archived_at": "2026-10-22T01:50:31.424782+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_363355_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363355_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027489+00:00"
+      "archived_at": "2026-10-22T01:50:31.748045+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,17 +721,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.320921+00:00"
+      "archived_at": "2026-10-22T01:50:32.023049+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122427,
-      "message_link": "https://t.me/Mellig/122427",
-      "text": "🔴 شلیک چند موشک کروز سپاه از سیریک به سمت تنگه هرمز\n\nگزارش‌ها از شلیک چند موشک کروز سپاه پاسداران از منطقه سیریک در استان هرمزگان به سمت تنگه هرمز حکایت دارند.",
+      "message_id": 122428,
+      "message_link": "https://t.me/Mellig/122428",
+      "text": "🔴صدای پرواز جنگنده‌های اسرائیلی بر فراز شهر اربیل، مرکز اقلیم کردستان عراق، شنیده شد",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "01:46:40",
-      "gregorian_utc": "2026-10-21T22:16:40+00:00",
+      "tehran_time": "02:05:06",
+      "gregorian_utc": "2026-10-21T22:35:06+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.709010+00:00"
+      "archived_at": "2026-10-22T01:50:32.390414+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696455+00:00"
+      "archived_at": "2026-10-22T01:50:31.424807+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_363354_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363354_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027576+00:00"
+      "archived_at": "2026-10-22T01:50:31.748130+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,25 +793,25 @@
       "media_local_path": "media/satlastnews_76651_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76651_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.321012+00:00"
+      "archived_at": "2026-10-22T01:50:32.023151+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122426,
-      "message_link": "https://t.me/Mellig/122426",
-      "text": "لحظاتی از قهوه‌ای شدن ثابتی در صداوسیما 🤣\n\nMellig.net",
+      "message_id": 122427,
+      "message_link": "https://t.me/Mellig/122427",
+      "text": "🔴 شلیک چند موشک کروز سپاه از سیریک به سمت تنگه هرمز\n\nگزارش‌ها از شلیک چند موشک کروز سپاه پاسداران از منطقه سیریک در استان هرمزگان به سمت تنگه هرمز حکایت دارند.",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "01:23:37",
-      "gregorian_utc": "2026-10-21T21:53:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2064009,
-      "media_size_human": "1.97 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122426_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122426_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.709061+00:00"
+      "tehran_time": "01:46:40",
+      "gregorian_utc": "2026-10-21T22:16:40+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-22T01:50:32.390440+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696480+00:00"
+      "archived_at": "2026-10-22T01:50:31.424833+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_363353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027675+00:00"
+      "archived_at": "2026-10-22T01:50:31.748230+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,25 +865,25 @@
       "media_local_path": "media/satlastnews_76650_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76650_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.321052+00:00"
+      "archived_at": "2026-10-22T01:50:32.023192+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122425,
-      "message_link": "https://t.me/Mellig/122425",
-      "text": "🚨**یک جنگنده اسرائیلی در حدود 16 کیلومتری مرز ایران در حال پرواز است.**",
+      "message_id": 122426,
+      "message_link": "https://t.me/Mellig/122426",
+      "text": "لحظاتی از قهوه‌ای شدن ثابتی در صداوسیما 🤣\n\nMellig.net",
       "shamsi_date": "1405/07/30",
-      "tehran_time": "01:14:25",
-      "gregorian_utc": "2026-10-21T21:44:25+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 145679,
-      "media_size_human": "142.26 KB",
+      "tehran_time": "01:23:37",
+      "gregorian_utc": "2026-10-21T21:53:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2064009,
+      "media_size_human": "1.97 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122425_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122425_photo.jpg",
+      "media_local_path": "media/Mellig_122426_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122426_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.709123+00:00"
+      "archived_at": "2026-10-22T01:50:32.390522+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696505+00:00"
+      "archived_at": "2026-10-22T01:50:31.424858+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_363352_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363352_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027748+00:00"
+      "archived_at": "2026-10-22T01:50:31.748305+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,25 +937,25 @@
       "media_local_path": "media/satlastnews_76649_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76649_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.321104+00:00"
+      "archived_at": "2026-10-22T01:50:32.023245+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122423,
-      "message_link": "https://t.me/Mellig/122423",
-      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
-      "shamsi_date": "1405/07/29",
-      "tehran_time": "22:36:09",
-      "gregorian_utc": "2026-10-21T19:06:09+00:00",
-      "media_type": "webpage",
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-22T01:43:41.709185+00:00"
+      "message_id": 122425,
+      "message_link": "https://t.me/Mellig/122425",
+      "text": "🚨**یک جنگنده اسرائیلی در حدود 16 کیلومتری مرز ایران در حال پرواز است.**",
+      "shamsi_date": "1405/07/30",
+      "tehran_time": "01:14:25",
+      "gregorian_utc": "2026-10-21T21:44:25+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 145679,
+      "media_size_human": "142.26 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122425_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122425_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-22T01:50:32.390591+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696535+00:00"
+      "archived_at": "2026-10-22T01:50:31.424891+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_363351_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363351_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027819+00:00"
+      "archived_at": "2026-10-22T01:50:31.748376+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,25 +1009,25 @@
       "media_local_path": "media/satlastnews_76648_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.321159+00:00"
+      "archived_at": "2026-10-22T01:50:32.023301+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122422,
-      "message_link": "https://t.me/Mellig/122422",
-      "text": "سلام درود مبارز جان \nادعای قطع اینترنت با آغاز جنگ جدید\n\nرسانه اقتصادی زومان:\n◽️بر اساس اطلاعات دریافتی، نهادهای بالادستی در نامه‌ای رسمی و الزام‌ آور تأکید کرده‌اند که در صورت آغاز جنگ جدید، دسترسی کاربران در ایران به اینترنت بین‌الملل باید بلافاصله قطع شود",
+      "message_id": 122423,
+      "message_link": "https://t.me/Mellig/122423",
+      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
       "shamsi_date": "1405/07/29",
-      "tehran_time": "22:28:04",
-      "gregorian_utc": "2026-10-21T18:58:04+00:00",
-      "media_type": null,
+      "tehran_time": "22:36:09",
+      "gregorian_utc": "2026-10-21T19:06:09+00:00",
+      "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:41.709215+00:00"
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-10-22T01:50:32.390654+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-22T01:43:40.696561+00:00"
+      "archived_at": "2026-10-22T01:50:31.424917+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_363350_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363350_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.027900+00:00"
+      "archived_at": "2026-10-22T01:50:31.748458+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,25 +1081,25 @@
       "media_local_path": "media/satlastnews_76647_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76647_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.321217+00:00"
+      "archived_at": "2026-10-22T01:50:32.023363+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122421,
-      "message_link": "https://t.me/Mellig/122421",
-      "text": "",
+      "message_id": 122422,
+      "message_link": "https://t.me/Mellig/122422",
+      "text": "سلام درود مبارز جان \nادعای قطع اینترنت با آغاز جنگ جدید\n\nرسانه اقتصادی زومان:\n◽️بر اساس اطلاعات دریافتی، نهادهای بالادستی در نامه‌ای رسمی و الزام‌ آور تأکید کرده‌اند که در صورت آغاز جنگ جدید، دسترسی کاربران در ایران به اینترنت بین‌الملل باید بلافاصله قطع شود",
       "shamsi_date": "1405/07/29",
-      "tehran_time": "22:25:22",
-      "gregorian_utc": "2026-10-21T18:55:22+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 222268,
-      "media_size_human": "217.06 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122421_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122421_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-22T01:43:41.709254+00:00"
+      "tehran_time": "22:28:04",
+      "gregorian_utc": "2026-10-21T18:58:04+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-22T01:50:32.390686+00:00"
     }
   ]
 }
