@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T23:02:47.576610+00:00",
-  "shamsi_generated": "1405/08/02 23:02:47 تهران",
+  "generated_at": "2026-10-24T23:12:38.141013+00:00",
+  "shamsi_generated": "1405/08/02 23:12:38 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028450+00:00"
+      "archived_at": "2026-10-24T23:10:30.845242+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363763,
-      "message_link": "https://t.me/IranintlTV/363763",
-      "text": "سازمان حقوق بشر کارون گزارش داد شعبه پنجم دادگاه انقلاب اصفهان، ایلیا بن‌رشید، معترض ۲۳ ساله ساکن شاهین‌شهر، را به اتهام محاربه به اعدام محکوم کرده است.\n\nهم‌زمان، خبرگزاری هرانا از بازداشت احسان ارباب، بلاگر فعال در فضای مجازی، پس از انتشار مطالبی در شبکه‌های اجتماعی خبر داد.\n\nگفت‌وگو با رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر\n@iranintltv",
+      "message_id": 363766,
+      "message_link": "https://t.me/IranintlTV/363766",
+      "text": "دیوید بارنئا، رییس پیشین موساد، فاش کرد این سازمان در جریان جنگ ۱۲ روزه، عامدانه تصاویر عملیات عوامل خود در ایران را منتشر کرد تا با افزایش بازداشت‌ها، شناسایی نیروهای واقعی موساد برای دستگاه‌های امنیتی جمهوری اسلامی دشوار شود.\n\nبارنئا در نشست «پرایوریتی سامیت» گفت هدف این بود که نیروهای امنیتی جمهوری اسلامی شمار زیادی از افراد را بازداشت کنند و نتوانند عوامل واقعی موساد را از دیگران تشخیص دهند.\n\nبه گفته بارنئا در دومین روز جنگ ۲۱ هزار نفر در ایران بازداشت شدند و در نهایت آزاد شدند. \n\nرییس پیشین موساد همچنین گفت ده‌ها عامل این سازمان چند هفته پیش از آغاز حملات ژوئن ۲۰۲۵ به ایران اعزام شده بودند و برخی از آنها همچنان در تهران زندگی می‌کنند.\n\nبارنئا افزود اسرائیل پیش از حملات موشکی جمهوری اسلامی در آوریل و اکتبر ۲۰۲۴، روی توان نظامی ایران در این حوزه حساب می کرد، اما این حملات به اسرائیل کمک کرد ارزیابی دقیق‌تری از توان موشکی تهران به دست آورد.\n\n\nhttps://iranintl.com/202610249229",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "02:17:08",
-      "gregorian_utc": "2026-10-24T22:47:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5299529,
-      "media_size_human": "5.05 MB",
+      "tehran_time": "02:35:36",
+      "gregorian_utc": "2026-10-24T23:05:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 170470,
+      "media_size_human": "166.47 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363763_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363763_video.mp4",
+      "media_local_path": "media/IranintlTV_363766_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363766_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.310927+00:00"
+      "archived_at": "2026-10-24T23:10:31.120350+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.634774+00:00"
+      "archived_at": "2026-10-24T23:10:31.478367+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.945269+00:00"
+      "archived_at": "2026-10-24T23:10:31.761528+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028482+00:00"
+      "archived_at": "2026-10-24T23:10:30.845281+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363762,
-      "message_link": "https://t.me/IranintlTV/363762",
-      "text": "احزاب عرب اسرائیل با وجود اختلاف‌نظرهای سیاسی، ممکن است در تعیین سرنوشت دولت آینده این کشور نقش مهمی داشته باشند. با این حال، بنیامین نتانیاهو و رقیبان اصلی او تاکنون ائتلاف با این احزاب را رد کرده‌اند.\n\nدر سال ۲۰۲۱، حزب رعام به رهبری منصور عباس در ائتلافی مشارکت کرد که به ۱۲ سال نخست‌وزیری پیاپی نتانیاهو پایان داد. اما در آستانه انتخابات پیش رو، تکرار چنین ائتلافی با مخالفت سیاستمداران اصلی روبه‌رو شده است.\n\nاگر هیچ‌یک از بلوک‌های سیاسی نتواند اکثریت ۶۱ کرسی کنست را به دست آورد، نمایندگان عرب چه نقشی در تشکیل دولت آینده خواهند داشت؟\n@iranintltv",
+      "message_id": 363765,
+      "message_link": "https://t.me/IranintlTV/363765",
+      "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی آتش‌سوزی گسترده در مراتع و گلخانه شهرداری رودهن را در شامگاه شنبه دوم آبان نشان می‌دهد. تصاویر از شدت بالای حریق حکایت دارند.\n\nعلت وقوع آتش‌سوزی و میزان دقیق خسارت هنوز مشخص نیست.\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "02:13:10",
-      "gregorian_utc": "2026-10-24T22:43:10+00:00",
+      "tehran_time": "02:34:40",
+      "gregorian_utc": "2026-10-24T23:04:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 3932974,
-      "media_size_human": "3.75 MB",
+      "media_size_bytes": 769814,
+      "media_size_human": "751.77 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363762_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363762_video.mp4",
+      "media_local_path": "media/IranintlTV_363765_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363765_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.310997+00:00"
+      "archived_at": "2026-10-24T23:10:31.120429+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.634822+00:00"
+      "archived_at": "2026-10-24T23:10:31.478418+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.945340+00:00"
+      "archived_at": "2026-10-24T23:10:31.761603+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028501+00:00"
+      "archived_at": "2026-10-24T23:10:30.845302+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363761,
-      "message_link": "https://t.me/IranintlTV/363761",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان\n@iranintlTV",
+      "message_id": 363764,
+      "message_link": "https://t.me/IranintlTV/363764",
+      "text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت دونالد ترامپ همچنان دو گزینه حمله نظامی و دستیابی به توافق با جمهوری اسلامی را مطرح می‌کند و هنوز تصمیم قطعی درباره آغاز عملیات تازه اعلام نشده است.\n\nتوانا با اشاره به استقرار ناو هواپیمابر جورج واشینگتن در دریای عرب و تجهیز آن به بمب‌های سنگرشکن و تسلیحات پیشرفته گفت نیروهای آمریکایی برای اجرای سریع عملیات احتمالی آمادگی دارند. به گفته او، واشینگتن در شرایطی توان نظامی خود را تقویت کرده که گزارش‌های تاییدنشده‌ای از حمله به نفتکش‌ها و مین‌گذاری در منطقه منتشر شده است.\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "02:07:27",
-      "gregorian_utc": "2026-10-24T22:37:27+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 17368049,
-      "media_size_human": "16.56 MB",
+      "tehran_time": "02:31:12",
+      "gregorian_utc": "2026-10-24T23:01:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2622251,
+      "media_size_human": "2.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363761_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363761_audio.mp3",
+      "media_local_path": "media/IranintlTV_363764_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363764_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.346642+00:00"
+      "archived_at": "2026-10-24T23:10:31.120493+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.634864+00:00"
+      "archived_at": "2026-10-24T23:10:31.478469+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_122556_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122556_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945384+00:00"
+      "archived_at": "2026-10-24T23:10:31.761653+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028522+00:00"
+      "archived_at": "2026-10-24T23:10:30.845327+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363760,
-      "message_link": "https://t.me/IranintlTV/363760",
-      "text": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\nhttps://iranintl.com/202610241385",
+      "message_id": 363763,
+      "message_link": "https://t.me/IranintlTV/363763",
+      "text": "سازمان حقوق بشر کارون گزارش داد شعبه پنجم دادگاه انقلاب اصفهان، ایلیا بن‌رشید، معترض ۲۳ ساله ساکن شاهین‌شهر، را به اتهام محاربه به اعدام محکوم کرده است.\n\nهم‌زمان، خبرگزاری هرانا از بازداشت احسان ارباب، بلاگر فعال در فضای مجازی، پس از انتشار مطالبی در شبکه‌های اجتماعی خبر داد.\n\nگفت‌وگو با رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "02:01:44",
-      "gregorian_utc": "2026-10-24T22:31:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 89071,
-      "media_size_human": "86.98 KB",
+      "tehran_time": "02:17:08",
+      "gregorian_utc": "2026-10-24T22:47:08+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5299529,
+      "media_size_human": "5.05 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363760_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363760_photo.jpg",
+      "media_local_path": "media/IranintlTV_363763_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363763_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.346801+00:00"
+      "archived_at": "2026-10-24T23:10:31.120548+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76686_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.635004+00:00"
+      "archived_at": "2026-10-24T23:10:31.478637+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_122555_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122555_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945404+00:00"
+      "archived_at": "2026-10-24T23:10:31.761676+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028538+00:00"
+      "archived_at": "2026-10-24T23:10:30.845344+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363759,
-      "message_link": "https://t.me/IranintlTV/363759",
-      "text": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\nhttps://iranintl.com/202610241385",
+      "message_id": 363762,
+      "message_link": "https://t.me/IranintlTV/363762",
+      "text": "احزاب عرب اسرائیل با وجود اختلاف‌نظرهای سیاسی، ممکن است در تعیین سرنوشت دولت آینده این کشور نقش مهمی داشته باشند. با این حال، بنیامین نتانیاهو و رقیبان اصلی او تاکنون ائتلاف با این احزاب را رد کرده‌اند.\n\nدر سال ۲۰۲۱، حزب رعام به رهبری منصور عباس در ائتلافی مشارکت کرد که به ۱۲ سال نخست‌وزیری پیاپی نتانیاهو پایان داد. اما در آستانه انتخابات پیش رو، تکرار چنین ائتلافی با مخالفت سیاستمداران اصلی روبه‌رو شده است.\n\nاگر هیچ‌یک از بلوک‌های سیاسی نتواند اکثریت ۶۱ کرسی کنست را به دست آورد، نمایندگان عرب چه نقشی در تشکیل دولت آینده خواهند داشت؟\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "02:01:43",
-      "gregorian_utc": "2026-10-24T22:31:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 89071,
-      "media_size_human": "86.98 KB",
+      "tehran_time": "02:13:10",
+      "gregorian_utc": "2026-10-24T22:43:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3932974,
+      "media_size_human": "3.75 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363759_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363759_photo.jpg",
+      "media_local_path": "media/IranintlTV_363762_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363762_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.346860+00:00"
+      "archived_at": "2026-10-24T23:10:31.120609+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76685_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.635044+00:00"
+      "archived_at": "2026-10-24T23:10:31.478682+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_122554_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122554_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945444+00:00"
+      "archived_at": "2026-10-24T23:10:31.761722+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028568+00:00"
+      "archived_at": "2026-10-24T23:10:30.845367+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363758,
-      "message_link": "https://t.me/IranintlTV/363758",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n@iranintltv",
+      "message_id": 363761,
+      "message_link": "https://t.me/IranintlTV/363761",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: قاتلان مردم اصفهان\n@iranintlTV",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:51:32",
-      "gregorian_utc": "2026-10-24T22:21:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 716420,
-      "media_size_human": "699.63 KB",
+      "tehran_time": "02:07:27",
+      "gregorian_utc": "2026-10-24T22:37:27+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 17368049,
+      "media_size_human": "16.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363758_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363758_video.mp4",
+      "media_local_path": "media/IranintlTV_363761_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363761_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.346916+00:00"
+      "archived_at": "2026-10-24T23:10:31.166739+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635087+00:00"
+      "archived_at": "2026-10-24T23:10:31.478731+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122553_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122553_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945483+00:00"
+      "archived_at": "2026-10-24T23:10:31.761764+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028583+00:00"
+      "archived_at": "2026-10-24T23:10:30.845385+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363757,
-      "message_link": "https://t.me/IranintlTV/363757",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n@iranintltv",
+      "message_id": 363760,
+      "message_link": "https://t.me/IranintlTV/363760",
+      "text": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\nhttps://iranintl.com/202610241385",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:51:00",
-      "gregorian_utc": "2026-10-24T22:21:00+00:00",
-      "media_type": "video",
-      "media_size_bytes": 716420,
-      "media_size_human": "699.63 KB",
+      "tehran_time": "02:01:44",
+      "gregorian_utc": "2026-10-24T22:31:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 89071,
+      "media_size_human": "86.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363757_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363757_video.mp4",
+      "media_local_path": "media/IranintlTV_363760_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363760_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.346956+00:00"
+      "archived_at": "2026-10-24T23:10:31.166937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635138+00:00"
+      "archived_at": "2026-10-24T23:10:31.478790+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-24T23:00:45.945504+00:00"
+      "archived_at": "2026-10-24T23:10:31.761787+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028611+00:00"
+      "archived_at": "2026-10-24T23:10:30.845414+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363756,
-      "message_link": "https://t.me/IranintlTV/363756",
-      "text": "🔻روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبکه‌های اجتماعی نیز ناراضی‌اند و از این بازیکن ۱۸ ساله می‌خواهند کمتر همراه با دوست دخترش سبک زندگی پرزرق‌وبرق خود را نمایش دهد و بیشتر روی فوتبال تمرکز کند.\n\n🔹کارل بخش زیادی از سبک زندگی پرزرق‌وبرق و زندگی خصوصی خود را همراه زوئی کاپله، دوست‌دختر ۲۲ ساله‌اش، در شبکه‌های اجتماعی به اشتراک می‌گذارد. کاپله در تیک‌تاک بیش از ۵۵۴هزار دنبال‌کننده دارد و به نوشته بیلد این نوع فعالیت کارل مورد پسند همه در باشگاه نیست.\n\n🔹حضور مشترک آنها در ویدیوهای فضای مجازی، بازدید زیادی جذب می‌کند. در بایرن نگرانی از این موضوع افزایش یافته که تمرکز کارل بیشتر روی اینستاگرام باشد تا عملکردش در زمین.\n\n🔹پیام مدیران بایرن به او روشن است؛ نمایش زرق‌وبرق کمتر در شبکه‌های اجتماعی و درخشش بیشتر در زمین؛ مانند فصل گذشته.\n\n🔹از سوی دیگر، اولی هوینس، رییس افتخاری بایرن، وارد عمل شده است. او علنا از این بازیکن جوان انتقاد کرد و گفت با او حرف می‌زند.\n\n🔹جزییاتی از هشدار مدیران بایرن به کارل را [اینجا](https://iranintl.com/202610241636) بخوانید\n\n@iranintltvsport",
+      "message_id": 363759,
+      "message_link": "https://t.me/IranintlTV/363759",
+      "text": "وزارت کشور یمن اعلام کرد حوثی‌ها شنبه دوم آبان با سه موشک بالستیک دو مقر گارد ساحلی در عدن را هدف قرار دادند. دو موشک به مقر گارد ساحلی در ساختمان وزارت کشور و موشک سوم به ساختمانی در منطقه التواهی اصابت کرد.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها، مسوولیت حمله به دو موضع نظامی در عدن را بر عهده گرفت.\n\nهم‌زمان، انفجارهای شدیدی در محدوده استان‌های لحج و عدن در جنوب یمن گزارش شد. هنوز اطلاعات رسمی درباره تلفات و خسارت‌های احتمالی منتشر نشده است.\nhttps://iranintl.com/202610241385",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:28:02",
-      "gregorian_utc": "2026-10-24T21:58:02+00:00",
+      "tehran_time": "02:01:43",
+      "gregorian_utc": "2026-10-24T22:31:43+00:00",
       "media_type": "photo",
-      "media_size_bytes": 187024,
-      "media_size_human": "182.64 KB",
+      "media_size_bytes": 89071,
+      "media_size_human": "86.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363756_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363756_photo.jpg",
+      "media_local_path": "media/IranintlTV_363759_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363759_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347079+00:00"
+      "archived_at": "2026-10-24T23:10:31.167017+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635179+00:00"
+      "archived_at": "2026-10-24T23:10:31.478835+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-24T23:00:45.945536+00:00"
+      "archived_at": "2026-10-24T23:10:31.761819+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028627+00:00"
+      "archived_at": "2026-10-24T23:10:30.845432+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363755,
-      "message_link": "https://t.me/IranintlTV/363755",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n@iranintltv",
+      "message_id": 363758,
+      "message_link": "https://t.me/IranintlTV/363758",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:27:46",
-      "gregorian_utc": "2026-10-24T21:57:46+00:00",
+      "tehran_time": "01:51:32",
+      "gregorian_utc": "2026-10-24T22:21:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 491670,
-      "media_size_human": "480.15 KB",
+      "media_size_bytes": 716420,
+      "media_size_human": "699.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363755_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363755_video.mp4",
+      "media_local_path": "media/IranintlTV_363758_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363758_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347117+00:00"
+      "archived_at": "2026-10-24T23:10:31.167083+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635202+00:00"
+      "archived_at": "2026-10-24T23:10:31.478860+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.945573+00:00"
+      "archived_at": "2026-10-24T23:10:31.761848+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028641+00:00"
+      "archived_at": "2026-10-24T23:10:30.845449+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363754,
-      "message_link": "https://t.me/IranintlTV/363754",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n@iranintltv",
+      "message_id": 363757,
+      "message_link": "https://t.me/IranintlTV/363757",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «تصمیم‌گیری درباره اعدام‌ها فقط با دادگاه انقلاب یا فرمانده سپاه نیست؛ دادگاه انقلاب زیر نظر قوه قضاییه، سپاه استانی نیز زیر نظر سپاه کل کشور است و نیروی انتظامی زیر نظر نیروی انتظامی کل کشور. این یعنی نظام جمهوری اسلامی تصمیم گرفته است که مردم را بکشد، نه یک قاضی یا فرمانده خاص.»\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:27:40",
-      "gregorian_utc": "2026-10-24T21:57:40+00:00",
+      "tehran_time": "01:51:00",
+      "gregorian_utc": "2026-10-24T22:21:00+00:00",
       "media_type": "video",
-      "media_size_bytes": 491670,
-      "media_size_human": "480.15 KB",
+      "media_size_bytes": 716420,
+      "media_size_human": "699.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363754_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363754_video.mp4",
+      "media_local_path": "media/IranintlTV_363757_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363757_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347151+00:00"
+      "archived_at": "2026-10-24T23:10:31.167134+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635260+00:00"
+      "archived_at": "2026-10-24T23:10:31.478925+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_122549_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122549_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945606+00:00"
+      "archived_at": "2026-10-24T23:10:31.761885+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028654+00:00"
+      "archived_at": "2026-10-24T23:10:30.845463+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363753,
-      "message_link": "https://t.me/IranintlTV/363753",
-      "text": "روزنامه الشرق‌الاوسط به نقل از منابع عراقی گزارش داد مقام‌های این کشور به نقش اسرائیل در حملات احتمالی به دو انبار تسلیحاتی گروه‌های مورد حمایت جمهوری اسلامی مظنون‌اند. این انبارها محل نگهداری سامانه‌های پدافند هوایی دوش‌پرتاب ساخت چین بودند که گفته می‌شود تهران در اختیار گروه‌های عراقی گذاشته بود.\n\nحشد شعبی پیش‌تر انفجار ۲۵ مهر در یکی از مقرهایش در شرق بغداد را حادثه‌ای غیرعمدی اعلام کرده بود. این انفجار پنج زخمی بر جا گذاشت.\n\nبه گزارش الشرق‌الاوسط، منابع عراقی همچنین از حادثه مشابهی در اوایل مهر در انبارهای نگهداری پهپادهای گروه‌های مورد حمایت جمهوری اسلامی خبر داده‌اند.\n\nاین روزنامه تاکید کرد ماهیت حوادث و نقش احتمالی اسرائیل هنوز به‌طور مستقل تایید نشده و تحقیقات مقام‌های عراقی ادامه دارد.\nhttps://iranintl.com/202610246126",
+      "message_id": 363756,
+      "message_link": "https://t.me/IranintlTV/363756",
+      "text": "🔻روزنامه بیلد آلمان گزارش داد مدیران بایرن مونیخ علاوه بر افت عملکرد لنارت کارل، ستاره جوان خود، از نحوه حضور او در شبکه‌های اجتماعی نیز ناراضی‌اند و از این بازیکن ۱۸ ساله می‌خواهند کمتر همراه با دوست دخترش سبک زندگی پرزرق‌وبرق خود را نمایش دهد و بیشتر روی فوتبال تمرکز کند.\n\n🔹کارل بخش زیادی از سبک زندگی پرزرق‌وبرق و زندگی خصوصی خود را همراه زوئی کاپله، دوست‌دختر ۲۲ ساله‌اش، در شبکه‌های اجتماعی به اشتراک می‌گذارد. کاپله در تیک‌تاک بیش از ۵۵۴هزار دنبال‌کننده دارد و به نوشته بیلد این نوع فعالیت کارل مورد پسند همه در باشگاه نیست.\n\n🔹حضور مشترک آنها در ویدیوهای فضای مجازی، بازدید زیادی جذب می‌کند. در بایرن نگرانی از این موضوع افزایش یافته که تمرکز کارل بیشتر روی اینستاگرام باشد تا عملکردش در زمین.\n\n🔹پیام مدیران بایرن به او روشن است؛ نمایش زرق‌وبرق کمتر در شبکه‌های اجتماعی و درخشش بیشتر در زمین؛ مانند فصل گذشته.\n\n🔹از سوی دیگر، اولی هوینس، رییس افتخاری بایرن، وارد عمل شده است. او علنا از این بازیکن جوان انتقاد کرد و گفت با او حرف می‌زند.\n\n🔹جزییاتی از هشدار مدیران بایرن به کارل را [اینجا](https://iranintl.com/202610241636) بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:26:42",
-      "gregorian_utc": "2026-10-24T21:56:42+00:00",
+      "tehran_time": "01:28:02",
+      "gregorian_utc": "2026-10-24T21:58:02+00:00",
       "media_type": "photo",
-      "media_size_bytes": 209543,
-      "media_size_human": "204.63 KB",
+      "media_size_bytes": 187024,
+      "media_size_human": "182.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363753_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363753_photo.jpg",
+      "media_local_path": "media/IranintlTV_363756_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363756_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347212+00:00"
+      "archived_at": "2026-10-24T23:10:31.167318+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76672_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76672_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.635296+00:00"
+      "archived_at": "2026-10-24T23:10:31.478967+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.945629+00:00"
+      "archived_at": "2026-10-24T23:10:31.761910+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028668+00:00"
+      "archived_at": "2026-10-24T23:10:30.845477+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363752,
-      "message_link": "https://t.me/IranintlTV/363752",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «صدور احکام اعدام علیه معترضان خیزش دی‌ماه رو به افزایش است. این تصمیم یک قاضی یا تعدادی قاضی دادگاه انقلاب نیست. این تصمیم نظام است؛ ادامه معترض‌کشی در خیابان در دی ماه و ادامه زخمی‌کشی در بیمارستان‌ها.»\n@iranintltv",
+      "message_id": 363755,
+      "message_link": "https://t.me/IranintlTV/363755",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:23:01",
-      "gregorian_utc": "2026-10-24T21:53:01+00:00",
+      "tehran_time": "01:27:46",
+      "gregorian_utc": "2026-10-24T21:57:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 756841,
-      "media_size_human": "739.10 KB",
+      "media_size_bytes": 491670,
+      "media_size_human": "480.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363752_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363752_video.mp4",
+      "media_local_path": "media/IranintlTV_363755_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363755_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347247+00:00"
+      "archived_at": "2026-10-24T23:10:31.167374+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76670_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76670_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.635330+00:00"
+      "archived_at": "2026-10-24T23:10:31.479006+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_122547_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122547_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945656+00:00"
+      "archived_at": "2026-10-24T23:10:31.761942+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028681+00:00"
+      "archived_at": "2026-10-24T23:10:30.845499+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363751,
-      "message_link": "https://t.me/IranintlTV/363751",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «صدور احکام اعدام علیه معترضان خیزش دی‌ماه رو به افزایش است. این تصمیم یک قاضی یا تعدادی قاضی دادگاه انقلاب نیست. این تصمیم نظام است؛ ادامه معترض‌کشی در خیابان در دی ماه و ادامه زخمی‌کشی در بیمارستان‌ها.»\n@iranintltv",
+      "message_id": 363754,
+      "message_link": "https://t.me/IranintlTV/363754",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ساختار سرکوب در استان‌های ایران به یکی دو ارگان محدود نمی‌شود. افراد زیادی در این جنایت دست دارند؛ از امام جمعه گرفته تا استاندار و فرماندهان سپاه و بسیج.»\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:22:22",
-      "gregorian_utc": "2026-10-24T21:52:22+00:00",
+      "tehran_time": "01:27:40",
+      "gregorian_utc": "2026-10-24T21:57:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 756841,
-      "media_size_human": "739.10 KB",
+      "media_size_bytes": 491670,
+      "media_size_human": "480.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363751_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363751_video.mp4",
+      "media_local_path": "media/IranintlTV_363754_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363754_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347281+00:00"
+      "archived_at": "2026-10-24T23:10:31.167417+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-24T23:00:45.635354+00:00"
+      "archived_at": "2026-10-24T23:10:31.479033+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_122546_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122546_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945675+00:00"
+      "archived_at": "2026-10-24T23:10:31.761965+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028695+00:00"
+      "archived_at": "2026-10-24T23:10:30.845515+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363750,
-      "message_link": "https://t.me/IranintlTV/363750",
-      "text": "سرخط خبرهای یکشنبه ۳ آبان\n@iranintltv",
+      "message_id": 363753,
+      "message_link": "https://t.me/IranintlTV/363753",
+      "text": "روزنامه الشرق‌الاوسط به نقل از منابع عراقی گزارش داد مقام‌های این کشور به نقش اسرائیل در حملات احتمالی به دو انبار تسلیحاتی گروه‌های مورد حمایت جمهوری اسلامی مظنون‌اند. این انبارها محل نگهداری سامانه‌های پدافند هوایی دوش‌پرتاب ساخت چین بودند که گفته می‌شود تهران در اختیار گروه‌های عراقی گذاشته بود.\n\nحشد شعبی پیش‌تر انفجار ۲۵ مهر در یکی از مقرهایش در شرق بغداد را حادثه‌ای غیرعمدی اعلام کرده بود. این انفجار پنج زخمی بر جا گذاشت.\n\nبه گزارش الشرق‌الاوسط، منابع عراقی همچنین از حادثه مشابهی در اوایل مهر در انبارهای نگهداری پهپادهای گروه‌های مورد حمایت جمهوری اسلامی خبر داده‌اند.\n\nاین روزنامه تاکید کرد ماهیت حوادث و نقش احتمالی اسرائیل هنوز به‌طور مستقل تایید نشده و تحقیقات مقام‌های عراقی ادامه دارد.\nhttps://iranintl.com/202610246126",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:14:05",
-      "gregorian_utc": "2026-10-24T21:44:05+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1115844,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "01:26:42",
+      "gregorian_utc": "2026-10-24T21:56:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 209543,
+      "media_size_human": "204.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363750_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363750_video.mp4",
+      "media_local_path": "media/IranintlTV_363753_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363753_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347306+00:00"
+      "archived_at": "2026-10-24T23:10:31.167493+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.635373+00:00"
+      "archived_at": "2026-10-24T23:10:31.479054+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_122545_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122545_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945692+00:00"
+      "archived_at": "2026-10-24T23:10:31.761985+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-24T23:00:45.028708+00:00"
+      "archived_at": "2026-10-24T23:10:30.845530+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363749,
-      "message_link": "https://t.me/IranintlTV/363749",
-      "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه گزارش داد جمهوری اسلامی هیچ پیشنهاد جدیدی به میانجی‌های پاکستانی ارائه نکرده و گزارش العربیه درباره پیشنهاد بازگشایی تنگه هرمز در ازای رفع محاصره دریایی آمریکا را «دروغ و خیالبافی» خوانده است.\n\nاین منبع گفت تهران مبادله بازگشایی تنگه هرمز با رفع محاصره را نمی‌پذیرد و با روش‌های خود این محاصره را دور خواهد زد.\n\nاو افزود جمهوری اسلامی همچنان بر هفت شرطی که پیش‌تر از طریق میانجی‌ها به واشینگتن منتقل کرده، پایبند است و تا زمان تحقق این شروط، از جمله پایان اختلال در فعالیت بنادر و کشتیرانی ایران، ناامنی در تنگه هرمز ادامه خواهد داشت.\nhttps://iranintl.com/202610241282",
+      "message_id": 363752,
+      "message_link": "https://t.me/IranintlTV/363752",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «صدور احکام اعدام علیه معترضان خیزش دی‌ماه رو به افزایش است. این تصمیم یک قاضی یا تعدادی قاضی دادگاه انقلاب نیست. این تصمیم نظام است؛ ادامه معترض‌کشی در خیابان در دی ماه و ادامه زخمی‌کشی در بیمارستان‌ها.»\n@iranintltv",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:11:30",
-      "gregorian_utc": "2026-10-24T21:41:30+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123146,
-      "media_size_human": "120.26 KB",
+      "tehran_time": "01:23:01",
+      "gregorian_utc": "2026-10-24T21:53:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 756841,
+      "media_size_human": "739.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363749_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363749_photo.jpg",
+      "media_local_path": "media/IranintlTV_363752_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363752_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.347362+00:00"
+      "archived_at": "2026-10-24T23:10:31.167539+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76664_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76664_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.635401+00:00"
+      "archived_at": "2026-10-24T23:10:31.479089+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_122544_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122544_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-24T23:00:45.945709+00:00"
+      "archived_at": "2026-10-24T23:10:31.762004+00:00"
     }
   ]
 }
