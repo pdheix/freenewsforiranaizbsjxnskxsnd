@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T14:04:32.301241+00:00",
-  "shamsi_generated": "1405/08/03 14:04:32 تهران",
+  "generated_at": "2026-10-25T14:15:44.882807+00:00",
+  "shamsi_generated": "1405/08/03 14:15:44 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": "media/zedTV_15234_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15234_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.476877+00:00"
+      "archived_at": "2026-10-25T14:10:43.345949+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,25 +55,25 @@
       "media_local_path": "media/IranintlTV_363833_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363833_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.776832+00:00"
+      "archived_at": "2026-10-25T14:10:43.702759+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76696,
-      "message_link": "https://t.me/satlastnews/76696",
-      "text": "❗️ توجه:\n\nاین فرکانس در شهر های مختلفی توسط کاربران تست شده و قابل دریافت بوده است. ما از شهر های زیر گزارش دریافت با قدرت سیگنال مطلوب داشته ایم. در صورتی که در این مناطق هستید و دریافت نمی کنید، گیرنده خود را دقیق تر تنظیم کنید:\n\nچابهار، راسک، ایرانشهر، کنارک، سراوان، خاش، زاهدان، بم، ریگان، جیرفت، کهنوج، میناب، دهبارز، سیرجان، بافت، بندرعباس، قشم، کیش، داراب، حاجی آباد، فسا، جهرم، لار، بستک، گراش، لامرد، فیروزآباد، عسلویه، بندر کنگان، شیراز، مرودشت، برازجان، کازرون، بوشهر، یاسوج، آباده، گچساران، بندر ماهشهر، آبادان، اهواز، شوشتر، شوش، دزفول، شهرکرد، اصفهان، نجف آباد، مسجد سلیمان، سوسنگرد، شادگان، دهلران، مهران، پلدختر، آبدانان، خرم آباد، بروجرد، کوهدشت، ازنا، الیگودرز، ایلام، اسلام آباد غرب، گیلان غرب، الشتر، نورآباد، نهاوند، کرمانشاه، صحنه، سر پل ذهاب، قصر شیرین، دورود، شازند، خمین، اراک، خنداب، تویسرکان، کنگاور، جوانرود، سنندج، گلپایگان، محلات و ...\n\nاسامی این شهر ها، با کمک هوش مصنوعی از تمامی کامنت ها و پیام هایی که مخاطبان برایمان ارسال کرده اند استخراج شده است.\n\nلازم به ذکر است با وجود این که این فرکانس ویژه نیمه جنوبی ایران است، حتی عده ای در تهران نیز این فرکانس را با قدرت نسبتا پایین دریافت کرده اند.\n\n@SatLastNews",
+      "message_id": 76698,
+      "message_link": "https://t.me/satlastnews/76698",
+      "text": "⭕️ فایل های مربوط به گزارشات شما\n\nدر مناطقی که در این فایل ها می بینید، فرکانس 11343 افقی 27500 با قدرت مطلوب قابل دریافت می باشد.\n\nهمچنین، تمامی این مناطق امکان دریافت فرکانس 11420 افقی 27500 را هم دارند.\n\nاگر در این مناطق هستید شما می توانید این دو فرکانس را برای دریافت شبکه های فارسی زبان دریافت نمایید.\n\nلازم به ذکر است که این فرکانس ها نباید در تهران پوشش داشته باشند، اما برخی کاربران گزارش داده اند که با سیگنالی نسبتا ضعیف توانسته اند دریافت نمایند.\n\nYahsat / TurkmenAlem\n11343 H 27500\n11420 H 27500\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "17:06:12",
-      "gregorian_utc": "2026-10-25T13:36:12+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.020430+00:00"
+      "tehran_time": "17:32:10",
+      "gregorian_utc": "2026-10-25T14:02:10+00:00",
+      "media_type": "document",
+      "media_size_bytes": 1315508,
+      "media_size_human": "1.25 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76698_document.bin",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76698_document.bin",
+      "no_media_reason": null,
+      "archived_at": "2026-10-25T14:10:44.087695+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_122574_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122574_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.298980+00:00"
+      "archived_at": "2026-10-25T14:10:44.430082+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": "media/zedTV_15233_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15233_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.476948+00:00"
+      "archived_at": "2026-10-25T14:10:43.346027+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,25 +127,25 @@
       "media_local_path": "media/IranintlTV_363832_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363832_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.777004+00:00"
+      "archived_at": "2026-10-25T14:10:43.702967+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76695,
-      "message_link": "https://t.me/satlastnews/76695",
-      "text": "⭕️ تمامی شبکه های پرشیانا از طریق یک فرکانس واحد با قدرت سیگنال مطلوب، ویژه جنوب ایران حالا در دسترس هستند\n\nهموطنان عزیزی که در شهر های جنوب ایران و کشور های همسایه جنوب ایران زندگی می کنند، می توانند از طریق وارد کردن این فرکانس در رسیور های خود در جهت یاهست، شبکه های پرشیانا را دریافت کنند:\n\nPersiana Sports 1\nPersiana Sports 2\nPersiana Sports 3\nPersiana Sports 4\nPersiana Teen\nPersiana Reality\nPersiana Family\nPersiana Cinema\nPersiana Junior\nPersiana Iranian\nPersiana Series\nPersiana Music\nPersiana Nostalgia\nPersiana Korea\nPersiana Fight\nPersiana SetMix\nPersiana Comedy\n4 Turk\nPersiana Medical\nPersiana Documentary\nPersiana Podcast\n\nYahsat / TurkmenAlem\n11343 H 27500\n\n@SatLastNews",
+      "message_id": 76696,
+      "message_link": "https://t.me/satlastnews/76696",
+      "text": "❗️ توجه:\n\nاین فرکانس در شهر های مختلفی توسط کاربران تست شده و قابل دریافت بوده است. ما از شهر های زیر گزارش دریافت با قدرت سیگنال مطلوب داشته ایم. در صورتی که در این مناطق هستید و دریافت نمی کنید، گیرنده خود را دقیق تر تنظیم کنید:\n\nچابهار، راسک، ایرانشهر، کنارک، سراوان، خاش، زاهدان، بم، ریگان، جیرفت، کهنوج، میناب، دهبارز، سیرجان، بافت، بندرعباس، قشم، کیش، داراب، حاجی آباد، فسا، جهرم، لار، بستک، گراش، لامرد، فیروزآباد، عسلویه، بندر کنگان، شیراز، مرودشت، برازجان، کازرون، بوشهر، یاسوج، آباده، گچساران، بندر ماهشهر، آبادان، اهواز، شوشتر، شوش، دزفول، شهرکرد، اصفهان، نجف آباد، مسجد سلیمان، سوسنگرد، شادگان، دهلران، مهران، پلدختر، آبدانان، خرم آباد، بروجرد، کوهدشت، ازنا، الیگودرز، ایلام، اسلام آباد غرب، گیلان غرب، الشتر، نورآباد، نهاوند، کرمانشاه، صحنه، سر پل ذهاب، قصر شیرین، دورود، شازند، خمین، اراک، خنداب، تویسرکان، کنگاور، جوانرود، سنندج، گلپایگان، محلات و ...\n\nاسامی این شهر ها، با کمک هوش مصنوعی از تمامی کامنت ها و پیام هایی که مخاطبان برایمان ارسال کرده اند استخراج شده است.\n\nلازم به ذکر است با وجود این که این فرکانس ویژه نیمه جنوبی ایران است، حتی عده ای در تهران نیز این فرکانس را با قدرت نسبتا پایین دریافت کرده اند.\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "16:55:42",
-      "gregorian_utc": "2026-10-25T13:25:42+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 124444,
-      "media_size_human": "121.53 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76695_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76695_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.020555+00:00"
+      "tehran_time": "17:06:12",
+      "gregorian_utc": "2026-10-25T13:36:12+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-25T14:10:44.087847+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_122573_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122573_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299094+00:00"
+      "archived_at": "2026-10-25T14:10:44.430201+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.476985+00:00"
+      "archived_at": "2026-10-25T14:10:43.346071+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,25 +199,25 @@
       "media_local_path": "media/IranintlTV_363831_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363831_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.777090+00:00"
+      "archived_at": "2026-10-25T14:10:43.703060+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76694,
-      "message_link": "https://t.me/satlastnews/76694",
-      "text": "⭕️ شبکه Setareh TV در فرکانس جنوب ماهواره ترکمنعالم روی آنتن رفت\n\nSetareh TV\nYahsat / TurkmenAlem\n11420 H 27500\n\n@SatLastNews",
+      "message_id": 76695,
+      "message_link": "https://t.me/satlastnews/76695",
+      "text": "⭕️ تمامی شبکه های پرشیانا از طریق یک فرکانس واحد با قدرت سیگنال مطلوب، ویژه جنوب ایران حالا در دسترس هستند\n\nهموطنان عزیزی که در شهر های جنوب ایران و کشور های همسایه جنوب ایران زندگی می کنند، می توانند از طریق وارد کردن این فرکانس در رسیور های خود در جهت یاهست، شبکه های پرشیانا را دریافت کنند:\n\nPersiana Sports 1\nPersiana Sports 2\nPersiana Sports 3\nPersiana Sports 4\nPersiana Teen\nPersiana Reality\nPersiana Family\nPersiana Cinema\nPersiana Junior\nPersiana Iranian\nPersiana Series\nPersiana Music\nPersiana Nostalgia\nPersiana Korea\nPersiana Fight\nPersiana SetMix\nPersiana Comedy\n4 Turk\nPersiana Medical\nPersiana Documentary\nPersiana Podcast\n\nYahsat / TurkmenAlem\n11343 H 27500\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "16:50:31",
-      "gregorian_utc": "2026-10-25T13:20:31+00:00",
+      "tehran_time": "16:55:42",
+      "gregorian_utc": "2026-10-25T13:25:42+00:00",
       "media_type": "photo",
-      "media_size_bytes": 89764,
-      "media_size_human": "87.66 KB",
+      "media_size_bytes": 124444,
+      "media_size_human": "121.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76694_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76694_photo.jpg",
+      "media_local_path": "media/satlastnews_76695_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.020617+00:00"
+      "archived_at": "2026-10-25T14:10:44.087957+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_122572_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122572_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299174+00:00"
+      "archived_at": "2026-10-25T14:10:44.430285+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": "media/zedTV_15231_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15231_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.477043+00:00"
+      "archived_at": "2026-10-25T14:10:43.346130+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,25 +271,25 @@
       "media_local_path": "media/IranintlTV_363830_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363830_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.777224+00:00"
+      "archived_at": "2026-10-25T14:10:43.703204+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76693,
-      "message_link": "https://t.me/satlastnews/76693",
-      "text": "⭕️ اطلاعیه شبکه های کردی NTR:\n\nپخش برنامه های دو شبکه NTR و NTR2 در ماهواره نایلست متوقف شده است تا فصل جدید برنامه ها آماده سازی شود.\n\nاین توقف موقت است و به زودی پخش برنامه ها مجددا آغاز خواهند شد.\n\n@SatLastNews",
+      "message_id": 76694,
+      "message_link": "https://t.me/satlastnews/76694",
+      "text": "⭕️ شبکه Setareh TV در فرکانس جنوب ماهواره ترکمنعالم روی آنتن رفت\n\nSetareh TV\nYahsat / TurkmenAlem\n11420 H 27500\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "16:46:10",
-      "gregorian_utc": "2026-10-25T13:16:10+00:00",
+      "tehran_time": "16:50:31",
+      "gregorian_utc": "2026-10-25T13:20:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 239587,
-      "media_size_human": "233.97 KB",
+      "media_size_bytes": 89764,
+      "media_size_human": "87.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76693_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76693_photo.jpg",
+      "media_local_path": "media/satlastnews_76694_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76694_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.020707+00:00"
+      "archived_at": "2026-10-25T14:10:44.088011+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.299208+00:00"
+      "archived_at": "2026-10-25T14:10:44.430320+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": "media/zedTV_15230_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15230_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.477096+00:00"
+      "archived_at": "2026-10-25T14:10:43.346182+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,25 +343,25 @@
       "media_local_path": "media/IranintlTV_363829_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363829_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.777307+00:00"
+      "archived_at": "2026-10-25T14:10:43.703293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76692,
-      "message_link": "https://t.me/satlastnews/76692",
-      "text": "⭕️ ایجاد تغییرات در شبکه های فارسی زبان در ماهواره یوتلست 7\n\nبا تغییرات فنی که ماهواره یوتلست طی هفته گذشته در فرکانس های یوتلست 7 انجام داده، ظاهرا قدرت سیگنال این فرکانس ها در ایران افزایش چشمگیری داشته است:\n\nEutelsat 7B-7C\n11285 V 30000 [DVB-S2 QPSK]\n11410 V 30000 [DVB-S QPSK]\n\n@SatLastNews",
+      "message_id": 76693,
+      "message_link": "https://t.me/satlastnews/76693",
+      "text": "⭕️ اطلاعیه شبکه های کردی NTR:\n\nپخش برنامه های دو شبکه NTR و NTR2 در ماهواره نایلست متوقف شده است تا فصل جدید برنامه ها آماده سازی شود.\n\nاین توقف موقت است و به زودی پخش برنامه ها مجددا آغاز خواهند شد.\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "16:43:11",
-      "gregorian_utc": "2026-10-25T13:13:11+00:00",
+      "tehran_time": "16:46:10",
+      "gregorian_utc": "2026-10-25T13:16:10+00:00",
       "media_type": "photo",
-      "media_size_bytes": 27839,
-      "media_size_human": "27.19 KB",
+      "media_size_bytes": 239587,
+      "media_size_human": "233.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76692_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76692_photo.jpg",
+      "media_local_path": "media/satlastnews_76693_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76693_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.020792+00:00"
+      "archived_at": "2026-10-25T14:10:44.088071+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.299236+00:00"
+      "archived_at": "2026-10-25T14:10:44.430362+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477135+00:00"
+      "archived_at": "2026-10-25T14:10:43.346221+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,25 +415,25 @@
       "media_local_path": "media/IranintlTV_363828_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363828_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.778904+00:00"
+      "archived_at": "2026-10-25T14:10:43.744602+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76691,
-      "message_link": "https://t.me/satlastnews/76691",
-      "text": "⭕️ افت مجدد سرعت و کیفیت اینترنت!\n\nکاربران بسیاری از افت سرعت و کیفیت اینترنت بین الملل و بسته شدن بسیاری از فیلترشکن ها به ویژه آن هایی که از آی پی های کلودفلیر استفاده می کردند خبر می دهند.\n\n@SatLastNews",
+      "message_id": 76692,
+      "message_link": "https://t.me/satlastnews/76692",
+      "text": "⭕️ ایجاد تغییرات در شبکه های فارسی زبان در ماهواره یوتلست 7\n\nبا تغییرات فنی که ماهواره یوتلست طی هفته گذشته در فرکانس های یوتلست 7 انجام داده، ظاهرا قدرت سیگنال این فرکانس ها در ایران افزایش چشمگیری داشته است:\n\nEutelsat 7B-7C\n11285 V 30000 [DVB-S2 QPSK]\n11410 V 30000 [DVB-S QPSK]\n\n@SatLastNews",
       "shamsi_date": "1405/08/03",
-      "tehran_time": "01:24:10",
-      "gregorian_utc": "2026-10-24T21:54:10+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.020846+00:00"
+      "tehran_time": "16:43:11",
+      "gregorian_utc": "2026-10-25T13:13:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 27839,
+      "media_size_human": "27.19 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76692_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76692_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-25T14:10:44.088134+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122569_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122569_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299285+00:00"
+      "archived_at": "2026-10-25T14:10:44.430416+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477165+00:00"
+      "archived_at": "2026-10-25T14:10:43.346252+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,17 +487,17 @@
       "media_local_path": "media/IranintlTV_363827_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363827_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779104+00:00"
+      "archived_at": "2026-10-25T14:10:43.744875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76690,
-      "message_link": "https://t.me/satlastnews/76690",
-      "text": "**اگر مخاطبان جنوبی برای دریافت این فرکانس با FEC مساوی با 8/9 مشکل نداشته باشن، از اونجایی که فرکانس از 8PSK به QPSK تغییر کرده، ظاهرا قدرت سیگنال بسیار بهتر شده و قابل دریافت تر شده.\n\nاگر همین شکل ادامه داشته باشه، میشه تقریبا تمام شبکه های پرشیانا رو روی همین یک فرکانس جمع کرد!**",
-      "shamsi_date": "1405/08/02",
-      "tehran_time": "23:43:36",
-      "gregorian_utc": "2026-10-24T20:13:36+00:00",
+      "message_id": 76691,
+      "message_link": "https://t.me/satlastnews/76691",
+      "text": "⭕️ افت مجدد سرعت و کیفیت اینترنت!\n\nکاربران بسیاری از افت سرعت و کیفیت اینترنت بین الملل و بسته شدن بسیاری از فیلترشکن ها به ویژه آن هایی که از آی پی های کلودفلیر استفاده می کردند خبر می دهند.\n\n@SatLastNews",
+      "shamsi_date": "1405/08/03",
+      "tehran_time": "01:24:10",
+      "gregorian_utc": "2026-10-24T21:54:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.020910+00:00"
+      "archived_at": "2026-10-25T14:10:44.088181+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_122568_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122568_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299323+00:00"
+      "archived_at": "2026-10-25T14:10:44.430458+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477212+00:00"
+      "archived_at": "2026-10-25T14:10:43.346300+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,17 +559,17 @@
       "media_local_path": "media/IranintlTV_363825_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363825_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779158+00:00"
+      "archived_at": "2026-10-25T14:10:43.744975+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76689,
-      "message_link": "https://t.me/satlastnews/76689",
-      "text": "**⭕️ فوری و مهم | هموطنان ساکن جنوب ایران!\n\nلطفا همین حالا وضعیت فرکانس 11343 ماهواره ترکمنعالم هم جهت یاهست شامل شبکه های پرشیانا را چک بفرمایید:\n\nYahsat / TurkmenAlem\nFrequency 11343\nPOL H / افقی\nSymbol Rate 27500\nFEC 8/9\n\nمقدار FEC را روی حالت خودکار قرار دهید.\n\nضمن اعلام محل زندگی، بگویید آن را چطور دریافت می کنید.\n\n❌ ارسال عکس از قدرت سیگنال کمک بسیاری می کند!**",
+      "message_id": 76690,
+      "message_link": "https://t.me/satlastnews/76690",
+      "text": "**اگر مخاطبان جنوبی برای دریافت این فرکانس با FEC مساوی با 8/9 مشکل نداشته باشن، از اونجایی که فرکانس از 8PSK به QPSK تغییر کرده، ظاهرا قدرت سیگنال بسیار بهتر شده و قابل دریافت تر شده.\n\nاگر همین شکل ادامه داشته باشه، میشه تقریبا تمام شبکه های پرشیانا رو روی همین یک فرکانس جمع کرد!**",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "23:36:24",
-      "gregorian_utc": "2026-10-24T20:06:24+00:00",
+      "tehran_time": "23:43:36",
+      "gregorian_utc": "2026-10-24T20:13:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.020980+00:00"
+      "archived_at": "2026-10-25T14:10:44.088239+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.299378+00:00"
+      "archived_at": "2026-10-25T14:10:44.430511+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477242+00:00"
+      "archived_at": "2026-10-25T14:10:43.346332+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,25 +631,25 @@
       "media_local_path": "media/IranintlTV_363824_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363824_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779281+00:00"
+      "archived_at": "2026-10-25T14:10:43.745114+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76686,
-      "message_link": "https://t.me/satlastnews/76686",
-      "text": "⭕️ شبکه گرند سینما، برای جذب اسپانسر و آگهی اطلاعیه صادر کرد\n\nشبکه تعطیل شده تلویزیونی گرند سینما در یک اطلاعیه اعلام کرده که برای جذب آگهی آماده است و یک هفته پخش آگهی رایگان برای مشتریان ارائه می کند (در صورتی که هنوز روی آنتن نرفته!)!\n\nموضوع اینجاست که کارنامه این شبکه در برخورد با آگهی دهندگان و به زبان خودمانی \"خوردن پول آگهی دهندگان!\" بسیار سیاه است. بسیاری از آگهی دهندگان به دلیل جابجایی دائمی فرکانس این شبکه و بدهکاری این شبکه به تمامی ماهواره ها و پروایدر ها، زیان های فراوانی دیده اند.\n\nبعید می دانم آگهی دهندگان دیگر علاقه ای به پخش آگهی هایشان از این شبکه داشته باشند.\n\nلازم به ذکر است که جای شبکه های گرند سینما در یاهست نیز اغلب به دیگر شبکه ها داده شده و با بدهی های سنگین گرند سینما به ترکمنعالم و یاهست، حتی اگر گرند سینما گنج پیدا کند یا بانک بزند و بدهی ها را پرداخت کند، طبیعتا در یک مکان جدید روی آنتن می رود!\n\nمکان جدید برای دیده شدن حداقل 3 تا 6 ماه زمان نیاز دارد و اعلام پخش 1 هفته آگهی رایگان در این شبکه برای جذب آگهی دهنده، چندان \"دون پاشی\" خوبی محسوب نمی شود و برای آگهی دهندگان جذابیتی ندارد.\n\nشبکه ای که دائما در حال قطع شدن از تمام ماهواره ها و پریدن از شاخه ای به شاخه دیگر است، شبکه ای که در زمان روی آنتن رفتن، حسابی تبلیغ می کند و در بوق و کرنا می کند و در زمان قطع شدن هیچ اطلاع رسانی نمی کند و باعث گیج شدن مخاطبش می شود، به نظرم جای امنی برای سرمایه گذاری نیست!\n\nبه هر حال، به عنوان یک فعال رسانه باید به آگهی دهندگان هشدار بدهم که کارنامه این شبکه در وفا به عهد به تعهد های داده شده به آگهی دهندگان به طور وحشتناکی سیاه است! مراقب سرمایه های خود باشید!\n\n@SatLastNews",
+      "message_id": 76689,
+      "message_link": "https://t.me/satlastnews/76689",
+      "text": "**⭕️ فوری و مهم | هموطنان ساکن جنوب ایران!\n\nلطفا همین حالا وضعیت فرکانس 11343 ماهواره ترکمنعالم هم جهت یاهست شامل شبکه های پرشیانا را چک بفرمایید:\n\nYahsat / TurkmenAlem\nFrequency 11343\nPOL H / افقی\nSymbol Rate 27500\nFEC 8/9\n\nمقدار FEC را روی حالت خودکار قرار دهید.\n\nضمن اعلام محل زندگی، بگویید آن را چطور دریافت می کنید.\n\n❌ ارسال عکس از قدرت سیگنال کمک بسیاری می کند!**",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "15:41:38",
-      "gregorian_utc": "2026-10-24T12:11:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 15141,
-      "media_size_human": "14.79 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76686_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.021167+00:00"
+      "tehran_time": "23:36:24",
+      "gregorian_utc": "2026-10-24T20:06:24+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-25T14:10:44.088300+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.299408+00:00"
+      "archived_at": "2026-10-25T14:10:44.430543+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477270+00:00"
+      "archived_at": "2026-10-25T14:10:43.346361+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,25 +703,25 @@
       "media_local_path": "media/IranintlTV_363823_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363823_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779361+00:00"
+      "archived_at": "2026-10-25T14:10:43.745203+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76685,
-      "message_link": "https://t.me/satlastnews/76685",
-      "text": "⭕️ چهار شبکه تلویزیونی از طریق فرکانس جدید در ماهواره ترکمنعالم هم مسیر یاهست روی آنتن رفتند:\n\n**Kurd Channel\nKomala TV\n4 Kurd\nBalochistan TV**\n\nYahsat / TurkmenAlem\n11382 V 27500\n\n@SatLastNews",
+      "message_id": 76686,
+      "message_link": "https://t.me/satlastnews/76686",
+      "text": "⭕️ شبکه گرند سینما، برای جذب اسپانسر و آگهی اطلاعیه صادر کرد\n\nشبکه تعطیل شده تلویزیونی گرند سینما در یک اطلاعیه اعلام کرده که برای جذب آگهی آماده است و یک هفته پخش آگهی رایگان برای مشتریان ارائه می کند (در صورتی که هنوز روی آنتن نرفته!)!\n\nموضوع اینجاست که کارنامه این شبکه در برخورد با آگهی دهندگان و به زبان خودمانی \"خوردن پول آگهی دهندگان!\" بسیار سیاه است. بسیاری از آگهی دهندگان به دلیل جابجایی دائمی فرکانس این شبکه و بدهکاری این شبکه به تمامی ماهواره ها و پروایدر ها، زیان های فراوانی دیده اند.\n\nبعید می دانم آگهی دهندگان دیگر علاقه ای به پخش آگهی هایشان از این شبکه داشته باشند.\n\nلازم به ذکر است که جای شبکه های گرند سینما در یاهست نیز اغلب به دیگر شبکه ها داده شده و با بدهی های سنگین گرند سینما به ترکمنعالم و یاهست، حتی اگر گرند سینما گنج پیدا کند یا بانک بزند و بدهی ها را پرداخت کند، طبیعتا در یک مکان جدید روی آنتن می رود!\n\nمکان جدید برای دیده شدن حداقل 3 تا 6 ماه زمان نیاز دارد و اعلام پخش 1 هفته آگهی رایگان در این شبکه برای جذب آگهی دهنده، چندان \"دون پاشی\" خوبی محسوب نمی شود و برای آگهی دهندگان جذابیتی ندارد.\n\nشبکه ای که دائما در حال قطع شدن از تمام ماهواره ها و پریدن از شاخه ای به شاخه دیگر است، شبکه ای که در زمان روی آنتن رفتن، حسابی تبلیغ می کند و در بوق و کرنا می کند و در زمان قطع شدن هیچ اطلاع رسانی نمی کند و باعث گیج شدن مخاطبش می شود، به نظرم جای امنی برای سرمایه گذاری نیست!\n\nبه هر حال، به عنوان یک فعال رسانه باید به آگهی دهندگان هشدار بدهم که کارنامه این شبکه در وفا به عهد به تعهد های داده شده به آگهی دهندگان به طور وحشتناکی سیاه است! مراقب سرمایه های خود باشید!\n\n@SatLastNews",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "15:13:54",
-      "gregorian_utc": "2026-10-24T11:43:54+00:00",
+      "tehran_time": "15:41:38",
+      "gregorian_utc": "2026-10-24T12:11:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 124880,
-      "media_size_human": "121.95 KB",
+      "media_size_bytes": 15141,
+      "media_size_human": "14.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76685_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
+      "media_local_path": "media/satlastnews_76686_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.021236+00:00"
+      "archived_at": "2026-10-25T14:10:44.088486+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_122565_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122565_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299463+00:00"
+      "archived_at": "2026-10-25T14:10:44.430602+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477300+00:00"
+      "archived_at": "2026-10-25T14:10:43.346390+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,25 +775,25 @@
       "media_local_path": "media/IranintlTV_363822_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363822_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779421+00:00"
+      "archived_at": "2026-10-25T14:10:43.745271+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76683,
-      "message_link": "https://t.me/satlastnews/76683",
-      "text": "❗️ در ضمن:\n\nدوستان عزیز، شبکه هایی از پرشیانا که روی 11420 افقی (ویژه جنوب ایران) قرار دارند، از امشب حذف می شوند. این شبکه ها 2 روز پیش با 8PSK شدن فرکانس 11343 در این فرکانس هم روی آنتن رفته بودند که از آن هم حذف خواهند شد.\n\nبرای پخش این شبکه ها در جنوب در آینده تصمیم گیری خواهد شد.\n\nحذف این شبکه ها از فرکانس 11420 افقی ویژه جنوب برای روی آنتن بردن شبکه های دیگر الزامی است.\n\n❗️ تمامی شبکه های پرشیانا که تا پیش از این در فرکانس 11343 بودند، باقی خواهند ماند و برای جنوب در دسترس خواهند بود.\n\n@SatLastNews",
+      "message_id": 76685,
+      "message_link": "https://t.me/satlastnews/76685",
+      "text": "⭕️ چهار شبکه تلویزیونی از طریق فرکانس جدید در ماهواره ترکمنعالم هم مسیر یاهست روی آنتن رفتند:\n\n**Kurd Channel\nKomala TV\n4 Kurd\nBalochistan TV**\n\nYahsat / TurkmenAlem\n11382 V 27500\n\n@SatLastNews",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "14:51:04",
-      "gregorian_utc": "2026-10-24T11:21:04+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.021315+00:00"
+      "tehran_time": "15:13:54",
+      "gregorian_utc": "2026-10-24T11:43:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124880,
+      "media_size_human": "121.95 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76685_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-25T14:10:44.088548+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_122564_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122564_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299518+00:00"
+      "archived_at": "2026-10-25T14:10:44.430660+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477327+00:00"
+      "archived_at": "2026-10-25T14:10:43.346418+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,17 +847,17 @@
       "media_local_path": "media/IranintlTV_363821_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363821_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779511+00:00"
+      "archived_at": "2026-10-25T14:10:43.745371+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76682,
-      "message_link": "https://t.me/satlastnews/76682",
-      "text": "⭕️ همراهان عزیز ستلایت لست نیوز\n\nتمام نقد های شما به تغییرات فنی که در فرکانس 11343 ماهواره ترکمنعالم شامل شبکه های پرشیانا ایجاد شد را به مسئولان ستلایت انتقال دادیم.\n\nاین فرکانس از امشب مجددا به حالت قبل (QPSK) باز خواهد گشت.\n\nهر چند این کار باعث خواهد شد چند شبکه پرشیانا فعلا از این فرکانس حذف شوند، اما اعتقاد من این است که اکثریت بتوانند نیمی از شبکه ها را دریافت کنند، خیلی بهتر از این است که اکثریت کل شبکه ها را دریافت نکنند.\n\nبرای مابقی شبکه ها در آینده تصمیم گیری خواهد شد.\n\nدر نتیجه، تا ساعات آینده و طبق اطلاعیه بعدی، فرکانس 11343 افقی سیمیل ریت 27500 مجددا از 8PSK به QPSK تغییر خواهد نمود. هنوز عدد FEC دقیق آن را نمی دانم، اما به محض تغییر اطلاع رسانی خواهیم نمود.\n\n@SatLastNews",
+      "message_id": 76683,
+      "message_link": "https://t.me/satlastnews/76683",
+      "text": "❗️ در ضمن:\n\nدوستان عزیز، شبکه هایی از پرشیانا که روی 11420 افقی (ویژه جنوب ایران) قرار دارند، از امشب حذف می شوند. این شبکه ها 2 روز پیش با 8PSK شدن فرکانس 11343 در این فرکانس هم روی آنتن رفته بودند که از آن هم حذف خواهند شد.\n\nبرای پخش این شبکه ها در جنوب در آینده تصمیم گیری خواهد شد.\n\nحذف این شبکه ها از فرکانس 11420 افقی ویژه جنوب برای روی آنتن بردن شبکه های دیگر الزامی است.\n\n❗️ تمامی شبکه های پرشیانا که تا پیش از این در فرکانس 11343 بودند، باقی خواهند ماند و برای جنوب در دسترس خواهند بود.\n\n@SatLastNews",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "14:28:01",
-      "gregorian_utc": "2026-10-24T10:58:01+00:00",
+      "tehran_time": "14:51:04",
+      "gregorian_utc": "2026-10-24T11:21:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.021406+00:00"
+      "archived_at": "2026-10-25T14:10:44.088621+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.299548+00:00"
+      "archived_at": "2026-10-25T14:10:44.430691+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477352+00:00"
+      "archived_at": "2026-10-25T14:10:43.346447+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,17 +919,17 @@
       "media_local_path": "media/IranintlTV_363820_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363820_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779631+00:00"
+      "archived_at": "2026-10-25T14:10:43.745507+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76681,
-      "message_link": "https://t.me/satlastnews/76681",
-      "text": "⭕️ شبکه های آوا فمیلی و FX از فرکانس 11382 قطع شدند\n\nهمانطور که قبلا بار ها اعلام شده بود، فرکانس 11382 ماهواره ترکمنعالم فرکانس موقت شبکه های FX و AVA بودند و روز گذشته هر 4 شبکه از این فرکانس قطع شدند.\n\nاین 4 شبکه از طریق دیگر فرکانس های ثابت خود که چندین سال است از آن ها پخش می شوند در دسترس می باشند:\n\nFX 1 HD\nFX 2 HD\nYahsat / TurkmenAlem\n10762 V 27500 فرکانس اصلی\n11420 H 27500 ویژه جنوب ایران\n\nAVA Family HD\nAVA Series HD\nYahsat / TurkmenAlem\n10845 V 27500 فرکانس اصلی\n11420 H 27500 ویژه جنوب ایران\n\nبه دوستان خود اطلاع دهید.\n\n@SatLastNews",
+      "message_id": 76682,
+      "message_link": "https://t.me/satlastnews/76682",
+      "text": "⭕️ همراهان عزیز ستلایت لست نیوز\n\nتمام نقد های شما به تغییرات فنی که در فرکانس 11343 ماهواره ترکمنعالم شامل شبکه های پرشیانا ایجاد شد را به مسئولان ستلایت انتقال دادیم.\n\nاین فرکانس از امشب مجددا به حالت قبل (QPSK) باز خواهد گشت.\n\nهر چند این کار باعث خواهد شد چند شبکه پرشیانا فعلا از این فرکانس حذف شوند، اما اعتقاد من این است که اکثریت بتوانند نیمی از شبکه ها را دریافت کنند، خیلی بهتر از این است که اکثریت کل شبکه ها را دریافت نکنند.\n\nبرای مابقی شبکه ها در آینده تصمیم گیری خواهد شد.\n\nدر نتیجه، تا ساعات آینده و طبق اطلاعیه بعدی، فرکانس 11343 افقی سیمیل ریت 27500 مجددا از 8PSK به QPSK تغییر خواهد نمود. هنوز عدد FEC دقیق آن را نمی دانم، اما به محض تغییر اطلاع رسانی خواهیم نمود.\n\n@SatLastNews",
       "shamsi_date": "1405/08/02",
-      "tehran_time": "10:59:53",
-      "gregorian_utc": "2026-10-24T07:29:53+00:00",
+      "tehran_time": "14:28:01",
+      "gregorian_utc": "2026-10-24T10:58:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.021482+00:00"
+      "archived_at": "2026-10-25T14:10:44.088705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_122562_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122562_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299687+00:00"
+      "archived_at": "2026-10-25T14:10:44.430822+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477379+00:00"
+      "archived_at": "2026-10-25T14:10:43.346475+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,17 +991,17 @@
       "media_local_path": "media/IranintlTV_363819_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363819_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779812+00:00"
+      "archived_at": "2026-10-25T14:10:43.745666+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76677,
-      "message_link": "https://t.me/satlastnews/76677",
-      "text": "⭕️ پیامک، مکالمه و بسته های اینترنتی ۴۰ درصد گران شدند!\n\nدیگه چطور ازتون بخوان از تکنولوژی استفاده نکنید \n\nمگه دود آتیش چشه ؟\n\n@SatLastNews",
-      "shamsi_date": "1405/08/01",
-      "tehran_time": "15:10:40",
-      "gregorian_utc": "2026-10-23T11:40:40+00:00",
+      "message_id": 76681,
+      "message_link": "https://t.me/satlastnews/76681",
+      "text": "⭕️ شبکه های آوا فمیلی و FX از فرکانس 11382 قطع شدند\n\nهمانطور که قبلا بار ها اعلام شده بود، فرکانس 11382 ماهواره ترکمنعالم فرکانس موقت شبکه های FX و AVA بودند و روز گذشته هر 4 شبکه از این فرکانس قطع شدند.\n\nاین 4 شبکه از طریق دیگر فرکانس های ثابت خود که چندین سال است از آن ها پخش می شوند در دسترس می باشند:\n\nFX 1 HD\nFX 2 HD\nYahsat / TurkmenAlem\n10762 V 27500 فرکانس اصلی\n11420 H 27500 ویژه جنوب ایران\n\nAVA Family HD\nAVA Series HD\nYahsat / TurkmenAlem\n10845 V 27500 فرکانس اصلی\n11420 H 27500 ویژه جنوب ایران\n\nبه دوستان خود اطلاع دهید.\n\n@SatLastNews",
+      "shamsi_date": "1405/08/02",
+      "tehran_time": "10:59:53",
+      "gregorian_utc": "2026-10-24T07:29:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.021526+00:00"
+      "archived_at": "2026-10-25T14:10:44.088773+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_122561_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122561_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:52.299753+00:00"
+      "archived_at": "2026-10-25T14:10:44.430900+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:51.477405+00:00"
+      "archived_at": "2026-10-25T14:10:43.346501+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,17 +1063,17 @@
       "media_local_path": "media/IranintlTV_363818_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363818_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-25T14:00:51.779858+00:00"
+      "archived_at": "2026-10-25T14:10:43.745712+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76676,
-      "message_link": "https://t.me/satlastnews/76676",
-      "text": "⭕️ دوستان عزیز!\n\nمتاسفانه یک اطلاع رسانی اشتباه باعث شده بسیاری از مخاطبان ما دچار اشتباه شوند.\n\nتمامی فرکانس های DVB-S2 چه از نوع QPSK چه از نوع 8PSK توسط تمامی رسیور های اچ دی قابل دریافت می‌باشند!\n\nدریافت فرکانس های 8PSK به هیچ عنوان نیاز به تغییر رسیور ندارد!\n\nهیچ رسیوری در بازار ایران وجود ندارد که فرکانس های DVB-S2 از نوع QPSK را دریافت کند اما فرکانس های 8PSK را نه.\n\nروز گذشته یک بنده خدایی ۱۲ میلیون تومان هزینه کرده و گول نصاب رو خورده، به اسم این که فرکانس های 8PSK رو دریافت بکنه و سرش کلاه رفته.\n\nدر تمامی این سال ها تمام فرکانس های DVB-S2 ماهواره یوتلست همواره 8PSK بوده اند.\n\nعدم دریافت فرکانس پرشیانا در برخی نقاط جنوب ایران، به دلیل تغییر نوع فرکانس نیست! \n\nتغییر نوع فرکانس باعث ضعیف تر شدن فرکانس می‌شود، اما به این معنا نیست رسیور ها امکان دریافت آن را نخواهند داشت.\n\nاز برخی نصاب های عزیز هم درخواست می‌کنم در این وضعیت اقتصادی فاحعه بار، کم منصف و شریف باشید!\n\n@SatLastNews",
+      "message_id": 76677,
+      "message_link": "https://t.me/satlastnews/76677",
+      "text": "⭕️ پیامک، مکالمه و بسته های اینترنتی ۴۰ درصد گران شدند!\n\nدیگه چطور ازتون بخوان از تکنولوژی استفاده نکنید \n\nمگه دود آتیش چشه ؟\n\n@SatLastNews",
       "shamsi_date": "1405/08/01",
-      "tehran_time": "13:43:37",
-      "gregorian_utc": "2026-10-23T10:13:37+00:00",
+      "tehran_time": "15:10:40",
+      "gregorian_utc": "2026-10-23T11:40:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-25T14:00:52.021632+00:00"
+      "archived_at": "2026-10-25T14:10:44.088811+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 104.11 MB)",
-      "archived_at": "2026-10-25T14:00:52.299818+00:00"
+      "archived_at": "2026-10-25T14:10:44.430970+00:00"
     }
   ]
 }
