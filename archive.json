@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:03:06.899789+00:00",
-  "shamsi_generated": "1405/08/04 15:03:06 تهران",
+  "generated_at": "2026-10-26T15:12:17.098093+00:00",
+  "shamsi_generated": "1405/08/04 15:12:17 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.689940+00:00"
+      "archived_at": "2026-10-26T15:10:37.407873+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363971,
-      "message_link": "https://t.me/IranintlTV/363971",
-      "text": "لوئیس ایناسیو لولا دا سیلوا، رییس‌جمهوری برزیل، در دور دوم انتخابات با شکست فلاویو بولسونارو برای چهارمین دوره به ریاست‌جمهوری رسید. هواداران او تا بامداد دوشنبه در برازیلیا جشن گرفتند. بولسونارو نتیجه انتخابات را نپذیرفته و اعلام کرده است آن را به چالش خواهد کشید.\n@iranintltv",
+      "message_id": 363975,
+      "message_link": "https://t.me/IranintlTV/363975",
+      "text": "امروز، چهارم آبان، چهار سال از روزی می‌گذرد که جمعیت گسترده‌ای از مردم برای مراسم چهلم مهسا ژینا امینی راهی آرامستان آیچی سقز شدند؛ مراسمی که در جریان آن شماری از شهروندان کشته، زخمی یا بازداشت شدند.\n\nهم‌زمان، تصاویر ارسالی شهروندان به ایران‌اینترنشنال از گسترش اعتراضات در بیش از ۳۰ شهر، از جمله تهران، حکایت داشت؛ اعتراضاتی که با وجود تشدید سرکوب جنبش «زن، زندگی، آزادی» ادامه یافت.\n\nایران‌اینترنشنال از مهم‌ترین رسانه‌های خارج از کشور بود که این اعتراضات سراسری را به‌طور گسترده پوشش داد و تصاویر، روایت‌ها و گزارش‌های شهروندان را منتشر کرد.\n\nدر گزارش پیش رو، شماری از خبرنگاران ایران‌اینترنشنال از تجربه خود در پوشش اعتراضات پس از کشته‌شدن مهسا ژینا امینی و تصاویری می‌گویند که پس از چهار سال همچنان در ذهنشان باقی مانده است.\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "18:18:38",
-      "gregorian_utc": "2026-10-26T14:48:38+00:00",
+      "tehran_time": "18:39:38",
+      "gregorian_utc": "2026-10-26T15:09:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 789104,
-      "media_size_human": "770.61 KB",
+      "media_size_bytes": 2313952,
+      "media_size_human": "2.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363971_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363971_video.mp4",
+      "media_local_path": "media/IranintlTV_363975_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363975_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292156+00:00"
+      "archived_at": "2026-10-26T15:10:37.652889+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76698_document.bin",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76698_document.bin",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.678955+00:00"
+      "archived_at": "2026-10-26T15:10:37.904978+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_122608_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122608_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036652+00:00"
+      "archived_at": "2026-10-26T15:10:38.151869+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.689981+00:00"
+      "archived_at": "2026-10-26T15:10:37.407928+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363970,
-      "message_link": "https://t.me/IranintlTV/363970",
-      "text": "سرخط خبرهای دوشنبه ۴ آبان\n@iranintltv",
+      "message_id": 363974,
+      "message_link": "https://t.me/IranintlTV/363974",
+      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، دوشنبه چهارم آبان، پیش از سفر به روسیه گفت روابط تهران و مسکو رو به گسترش است و در دیدار با ولادیمیر پوتین، رییس‌جمهوری روسیه، درباره توسعه همکاری‌های دوجانبه و موضوعات مورد علاقه دو کشور گفت‌وگو خواهد کرد.\nپزشکیان با اشاره به روابط تهران و مسکو گفت: «گفت‌وگوی مستقیم با رییس‌جمهوری روسیه خواهیم داشت؛ روابط ما رو به گسترش است.»\nاو همچنین بر ضرورت آزادی تجارت و انتقال انرژی در جهان تاکید کرد و گفت: «آزادی تجارت برای انتقال انرژی به دنیا باید فراهم باشد. تفاهم و گفت‌وگوی راهبردی، مدیریت انرژی جهان را ممکن می‌کند.»\nرییس دولت جمهوری اسلامی با اشاره به سیاست خارجی تهران گفت: «هدف ما گسترش چندجانبه‌گرایی است، نه یکجانبه‌گرایی و قدرت‌نمایی یک کشور.»\nپزشکیان همچنین خواستار گسترش مبادلات تجاری با استفاده از ارزهای ملی شد و گفت: «کشورها باید با پول خود یا پول‌های مورد توافق تعامل کنند تا تحریم‌های یکجانبه آمریکا کارساز نباشد.»\nhttps://iranintl.com/202610262498",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "18:06:09",
-      "gregorian_utc": "2026-10-26T14:36:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 691809,
-      "media_size_human": "675.59 KB",
+      "tehran_time": "18:38:45",
+      "gregorian_utc": "2026-10-26T15:08:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161017,
+      "media_size_human": "157.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363970_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363970_video.mp4",
+      "media_local_path": "media/IranintlTV_363974_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363974_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292207+00:00"
+      "archived_at": "2026-10-26T15:10:37.653047+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679082+00:00"
+      "archived_at": "2026-10-26T15:10:37.905139+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_122607_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122607_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036701+00:00"
+      "archived_at": "2026-10-26T15:10:38.151936+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690006+00:00"
+      "archived_at": "2026-10-26T15:10:37.407965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363969,
-      "message_link": "https://t.me/IranintlTV/363969",
-      "text": "همزمان با سفر مقام‌های ارشد دفاعی و امنیتی پاکستان، عربستان سعودی و ترکیه به تهران، شورای عالی امنیت ملی جمهوری اسلامی با صدور دستوری محرمانه به رسانه‌ها، از آن‌ها خواست درباره موضوع «توافق مکه»، چه در تایید و چه در رد آن، تحلیلی ارائه نکنند.\n\nبر اساس نسخه‌ای از این دستور که به دست ایران‌اینترنشنال رسیده است، شعام پنج محور مدنظر خود برای پوشش خبری این نشست را به رسانه‌های داخلی ابلاغ کرده و از رسانه‌ها خواسته تاکید کنند که این سفر به پیشنهاد پاکستان و با نظر مساعد ایران انجام می‌شود.\n\nشورای عالی امنیت ملی همچنین از رسانه‌ها خواسته است بر این موضوع تاکید کنند که کشورهای منطقه پس از جنگ اخیر به این نتیجه رسیده‌اند که امنیت تنها با همکاری و مشارکت همه کشورهای منطقه تامین می‌شود.\n\nدر بخش دیگری از پیام آمده است که این سفر می‌تواند زمینه‌ساز حرکت به سمت «سیاست امنیت درون‌زای منطقه‌ای» باشد و این روند از تهران آغاز شود.\n\nبر اساس این پیام، امنیت منطقه‌ای، پیامدهای حملات نظامی آمریکا و اسرائیل به ایران، ادامه این حملات و کمک به مردم فلسطین و لبنان از موضوعات مورد بحث در نشست تهران خواهد بود.\nhttps://iranintl.com/2026",
+      "message_id": 363973,
+      "message_link": "https://t.me/IranintlTV/363973",
+      "text": "ویدیوهای منتشرشده نشان می‌دهد گروهی از بازنشستگان مخابرات، دوشنبه چهارم آبان در شهرهای اصفهان، تهران و کرمانشاه تجمع کردند و فریاد زدند: «ستاد فرمان امام، حق ماها رو خورده»",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "18:00:53",
-      "gregorian_utc": "2026-10-26T14:30:53+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 240885,
-      "media_size_human": "235.24 KB",
+      "tehran_time": "18:33:20",
+      "gregorian_utc": "2026-10-26T15:03:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11932155,
+      "media_size_human": "11.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363969_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363969_photo.jpg",
+      "media_local_path": "media/IranintlTV_363973_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292353+00:00"
+      "archived_at": "2026-10-26T15:10:37.653094+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76695_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679164+00:00"
+      "archived_at": "2026-10-26T15:10:37.905249+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:56.036722+00:00"
+      "archived_at": "2026-10-26T15:10:38.151968+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690034+00:00"
+      "archived_at": "2026-10-26T15:10:37.408004+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363968,
-      "message_link": "https://t.me/IranintlTV/363968",
-      "text": "حسین بروجردی، معاون سیاسی سپاه استان قزوین، دوشنبه چهارم آبان، با تشریح آنچه جزییات عملیات نیروهای آمریکایی در اصفهان خواند، گفت ۲۵۰ نیروی آمریکایی وارد این منطقه شده بودند، اما به دلیل آنچه او «مدد الهی» خواند، عملیات آنها با ناکامی مواجه شد.\nبه گزارش خبرگزاری ایلنا، بروجردی  گفت نیروهای مسلح جمهوری اسلامی در فاصله پنج کیلومتری محل حضور نیروهای آمریکایی قرار داشتند.\nاو با اشاره به نحوه ورود نیروهای آمریکایی گفت آنها از هواپیماهایی استفاده کردند که در ارتفاع پایین پرواز می‌کردند و از دید رادارها دور بودند.\nاو در تشریح جزییات این حادثه گفت یکی از هواپیماهای آمریکایی پس از فرود و هنگام آماده‌سازی برای پیاده‌کردن نیروها، به دلیل افتادن چرخ جلوی آن در یک حفره متوقف شد و تلاش نیروهای آمریکایی برای خارج‌کردن هواپیما به نتیجه نرسید.\nبه گفته این مقام سپاه پاسداران، سر و صدای ناشی از تلاش برای خارج‌کردن هواپیما و برهم‌خوردن شرایط اختفا باعث شد نیروهای آمریکایی ناچار به عقب‌نشینی شوند.\nhttps://iranintl.com/202610260782",
+      "message_id": 363972,
+      "message_link": "https://t.me/IranintlTV/363972",
+      "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، حسن گلشن‌نژاد، شهروند ۳۶ ساله ساکن مشهد، پنجم اسفند سال گذشته بازداشت شد و حکم بدوی اعدام او روز چهار آبان در دادگاه به وی ابلاغ شد. او ۱۰ روز برای اعتراض به این حکم فرصت دارد.\n\nاتهام‌های مطرح‌شده علیه او شامل محاربه، اجتماع و تبانی، توهین به رهبر جمهوری اسلامی، شرکت در فراخوان شاهزاده رضا پهلوی، همکاری با دولت اسرائیل و آسیب به اموال عمومی است.\n\nگلشن‌نژاد پس از بازداشت به زندان وکیل‌آباد منتقل شد. او در سه ماه نخست بازداشت از دسترسی به وکیل انتخابی محروم بود. همچنین در دوران بازداشت شکنجه شد و دنده‌اش شکست.\n\nنخستین و آخرین جلسه دادگاه او پس از حدود هشت ماه بازداشت، روز ۲۸ مهر برگزار شد.\n\nگلشن‌نژاد متاهل و پدر یک کودک خردسال است.\nhttps://iranintl.com/202610266330",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:54:11",
-      "gregorian_utc": "2026-10-26T14:24:11+00:00",
+      "tehran_time": "18:31:27",
+      "gregorian_utc": "2026-10-26T15:01:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 143008,
-      "media_size_human": "139.66 KB",
+      "media_size_bytes": 142055,
+      "media_size_human": "138.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363968_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363968_photo.jpg",
+      "media_local_path": "media/IranintlTV_363972_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363972_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292459+00:00"
+      "archived_at": "2026-10-26T15:10:37.653213+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76694_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76694_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679204+00:00"
+      "archived_at": "2026-10-26T15:10:37.905309+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_122605_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122605_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036758+00:00"
+      "archived_at": "2026-10-26T15:10:38.152022+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690066+00:00"
+      "archived_at": "2026-10-26T15:10:37.408040+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363967,
-      "message_link": "https://t.me/IranintlTV/363967",
-      "text": "یک منبع آگاه نزدیک به خانواده علیرضا رییسی، از معترضان اعدام‌شده در اصفهان، به ایران‌اینترنشنال گفت پنج چاقوی متعلق به مرغ‌فروشی محل کار او، به‌عنوان مدرک علیه او در دادگاه استفاده شده بود.\n\nعلیرضا رییسی ۲۹ دی‌ماه بازداشت شد و به اتهام «محاربه» به اعدام محکوم شد. حکم اعدام این شهروند ۲۱ ساله، ۱۳ مهرماه به اجرا درآمد و پیکرش بدون اطلاع خانواده در بیابان‌های انارک در استان اصفهان به خاک سپرده شد.\n\nگفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 363971,
+      "message_link": "https://t.me/IranintlTV/363971",
+      "text": "لوئیس ایناسیو لولا دا سیلوا، رییس‌جمهوری برزیل، در دور دوم انتخابات با شکست فلاویو بولسونارو برای چهارمین دوره به ریاست‌جمهوری رسید. هواداران او تا بامداد دوشنبه در برازیلیا جشن گرفتند. بولسونارو نتیجه انتخابات را نپذیرفته و اعلام کرده است آن را به چالش خواهد کشید.\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:51:48",
-      "gregorian_utc": "2026-10-26T14:21:48+00:00",
+      "tehran_time": "18:18:38",
+      "gregorian_utc": "2026-10-26T14:48:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 2849811,
-      "media_size_human": "2.72 MB",
+      "media_size_bytes": 789104,
+      "media_size_human": "770.61 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363967_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363967_video.mp4",
+      "media_local_path": "media/IranintlTV_363971_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363971_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292525+00:00"
+      "archived_at": "2026-10-26T15:10:37.653287+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76693_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76693_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679247+00:00"
+      "archived_at": "2026-10-26T15:10:37.905374+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:56.036791+00:00"
+      "archived_at": "2026-10-26T15:10:38.152075+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690091+00:00"
+      "archived_at": "2026-10-26T15:10:37.408077+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363966,
-      "message_link": "https://t.me/IranintlTV/363966",
-      "text": "به گفته رییس سازمان آتش‌نشانی و خدمات ایمنی شهرداری کرمانشاه، انفجار یک منزل مسکونی در محله جعفرآباد کرمانشاه ۱۰ مصدوم بر جای گذاشت.\n@iranintltv",
+      "message_id": 363970,
+      "message_link": "https://t.me/IranintlTV/363970",
+      "text": "سرخط خبرهای دوشنبه ۴ آبان\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:43:14",
-      "gregorian_utc": "2026-10-26T14:13:14+00:00",
+      "tehran_time": "18:06:09",
+      "gregorian_utc": "2026-10-26T14:36:09+00:00",
       "media_type": "video",
-      "media_size_bytes": 79706,
-      "media_size_human": "77.84 KB",
+      "media_size_bytes": 691809,
+      "media_size_human": "675.59 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363966_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363966_video.mp4",
+      "media_local_path": "media/IranintlTV_363970_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363970_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292564+00:00"
+      "archived_at": "2026-10-26T15:10:37.653342+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76692_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76692_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679294+00:00"
+      "archived_at": "2026-10-26T15:10:37.905441+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122603_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122603_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036818+00:00"
+      "archived_at": "2026-10-26T15:10:38.152114+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690109+00:00"
+      "archived_at": "2026-10-26T15:10:37.408107+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363965,
-      "message_link": "https://t.me/IranintlTV/363965",
-      "text": "کانال ۱۲ اسرائیل گزارش داد ایال زمیر، رییس ستاد کل ارتش، با اقدام موردنظر بنیامین نتانیاهو که می‌توانست پیش از انتخابات به تشدید درگیری با جمهوری اسلامی منجر شود، مخالفت کرده است.\n\nسی‌ان‌ان نیز گزارش داد دونالد ترامپ با درخواست نتانیاهو برای آغاز اقدام نظامی علیه جمهوری اسلامی پیش از انتخابات پارلمان اسرائیل مخالفت کرده است. نتانیاهو هر دو گزارش را رد کرده است.\n\nجزئیات بیشتر در گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 363969,
+      "message_link": "https://t.me/IranintlTV/363969",
+      "text": "همزمان با سفر مقام‌های ارشد دفاعی و امنیتی پاکستان، عربستان سعودی و ترکیه به تهران، شورای عالی امنیت ملی جمهوری اسلامی با صدور دستوری محرمانه به رسانه‌ها، از آن‌ها خواست درباره موضوع «توافق مکه»، چه در تایید و چه در رد آن، تحلیلی ارائه نکنند.\n\nبر اساس نسخه‌ای از این دستور که به دست ایران‌اینترنشنال رسیده است، شعام پنج محور مدنظر خود برای پوشش خبری این نشست را به رسانه‌های داخلی ابلاغ کرده و از رسانه‌ها خواسته تاکید کنند که این سفر به پیشنهاد پاکستان و با نظر مساعد ایران انجام می‌شود.\n\nشورای عالی امنیت ملی همچنین از رسانه‌ها خواسته است بر این موضوع تاکید کنند که کشورهای منطقه پس از جنگ اخیر به این نتیجه رسیده‌اند که امنیت تنها با همکاری و مشارکت همه کشورهای منطقه تامین می‌شود.\n\nدر بخش دیگری از پیام آمده است که این سفر می‌تواند زمینه‌ساز حرکت به سمت «سیاست امنیت درون‌زای منطقه‌ای» باشد و این روند از تهران آغاز شود.\n\nبر اساس این پیام، امنیت منطقه‌ای، پیامدهای حملات نظامی آمریکا و اسرائیل به ایران، ادامه این حملات و کمک به مردم فلسطین و لبنان از موضوعات مورد بحث در نشست تهران خواهد بود.\nhttps://iranintl.com/2026",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:38:09",
-      "gregorian_utc": "2026-10-26T14:08:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4232249,
-      "media_size_human": "4.04 MB",
+      "tehran_time": "18:00:53",
+      "gregorian_utc": "2026-10-26T14:30:53+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 240885,
+      "media_size_human": "235.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363965_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363965_video.mp4",
+      "media_local_path": "media/IranintlTV_363969_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363969_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292622+00:00"
+      "archived_at": "2026-10-26T15:10:37.653487+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679330+00:00"
+      "archived_at": "2026-10-26T15:10:37.905492+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:56.036835+00:00"
+      "archived_at": "2026-10-26T15:10:38.152141+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690139+00:00"
+      "archived_at": "2026-10-26T15:10:37.408150+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363964,
-      "message_link": "https://t.me/IranintlTV/363964",
-      "text": "نشست چهارجانبه جمهوری اسلامی، پاکستان، ترکیه و عربستان سعودی با محوریت امنیت و ثبات منطقه‌ای به میزبانی تهران آغاز شد.\n@iranintltv",
+      "message_id": 363968,
+      "message_link": "https://t.me/IranintlTV/363968",
+      "text": "حسین بروجردی، معاون سیاسی سپاه استان قزوین، دوشنبه چهارم آبان، با تشریح آنچه جزییات عملیات نیروهای آمریکایی در اصفهان خواند، گفت ۲۵۰ نیروی آمریکایی وارد این منطقه شده بودند، اما به دلیل آنچه او «مدد الهی» خواند، عملیات آنها با ناکامی مواجه شد.\nبه گزارش خبرگزاری ایلنا، بروجردی  گفت نیروهای مسلح جمهوری اسلامی در فاصله پنج کیلومتری محل حضور نیروهای آمریکایی قرار داشتند.\nاو با اشاره به نحوه ورود نیروهای آمریکایی گفت آنها از هواپیماهایی استفاده کردند که در ارتفاع پایین پرواز می‌کردند و از دید رادارها دور بودند.\nاو در تشریح جزییات این حادثه گفت یکی از هواپیماهای آمریکایی پس از فرود و هنگام آماده‌سازی برای پیاده‌کردن نیروها، به دلیل افتادن چرخ جلوی آن در یک حفره متوقف شد و تلاش نیروهای آمریکایی برای خارج‌کردن هواپیما به نتیجه نرسید.\nبه گفته این مقام سپاه پاسداران، سر و صدای ناشی از تلاش برای خارج‌کردن هواپیما و برهم‌خوردن شرایط اختفا باعث شد نیروهای آمریکایی ناچار به عقب‌نشینی شوند.\nhttps://iranintl.com/202610260782",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:37:44",
-      "gregorian_utc": "2026-10-26T14:07:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 385520,
-      "media_size_human": "376.48 KB",
+      "tehran_time": "17:54:11",
+      "gregorian_utc": "2026-10-26T14:24:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 143008,
+      "media_size_human": "139.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363964_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363964_video.mp4",
+      "media_local_path": "media/IranintlTV_363968_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363968_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292661+00:00"
+      "archived_at": "2026-10-26T15:10:37.653641+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679374+00:00"
+      "archived_at": "2026-10-26T15:10:37.905574+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_122601_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122601_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036857+00:00"
+      "archived_at": "2026-10-26T15:10:38.152175+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690159+00:00"
+      "archived_at": "2026-10-26T15:10:37.408180+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363963,
-      "message_link": "https://t.me/IranintlTV/363963",
-      "text": "یک مقام ارشد جمهوری اسلامی به رویترز گفت که مقام‌های ایرانی در مذاکرات دوشنبه با اعضای پیمان مکه در تهران، درباره برنامه هسته‌ای خود گفت‌وگو نخواهند کرد.\nاین مقام که نامش اعلام نشده است، گفت آمریکا باید ابتدا شروط تهران را برای پایان دائمی جنگ علیه جمهوری اسلامی برآورده کند.\nعاصم منیر، رییس ستادکل ارتش پاکستان، خالد بن سلمان، وزیر دفاع عربستان، و ابراهیم کالین، رییس دستگاه اطلاعاتی ترکیه، دوشنبه چهارم آبان در تهران با مسعود پزشکیان، رییس دولت جمهوری اسلامی، دیدار کردند.\nاین دیدار در چارچوب سفر نمایندگان کشورهای عضو پیمان دفاع مشترک مکه به تهران انجام شد. وزارت خارجه عربستان هدف این سفر را کاهش تنش‌های منطقه‌ای، تشویق گفت‌وگو و راه‌حل‌های دیپلماتیک و حمایت از تلاش‌های میانجی‌گرانه قطر و پاکستان اعلام کرده است.\nhttps://iranintl.com/202610268883",
+      "message_id": 363967,
+      "message_link": "https://t.me/IranintlTV/363967",
+      "text": "یک منبع آگاه نزدیک به خانواده علیرضا رییسی، از معترضان اعدام‌شده در اصفهان، به ایران‌اینترنشنال گفت پنج چاقوی متعلق به مرغ‌فروشی محل کار او، به‌عنوان مدرک علیه او در دادگاه استفاده شده بود.\n\nعلیرضا رییسی ۲۹ دی‌ماه بازداشت شد و به اتهام «محاربه» به اعدام محکوم شد. حکم اعدام این شهروند ۲۱ ساله، ۱۳ مهرماه به اجرا درآمد و پیکرش بدون اطلاع خانواده در بیابان‌های انارک در استان اصفهان به خاک سپرده شد.\n\nگفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "17:25:55",
-      "gregorian_utc": "2026-10-26T13:55:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 238258,
-      "media_size_human": "232.67 KB",
+      "tehran_time": "17:51:48",
+      "gregorian_utc": "2026-10-26T14:21:48+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2849811,
+      "media_size_human": "2.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363963_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363963_photo.jpg",
+      "media_local_path": "media/IranintlTV_363967_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363967_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292747+00:00"
+      "archived_at": "2026-10-26T15:10:37.653736+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679421+00:00"
+      "archived_at": "2026-10-26T15:10:37.905646+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_122600_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122600_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036878+00:00"
+      "archived_at": "2026-10-26T15:10:38.152208+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690181+00:00"
+      "archived_at": "2026-10-26T15:10:37.408206+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363962,
-      "message_link": "https://t.me/IranintlTV/363962",
-      "text": "",
+      "message_id": 363966,
+      "message_link": "https://t.me/IranintlTV/363966",
+      "text": "به گفته رییس سازمان آتش‌نشانی و خدمات ایمنی شهرداری کرمانشاه، انفجار یک منزل مسکونی در محله جعفرآباد کرمانشاه ۱۰ مصدوم بر جای گذاشت.\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:43:43",
-      "gregorian_utc": "2026-10-26T13:13:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 158086,
-      "media_size_human": "154.38 KB",
+      "tehran_time": "17:43:14",
+      "gregorian_utc": "2026-10-26T14:13:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 79706,
+      "media_size_human": "77.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363962_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363962_photo.jpg",
+      "media_local_path": "media/IranintlTV_363966_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363966_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.292771+00:00"
+      "archived_at": "2026-10-26T15:10:37.653795+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76686_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679551+00:00"
+      "archived_at": "2026-10-26T15:10:37.905833+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_122599_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122599_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036909+00:00"
+      "archived_at": "2026-10-26T15:10:38.152249+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690199+00:00"
+      "archived_at": "2026-10-26T15:10:37.408232+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363961,
-      "message_link": "https://t.me/IranintlTV/363961",
-      "text": "🔻علیرضا بیرانوند، دروازه‌بان تراکتور، برای آغاز خدمت سربازی خود راهی استان فارس شد و خود را به یگان خدمتی‌اش در پادگان آباده معرفی کرد.\n\n🔹تصویر منتشر شده در رسانه‌های ایران، از جمله خبرگزاری فارس، وابسته به سپاه پاسداران نشان می‌دهد او به پادگان آباده رفته تا وسایل مورد نیاز را برای دوره آموزشی خود تحویل بگیرد.\n\n@iranintltvsport",
+      "message_id": 363965,
+      "message_link": "https://t.me/IranintlTV/363965",
+      "text": "کانال ۱۲ اسرائیل گزارش داد ایال زمیر، رییس ستاد کل ارتش، با اقدام موردنظر بنیامین نتانیاهو که می‌توانست پیش از انتخابات به تشدید درگیری با جمهوری اسلامی منجر شود، مخالفت کرده است.\n\nسی‌ان‌ان نیز گزارش داد دونالد ترامپ با درخواست نتانیاهو برای آغاز اقدام نظامی علیه جمهوری اسلامی پیش از انتخابات پارلمان اسرائیل مخالفت کرده است. نتانیاهو هر دو گزارش را رد کرده است.\n\nجزئیات بیشتر در گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:43:43",
-      "gregorian_utc": "2026-10-26T13:13:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 252198,
-      "media_size_human": "246.29 KB",
+      "tehran_time": "17:38:09",
+      "gregorian_utc": "2026-10-26T14:08:09+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4232249,
+      "media_size_human": "4.04 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363961_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363961_photo.jpg",
+      "media_local_path": "media/IranintlTV_363965_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363965_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.303092+00:00"
+      "archived_at": "2026-10-26T15:10:37.653875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76685_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.679596+00:00"
+      "archived_at": "2026-10-26T15:10:37.905903+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_122598_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122598_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036931+00:00"
+      "archived_at": "2026-10-26T15:10:38.152287+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690215+00:00"
+      "archived_at": "2026-10-26T15:10:37.408262+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363960,
-      "message_link": "https://t.me/IranintlTV/363960",
-      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی حوزه انرژی، گفت موج خبری مقابله با قاچاق سوخت، بنا بر تجربه سال‌های گذشته، مقدمه افزایش قیمت بنزین است. به گفته او، محدودیت‌های تازه سوخت‌گیری می‌تواند ناشی از نگرانی حکومت از کمبود بنزین در صورت جنگ و حمله به زیرساخت‌ها باشد.\n@iranintltv",
+      "message_id": 363964,
+      "message_link": "https://t.me/IranintlTV/363964",
+      "text": "نشست چهارجانبه جمهوری اسلامی، پاکستان، ترکیه و عربستان سعودی با محوریت امنیت و ثبات منطقه‌ای به میزبانی تهران آغاز شد.\n@iranintltv",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:35:35",
-      "gregorian_utc": "2026-10-26T13:05:35+00:00",
+      "tehran_time": "17:37:44",
+      "gregorian_utc": "2026-10-26T14:07:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 3629171,
-      "media_size_human": "3.46 MB",
+      "media_size_bytes": 385520,
+      "media_size_human": "376.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363960_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363960_video.mp4",
+      "media_local_path": "media/IranintlTV_363964_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363964_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.303182+00:00"
+      "archived_at": "2026-10-26T15:10:37.653928+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679653+00:00"
+      "archived_at": "2026-10-26T15:10:37.905982+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_122597_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122597_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.036974+00:00"
+      "archived_at": "2026-10-26T15:10:38.152355+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690234+00:00"
+      "archived_at": "2026-10-26T15:10:37.408287+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363959,
-      "message_link": "https://t.me/IranintlTV/363959",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از دانشجویان دانشگاه علوم کشاورزی و منابع طبیعی گرگان، دوشنبه چهارم آبان در اعتراض به کیفیت بد غذا، سینی‌های غذا را روی زمین گذاشتند و تجمع کردند.",
+      "message_id": 363963,
+      "message_link": "https://t.me/IranintlTV/363963",
+      "text": "یک مقام ارشد جمهوری اسلامی به رویترز گفت که مقام‌های ایرانی در مذاکرات دوشنبه با اعضای پیمان مکه در تهران، درباره برنامه هسته‌ای خود گفت‌وگو نخواهند کرد.\nاین مقام که نامش اعلام نشده است، گفت آمریکا باید ابتدا شروط تهران را برای پایان دائمی جنگ علیه جمهوری اسلامی برآورده کند.\nعاصم منیر، رییس ستادکل ارتش پاکستان، خالد بن سلمان، وزیر دفاع عربستان، و ابراهیم کالین، رییس دستگاه اطلاعاتی ترکیه، دوشنبه چهارم آبان در تهران با مسعود پزشکیان، رییس دولت جمهوری اسلامی، دیدار کردند.\nاین دیدار در چارچوب سفر نمایندگان کشورهای عضو پیمان دفاع مشترک مکه به تهران انجام شد. وزارت خارجه عربستان هدف این سفر را کاهش تنش‌های منطقه‌ای، تشویق گفت‌وگو و راه‌حل‌های دیپلماتیک و حمایت از تلاش‌های میانجی‌گرانه قطر و پاکستان اعلام کرده است.\nhttps://iranintl.com/202610268883",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:33:56",
-      "gregorian_utc": "2026-10-26T13:03:56+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5137941,
-      "media_size_human": "4.90 MB",
+      "tehran_time": "17:25:55",
+      "gregorian_utc": "2026-10-26T13:55:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 238258,
+      "media_size_human": "232.67 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363959_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363959_video.mp4",
+      "media_local_path": "media/IranintlTV_363963_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363963_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.303216+00:00"
+      "archived_at": "2026-10-26T15:10:37.654046+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679723+00:00"
+      "archived_at": "2026-10-26T15:10:37.906074+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:56.036992+00:00"
+      "archived_at": "2026-10-26T15:10:38.152387+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690251+00:00"
+      "archived_at": "2026-10-26T15:10:37.408318+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363958,
-      "message_link": "https://t.me/IranintlTV/363958",
-      "text": "هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، با اشاره به سفر مقامات عربستان سعودی، پاکستان و ترکیه به ایران گفت: تضاد منافع این کشورها با یکدیگر و با جمهوری اسلامی، دستیابی به توافقی برای جلوگیری از گسترش جنگ، مهار حملات حوثی‌ها و ایجاد ترتیبات امنیتی منطقه را ناممکن می‌کند.\n@iranintltv",
+      "message_id": 363962,
+      "message_link": "https://t.me/IranintlTV/363962",
+      "text": "",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:25:45",
-      "gregorian_utc": "2026-10-26T12:55:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3723114,
-      "media_size_human": "3.55 MB",
+      "tehran_time": "16:43:43",
+      "gregorian_utc": "2026-10-26T13:13:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 158086,
+      "media_size_human": "154.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_363958_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363958_video.mp4",
+      "media_local_path": "media/IranintlTV_363962_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363962_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:55.303266+00:00"
+      "archived_at": "2026-10-26T15:10:37.654085+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679778+00:00"
+      "archived_at": "2026-10-26T15:10:37.906148+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:56.037025+00:00"
+      "archived_at": "2026-10-26T15:10:38.152439+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:54.690267+00:00"
+      "archived_at": "2026-10-26T15:10:37.408343+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 363957,
-      "message_link": "https://t.me/IranintlTV/363957",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - دوشنبه ۴ آبان**\n\n🔹وضع کشور دیگه خیلی خراب شده، اینترنت هم نمی‌شه گرفت. بسته‌های ۲ گیگ رو به اسم ۴ گیگ می‌دن. اینترنت به‌شدت ضعیفه، تلگرام به‌زور باز می‌شه. بسته ۴ گیگ اینترنت شده ۵۰ هزار تومان و هر روز هم تموم می‌شه، ما از کجا بیاریم؟\n\n🔹آقای پزشکیان، شما چه خصومتی با بازنشستگان لشکری دارید؟ آخه این چه حقوقی است که به بازنشستگان می‌دید؟ خجالت بکشید، شرم کنید. با این تورم که به وجود آوردید، ما بازنشستگان لشکری زندگی سختی داریم، پس افزایش حقوق کجا رفت؟\n\n🔹اتوبوس‌های اصفهان فرسوده شدن و هیچ نوع تعمیراتی واسه اتوبوس‌های واحد انجام نمی‌شه. باید بعضی روزها ساعت‌ها معطل شد تا یک اتوبوس به ایستگاه بیاد. لعنت بهت جمهوری اسلامی که پول ملت رو می‌دی لبنان.\n\n🔹پیامک اومده بسته اینترنتی رو قسطی بخرید، شرم بر جمهوری اسلامی که ما رو به این روز رسوند.\n\n🔹دانشگاه ما پر از پوستر و بنر از عکس‌های هوش مصنوعی مجتبی شده، عکس‌های داخل کلاس هم این‌قدر فتوشاپ شده که به نوه خمینی بیشتر شبیه تا مقوا، نهایت حقارت رو می‌شه دید.\n\n🔹مردم به‌زور دارن پول آب و برق رو می‌دن، اون‌وقت پول یک بسته اینترنت ۶ گیگ یک‌ماهه که هفته پیش ۵۰ هزار تومان بود، الان شده ۸۰ هزار تومان.\n\n🔹از خرم‌آباد: روغن‌موتور برای آریسان ۲ تعویض کردم و شد ۱۰ میلیون. اسنپ کار می‌کنم، بعد کرایه اسنپ از خرم‌آباد تا تهران می‌زنه دو میلیون تومان. یعنی من چهار مرتبه بار به تهران بزنم، می‌شه هشت میلیون تومان که حتی پول روغن ماشین هم نمی‌شه.\n\n🔹من یک دانش‌آموز کلاس ششمی هستم و واقعاً برای تغذیه مدرسه، یک کیک و آبمیوه نمی‌تونم بخرم.",
+      "message_id": 363961,
+      "message_link": "https://t.me/IranintlTV/363961",
+      "text": "🔻علیرضا بیرانوند، دروازه‌بان تراکتور، برای آغاز خدمت سربازی خود راهی استان فارس شد و خود را به یگان خدمتی‌اش در پادگان آباده معرفی کرد.\n\n🔹تصویر منتشر شده در رسانه‌های ایران، از جمله خبرگزاری فارس، وابسته به سپاه پاسداران نشان می‌دهد او به پادگان آباده رفته تا وسایل مورد نیاز را برای دوره آموزشی خود تحویل بگیرد.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "16:13:04",
-      "gregorian_utc": "2026-10-26T12:43:04+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.303435+00:00"
+      "tehran_time": "16:43:43",
+      "gregorian_utc": "2026-10-26T13:13:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 252198,
+      "media_size_human": "246.29 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_363961_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_363961_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-26T15:10:37.663114+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-26T15:00:55.679806+00:00"
+      "archived_at": "2026-10-26T15:10:37.906191+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_122594_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122594_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-26T15:00:56.037077+00:00"
+      "archived_at": "2026-10-26T15:10:38.152502+00:00"
     }
   ]
 }
