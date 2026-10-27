@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T09:23:45.704416+00:00",
-  "shamsi_generated": "1405/08/05 09:23:45 تهران",
+  "generated_at": "2026-10-27T09:33:58.258054+00:00",
+  "shamsi_generated": "1405/08/05 09:33:58 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191794+00:00"
+      "archived_at": "2026-10-27T09:30:45.243382+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364094,
-      "message_link": "https://t.me/IranintlTV/364094",
-      "text": "مئیر جاودانفر، تحلیلگر مسائل اسرائیل، با اشاره به میانگین نظرسنجی‌ها گفت تشکیل ائتلاف ۶۱ کرسی برای بنیامین نتانیاهو دشوار به نظر می‌رسد، اما با توجه به سابقه انتخابات اسرائیل، نمی‌توان نتایج نظرسنجی‌ها را قطعی دانست. \n\nبه گفته او، اپوزیسیون ممکن است با حمایت احزاب عرب، حتی بدون حضور آنها در کابینه، دولت تشکیل دهد.\n@iranintltv",
+      "message_id": 364096,
+      "message_link": "https://t.me/IranintlTV/364096",
+      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، با اشاره به تلاش‌های دیپلماتیک کشورهای منطقه گفت این‌ تلاش‌ها به‌احتمال زیاد نمی‌تواند مانع وقوع دوباره جنگ شود.\n\nبه گفته او، در حالی که آمریکا به‌دنبال شکل‌دهی به نظم جدید خاورمیانه با اتکا به بازیگران منطقه‌ای است، جمهوری اسلامی در این نظم جایگاهی نخواهد داشت.\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "12:50:22",
-      "gregorian_utc": "2026-10-27T09:20:22+00:00",
+      "tehran_time": "12:55:25",
+      "gregorian_utc": "2026-10-27T09:25:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 4859994,
-      "media_size_human": "4.63 MB",
+      "media_size_bytes": 3958408,
+      "media_size_human": "3.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364094_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364094_video.mp4",
+      "media_local_path": "media/IranintlTV_364096_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364096_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.540824+00:00"
+      "archived_at": "2026-10-27T09:30:45.570003+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76698_document.bin",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76698_document.bin",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.872215+00:00"
+      "archived_at": "2026-10-27T09:30:45.891720+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_122632_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242474+00:00"
+      "archived_at": "2026-10-27T09:30:46.256985+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191845+00:00"
+      "archived_at": "2026-10-27T09:30:45.243430+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364093,
-      "message_link": "https://t.me/IranintlTV/364093",
-      "text": "رسانه‌های آلمان و فرانسه در گزارش‌هایی به نقش ایران در رقابت‌های انتخاباتی اسرائیل، اختلاف مخالفان بنیامین نتانیاهو بر سر مسئله فلسطین و بازگشت ده‌ها هزار اسرائیلی از خارج برای شرکت در انتخابات پرداخته‌اند.\n\nاحمد صمدی و ساجده شریفی، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند\n@iranintltv",
+      "message_id": 364095,
+      "message_link": "https://t.me/IranintlTV/364095",
+      "text": "🔻پس از ارسال نامه دادستان تهران به وزیر ورزش و جوانان و رئیس فدراسیون فوتبال، مبنی بر تصویب و اجرای مصوبه‌ای برای ممنوعیت کامل حضور آقایان در تمامی مسابقات فوتبال زنان، بلیت‌فروشی مسابقه زنان پرسپولیس و استقلال متوقف شد.\n\n🔹به گزارش فوتبال ۳۶۰، جلسه‌ای در سازمان لیگ با محوریت بررسی نامه ارسالی دادستانی و شرایط موجود در حال برگزاری است و احتمال برگزاری این دیدار بدون حضور تماشاگران، حتی زنان، وجود دارد.\n\n🔹قرار است نخستین دربی سرخابی‌ها چهارشنبه ۶ آبان در ورزشگاه قلعه حسن‌خان برگزار شود.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "12:48:52",
-      "gregorian_utc": "2026-10-27T09:18:52+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5401564,
-      "media_size_human": "5.15 MB",
+      "tehran_time": "12:52:32",
+      "gregorian_utc": "2026-10-27T09:22:32+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 198418,
+      "media_size_human": "193.77 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364093_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364093_video.mp4",
+      "media_local_path": "media/IranintlTV_364095_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364095_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.540912+00:00"
+      "archived_at": "2026-10-27T09:30:45.579175+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.872376+00:00"
+      "archived_at": "2026-10-27T09:30:45.891877+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_122631_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122631_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242557+00:00"
+      "archived_at": "2026-10-27T09:30:46.257071+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191880+00:00"
+      "archived_at": "2026-10-27T09:30:45.243463+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364092,
-      "message_link": "https://t.me/IranintlTV/364092",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید مرز تمرچین در استان آذربایجان که مرز شمال‌‌غرب ایران با عراق است، بسته شده است.",
+      "message_id": 364094,
+      "message_link": "https://t.me/IranintlTV/364094",
+      "text": "مئیر جاودانفر، تحلیلگر مسائل اسرائیل، با اشاره به میانگین نظرسنجی‌ها گفت تشکیل ائتلاف ۶۱ کرسی برای بنیامین نتانیاهو دشوار به نظر می‌رسد، اما با توجه به سابقه انتخابات اسرائیل، نمی‌توان نتایج نظرسنجی‌ها را قطعی دانست. \n\nبه گفته او، اپوزیسیون ممکن است با حمایت احزاب عرب، حتی بدون حضور آنها در کابینه، دولت تشکیل دهد.\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "12:31:39",
-      "gregorian_utc": "2026-10-27T09:01:39+00:00",
+      "tehran_time": "12:50:22",
+      "gregorian_utc": "2026-10-27T09:20:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 7466652,
-      "media_size_human": "7.12 MB",
+      "media_size_bytes": 4859994,
+      "media_size_human": "4.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364092_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364092_video.mp4",
+      "media_local_path": "media/IranintlTV_364094_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364094_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.540956+00:00"
+      "archived_at": "2026-10-27T09:30:45.579291+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76695_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.872484+00:00"
+      "archived_at": "2026-10-27T09:30:45.891983+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_122630_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122630_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242655+00:00"
+      "archived_at": "2026-10-27T09:30:46.257135+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191916+00:00"
+      "archived_at": "2026-10-27T09:30:45.243495+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364091,
-      "message_link": "https://t.me/IranintlTV/364091",
-      "text": "🔻کمیته استیناف فدراسیون فوتبال با صدور رأی، درخواست تجدیدنظر و شکایت باشگاه استقلال از محمدحسین کنعانی‌زادگان را رد کرد. \n\n🔹این پرونده به‌دنبال درگیری جنجالی در دربی ۱۰۷ میان این بازیکن و عارف آقاسی، مدافع استقلال، تشکیل شده بود که طی آن گلوی آقاسی زخمی و خونین شد.\n\n🔹با این حال، کمیته استیناف اعلام کرد با توجه به تماس تلفنی عارف آقاسی در جلسه دادرسی و اعلام رضایت و گذشت او، و همچنین فقدان ادله محکمه‌پسند مبنی بر ایراد ضرب منتهی به جرح، رأی برائت صادرشده از کمیته انضباطی عیناً تأیید می‌شود.\n\n🔹کنعانی‌زادگان پیش‌تر این درگیری را طبیعی دانسته بود. با استناد به ماده ۱۰۶ مقررات انضباطی فدراسیون فوتبال، این رأی قطعی است.\n@iranintltvsport",
+      "message_id": 364093,
+      "message_link": "https://t.me/IranintlTV/364093",
+      "text": "رسانه‌های آلمان و فرانسه در گزارش‌هایی به نقش ایران در رقابت‌های انتخاباتی اسرائیل، اختلاف مخالفان بنیامین نتانیاهو بر سر مسئله فلسطین و بازگشت ده‌ها هزار اسرائیلی از خارج برای شرکت در انتخابات پرداخته‌اند.\n\nاحمد صمدی و ساجده شریفی، خبرنگاران ایران‌اینترنشنال، گزارش می‌دهند\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "12:26:42",
-      "gregorian_utc": "2026-10-27T08:56:42+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 187752,
-      "media_size_human": "183.35 KB",
+      "tehran_time": "12:48:52",
+      "gregorian_utc": "2026-10-27T09:18:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5401564,
+      "media_size_human": "5.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364091_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364091_photo.jpg",
+      "media_local_path": "media/IranintlTV_364093_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364093_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.542650+00:00"
+      "archived_at": "2026-10-27T09:30:45.579374+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76694_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76694_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.872545+00:00"
+      "archived_at": "2026-10-27T09:30:45.892035+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_122629_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122629_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242717+00:00"
+      "archived_at": "2026-10-27T09:30:46.257183+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191950+00:00"
+      "archived_at": "2026-10-27T09:30:45.243523+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364090,
-      "message_link": "https://t.me/IranintlTV/364090",
-      "text": "احمد خاتمی، عضو مجلس خبرگان، سه‌شنبه ۵ آبان در جمع طلاب شهرستان رودبار در استان کرمان گفت: «انتخاب مجتبی خامنه‌ای کار خدا و اراده الهی بود و به محض انتخاب رهبر، همه نیروها، نهادها، مجلس و مردم حمایت کردند و همچنان با قاطعیت حمایت خواهند کرد.»\n\nخاتمی اضافه کرد: «اسرائیل تصریح کرده بود مجلس خبرگان را می‌زنم تا رهبر انتخاب نشود؛ آن‌ها دبیرخانه قم را زدند. در آن شرایط وحشتناک و احتمال بالای بمباران، به عنوان یک طلبه گفتم جای موافقت و مخالفت نیست؛ باید به سرعت رهبر را انتخاب کنیم و حتی اگر ما را زدند مهم نیست، اما ضربه به خبرگان ضربه به نظام است.»\n\nاین عضو مجلس خبرگان ادامه داد: «با یک دقیقه سخنرانی و گفتن اینکه با این انتخاب ترامپ ناامید می‌شود، خبرگان تکبیر گفتند و کار تمام شد.»\nhttps://iranintl.com/202610275256",
+      "message_id": 364092,
+      "message_link": "https://t.me/IranintlTV/364092",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید مرز تمرچین در استان آذربایجان که مرز شمال‌‌غرب ایران با عراق است، بسته شده است.",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "12:19:38",
-      "gregorian_utc": "2026-10-27T08:49:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 152294,
-      "media_size_human": "148.72 KB",
+      "tehran_time": "12:31:39",
+      "gregorian_utc": "2026-10-27T09:01:39+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7466652,
+      "media_size_human": "7.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364090_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364090_photo.jpg",
+      "media_local_path": "media/IranintlTV_364092_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364092_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.542809+00:00"
+      "archived_at": "2026-10-27T09:30:45.579413+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76693_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76693_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.872628+00:00"
+      "archived_at": "2026-10-27T09:30:45.892092+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_122628_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122628_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242797+00:00"
+      "archived_at": "2026-10-27T09:30:46.257252+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.191983+00:00"
+      "archived_at": "2026-10-27T09:30:45.243551+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364089,
-      "message_link": "https://t.me/IranintlTV/364089",
-      "text": "🔻مسعود شعبان‌زاده، سرپرست تیم فوتبال مس شهربابک، در گفت‌وگو با خبرگزاری تسنیم، با تکذیب اخراج قاسم شهبا، از استعفای این سرمربی خبر داد و اعلام کرد که در حال بررسی دو گزینه برای جانشینی او و بهبود وضعیت این تیم هستند.\n\n🔹شعبان‌زاده در گفت‌وگو با خبرنگار ورزشی خبرگزاری تسنیم گفت: «قاسم شهبا از لیگ یک همراه تیم ما بود و زحمات زیادی برای تیم ما کشیده است. نباید به دلیل نتایج اخیر، این مباحث نادیده گرفته شود و باید قدردان زحمات این مربی هم باشیم. قاسم شهبا اخراج نشده و با توجه به شرایط موجود استعفا کرد.»\n\n🔹سرپرست تیم مس شهربابک عنوان کرد: «جایگاه فعلی در شأن تیم مس شهربابک نیست و در حال بررسی دو گزینه برای سرمربیگری هستیم.»\n\n🔹مس شهربابک با ۵ تساوی و ۵ شکست و بدون پیروزی، در قعر جدول لیگ برتر فوتبال ایران قرار دارد.\n\n@iranintltvsport",
+      "message_id": 364091,
+      "message_link": "https://t.me/IranintlTV/364091",
+      "text": "🔻کمیته استیناف فدراسیون فوتبال با صدور رأی، درخواست تجدیدنظر و شکایت باشگاه استقلال از محمدحسین کنعانی‌زادگان را رد کرد. \n\n🔹این پرونده به‌دنبال درگیری جنجالی در دربی ۱۰۷ میان این بازیکن و عارف آقاسی، مدافع استقلال، تشکیل شده بود که طی آن گلوی آقاسی زخمی و خونین شد.\n\n🔹با این حال، کمیته استیناف اعلام کرد با توجه به تماس تلفنی عارف آقاسی در جلسه دادرسی و اعلام رضایت و گذشت او، و همچنین فقدان ادله محکمه‌پسند مبنی بر ایراد ضرب منتهی به جرح، رأی برائت صادرشده از کمیته انضباطی عیناً تأیید می‌شود.\n\n🔹کنعانی‌زادگان پیش‌تر این درگیری را طبیعی دانسته بود. با استناد به ماده ۱۰۶ مقررات انضباطی فدراسیون فوتبال، این رأی قطعی است.\n@iranintltvsport",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:47:57",
-      "gregorian_utc": "2026-10-27T08:17:57+00:00",
+      "tehran_time": "12:26:42",
+      "gregorian_utc": "2026-10-27T08:56:42+00:00",
       "media_type": "photo",
-      "media_size_bytes": 132537,
-      "media_size_human": "129.43 KB",
+      "media_size_bytes": 187752,
+      "media_size_human": "183.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364089_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364089_photo.jpg",
+      "media_local_path": "media/IranintlTV_364091_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364091_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.542945+00:00"
+      "archived_at": "2026-10-27T09:30:45.579543+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76692_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76692_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.872704+00:00"
+      "archived_at": "2026-10-27T09:30:45.892154+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122627_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122627_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.242964+00:00"
+      "archived_at": "2026-10-27T09:30:46.257431+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192011+00:00"
+      "archived_at": "2026-10-27T09:30:45.243574+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364088,
-      "message_link": "https://t.me/IranintlTV/364088",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانشجویان دانشگاه منابع طبیعی گرگان سه‌شنبه پنجم آبان در حضور یکی از معاون‌های دانشگاه برای اعتراض به کیفیت پایین غذای سلف تجمع کردند.",
+      "message_id": 364090,
+      "message_link": "https://t.me/IranintlTV/364090",
+      "text": "احمد خاتمی، عضو مجلس خبرگان، سه‌شنبه ۵ آبان در جمع طلاب شهرستان رودبار در استان کرمان گفت: «انتخاب مجتبی خامنه‌ای کار خدا و اراده الهی بود و به محض انتخاب رهبر، همه نیروها، نهادها، مجلس و مردم حمایت کردند و همچنان با قاطعیت حمایت خواهند کرد.»\n\nخاتمی اضافه کرد: «اسرائیل تصریح کرده بود مجلس خبرگان را می‌زنم تا رهبر انتخاب نشود؛ آن‌ها دبیرخانه قم را زدند. در آن شرایط وحشتناک و احتمال بالای بمباران، به عنوان یک طلبه گفتم جای موافقت و مخالفت نیست؛ باید به سرعت رهبر را انتخاب کنیم و حتی اگر ما را زدند مهم نیست، اما ضربه به خبرگان ضربه به نظام است.»\n\nاین عضو مجلس خبرگان ادامه داد: «با یک دقیقه سخنرانی و گفتن اینکه با این انتخاب ترامپ ناامید می‌شود، خبرگان تکبیر گفتند و کار تمام شد.»\nhttps://iranintl.com/202610275256",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:31:03",
-      "gregorian_utc": "2026-10-27T08:01:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 23670528,
-      "media_size_human": "22.57 MB",
+      "tehran_time": "12:19:38",
+      "gregorian_utc": "2026-10-27T08:49:38+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 152294,
+      "media_size_human": "148.72 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364088_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364088_video.mp4",
+      "media_local_path": "media/IranintlTV_364090_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364090_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.542997+00:00"
+      "archived_at": "2026-10-27T09:30:45.579693+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.872756+00:00"
+      "archived_at": "2026-10-27T09:30:45.892200+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_122626_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122626_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.243027+00:00"
+      "archived_at": "2026-10-27T09:30:46.257479+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192052+00:00"
+      "archived_at": "2026-10-27T09:30:45.243613+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364087,
-      "message_link": "https://t.me/IranintlTV/364087",
-      "text": "فاطمه مهاجرانی، سخنگوی دولت در نشست خبری اعلام کرد که دولت و سایر نهادهای حکومتی برای همه سناریوهای احتمالی آمادگی دارند و ابراز اطمینان کرد که «با حفظ وحدت می‌توان از بحران‌های احتمالی عبور کرد.» \n\nمهاجرانی گفت که وضعیت نه جنگ، نه صلح به زیان کشور است و باید از این وضعیت عبور کرد. \n\nسخنگوی دولت اضافه کرد: «با عزت به دنبال صلح هستیم، اما هر زمان که کوچک‌ترین تعدی به خاک کشورمان شود، قوای مسلح ما با قدرت دفاع خواهند کرد و همان‌طور که قبلا هم نشان دادیم، در دفاع حتما ذره‌ای کوتاه نخواهیم آمد.»\nhttps://iranintl.com/202610273930",
+      "message_id": 364089,
+      "message_link": "https://t.me/IranintlTV/364089",
+      "text": "🔻مسعود شعبان‌زاده، سرپرست تیم فوتبال مس شهربابک، در گفت‌وگو با خبرگزاری تسنیم، با تکذیب اخراج قاسم شهبا، از استعفای این سرمربی خبر داد و اعلام کرد که در حال بررسی دو گزینه برای جانشینی او و بهبود وضعیت این تیم هستند.\n\n🔹شعبان‌زاده در گفت‌وگو با خبرنگار ورزشی خبرگزاری تسنیم گفت: «قاسم شهبا از لیگ یک همراه تیم ما بود و زحمات زیادی برای تیم ما کشیده است. نباید به دلیل نتایج اخیر، این مباحث نادیده گرفته شود و باید قدردان زحمات این مربی هم باشیم. قاسم شهبا اخراج نشده و با توجه به شرایط موجود استعفا کرد.»\n\n🔹سرپرست تیم مس شهربابک عنوان کرد: «جایگاه فعلی در شأن تیم مس شهربابک نیست و در حال بررسی دو گزینه برای سرمربیگری هستیم.»\n\n🔹مس شهربابک با ۵ تساوی و ۵ شکست و بدون پیروزی، در قعر جدول لیگ برتر فوتبال ایران قرار دارد.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:20:57",
-      "gregorian_utc": "2026-10-27T07:50:57+00:00",
+      "tehran_time": "11:47:57",
+      "gregorian_utc": "2026-10-27T08:17:57+00:00",
       "media_type": "photo",
-      "media_size_bytes": 124000,
-      "media_size_human": "121.09 KB",
+      "media_size_bytes": 132537,
+      "media_size_human": "129.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364087_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364087_photo.jpg",
+      "media_local_path": "media/IranintlTV_364089_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364089_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543100+00:00"
+      "archived_at": "2026-10-27T09:30:45.579838+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.872819+00:00"
+      "archived_at": "2026-10-27T09:30:45.892259+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 106.03 MB)",
-      "archived_at": "2026-10-27T09:20:38.243092+00:00"
+      "archived_at": "2026-10-27T09:30:46.257534+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192080+00:00"
+      "archived_at": "2026-10-27T09:30:45.243642+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364086,
-      "message_link": "https://t.me/IranintlTV/364086",
-      "text": "🔻به‌رغم اعتراض‌ها و مخالفت‌های زنان فوتبالیست، دادستان تهران با ارسال نامه‌هایی جداگانه به وزیر ورزش و جوانان و رئیس فدراسیون فوتبال، خواستار تصویب و اجرای مصوبه‌ای برای ممنوعیت کامل حضور آقایان در تمامی مسابقات فوتبال زنان شد.\n\n🔹دادستانی علت این اقدام را عدم رعایت حجاب اجباری و «هنجارها و موازین اخلاقی» عنوان کرده است. دادستان تهران تأکید کرده است که حضور آقایان نه‌تنها به‌عنوان تماشاگر، بلکه به‌عنوان عوامل اجرایی، انتظامی و اهالی رسانه (عکاسان و خبرنگاران) نیز باید در مسابقات زنان ممنوع شود.\n\n🔹پیش‌تر سازمان لیگ فوتبال با ارسال نامه‌ای به باشگاه‌ها، ورود مردان، شامل تماشاگران، مدیران، عکاسان، خبرنگاران و فیلم‌برداران، را به مسابقات فوتبال زنان ممنوع کرده بود. این تصمیم با انتقاد شدید بازیکنان مواجه شد.\n\n🔹در واکنش به این محدودیت‌ها و تبعیض‌ها، فوتبالیست‌هایی از جمله سارا دیدار، بازیکن ملی‌پوش خاتون بم؛ زهره کودایی، دروازه‌بان تیم ملی و سپاهان؛ و افسانه چترنور، بازیکن ملی‌پوش گل‌گهر، با انتشار استوری‌هایی در اینستاگرام اعتراض خود را به این مقررات تبعیض‌آمیز اعلام کردند.\n\n@iranintltvsport",
+      "message_id": 364088,
+      "message_link": "https://t.me/IranintlTV/364088",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانشجویان دانشگاه منابع طبیعی گرگان سه‌شنبه پنجم آبان در حضور یکی از معاون‌های دانشگاه برای اعتراض به کیفیت پایین غذای سلف تجمع کردند.",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:11:18",
-      "gregorian_utc": "2026-10-27T07:41:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 159941,
-      "media_size_human": "156.19 KB",
+      "tehran_time": "11:31:03",
+      "gregorian_utc": "2026-10-27T08:01:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 23670528,
+      "media_size_human": "22.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364086_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364086_photo.jpg",
+      "media_local_path": "media/IranintlTV_364088_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364088_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543262+00:00"
+      "archived_at": "2026-10-27T09:30:45.579877+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.872886+00:00"
+      "archived_at": "2026-10-27T09:30:45.892321+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_122624_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122624_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.243159+00:00"
+      "archived_at": "2026-10-27T09:30:46.257589+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192107+00:00"
+      "archived_at": "2026-10-27T09:30:45.243680+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364085,
-      "message_link": "https://t.me/IranintlTV/364085",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به سفر مقام‌های عربستان سعودی، پاکستان و ترکیه به تهران می‌گوید این کشورها در تلاش‌اند با تکیه بر ظرفیت‌های دفاعی خود، از گسترش درگیری‌های منطقه‌ای جلوگیری کنند و بر محاسبات جمهوری اسلامی اثر بگذارند.\n@iranintltv",
+      "message_id": 364087,
+      "message_link": "https://t.me/IranintlTV/364087",
+      "text": "فاطمه مهاجرانی، سخنگوی دولت در نشست خبری اعلام کرد که دولت و سایر نهادهای حکومتی برای همه سناریوهای احتمالی آمادگی دارند و ابراز اطمینان کرد که «با حفظ وحدت می‌توان از بحران‌های احتمالی عبور کرد.» \n\nمهاجرانی گفت که وضعیت نه جنگ، نه صلح به زیان کشور است و باید از این وضعیت عبور کرد. \n\nسخنگوی دولت اضافه کرد: «با عزت به دنبال صلح هستیم، اما هر زمان که کوچک‌ترین تعدی به خاک کشورمان شود، قوای مسلح ما با قدرت دفاع خواهند کرد و همان‌طور که قبلا هم نشان دادیم، در دفاع حتما ذره‌ای کوتاه نخواهیم آمد.»\nhttps://iranintl.com/202610273930",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:08:36",
-      "gregorian_utc": "2026-10-27T07:38:36+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3983784,
-      "media_size_human": "3.80 MB",
+      "tehran_time": "11:20:57",
+      "gregorian_utc": "2026-10-27T07:50:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124000,
+      "media_size_human": "121.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364085_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364085_video.mp4",
+      "media_local_path": "media/IranintlTV_364087_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364087_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543347+00:00"
+      "archived_at": "2026-10-27T09:30:45.579974+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76686_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.873069+00:00"
+      "archived_at": "2026-10-27T09:30:45.892502+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_122623_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122623_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.243209+00:00"
+      "archived_at": "2026-10-27T09:30:46.257629+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192136+00:00"
+      "archived_at": "2026-10-27T09:30:45.243702+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364084,
-      "message_link": "https://t.me/IranintlTV/364084",
-      "text": "انتخابات پارلمانی اسرائیل با حضور حدود هفت میلیون واجد شرایط رای دادن آغاز شده است؛ انتخاباتی که نظرسنجی‌ها از رقابت نزدیک بنیامین نتانیاهو و احزاب مخالف به رهبری گادی آیزنکوت و نفتالی بنت حکایت دارد.\n\nرضا محدث، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+      "message_id": 364086,
+      "message_link": "https://t.me/IranintlTV/364086",
+      "text": "🔻به‌رغم اعتراض‌ها و مخالفت‌های زنان فوتبالیست، دادستان تهران با ارسال نامه‌هایی جداگانه به وزیر ورزش و جوانان و رئیس فدراسیون فوتبال، خواستار تصویب و اجرای مصوبه‌ای برای ممنوعیت کامل حضور آقایان در تمامی مسابقات فوتبال زنان شد.\n\n🔹دادستانی علت این اقدام را عدم رعایت حجاب اجباری و «هنجارها و موازین اخلاقی» عنوان کرده است. دادستان تهران تأکید کرده است که حضور آقایان نه‌تنها به‌عنوان تماشاگر، بلکه به‌عنوان عوامل اجرایی، انتظامی و اهالی رسانه (عکاسان و خبرنگاران) نیز باید در مسابقات زنان ممنوع شود.\n\n🔹پیش‌تر سازمان لیگ فوتبال با ارسال نامه‌ای به باشگاه‌ها، ورود مردان، شامل تماشاگران، مدیران، عکاسان، خبرنگاران و فیلم‌برداران، را به مسابقات فوتبال زنان ممنوع کرده بود. این تصمیم با انتقاد شدید بازیکنان مواجه شد.\n\n🔹در واکنش به این محدودیت‌ها و تبعیض‌ها، فوتبالیست‌هایی از جمله سارا دیدار، بازیکن ملی‌پوش خاتون بم؛ زهره کودایی، دروازه‌بان تیم ملی و سپاهان؛ و افسانه چترنور، بازیکن ملی‌پوش گل‌گهر، با انتشار استوری‌هایی در اینستاگرام اعتراض خود را به این مقررات تبعیض‌آمیز اعلام کردند.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:03:53",
-      "gregorian_utc": "2026-10-27T07:33:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2153024,
-      "media_size_human": "2.05 MB",
+      "tehran_time": "11:11:18",
+      "gregorian_utc": "2026-10-27T07:41:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 159941,
+      "media_size_human": "156.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364084_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364084_video.mp4",
+      "media_local_path": "media/IranintlTV_364086_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364086_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543415+00:00"
+      "archived_at": "2026-10-27T09:30:45.580133+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76685_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.873138+00:00"
+      "archived_at": "2026-10-27T09:30:45.892558+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:38.243252+00:00"
+      "archived_at": "2026-10-27T09:30:46.257679+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192162+00:00"
+      "archived_at": "2026-10-27T09:30:45.243723+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364083,
-      "message_link": "https://t.me/IranintlTV/364083",
-      "text": "منشه امیر، کارشناس امور خاورمیانه، با اشاره به اختلاف‌های ایدئولوژیک و سیاسی میان احزاب اسرائیل گفت تشکیل دولت بعدی ممکن است پس از هفته‌ها مذاکره نیز به نتیجه نرسد و انتخابات دیگری برگزار شود.\n\nاو همچنین به نگرانی‌ها درباره احتمال اعتراض حزب لیکود به نتایج انتخابات و اختلاف بر سر واگذاری ماموریت تشکیل دولت اشاره کرد.\n@iranintltv",
+      "message_id": 364085,
+      "message_link": "https://t.me/IranintlTV/364085",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به سفر مقام‌های عربستان سعودی، پاکستان و ترکیه به تهران می‌گوید این کشورها در تلاش‌اند با تکیه بر ظرفیت‌های دفاعی خود، از گسترش درگیری‌های منطقه‌ای جلوگیری کنند و بر محاسبات جمهوری اسلامی اثر بگذارند.\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "11:02:01",
-      "gregorian_utc": "2026-10-27T07:32:01+00:00",
+      "tehran_time": "11:08:36",
+      "gregorian_utc": "2026-10-27T07:38:36+00:00",
       "media_type": "video",
-      "media_size_bytes": 5828698,
-      "media_size_human": "5.56 MB",
+      "media_size_bytes": 3983784,
+      "media_size_human": "3.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364083_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364083_video.mp4",
+      "media_local_path": "media/IranintlTV_364085_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364085_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543487+00:00"
+      "archived_at": "2026-10-27T09:30:45.580198+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.873216+00:00"
+      "archived_at": "2026-10-27T09:30:45.892631+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:38.243281+00:00"
+      "archived_at": "2026-10-27T09:30:46.257702+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192189+00:00"
+      "archived_at": "2026-10-27T09:30:45.243746+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364082,
-      "message_link": "https://t.me/IranintlTV/364082",
-      "text": "محمدباقر قالیباف، در جلسه سه‌شنبه مجلس شورای اسلامی، گفت که مجتبی خامنه‌ای از سلامتی کامل برخوردار است و آنچه در ملاقات با او برای من بسیار برجسته و تاثیرگذار بود، «روحیه قوی، بانشاط و امیدوار او، در کنار صلابت و آرامش قلبی‌اش بود.»\n\nمحمدباقر قالیباف افزود: «تسلط و اشراف رهبری بر مسائل، هم در کلیات و هم در جزئیات، بسیار چشمگیر بود.»\n\nرییس مجلس بدون اشاره به زمان و مکان دیدار با مجتبی خامنه‌ای، اضافه کرد: «در جریان جلسه، درباره مسائل مختلفی گفت‌وگو شد. یکی از محورهای مهم، مسائل اقتصادی کشور بود. او با دقت، شاخص‌های کلان اقتصادی را دنبال می‌کرد و بر ضرورت توجه دقیق به این شاخص‌ها تاکید داشت.»\nhttps://iranintl.com/202610276184",
+      "message_id": 364084,
+      "message_link": "https://t.me/IranintlTV/364084",
+      "text": "انتخابات پارلمانی اسرائیل با حضور حدود هفت میلیون واجد شرایط رای دادن آغاز شده است؛ انتخاباتی که نظرسنجی‌ها از رقابت نزدیک بنیامین نتانیاهو و احزاب مخالف به رهبری گادی آیزنکوت و نفتالی بنت حکایت دارد.\n\nرضا محدث، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "10:19:45",
-      "gregorian_utc": "2026-10-27T06:49:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123148,
-      "media_size_human": "120.26 KB",
+      "tehran_time": "11:03:53",
+      "gregorian_utc": "2026-10-27T07:33:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2153024,
+      "media_size_human": "2.05 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364082_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364082_photo.jpg",
+      "media_local_path": "media/IranintlTV_364084_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364084_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543587+00:00"
+      "archived_at": "2026-10-27T09:30:45.580258+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.873307+00:00"
+      "archived_at": "2026-10-27T09:30:45.892738+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_122620_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122620_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.243343+00:00"
+      "archived_at": "2026-10-27T09:30:46.257754+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192214+00:00"
+      "archived_at": "2026-10-27T09:30:45.243767+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364081,
-      "message_link": "https://t.me/IranintlTV/364081",
-      "text": "اسرائیلی‌ها در اورشلیم هم‌زمان با نخستین انتخابات سراسری این کشور پس از حمله ۷ اکتبر ۲۰۲۳ حماس، پای صندوق‌های رای رفتند.\n@iranintltv",
+      "message_id": 364083,
+      "message_link": "https://t.me/IranintlTV/364083",
+      "text": "منشه امیر، کارشناس امور خاورمیانه، با اشاره به اختلاف‌های ایدئولوژیک و سیاسی میان احزاب اسرائیل گفت تشکیل دولت بعدی ممکن است پس از هفته‌ها مذاکره نیز به نتیجه نرسد و انتخابات دیگری برگزار شود.\n\nاو همچنین به نگرانی‌ها درباره احتمال اعتراض حزب لیکود به نتایج انتخابات و اختلاف بر سر واگذاری ماموریت تشکیل دولت اشاره کرد.\n@iranintltv",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "10:12:17",
-      "gregorian_utc": "2026-10-27T06:42:17+00:00",
+      "tehran_time": "11:02:01",
+      "gregorian_utc": "2026-10-27T07:32:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 765487,
-      "media_size_human": "747.55 KB",
+      "media_size_bytes": 5828698,
+      "media_size_human": "5.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364081_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364081_video.mp4",
+      "media_local_path": "media/IranintlTV_364083_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364083_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543666+00:00"
+      "archived_at": "2026-10-27T09:30:45.580325+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.873382+00:00"
+      "archived_at": "2026-10-27T09:30:45.892814+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_122619_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122619_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:38.243411+00:00"
+      "archived_at": "2026-10-27T09:30:46.257814+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.192238+00:00"
+      "archived_at": "2026-10-27T09:30:45.243787+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364080,
-      "message_link": "https://t.me/IranintlTV/364080",
-      "text": "علاءالدین بروجردی، عضو کمیسیون امنیت ملی مجلس، به شبکه المیادین گفت: «توانمندی‌های موشکی و پهپادی جمهوری اسلامی هم‌تراز با بمب هسته‌ای است.»\n\nاین نماینده مجلس، سه‌شنبه پنج آبان اضافه کرد: «ذخایر موشکی ما بیش از ۵۰ درصد افزایش یافته است و حتی در صورت ادامه جنگ به مدت دو سال نیز به پایان نخواهد رسید.»\n\nبروجردی ادامه داد: «جمهوری اسلامی بدون اجرای هفت شرط خود وارد مذاکره با آمریکا نخواهد شد و در صورت وقوع جنگی دیگر، نه‌تنها شروط سخت‌گیرانه‌تر خواهد شد، بلکه پاسخ نیز شدیدتر خواهد بود و خسارت‌هایی به کل منطقه وارد خواهد کرد.»\n\nاین نماینده مجلس افزود: «اگر جمهوری اسلامی از صادرات نفت خود منع شود، هیچ نفتی از منطقه صادر نخواهد شد و نظام کشتیرانی در تنگه هرمز دیگر به وضعیت پیشین بازنخواهد گشت.»\nhttps://iranintl.com/202610270603",
+      "message_id": 364082,
+      "message_link": "https://t.me/IranintlTV/364082",
+      "text": "محمدباقر قالیباف، در جلسه سه‌شنبه مجلس شورای اسلامی، گفت که مجتبی خامنه‌ای از سلامتی کامل برخوردار است و آنچه در ملاقات با او برای من بسیار برجسته و تاثیرگذار بود، «روحیه قوی، بانشاط و امیدوار او، در کنار صلابت و آرامش قلبی‌اش بود.»\n\nمحمدباقر قالیباف افزود: «تسلط و اشراف رهبری بر مسائل، هم در کلیات و هم در جزئیات، بسیار چشمگیر بود.»\n\nرییس مجلس بدون اشاره به زمان و مکان دیدار با مجتبی خامنه‌ای، اضافه کرد: «در جریان جلسه، درباره مسائل مختلفی گفت‌وگو شد. یکی از محورهای مهم، مسائل اقتصادی کشور بود. او با دقت، شاخص‌های کلان اقتصادی را دنبال می‌کرد و بر ضرورت توجه دقیق به این شاخص‌ها تاکید داشت.»\nhttps://iranintl.com/202610276184",
       "shamsi_date": "1405/08/05",
-      "tehran_time": "09:49:11",
-      "gregorian_utc": "2026-10-27T06:19:11+00:00",
+      "tehran_time": "10:19:45",
+      "gregorian_utc": "2026-10-27T06:49:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 163942,
-      "media_size_human": "160.10 KB",
+      "media_size_bytes": 123148,
+      "media_size_human": "120.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364080_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364080_photo.jpg",
+      "media_local_path": "media/IranintlTV_364082_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364082_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-27T09:20:37.543775+00:00"
+      "archived_at": "2026-10-27T09:30:45.580419+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-27T09:20:37.873423+00:00"
+      "archived_at": "2026-10-27T09:30:45.892851+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-10-27T09:20:38.243470+00:00"
+      "archived_at": "2026-10-27T09:30:46.257863+00:00"
     }
   ]
 }
