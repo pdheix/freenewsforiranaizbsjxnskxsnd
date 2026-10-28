@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T13:05:23.198713+00:00",
-  "shamsi_generated": "1405/08/06 13:05:23 تهران",
+  "generated_at": "2026-10-28T13:14:08.901882+00:00",
+  "shamsi_generated": "1405/08/06 13:14:08 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15281,
-      "message_link": "https://t.me/zedTV/15281",
-      "text": "تناقض در رسانه‌های حکومتی؛ تحلیل زنده انتخابات کشوری که موجودیتش انکار می‌شود.\nتمرکز رژیم بر تحولات داخلی اسرائیل همزمان با ادعای عدم مشروعیت.\nنمایشی از استیصال در سیرک تبلیغاتی جمهوری اسلامی.",
+      "message_id": 15282,
+      "message_link": "https://t.me/zedTV/15282",
+      "text": "رئیس کمیسیون آموزش مجلس: آغاز سن آموزش کودکان از پنج سالگی.\nتغییر در ساختار نظام آموزشی و کاهش سن ورود به مدارس.\nتصویب طرح جدید مجلس برای آموزش رسمی از سنین پایه.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:55:49",
-      "gregorian_utc": "2026-10-28T12:25:49+00:00",
+      "tehran_time": "16:39:54",
+      "gregorian_utc": "2026-10-28T13:09:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305244+00:00"
+      "archived_at": "2026-10-28T13:10:35.545172+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_364274_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364274_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.663753+00:00"
+      "archived_at": "2026-10-28T13:10:35.857191+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,32 +73,32 @@
       "media_local_path": "media/satlastnews_76703_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76703_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.022517+00:00"
+      "archived_at": "2026-10-28T13:10:36.185976+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122687,
-      "message_link": "https://t.me/Mellig/122687",
-      "text": "🔴 #خبر_فوری\nپایان شمارش آرا در اسرائیل،\nبا شمارش کامل آرا در انتخابات اسرائیل:\nائتلاف حامی لیکود و نتانیاهو: 53 کرسی\nائتلاف مخالف و حامی آیزنکوت: 48 کرسی بدست آوردند و حزب لیکود به رهبری نتانیاهو بزرگ ترین حزب پارلمان اسرائیل شد و بزرگ ترین ائتلاف پارلمان اسرائیل را نیز تشکیل می‌دهد.",
+      "message_id": 122688,
+      "message_link": "https://t.me/Mellig/122688",
+      "text": "آنالیز انتخابات اسراییل",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "16:19:48",
-      "gregorian_utc": "2026-10-28T12:49:48+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.363503+00:00"
+      "tehran_time": "16:34:21",
+      "gregorian_utc": "2026-10-28T13:04:21+00:00",
+      "media_type": "voice",
+      "media_size_bytes": 2305157,
+      "media_size_human": "2.20 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122688_voice.ogg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122688_voice.ogg",
+      "no_media_reason": null,
+      "archived_at": "2026-10-28T13:10:36.511200+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15280,
-      "message_link": "https://t.me/zedTV/15280",
-      "text": "هلاکت شهردار جونقان در پی حمله مسلحانه؛ اسماعیل اسلامی باباحیدری بر اثر شلیک گلوله کشته شد. این حادثه در شهرستان فارسان واقع در استان چهارمحال و بختیاری رخ داده است.",
+      "message_id": 15281,
+      "message_link": "https://t.me/zedTV/15281",
+      "text": "تناقض در رسانه‌های حکومتی؛ تحلیل زنده انتخابات کشوری که موجودیتش انکار می‌شود.\nتمرکز رژیم بر تحولات داخلی اسرائیل همزمان با ادعای عدم مشروعیت.\nنمایشی از استیصال در سیرک تبلیغاتی جمهوری اسلامی.",
       "shamsi_date": "1405/08/06",
       "tehran_time": "15:55:49",
       "gregorian_utc": "2026-10-28T12:25:49+00:00",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305294+00:00"
+      "archived_at": "2026-10-28T13:10:35.545203+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_364273_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364273_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.663843+00:00"
+      "archived_at": "2026-10-28T13:10:35.857244+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,35 +145,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.022634+00:00"
+      "archived_at": "2026-10-28T13:10:36.186043+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122686,
-      "message_link": "https://t.me/Mellig/122686",
-      "text": "دیشب وقتی این و دیدم خیلی برام خنده دار بود \n \nچون تا دیروز از ادامه مسابقات انصراف میدادن اگر حریفشون اسرائیلی بود، حالا لایو، نتیجه‌ی انتخابات اسرائیل رو دنبال میکنن. 😂😂\n\nMellig.net",
+      "message_id": 122687,
+      "message_link": "https://t.me/Mellig/122687",
+      "text": "🔴 #خبر_فوری\nپایان شمارش آرا در اسرائیل،\nبا شمارش کامل آرا در انتخابات اسرائیل:\nائتلاف حامی لیکود و نتانیاهو: 53 کرسی\nائتلاف مخالف و حامی آیزنکوت: 48 کرسی بدست آوردند و حزب لیکود به رهبری نتانیاهو بزرگ ترین حزب پارلمان اسرائیل شد و بزرگ ترین ائتلاف پارلمان اسرائیل را نیز تشکیل می‌دهد.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:40:01",
-      "gregorian_utc": "2026-10-28T12:10:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1502740,
-      "media_size_human": "1.43 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122686_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122686_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363597+00:00"
-    },
-    {
-      "channel_name": "ZED TV - ضد تی وی",
-      "channel_username": "zedTV",
-      "message_id": 15279,
-      "message_link": "https://t.me/zedTV/15279",
-      "text": "آکسیوس: ابقای نتانیاهو در سمت نخست‌وزیر موقت.\nاحتمال دعوت از آیزنکوت برای پیوستن به دولت وحدت ملی در صورت ازسرگیری جنگ علیه جمهوری اسلامی.",
-      "shamsi_date": "1405/08/06",
-      "tehran_time": "15:55:29",
-      "gregorian_utc": "2026-10-28T12:25:29+00:00",
+      "tehran_time": "16:19:48",
+      "gregorian_utc": "2026-10-28T12:49:48+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,7 +163,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305330+00:00"
+      "archived_at": "2026-10-28T13:10:36.511258+00:00"
+    },
+    {
+      "channel_name": "ZED TV - ضد تی وی",
+      "channel_username": "zedTV",
+      "message_id": 15280,
+      "message_link": "https://t.me/zedTV/15280",
+      "text": "هلاکت شهردار جونقان در پی حمله مسلحانه؛ اسماعیل اسلامی باباحیدری بر اثر شلیک گلوله کشته شد. این حادثه در شهرستان فارسان واقع در استان چهارمحال و بختیاری رخ داده است.",
+      "shamsi_date": "1405/08/06",
+      "tehran_time": "15:55:49",
+      "gregorian_utc": "2026-10-28T12:25:49+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-28T13:10:35.545223+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_364272_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364272_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.664037+00:00"
+      "archived_at": "2026-10-28T13:10:35.857325+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,35 +217,35 @@
       "media_local_path": "media/satlastnews_76698_document.bin",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76698_document.bin",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.022732+00:00"
+      "archived_at": "2026-10-28T13:10:36.186099+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122685,
-      "message_link": "https://t.me/Mellig/122685",
-      "text": "🔴 #خبر_فوری\nلحظاتی پیش مقام حزب ارشد لیکود به رهبری نتانیاهو اعلام کرد:\nدر صورت از سرگیری جنگ علیه ایران،\nنتانیاهو ممکن است از آیزنکوت بخواهد به دولت وحدت ملی بپیوندد.",
+      "message_id": 122686,
+      "message_link": "https://t.me/Mellig/122686",
+      "text": "دیشب وقتی این و دیدم خیلی برام خنده دار بود \n \nچون تا دیروز از ادامه مسابقات انصراف میدادن اگر حریفشون اسرائیلی بود، حالا لایو، نتیجه‌ی انتخابات اسرائیل رو دنبال میکنن. 😂😂\n\nMellig.net",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:26:08",
-      "gregorian_utc": "2026-10-28T11:56:08+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.363658+00:00"
+      "tehran_time": "15:40:01",
+      "gregorian_utc": "2026-10-28T12:10:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1502740,
+      "media_size_human": "1.43 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122686_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122686_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-28T13:10:36.511301+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15278,
-      "message_link": "https://t.me/zedTV/15278",
-      "text": "تضاد در سازوکار قدرت؛ نظام انتخاباتی پیچیده اسرائیل در مقابل انتصاب بر اساس تملق برای خامنه‌ای در جمهوری اسلامی. معیار ریاست‌جمهوری در ایران: وفاداری و نزدیکی به رهبر رژیم به جای آرای واقعی.",
+      "message_id": 15279,
+      "message_link": "https://t.me/zedTV/15279",
+      "text": "آکسیوس: ابقای نتانیاهو در سمت نخست‌وزیر موقت.\nاحتمال دعوت از آیزنکوت برای پیوستن به دولت وحدت ملی در صورت ازسرگیری جنگ علیه جمهوری اسلامی.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:23:57",
-      "gregorian_utc": "2026-10-28T11:53:57+00:00",
+      "tehran_time": "15:55:29",
+      "gregorian_utc": "2026-10-28T12:25:29+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305377+00:00"
+      "archived_at": "2026-10-28T13:10:35.545244+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_364271_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364271_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.664126+00:00"
+      "archived_at": "2026-10-28T13:10:35.857369+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,17 +289,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.022889+00:00"
+      "archived_at": "2026-10-28T13:10:36.186172+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122684,
-      "message_link": "https://t.me/Mellig/122684",
-      "text": "چه سیستم پیچیده‌ای داره انتخابات اسرائیل! انتخابات فقط جمهوری اسلامی، هرکی به خایه‌ی خامنه‌ای بیشتر روغن می‌زد میشد رئیس جمهور",
+      "message_id": 122685,
+      "message_link": "https://t.me/Mellig/122685",
+      "text": "🔴 #خبر_فوری\nلحظاتی پیش مقام حزب ارشد لیکود به رهبری نتانیاهو اعلام کرد:\nدر صورت از سرگیری جنگ علیه ایران،\nنتانیاهو ممکن است از آیزنکوت بخواهد به دولت وحدت ملی بپیوندد.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:22:55",
-      "gregorian_utc": "2026-10-28T11:52:55+00:00",
+      "tehran_time": "15:26:08",
+      "gregorian_utc": "2026-10-28T11:56:08+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.363690+00:00"
+      "archived_at": "2026-10-28T13:10:36.511332+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15277,
-      "message_link": "https://t.me/zedTV/15277",
-      "text": "بحران معیشت: سبد هزینه ۷۸ میلیونی و ناپدید شدن ۴۰۷ میلیارد دلار پول نفت؛ دولت گرانی را «طبیعی» می‌داند.\nکسر حقوق بازنشستگان برای بیمه جنگ همزمان با مرگ روزانه ۷ کارگر؛ افزایش آمار خودکشی در خوزستان به دلیل فقر.\nبحران در کلاس‌های بدون معلم و تبعیض جنسیتی؛ ۲۵ استان کشور درگیر تروما و آسیب‌های روانی ناشی از جنگ.",
+      "message_id": 15278,
+      "message_link": "https://t.me/zedTV/15278",
+      "text": "تضاد در سازوکار قدرت؛ نظام انتخاباتی پیچیده اسرائیل در مقابل انتصاب بر اساس تملق برای خامنه‌ای در جمهوری اسلامی. معیار ریاست‌جمهوری در ایران: وفاداری و نزدیکی به رهبر رژیم به جای آرای واقعی.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "15:07:02",
-      "gregorian_utc": "2026-10-28T11:37:02+00:00",
+      "tehran_time": "15:23:57",
+      "gregorian_utc": "2026-10-28T11:53:57+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305411+00:00"
+      "archived_at": "2026-10-28T13:10:35.545263+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_364270_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364270_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.664248+00:00"
+      "archived_at": "2026-10-28T13:10:35.857433+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,35 +361,17 @@
       "media_local_path": "media/satlastnews_76695_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023004+00:00"
+      "archived_at": "2026-10-28T13:10:36.186228+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122683,
-      "message_link": "https://t.me/Mellig/122683",
-      "text": "",
+      "message_id": 122684,
+      "message_link": "https://t.me/Mellig/122684",
+      "text": "چه سیستم پیچیده‌ای داره انتخابات اسرائیل! انتخابات فقط جمهوری اسلامی، هرکی به خایه‌ی خامنه‌ای بیشتر روغن می‌زد میشد رئیس جمهور",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "14:51:11",
-      "gregorian_utc": "2026-10-28T11:21:11+00:00",
-      "media_type": "voice",
-      "media_size_bytes": 2176613,
-      "media_size_human": "2.08 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122683_voice.ogg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122683_voice.ogg",
-      "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363729+00:00"
-    },
-    {
-      "channel_name": "ZED TV - ضد تی وی",
-      "channel_username": "zedTV",
-      "message_id": 15276,
-      "message_link": "https://t.me/zedTV/15276",
-      "text": "گزارش‌ها از شنیده شدن صدای انفجار در تنگه هرمز. وقوع حادثه در این آبراه راهبردی.",
-      "shamsi_date": "1405/08/04",
-      "tehran_time": "22:58:49",
-      "gregorian_utc": "2026-10-26T19:28:49+00:00",
+      "tehran_time": "15:22:55",
+      "gregorian_utc": "2026-10-28T11:52:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,7 +379,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305445+00:00"
+      "archived_at": "2026-10-28T13:10:36.511347+00:00"
+    },
+    {
+      "channel_name": "ZED TV - ضد تی وی",
+      "channel_username": "zedTV",
+      "message_id": 15277,
+      "message_link": "https://t.me/zedTV/15277",
+      "text": "بحران معیشت: سبد هزینه ۷۸ میلیونی و ناپدید شدن ۴۰۷ میلیارد دلار پول نفت؛ دولت گرانی را «طبیعی» می‌داند.\nکسر حقوق بازنشستگان برای بیمه جنگ همزمان با مرگ روزانه ۷ کارگر؛ افزایش آمار خودکشی در خوزستان به دلیل فقر.\nبحران در کلاس‌های بدون معلم و تبعیض جنسیتی؛ ۲۵ استان کشور درگیر تروما و آسیب‌های روانی ناشی از جنگ.",
+      "shamsi_date": "1405/08/06",
+      "tehran_time": "15:07:02",
+      "gregorian_utc": "2026-10-28T11:37:02+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-28T13:10:35.545282+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_364269_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364269_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.676992+00:00"
+      "archived_at": "2026-10-28T13:10:35.863651+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,35 +433,35 @@
       "media_local_path": "media/satlastnews_76694_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76694_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023062+00:00"
+      "archived_at": "2026-10-28T13:10:36.186256+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122682,
-      "message_link": "https://t.me/Mellig/122682",
-      "text": "یکم شاید حافظه تاریخی رو براتون آپدیت کنم بد نیست \n\nیک فردی بود توی شورای ملی که مسئول ایمیل‌های شورای ملی بود و به عنوان تیم شاهزاده شناخته می‌شد. \nهمه ایمیل‌ها رو این شخص در شورا کنترل می‌کرد و از داخل و خارج همه مشخصات مردم به این شخص می‌رفت. \nبعد از چند مدت این فرد دستگیر و زندانی می‌شه توسط پلیس ایتالیا به جرم قاچاق اونم به ایران و همکاری با محسن رضایی. \nاسمش «مهدی خسروی »بود می‌تونید برید سرچ کنید ببینید که شاهزاده حتی برای آزادیش هم یک نامه به دولت انگلستان نوشت.",
+      "message_id": 122683,
+      "message_link": "https://t.me/Mellig/122683",
+      "text": "",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "14:45:43",
-      "gregorian_utc": "2026-10-28T11:15:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 54228,
-      "media_size_human": "52.96 KB",
+      "tehran_time": "14:51:11",
+      "gregorian_utc": "2026-10-28T11:21:11+00:00",
+      "media_type": "voice",
+      "media_size_bytes": 2176613,
+      "media_size_human": "2.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122682_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122682_photo.jpg",
+      "media_local_path": "media/Mellig_122683_voice.ogg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122683_voice.ogg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363774+00:00"
+      "archived_at": "2026-10-28T13:10:36.511366+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15275,
-      "message_link": "https://t.me/zedTV/15275",
-      "text": "نیویورک تایمز: آموزش خلبانان آپاچی آمریکا برای انهدام پهپادهای مشابه «شاهد». تمرکز ارتش ایالات متحده بر مقابله با تسلیحات ساخت رژیم جمهوری اسلامی. افزایش آمادگی نیروهای آمریکایی برای انهدام پهپادهای رژیم.",
+      "message_id": 15276,
+      "message_link": "https://t.me/zedTV/15276",
+      "text": "گزارش‌ها از شنیده شدن صدای انفجار در تنگه هرمز. وقوع حادثه در این آبراه راهبردی.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "22:58:40",
-      "gregorian_utc": "2026-10-26T19:28:40+00:00",
+      "tehran_time": "22:58:49",
+      "gregorian_utc": "2026-10-26T19:28:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305475+00:00"
+      "archived_at": "2026-10-28T13:10:35.545297+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_364268_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364268_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677128+00:00"
+      "archived_at": "2026-10-28T13:10:35.863731+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,35 +505,35 @@
       "media_local_path": "media/satlastnews_76693_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76693_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023124+00:00"
+      "archived_at": "2026-10-28T13:10:36.186288+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122681,
-      "message_link": "https://t.me/Mellig/122681",
-      "text": "درود مهدی جان 👋\nاین کلیپ رو دیدم و یاد خودت کردم که همش به خانواده‌ها میگی بچه‌ها رو مدرسه نفرستین 🏫🚫\nشما هم ببین و اگر دیدی مناسب هست تو برنامه پخش کن",
+      "message_id": 122682,
+      "message_link": "https://t.me/Mellig/122682",
+      "text": "یکم شاید حافظه تاریخی رو براتون آپدیت کنم بد نیست \n\nیک فردی بود توی شورای ملی که مسئول ایمیل‌های شورای ملی بود و به عنوان تیم شاهزاده شناخته می‌شد. \nهمه ایمیل‌ها رو این شخص در شورا کنترل می‌کرد و از داخل و خارج همه مشخصات مردم به این شخص می‌رفت. \nبعد از چند مدت این فرد دستگیر و زندانی می‌شه توسط پلیس ایتالیا به جرم قاچاق اونم به ایران و همکاری با محسن رضایی. \nاسمش «مهدی خسروی »بود می‌تونید برید سرچ کنید ببینید که شاهزاده حتی برای آزادیش هم یک نامه به دولت انگلستان نوشت.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "14:40:33",
-      "gregorian_utc": "2026-10-28T11:10:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5338269,
-      "media_size_human": "5.09 MB",
+      "tehran_time": "14:45:43",
+      "gregorian_utc": "2026-10-28T11:15:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 54228,
+      "media_size_human": "52.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122681_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122681_video.mp4",
+      "media_local_path": "media/Mellig_122682_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122682_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363809+00:00"
+      "archived_at": "2026-10-28T13:10:36.511391+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15274,
-      "message_link": "https://t.me/zedTV/15274",
-      "text": "مرگ دو بازنشسته هما به دلیل ناتوانی در تأمین هزینه‌های بیمارستان و قطع بیمه درمانی. بحران مالی در کانون بازنشستگان؛ خدمات بیمه‌ای به دلیل نبود بودجه متوقف شد. حقوق‌های ۱۸ تا ۲۷ میلیون تومانی در برابر مخارج سنگین درمانی ناچیز است.",
+      "message_id": 15275,
+      "message_link": "https://t.me/zedTV/15275",
+      "text": "نیویورک تایمز: آموزش خلبانان آپاچی آمریکا برای انهدام پهپادهای مشابه «شاهد». تمرکز ارتش ایالات متحده بر مقابله با تسلیحات ساخت رژیم جمهوری اسلامی. افزایش آمادگی نیروهای آمریکایی برای انهدام پهپادهای رژیم.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "22:42:17",
-      "gregorian_utc": "2026-10-26T19:12:17+00:00",
+      "tehran_time": "22:58:40",
+      "gregorian_utc": "2026-10-26T19:28:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305517+00:00"
+      "archived_at": "2026-10-28T13:10:35.545325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_364267_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364267_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677205+00:00"
+      "archived_at": "2026-10-28T13:10:35.863773+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,35 +577,35 @@
       "media_local_path": "media/satlastnews_76692_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76692_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023191+00:00"
+      "archived_at": "2026-10-28T13:10:36.186321+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122680,
-      "message_link": "https://t.me/Mellig/122680",
-      "text": "یک چند تا سوال جدی دارم در مورد بات تلگرامی اعلام شده: \n1- جمع کردن اسامی مردم چه کمکی به انقلاب ملت ایران میتونه بکنه؟ آیا  در مقطع کنونی ما باید اسامی مخالفین یا حتی مردم عادی رو جمع کنیم یا اسامی سرکوبگران، قاضیان جنایتکار و مزدوران؟\n2-این ربات تلگرامی امنیتش چقدر بالاست؟ چون هنوز از راه نرسیده 10 تا نمونه دیگه ازش ساخته شده و داره مردم رو گیر میندازه\n3- وقتی اسامی جمع آوری شد دست چه کسی یا کسانی میره؟ آیا پاسخگویی دارند در قبال لو رفتن اسامی مردم؟\n4- سرنوشت اسامی جمع شده سال گذشته با کیو آر کد چه شد؟ آیا جمع کردن اسامی نظامیان ناراضی و در صورت لو رفتن یا هک شدن راهی سریع برای تصفیه آنها از سیستم نیست؟\n\nبرای جلوگیری از گیرافتادن بیشتر هموطنان از این تویت حمایت کنید: \nhttps://x.com/mobarez_nastooh/status/2115390930391822359",
+      "message_id": 122681,
+      "message_link": "https://t.me/Mellig/122681",
+      "text": "درود مهدی جان 👋\nاین کلیپ رو دیدم و یاد خودت کردم که همش به خانواده‌ها میگی بچه‌ها رو مدرسه نفرستین 🏫🚫\nشما هم ببین و اگر دیدی مناسب هست تو برنامه پخش کن",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "14:03:22",
-      "gregorian_utc": "2026-10-28T10:33:22+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 84600,
-      "media_size_human": "82.62 KB",
+      "tehran_time": "14:40:33",
+      "gregorian_utc": "2026-10-28T11:10:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5338269,
+      "media_size_human": "5.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122680_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122680_photo.jpg",
+      "media_local_path": "media/Mellig_122681_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122681_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363945+00:00"
+      "archived_at": "2026-10-28T13:10:36.511409+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15273,
-      "message_link": "https://t.me/zedTV/15273",
-      "text": "صدور حکم بازداشت برای یک مقام عراقی؛\nعلت: مخالفت با انسداد مرز با ایران.",
+      "message_id": 15274,
+      "message_link": "https://t.me/zedTV/15274",
+      "text": "مرگ دو بازنشسته هما به دلیل ناتوانی در تأمین هزینه‌های بیمارستان و قطع بیمه درمانی. بحران مالی در کانون بازنشستگان؛ خدمات بیمه‌ای به دلیل نبود بودجه متوقف شد. حقوق‌های ۱۸ تا ۲۷ میلیون تومانی در برابر مخارج سنگین درمانی ناچیز است.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "22:12:57",
-      "gregorian_utc": "2026-10-26T18:42:57+00:00",
+      "tehran_time": "22:42:17",
+      "gregorian_utc": "2026-10-26T19:12:17+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305546+00:00"
+      "archived_at": "2026-10-28T13:10:35.545341+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.677420+00:00"
+      "archived_at": "2026-10-28T13:10:35.863897+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,35 +649,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.023242+00:00"
+      "archived_at": "2026-10-28T13:10:36.186346+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122679,
-      "message_link": "https://t.me/Mellig/122679",
-      "text": "درود آقای میرقادری خسته نباشید\n\nاین بی شرف های بی همه چیز رو ببینید خدایی\nبعد کشتار اون همه جوان بی گناه و حکم های ناعادلانه و ظالمانه اعدام و حبس،\nدم پیری اینطوری به دست و پا افتادند \n\nخبر ندارن به دست مردم خشمگین ایران بیفتند چه ها که در انتظارشون نیست.",
+      "message_id": 122680,
+      "message_link": "https://t.me/Mellig/122680",
+      "text": "یک چند تا سوال جدی دارم در مورد بات تلگرامی اعلام شده: \n1- جمع کردن اسامی مردم چه کمکی به انقلاب ملت ایران میتونه بکنه؟ آیا  در مقطع کنونی ما باید اسامی مخالفین یا حتی مردم عادی رو جمع کنیم یا اسامی سرکوبگران، قاضیان جنایتکار و مزدوران؟\n2-این ربات تلگرامی امنیتش چقدر بالاست؟ چون هنوز از راه نرسیده 10 تا نمونه دیگه ازش ساخته شده و داره مردم رو گیر میندازه\n3- وقتی اسامی جمع آوری شد دست چه کسی یا کسانی میره؟ آیا پاسخگویی دارند در قبال لو رفتن اسامی مردم؟\n4- سرنوشت اسامی جمع شده سال گذشته با کیو آر کد چه شد؟ آیا جمع کردن اسامی نظامیان ناراضی و در صورت لو رفتن یا هک شدن راهی سریع برای تصفیه آنها از سیستم نیست؟\n\nبرای جلوگیری از گیرافتادن بیشتر هموطنان از این تویت حمایت کنید: \nhttps://x.com/mobarez_nastooh/status/2115390930391822359",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "13:55:09",
-      "gregorian_utc": "2026-10-28T10:25:09+00:00",
+      "tehran_time": "14:03:22",
+      "gregorian_utc": "2026-10-28T10:33:22+00:00",
       "media_type": "photo",
-      "media_size_bytes": 129275,
-      "media_size_human": "126.25 KB",
+      "media_size_bytes": 84600,
+      "media_size_human": "82.62 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122679_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122679_photo.jpg",
+      "media_local_path": "media/Mellig_122680_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122680_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.363994+00:00"
+      "archived_at": "2026-10-28T13:10:36.511468+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15272,
-      "message_link": "https://t.me/zedTV/15272",
-      "text": "اسرائیل هیوم: تدارک مشترک آمریکا و اسرائیل برای عملیات سرنگونی جمهوری اسلامی. ضربه مستقیم به رهبری رژیم و پایان حکومت ترور سپاه با اقدامات نظامی بی‌سابقه در دستور کار است.",
+      "message_id": 15273,
+      "message_link": "https://t.me/zedTV/15273",
+      "text": "صدور حکم بازداشت برای یک مقام عراقی؛\nعلت: مخالفت با انسداد مرز با ایران.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "21:56:39",
-      "gregorian_utc": "2026-10-26T18:26:39+00:00",
+      "tehran_time": "22:12:57",
+      "gregorian_utc": "2026-10-26T18:42:57+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305574+00:00"
+      "archived_at": "2026-10-28T13:10:35.545356+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_364265_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364265_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677494+00:00"
+      "archived_at": "2026-10-28T13:10:35.863934+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,35 +721,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.023303+00:00"
+      "archived_at": "2026-10-28T13:10:36.186381+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122678,
-      "message_link": "https://t.me/Mellig/122678",
-      "text": "درود مبارز از صبح زود دارن پدافند، تیربار بی خاصیت شون رو تست میکنن تو کرمان ، دیگه میدونن بی بی به زودی میاد سراغشون با یه موشک اف سی پنج پودر میکنه پدافندشون رو  پول بی زبون روحدر میدن .جاوید شاه 💙",
+      "message_id": 122679,
+      "message_link": "https://t.me/Mellig/122679",
+      "text": "درود آقای میرقادری خسته نباشید\n\nاین بی شرف های بی همه چیز رو ببینید خدایی\nبعد کشتار اون همه جوان بی گناه و حکم های ناعادلانه و ظالمانه اعدام و حبس،\nدم پیری اینطوری به دست و پا افتادند \n\nخبر ندارن به دست مردم خشمگین ایران بیفتند چه ها که در انتظارشون نیست.",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "13:26:02",
-      "gregorian_utc": "2026-10-28T09:56:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 45633208,
-      "media_size_human": "43.52 MB",
+      "tehran_time": "13:55:09",
+      "gregorian_utc": "2026-10-28T10:25:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 129275,
+      "media_size_human": "126.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122678_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122678_video.mp4",
+      "media_local_path": "media/Mellig_122679_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122679_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.364030+00:00"
+      "archived_at": "2026-10-28T13:10:36.511487+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15271,
-      "message_link": "https://t.me/zedTV/15271",
-      "text": "تأیید حکم اعدام منوچهر فلاح در دیوان عالی به اتهام خسارت مالی به ساختمان قضایی.\nفراخوان گسترده فعالان مدنی و حقوقی برای توقف فوری حکم و نجات جان این زندانی.\nاعتراض عمومی به صدور احکام مرگ نامتناسب با اتهامات در دستگاه قضایی رژیم.",
+      "message_id": 15272,
+      "message_link": "https://t.me/zedTV/15272",
+      "text": "اسرائیل هیوم: تدارک مشترک آمریکا و اسرائیل برای عملیات سرنگونی جمهوری اسلامی. ضربه مستقیم به رهبری رژیم و پایان حکومت ترور سپاه با اقدامات نظامی بی‌سابقه در دستور کار است.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "21:46:34",
-      "gregorian_utc": "2026-10-26T18:16:34+00:00",
+      "tehran_time": "21:56:39",
+      "gregorian_utc": "2026-10-26T18:26:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305599+00:00"
+      "archived_at": "2026-10-28T13:10:35.545370+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_364264_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364264_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677612+00:00"
+      "archived_at": "2026-10-28T13:10:35.863998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,35 +793,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.023371+00:00"
+      "archived_at": "2026-10-28T13:10:36.186418+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122677,
-      "message_link": "https://t.me/Mellig/122677",
-      "text": "درود و عرض ادب استاد \nجمهوری اسلامی کثیف و دادگاه انقلاب مشهد انقدر ترس دارند که پروندهای دی ماه و سیاسی هارو حکم را ابلاغ نمیکنند و احضار میکنند و حکم کپی نمیدن فقط میگویند حکم شما انقدر است و هرگونه اطلاع رسانی جرم است\n\nالان برای خیلی ها حتی یک استوری حبس های سنگینی توسط قاضی رسیدگی موسوی شعبه یک داده شده است\n\nیک دختره جرم در حضور دی ماه 7 سال و یک پسر 26 ساله 2 سال تبعید به ایذه و 9 سال حبس بخاطر لایک عکس شاهزاده رضا پهلوی و یک مرد، 32 ساله 10 سال حبس برای زنگ زدن به منو تو",
+      "message_id": 122678,
+      "message_link": "https://t.me/Mellig/122678",
+      "text": "درود مبارز از صبح زود دارن پدافند، تیربار بی خاصیت شون رو تست میکنن تو کرمان ، دیگه میدونن بی بی به زودی میاد سراغشون با یه موشک اف سی پنج پودر میکنه پدافندشون رو  پول بی زبون روحدر میدن .جاوید شاه 💙",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "13:10:32",
-      "gregorian_utc": "2026-10-28T09:40:32+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.364056+00:00"
+      "tehran_time": "13:26:02",
+      "gregorian_utc": "2026-10-28T09:56:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 45633208,
+      "media_size_human": "43.52 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122678_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122678_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-10-28T13:10:36.511506+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15270,
-      "message_link": "https://t.me/zedTV/15270",
-      "text": "حمایت رئیس موساد از موضع نتانیاهو برای حمله به جمهوری اسلامی پیش از انتخابات.\nگزارش‌ها از تایید طرح اقدام نظامی علیه مواضع رژیم حکایت دارد.",
+      "message_id": 15271,
+      "message_link": "https://t.me/zedTV/15271",
+      "text": "تأیید حکم اعدام منوچهر فلاح در دیوان عالی به اتهام خسارت مالی به ساختمان قضایی.\nفراخوان گسترده فعالان مدنی و حقوقی برای توقف فوری حکم و نجات جان این زندانی.\nاعتراض عمومی به صدور احکام مرگ نامتناسب با اتهامات در دستگاه قضایی رژیم.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "21:12:45",
-      "gregorian_utc": "2026-10-26T17:42:45+00:00",
+      "tehran_time": "21:46:34",
+      "gregorian_utc": "2026-10-26T18:16:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305625+00:00"
+      "archived_at": "2026-10-28T13:10:35.545383+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_364263_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364263_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677690+00:00"
+      "archived_at": "2026-10-28T13:10:35.864036+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,35 +865,17 @@
       "media_local_path": "media/satlastnews_76686_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76686_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023560+00:00"
+      "archived_at": "2026-10-28T13:10:36.186522+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122676,
-      "message_link": "https://t.me/Mellig/122676",
-      "text": "**سخنی بسیار مهم با هموطنان در آمریکا**\n\n**دوستان از لینک یوتیوب حمایت کنید**\n\nhttps://youtu.be/CdGvdJL-Mmc?si=oHXHi19-WpoxPL9y\n\n♥️",
+      "message_id": 122677,
+      "message_link": "https://t.me/Mellig/122677",
+      "text": "درود و عرض ادب استاد \nجمهوری اسلامی کثیف و دادگاه انقلاب مشهد انقدر ترس دارند که پروندهای دی ماه و سیاسی هارو حکم را ابلاغ نمیکنند و احضار میکنند و حکم کپی نمیدن فقط میگویند حکم شما انقدر است و هرگونه اطلاع رسانی جرم است\n\nالان برای خیلی ها حتی یک استوری حبس های سنگینی توسط قاضی رسیدگی موسوی شعبه یک داده شده است\n\nیک دختره جرم در حضور دی ماه 7 سال و یک پسر 26 ساله 2 سال تبعید به ایذه و 9 سال حبس بخاطر لایک عکس شاهزاده رضا پهلوی و یک مرد، 32 ساله 10 سال حبس برای زنگ زدن به منو تو",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "12:52:48",
-      "gregorian_utc": "2026-10-28T09:22:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8898947,
-      "media_size_human": "8.49 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122676_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122676_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.364116+00:00"
-    },
-    {
-      "channel_name": "ZED TV - ضد تی وی",
-      "channel_username": "zedTV",
-      "message_id": 15269,
-      "message_link": "https://t.me/zedTV/15269",
-      "text": "دیدار پوتین با پزشکیان و امیر قطر در مسکو؛ رایزنی‌های دیپلماتیک در حاشیه اجلاس صادرکنندگان گاز.\nسفر رئیس‌جمهور رژیم به روسیه پس از نشست چهارجانبه با مقامات ترکیه، عربستان و پاکستان.\nتأکید کرملین بر لزوم ثبات در بازار جهانی انرژی و جلوگیری از نوسان قیمت‌ها.",
-      "shamsi_date": "1405/08/04",
-      "tehran_time": "20:42:15",
-      "gregorian_utc": "2026-10-26T17:12:15+00:00",
+      "tehran_time": "13:10:32",
+      "gregorian_utc": "2026-10-28T09:40:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,7 +883,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305652+00:00"
+      "archived_at": "2026-10-28T13:10:36.511519+00:00"
+    },
+    {
+      "channel_name": "ZED TV - ضد تی وی",
+      "channel_username": "zedTV",
+      "message_id": 15270,
+      "message_link": "https://t.me/zedTV/15270",
+      "text": "حمایت رئیس موساد از موضع نتانیاهو برای حمله به جمهوری اسلامی پیش از انتخابات.\nگزارش‌ها از تایید طرح اقدام نظامی علیه مواضع رژیم حکایت دارد.",
+      "shamsi_date": "1405/08/04",
+      "tehran_time": "21:12:45",
+      "gregorian_utc": "2026-10-26T17:42:45+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-10-28T13:10:35.545398+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_364262_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364262_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677733+00:00"
+      "archived_at": "2026-10-28T13:10:35.864057+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,35 +937,35 @@
       "media_local_path": "media/satlastnews_76685_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76685_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.023628+00:00"
+      "archived_at": "2026-10-28T13:10:36.186554+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122675,
-      "message_link": "https://t.me/Mellig/122675",
-      "text": "چند نکته در مورد احزاب عرب اسرائیل :\nاحزاب عرب در اسرائیل همگی مسلمان نیستند. در میان سیاستمداران احزاب عرب اسرائیل، علاوه بر مسلمانان، مسیحیان عرب و در برخی جریان‌ها دروزی‌ها نیز حضور دارند. احزاب عرب اسرائیل بیشتر بر اساس گرایش سیاسی، ملی‌گرایی عربی، حقوق شهروندی یا دیدگاه‌های مذهبی شکل گرفته‌اند، نه صرفاً دین اسلام.\nدر انتخابات ۲۰۲۶ اسرائیل، چهار حزب اصلی با پایگاه رأی عرب چنین گرایش‌هایی دارند:\n\n🔸رَعام: اسلام‌گرا، به رهبری منصور عباس\n\n🔸حَداش: چپ‌گرا، سوسیالیست و سکولار؛ شامل عرب‌ها و یهودیان\n\n🔸 تعال: ملی‌گرای عرب و سکولار، به رهبری احمد طیبی\n\n🔸 بلد (Balad) ملی‌گرای فلسطینی و سکولار\n\nنکته جالب اینه که حداش در گذشته نمایندگان مسلمان، مسیحی، دروزی و حتی یهودی در کنست داشته است. \nبنابراین، «حزب عرب» به معنی «حزب مسلمان» نیست. عرب بودن یک هویت قومی و فرهنگی است، درحالی‌که مسلمان بودن به دین مربوط می‌شود. همچنین همه شهروندان عرب اسرائیل لزوماً به احزاب عرب رأی نمی‌دن و برخی از احزاب یهودی یا فهرست‌های مشترک حمایت می‌کنند.\nMellig.net",
+      "message_id": 122676,
+      "message_link": "https://t.me/Mellig/122676",
+      "text": "**سخنی بسیار مهم با هموطنان در آمریکا**\n\n**دوستان از لینک یوتیوب حمایت کنید**\n\nhttps://youtu.be/CdGvdJL-Mmc?si=oHXHi19-WpoxPL9y\n\n♥️",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "08:51:31",
-      "gregorian_utc": "2026-10-28T05:21:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 155969,
-      "media_size_human": "152.31 KB",
+      "tehran_time": "12:52:48",
+      "gregorian_utc": "2026-10-28T09:22:48+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8898947,
+      "media_size_human": "8.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122675_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122675_photo.jpg",
+      "media_local_path": "media/Mellig_122676_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122676_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.364286+00:00"
+      "archived_at": "2026-10-28T13:10:36.511553+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15268,
-      "message_link": "https://t.me/zedTV/15268",
-      "text": "وزیر خزانه‌داری آمریکا: مردم ایران از هم‌اکنون صرفه‌جویی در مصرف سوخت را آغاز کنند.\nهشدار جدی واشینگتن نسبت به بحران قریب‌الوقوع انرژی در ایران.",
+      "message_id": 15269,
+      "message_link": "https://t.me/zedTV/15269",
+      "text": "دیدار پوتین با پزشکیان و امیر قطر در مسکو؛ رایزنی‌های دیپلماتیک در حاشیه اجلاس صادرکنندگان گاز.\nسفر رئیس‌جمهور رژیم به روسیه پس از نشست چهارجانبه با مقامات ترکیه، عربستان و پاکستان.\nتأکید کرملین بر لزوم ثبات در بازار جهانی انرژی و جلوگیری از نوسان قیمت‌ها.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "20:12:59",
-      "gregorian_utc": "2026-10-26T16:42:59+00:00",
+      "tehran_time": "20:42:15",
+      "gregorian_utc": "2026-10-26T17:12:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305677+00:00"
+      "archived_at": "2026-10-28T13:10:35.545411+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_364260_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364260_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677800+00:00"
+      "archived_at": "2026-10-28T13:10:35.864091+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,35 +1009,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.023707+00:00"
+      "archived_at": "2026-10-28T13:10:36.186605+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122674,
-      "message_link": "https://t.me/Mellig/122674",
-      "text": "دخترافغانی با هموطناش داروی ایران قاچاق میکنند\nدرحالیکه ایران درجنگ و تحریمه و ملت ایران از نبود وگرونی دارو رنج می‌برند افاغنه داروهای ایران که بهش سوبسید و یارانه تعلق میگیره به افغانستان می‌فرستند \nانقدر ایران بی نظمی و هرکی هرکی شده که این دختر افغانی برای توجیه جرمش مدعیه با قاچاق دارو ارزآوری میکند.\nMellig.net",
+      "message_id": 122675,
+      "message_link": "https://t.me/Mellig/122675",
+      "text": "چند نکته در مورد احزاب عرب اسرائیل :\nاحزاب عرب در اسرائیل همگی مسلمان نیستند. در میان سیاستمداران احزاب عرب اسرائیل، علاوه بر مسلمانان، مسیحیان عرب و در برخی جریان‌ها دروزی‌ها نیز حضور دارند. احزاب عرب اسرائیل بیشتر بر اساس گرایش سیاسی، ملی‌گرایی عربی، حقوق شهروندی یا دیدگاه‌های مذهبی شکل گرفته‌اند، نه صرفاً دین اسلام.\nدر انتخابات ۲۰۲۶ اسرائیل، چهار حزب اصلی با پایگاه رأی عرب چنین گرایش‌هایی دارند:\n\n🔸رَعام: اسلام‌گرا، به رهبری منصور عباس\n\n🔸حَداش: چپ‌گرا، سوسیالیست و سکولار؛ شامل عرب‌ها و یهودیان\n\n🔸 تعال: ملی‌گرای عرب و سکولار، به رهبری احمد طیبی\n\n🔸 بلد (Balad) ملی‌گرای فلسطینی و سکولار\n\nنکته جالب اینه که حداش در گذشته نمایندگان مسلمان، مسیحی، دروزی و حتی یهودی در کنست داشته است. \nبنابراین، «حزب عرب» به معنی «حزب مسلمان» نیست. عرب بودن یک هویت قومی و فرهنگی است، درحالی‌که مسلمان بودن به دین مربوط می‌شود. همچنین همه شهروندان عرب اسرائیل لزوماً به احزاب عرب رأی نمی‌دن و برخی از احزاب یهودی یا فهرست‌های مشترک حمایت می‌کنند.\nMellig.net",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "08:38:27",
-      "gregorian_utc": "2026-10-28T05:08:27+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4815300,
-      "media_size_human": "4.59 MB",
+      "tehran_time": "08:51:31",
+      "gregorian_utc": "2026-10-28T05:21:31+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 155969,
+      "media_size_human": "152.31 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122674_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122674_video.mp4",
+      "media_local_path": "media/Mellig_122675_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122675_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.364362+00:00"
+      "archived_at": "2026-10-28T13:10:36.511645+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15267,
-      "message_link": "https://t.me/zedTV/15267",
-      "text": "رویترز: اختصاص ده‌ها میلیون دلار از دارایی‌های مردم ایران به حزب‌الله.\nتداوم ارسال ثروت ملی توسط جمهوری اسلامی برای تامین مالی این گروه.\nغارت مجدد بودجه عمومی کشور به نفع گروه‌های نیابتی.",
+      "message_id": 15268,
+      "message_link": "https://t.me/zedTV/15268",
+      "text": "وزیر خزانه‌داری آمریکا: مردم ایران از هم‌اکنون صرفه‌جویی در مصرف سوخت را آغاز کنند.\nهشدار جدی واشینگتن نسبت به بحران قریب‌الوقوع انرژی در ایران.",
       "shamsi_date": "1405/08/04",
-      "tehran_time": "19:28:16",
-      "gregorian_utc": "2026-10-26T15:58:16+00:00",
+      "tehran_time": "20:12:59",
+      "gregorian_utc": "2026-10-26T16:42:59+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:02.305700+00:00"
+      "archived_at": "2026-10-28T13:10:35.545425+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_364259_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364259_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:02.677904+00:00"
+      "archived_at": "2026-10-28T13:10:35.864131+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,25 +1081,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-10-28T13:01:03.023798+00:00"
+      "archived_at": "2026-10-28T13:10:36.186655+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122673,
-      "message_link": "https://t.me/Mellig/122673",
-      "text": "**پارسافای Parsafy♥️**\n\n**هوش مصنوعی همه فن حریف♥️**\n\nدوستان از لینک یوتیوب حمایت کنید\n\nhttps://youtu.be/_r9pZG6HThU?si=3QCk3UjHhm8aQT1T",
+      "message_id": 122674,
+      "message_link": "https://t.me/Mellig/122674",
+      "text": "دخترافغانی با هموطناش داروی ایران قاچاق میکنند\nدرحالیکه ایران درجنگ و تحریمه و ملت ایران از نبود وگرونی دارو رنج می‌برند افاغنه داروهای ایران که بهش سوبسید و یارانه تعلق میگیره به افغانستان می‌فرستند \nانقدر ایران بی نظمی و هرکی هرکی شده که این دختر افغانی برای توجیه جرمش مدعیه با قاچاق دارو ارزآوری میکند.\nMellig.net",
       "shamsi_date": "1405/08/06",
-      "tehran_time": "03:28:48",
-      "gregorian_utc": "2026-10-27T23:58:48+00:00",
+      "tehran_time": "08:38:27",
+      "gregorian_utc": "2026-10-28T05:08:27+00:00",
       "media_type": "video",
-      "media_size_bytes": 11907106,
-      "media_size_human": "11.36 MB",
+      "media_size_bytes": 4815300,
+      "media_size_human": "4.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122673_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122673_video.mp4",
+      "media_local_path": "media/Mellig_122674_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122674_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-10-28T13:01:03.364422+00:00"
+      "archived_at": "2026-10-28T13:10:36.511682+00:00"
     }
   ]
 }
