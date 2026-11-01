@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T19:34:28.664136+00:00",
-  "shamsi_generated": "1405/08/10 19:34:28 تهران",
+  "generated_at": "2026-11-01T19:44:02.374985+00:00",
+  "shamsi_generated": "1405/08/10 19:44:02 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782203+00:00"
+      "archived_at": "2026-11-01T19:40:38.808068+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364911,
-      "message_link": "https://t.me/IranintlTV/364911",
-      "text": "اکسیوس یک‌شنبه ۱۰ آبان به نقل از یک منبع اسرائیلی و یک منبع آمریکایی گزارش داد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از دونالد ترامپ، رییس‌جمهوری آمریکا، می‌خواهد بلافاصله پس از انتخابات میان‌دوره‌ای سه‌شنبه ۱۲ آبان به ایران حمله کند، اما ترامپ فعلا می‌خواهد به مذاکرات فرصت دهد.\n\nبر اساس این گزارش، ترامپ و نتانیاهو شنبه نهم آبان در تماسی تلفنی درباره وضعیت مذاکرات با جمهوری اسلامی و زمان ازسرگیری عملیات نظامی گفت‌وگو کردند. منبع اسرائیلی این تماس را «سخت» و منبع آمریکایی آن را «صریح» توصیف کرد. کاخ سفید و دفتر نخست‌وزیر اسرائیل از اظهارنظر خودداری کردند.\n\nاکسیوس نوشت ترامپ هم‌زمان دو مسیر تلاش برای توافقی جهت ازسرگیری مذاکرات مستقیم و آماده‌سازی برای احتمال بازگشت به عملیات نظامی گسترده پس از انتخابات را دنبال می‌کند.\nhttps://iranintl.com/202611018408",
+      "message_id": 364912,
+      "message_link": "https://t.me/IranintlTV/364912",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص کیفیت پایین نان می‌گوید: «دیروز نان سنگک خریدم، بعد از خوردنش دل‌درد گرفتم. کیفیت نان به‌قدری بد است که نمی‌شود آن را خورد و باید دور بریزم.»",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "22:13:32",
-      "gregorian_utc": "2026-11-01T18:43:32+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 150343,
-      "media_size_human": "146.82 KB",
+      "tehran_time": "23:04:31",
+      "gregorian_utc": "2026-11-01T19:34:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11104870,
+      "media_size_human": "10.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364911_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364911_photo.jpg",
+      "media_local_path": "media/IranintlTV_364912_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364912_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.184050+00:00"
+      "archived_at": "2026-11-01T19:40:39.047622+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76723_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76723_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.499238+00:00"
+      "archived_at": "2026-11-01T19:40:39.298709+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-01T19:30:47.835399+00:00"
+      "archived_at": "2026-11-01T19:40:39.540324+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782264+00:00"
+      "archived_at": "2026-11-01T19:40:38.808118+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364910,
-      "message_link": "https://t.me/IranintlTV/364910",
-      "text": "🔻تیم فوتبال اکسلسیور روتردام، در هفته یازدهم اردیویسه هلند با نتیجه پرگل ۹ بر صفر به توئنته باخت. علیرضا جهانبخش، کاپیتان تیم ملی ایران در این بازی، نیمکت‌نشین بود. اکسلسیور پس از اخراج نستو خرون در دقیقه پنج، در خانه ۹ گل از توئنته خورد و بدون حتی یک شوت مسابقه را تمام کرد.\n\n🔹یکشنبه ۱۰ آبان ۱۴۰۵، برای اکسلسیور یکی از سیاه‌ترین روزهای تاریخ باشگاه بود. این تیم در ورزشگاه خانگی خود با نتیجه ۹ بر صفر مقابل اف‌سی توئنته شکست خورد؛ سنگین‌ترین شکست تاریخ اکسلسیور در اردیویسه.\n\n🔹نستو خرون در همان دقایق ابتدایی کارت قرمز گرفت و پس از مسابقه مسوولیت اشتباه خود را پذیرفت.\n\n🔹اما بعدازظهر بسیار بدی برای اکسلسیور رقم خورد. این تیم به سومین تیم اردیویسه از فصل ۲۰۱۱-۲۰۱۰ تبدیل شد که یک مسابقه کامل را بدون حتی یک شوت به پایان می‌رساند.\n\n🔹روبن دن اویل، سرمربی اکسلسیور، هیچ نکته مثبتی درباره عملکرد تیمش نداشت: «بعدازظهر بسیار بدی برای همه ما بود. امروز اکسلسیوری را دیدیم که به‌ویژه از نظر ذهنی کاملا فروپاشید. این همه موقعیت و گل به حریف دادیم.»\n\n🔹اکسلسیور در رده ۱۶ جدول ۱۸ تیمی فوتبال هلند قرار دارد.\n\n@iranintltvsport",
+      "message_id": 364911,
+      "message_link": "https://t.me/IranintlTV/364911",
+      "text": "اکسیوس یک‌شنبه ۱۰ آبان به نقل از یک منبع اسرائیلی و یک منبع آمریکایی گزارش داد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از دونالد ترامپ، رییس‌جمهوری آمریکا، می‌خواهد بلافاصله پس از انتخابات میان‌دوره‌ای سه‌شنبه ۱۲ آبان به ایران حمله کند، اما ترامپ فعلا می‌خواهد به مذاکرات فرصت دهد.\n\nبر اساس این گزارش، ترامپ و نتانیاهو شنبه نهم آبان در تماسی تلفنی درباره وضعیت مذاکرات با جمهوری اسلامی و زمان ازسرگیری عملیات نظامی گفت‌وگو کردند. منبع اسرائیلی این تماس را «سخت» و منبع آمریکایی آن را «صریح» توصیف کرد. کاخ سفید و دفتر نخست‌وزیر اسرائیل از اظهارنظر خودداری کردند.\n\nاکسیوس نوشت ترامپ هم‌زمان دو مسیر تلاش برای توافقی جهت ازسرگیری مذاکرات مستقیم و آماده‌سازی برای احتمال بازگشت به عملیات نظامی گسترده پس از انتخابات را دنبال می‌کند.\nhttps://iranintl.com/202611018408",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "22:07:51",
-      "gregorian_utc": "2026-11-01T18:37:51+00:00",
+      "tehran_time": "22:13:32",
+      "gregorian_utc": "2026-11-01T18:43:32+00:00",
       "media_type": "photo",
-      "media_size_bytes": 211810,
-      "media_size_human": "206.85 KB",
+      "media_size_bytes": 150343,
+      "media_size_human": "146.82 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364910_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364910_photo.jpg",
+      "media_local_path": "media/IranintlTV_364911_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364911_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190417+00:00"
+      "archived_at": "2026-11-01T19:40:39.047790+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76722_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76722_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.499295+00:00"
+      "archived_at": "2026-11-01T19:40:39.298763+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-01T19:30:47.835481+00:00"
+      "archived_at": "2026-11-01T19:40:39.540400+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782303+00:00"
+      "archived_at": "2026-11-01T19:40:38.808152+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364909,
-      "message_link": "https://t.me/IranintlTV/364909",
-      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان ساکن آلمان، شنبه نهم آبان در اعتراض به اعدام‌های جمهوری اسلامی، در شهر هامبورگ تجمع کردند و فریاد «قسم به خون یاران، ایستاده‌ایم تا پایان» سردادند.",
+      "message_id": 364910,
+      "message_link": "https://t.me/IranintlTV/364910",
+      "text": "🔻تیم فوتبال اکسلسیور روتردام، در هفته یازدهم اردیویسه هلند با نتیجه پرگل ۹ بر صفر به توئنته باخت. علیرضا جهانبخش، کاپیتان تیم ملی ایران در این بازی، نیمکت‌نشین بود. اکسلسیور پس از اخراج نستو خرون در دقیقه پنج، در خانه ۹ گل از توئنته خورد و بدون حتی یک شوت مسابقه را تمام کرد.\n\n🔹یکشنبه ۱۰ آبان ۱۴۰۵، برای اکسلسیور یکی از سیاه‌ترین روزهای تاریخ باشگاه بود. این تیم در ورزشگاه خانگی خود با نتیجه ۹ بر صفر مقابل اف‌سی توئنته شکست خورد؛ سنگین‌ترین شکست تاریخ اکسلسیور در اردیویسه.\n\n🔹نستو خرون در همان دقایق ابتدایی کارت قرمز گرفت و پس از مسابقه مسوولیت اشتباه خود را پذیرفت.\n\n🔹اما بعدازظهر بسیار بدی برای اکسلسیور رقم خورد. این تیم به سومین تیم اردیویسه از فصل ۲۰۱۱-۲۰۱۰ تبدیل شد که یک مسابقه کامل را بدون حتی یک شوت به پایان می‌رساند.\n\n🔹روبن دن اویل، سرمربی اکسلسیور، هیچ نکته مثبتی درباره عملکرد تیمش نداشت: «بعدازظهر بسیار بدی برای همه ما بود. امروز اکسلسیوری را دیدیم که به‌ویژه از نظر ذهنی کاملا فروپاشید. این همه موقعیت و گل به حریف دادیم.»\n\n🔹اکسلسیور در رده ۱۶ جدول ۱۸ تیمی فوتبال هلند قرار دارد.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "22:00:20",
-      "gregorian_utc": "2026-11-01T18:30:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10717679,
-      "media_size_human": "10.22 MB",
+      "tehran_time": "22:07:51",
+      "gregorian_utc": "2026-11-01T18:37:51+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 211810,
+      "media_size_human": "206.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364909_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364909_video.mp4",
+      "media_local_path": "media/IranintlTV_364910_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364910_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190489+00:00"
+      "archived_at": "2026-11-01T19:40:39.053148+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.499951+00:00"
+      "archived_at": "2026-11-01T19:40:39.299445+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.835543+00:00"
+      "archived_at": "2026-11-01T19:40:39.540462+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782342+00:00"
+      "archived_at": "2026-11-01T19:40:38.808215+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364908,
-      "message_link": "https://t.me/IranintlTV/364908",
-      "text": "حمید علیدوستی، بازیکن سابق تیم ملی فوتبال ایران، بعد از تحمل یک دوره بیماری، در سن ۷۰ سالگی درگذشت. علیدوستی از فوتبالیست‌های خوشنام ایران بود که سابقه بازی در تیم‌هایی مثل هما، دارایی، کشاورز و سایپا را داشت. او از اولین بازیکن‌های بعد از انقلاب بود که مدتی هم درآلمان فوتبال بازی کرده بود. علیدوستی ۲۷ بازی هم برای تیم ملی فوتبال ایران انجام داده و ۱۵ گل به ثمر رسانده بود.\n\nگفت‌وگو با مهدی رستم پور خبرنگار ورزشی\n@iranintltv",
+      "message_id": 364909,
+      "message_link": "https://t.me/IranintlTV/364909",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان ساکن آلمان، شنبه نهم آبان در اعتراض به اعدام‌های جمهوری اسلامی، در شهر هامبورگ تجمع کردند و فریاد «قسم به خون یاران، ایستاده‌ایم تا پایان» سردادند.",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:45:28",
-      "gregorian_utc": "2026-11-01T18:15:28+00:00",
+      "tehran_time": "22:00:20",
+      "gregorian_utc": "2026-11-01T18:30:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 1885108,
-      "media_size_human": "1.80 MB",
+      "media_size_bytes": 10717679,
+      "media_size_human": "10.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364908_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364908_video.mp4",
+      "media_local_path": "media/IranintlTV_364909_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364909_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190584+00:00"
+      "archived_at": "2026-11-01T19:40:39.053255+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.500140+00:00"
+      "archived_at": "2026-11-01T19:40:39.299648+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_122825_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122825_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.835624+00:00"
+      "archived_at": "2026-11-01T19:40:39.540533+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782373+00:00"
+      "archived_at": "2026-11-01T19:40:38.808248+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364907,
-      "message_link": "https://t.me/IranintlTV/364907",
-      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران\n@iranintlTV",
+      "message_id": 364908,
+      "message_link": "https://t.me/IranintlTV/364908",
+      "text": "حمید علیدوستی، بازیکن سابق تیم ملی فوتبال ایران، بعد از تحمل یک دوره بیماری، در سن ۷۰ سالگی درگذشت. علیدوستی از فوتبالیست‌های خوشنام ایران بود که سابقه بازی در تیم‌هایی مثل هما، دارایی، کشاورز و سایپا را داشت. او از اولین بازیکن‌های بعد از انقلاب بود که مدتی هم درآلمان فوتبال بازی کرده بود. علیدوستی ۲۷ بازی هم برای تیم ملی فوتبال ایران انجام داده و ۱۵ گل به ثمر رسانده بود.\n\nگفت‌وگو با مهدی رستم پور خبرنگار ورزشی\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:39:46",
-      "gregorian_utc": "2026-11-01T18:09:46+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31733838,
-      "media_size_human": "30.26 MB",
+      "tehran_time": "21:45:28",
+      "gregorian_utc": "2026-11-01T18:15:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1885108,
+      "media_size_human": "1.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364907_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364907_audio.mp3",
+      "media_local_path": "media/IranintlTV_364908_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364908_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190654+00:00"
+      "archived_at": "2026-11-01T19:40:39.053351+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76718_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76718_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500227+00:00"
+      "archived_at": "2026-11-01T19:40:39.299738+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_122824_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122824_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.835674+00:00"
+      "archived_at": "2026-11-01T19:40:39.540575+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782410+00:00"
+      "archived_at": "2026-11-01T19:40:38.808287+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364906,
-      "message_link": "https://t.me/IranintlTV/364906",
-      "text": "نجات بهرامی، تحلیل‌گر سیاسی، با اشاره به مواضع اخیر مقام‌های جمهوری اسلامی و افزایش حضور نظامی آمریکا در منطقه گفت نشانه‌ها از شکست قریب‌الوقوع دیپلماسی حکایت دارد. به گفته او، اظهارات اخیر دونالد ترامپ نیز برخلاف ماه‌های گذشته، نشانه‌ای از امیدواری به مذاکرات ندارد.\n@iranintltv",
+      "message_id": 364907,
+      "message_link": "https://t.me/IranintlTV/364907",
+      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ و بررسی اهداف باقی‌مانده در ایران\n@iranintlTV",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:38:02",
-      "gregorian_utc": "2026-11-01T18:08:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1129234,
-      "media_size_human": "1.08 MB",
+      "tehran_time": "21:39:46",
+      "gregorian_utc": "2026-11-01T18:09:46+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31733838,
+      "media_size_human": "30.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364906_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364906_video.mp4",
+      "media_local_path": "media/IranintlTV_364907_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364907_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190781+00:00"
+      "archived_at": "2026-11-01T19:40:39.053427+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76717_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76717_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500328+00:00"
+      "archived_at": "2026-11-01T19:40:39.299844+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_122823_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122823_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.835745+00:00"
+      "archived_at": "2026-11-01T19:40:39.540626+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782440+00:00"
+      "archived_at": "2026-11-01T19:40:38.808316+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364905,
-      "message_link": "https://t.me/IranintlTV/364905",
-      "text": "تیم شی‌هی، سناتور جمهوری‌خواه ایالت مونتانا، گفت: «با خامنه‌ای و رهبری تندروی او نمی‌توان توافق کرد.» او افزود رهبران جمهوری اسلامی هر توافقی را تضعیف می‌کنند و برای دور زدن آن راه می‌یابند.\nشی‌هی یک‌شنبه ۱۰ آبان در گفت‌وگو با فاکس‌نیوز گفت هر توافق احتمالی باید با مشارکت متحدان منطقه‌ای آمریکا و پشتوانه نظامی همراه باشد تا واشینگتن بتواند در صورت نقض تعهدات، بلافاصله برای اجرای آن‌ها اقدام کند.\nاو گفت این مناقشه نزدیک به نیم‌قرن ادامه داشته و سپاه پاسداران و اسلام‌گرایان تندروی حاکم بر ایران را آغازگر آن دانست.\nشی‌هی گفت این حکومت همچنان شعار «مرگ بر آمریکا» سر می‌دهد و می‌خواهد درگیری را به خاک، شهرها و خیابان‌های آمریکا بکشاند.\nاین سناتور جمهوری‌خواه افزود آمریکا در توافق‌های پیشین با پرداخت پول و کاهش تحریم‌ها امیدوار بود تهران به تعهداتش عمل کند، اما جمهوری اسلامی چنین نکرده است.\nشی‌هی همچنین گفت ترامپ و تیمش گزینه‌های پس از انتخابات میان‌دوره‌ای، از جمله ازسرگیری حملات، ادامه محاصره دریایی و دیپلماسی را بررسی می‌کنند.\nhttps://iranintl.com/202611012299",
+      "message_id": 364906,
+      "message_link": "https://t.me/IranintlTV/364906",
+      "text": "نجات بهرامی، تحلیل‌گر سیاسی، با اشاره به مواضع اخیر مقام‌های جمهوری اسلامی و افزایش حضور نظامی آمریکا در منطقه گفت نشانه‌ها از شکست قریب‌الوقوع دیپلماسی حکایت دارد. به گفته او، اظهارات اخیر دونالد ترامپ نیز برخلاف ماه‌های گذشته، نشانه‌ای از امیدواری به مذاکرات ندارد.\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:25:32",
-      "gregorian_utc": "2026-11-01T17:55:32+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 176054,
-      "media_size_human": "171.93 KB",
+      "tehran_time": "21:38:02",
+      "gregorian_utc": "2026-11-01T18:08:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1129234,
+      "media_size_human": "1.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364905_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364905_photo.jpg",
+      "media_local_path": "media/IranintlTV_364906_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364906_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.190931+00:00"
+      "archived_at": "2026-11-01T19:40:39.053507+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76716_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76716_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500387+00:00"
+      "archived_at": "2026-11-01T19:40:39.299905+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_122822_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122822_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.835803+00:00"
+      "archived_at": "2026-11-01T19:40:39.540677+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782483+00:00"
+      "archived_at": "2026-11-01T19:40:38.808359+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364904,
-      "message_link": "https://t.me/IranintlTV/364904",
-      "text": "حمید علیدوستی، بازیکن پیشین تیم ملی فوتبال ایران و باشگاه هما و مدیرفنی تیم چادرملو و یکی از خوشنامترین و دوست‌داشتنی‌ترین فوتبالیست‌های ایران، امروز یکشنبه ۱۰ آبان ۱۴۰۵ و و پس از مدتی مبارزه با بیماری سرطان، درگذشت.\n\nگفت‌و‌گو با مهدی رستم‌پور، خبرنگار ورزشی\n@iranintltv",
+      "message_id": 364905,
+      "message_link": "https://t.me/IranintlTV/364905",
+      "text": "تیم شی‌هی، سناتور جمهوری‌خواه ایالت مونتانا، گفت: «با خامنه‌ای و رهبری تندروی او نمی‌توان توافق کرد.» او افزود رهبران جمهوری اسلامی هر توافقی را تضعیف می‌کنند و برای دور زدن آن راه می‌یابند.\nشی‌هی یک‌شنبه ۱۰ آبان در گفت‌وگو با فاکس‌نیوز گفت هر توافق احتمالی باید با مشارکت متحدان منطقه‌ای آمریکا و پشتوانه نظامی همراه باشد تا واشینگتن بتواند در صورت نقض تعهدات، بلافاصله برای اجرای آن‌ها اقدام کند.\nاو گفت این مناقشه نزدیک به نیم‌قرن ادامه داشته و سپاه پاسداران و اسلام‌گرایان تندروی حاکم بر ایران را آغازگر آن دانست.\nشی‌هی گفت این حکومت همچنان شعار «مرگ بر آمریکا» سر می‌دهد و می‌خواهد درگیری را به خاک، شهرها و خیابان‌های آمریکا بکشاند.\nاین سناتور جمهوری‌خواه افزود آمریکا در توافق‌های پیشین با پرداخت پول و کاهش تحریم‌ها امیدوار بود تهران به تعهداتش عمل کند، اما جمهوری اسلامی چنین نکرده است.\nشی‌هی همچنین گفت ترامپ و تیمش گزینه‌های پس از انتخابات میان‌دوره‌ای، از جمله ازسرگیری حملات، ادامه محاصره دریایی و دیپلماسی را بررسی می‌کنند.\nhttps://iranintl.com/202611012299",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:20:09",
-      "gregorian_utc": "2026-11-01T17:50:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3357881,
-      "media_size_human": "3.20 MB",
+      "tehran_time": "21:25:32",
+      "gregorian_utc": "2026-11-01T17:55:32+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 176054,
+      "media_size_human": "171.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364904_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364904_video.mp4",
+      "media_local_path": "media/IranintlTV_364905_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364905_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191005+00:00"
+      "archived_at": "2026-11-01T19:40:39.053644+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.500442+00:00"
+      "archived_at": "2026-11-01T19:40:39.299959+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.835848+00:00"
+      "archived_at": "2026-11-01T19:40:39.540720+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782512+00:00"
+      "archived_at": "2026-11-01T19:40:38.808389+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364903,
-      "message_link": "https://t.me/IranintlTV/364903",
-      "text": "مرکز آمار ایران جزییات تورم مهرماه را منتشر کرد. تورم نقطه‌به‌نقطه مهرماه به ۸۸.۷ درصد رسیده است. تورم سالانه مهرماه بیش از ۷۶ درصد و تورم ماهانه بیش از ۴ درصد اعلام شده است. با این حال، روند افزایش قیمت‌ها در همه استان‌ها یکسان نیست و تورم نقطه‌به‌نقطه در دست‌کم هشت استان از ۱۰۰ درصد عبور کرده است.\n\nگفت‌وگو با اشکان نظام‌آبادی، روزنامه‌نگار اقتصادی\n@iranintltv",
+      "message_id": 364904,
+      "message_link": "https://t.me/IranintlTV/364904",
+      "text": "حمید علیدوستی، بازیکن پیشین تیم ملی فوتبال ایران و باشگاه هما و مدیرفنی تیم چادرملو و یکی از خوشنامترین و دوست‌داشتنی‌ترین فوتبالیست‌های ایران، امروز یکشنبه ۱۰ آبان ۱۴۰۵ و و پس از مدتی مبارزه با بیماری سرطان، درگذشت.\n\nگفت‌و‌گو با مهدی رستم‌پور، خبرنگار ورزشی\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:15:44",
-      "gregorian_utc": "2026-11-01T17:45:44+00:00",
+      "tehran_time": "21:20:09",
+      "gregorian_utc": "2026-11-01T17:50:09+00:00",
       "media_type": "video",
-      "media_size_bytes": 4493302,
-      "media_size_human": "4.29 MB",
+      "media_size_bytes": 3357881,
+      "media_size_human": "3.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364903_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364903_video.mp4",
+      "media_local_path": "media/IranintlTV_364904_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364904_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191082+00:00"
+      "archived_at": "2026-11-01T19:40:39.053715+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76714_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76714_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500503+00:00"
+      "archived_at": "2026-11-01T19:40:39.300021+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_122820_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122820_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.835934+00:00"
+      "archived_at": "2026-11-01T19:40:39.540819+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782539+00:00"
+      "archived_at": "2026-11-01T19:40:38.808420+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364902,
-      "message_link": "https://t.me/IranintlTV/364902",
-      "text": "نجات بهرامی، تحلیلگر سیاسی، با اشاره به مواضع اخیر مقام‌های جمهوری اسلامی و افزایش حضور نظامی آمریکا در منطقه گفت نشانه‌ها از شکست قریب‌الوقوع دیپلماسی حکایت دارد. به گفته او، اظهارات اخیر دونالد ترامپ نیز برخلاف ماه‌های گذشته، نشانه‌ای از امیدواری به مذاکرات ندارد.\n@iranintltv",
+      "message_id": 364903,
+      "message_link": "https://t.me/IranintlTV/364903",
+      "text": "مرکز آمار ایران جزییات تورم مهرماه را منتشر کرد. تورم نقطه‌به‌نقطه مهرماه به ۸۸.۷ درصد رسیده است. تورم سالانه مهرماه بیش از ۷۶ درصد و تورم ماهانه بیش از ۴ درصد اعلام شده است. با این حال، روند افزایش قیمت‌ها در همه استان‌ها یکسان نیست و تورم نقطه‌به‌نقطه در دست‌کم هشت استان از ۱۰۰ درصد عبور کرده است.\n\nگفت‌وگو با اشکان نظام‌آبادی، روزنامه‌نگار اقتصادی\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:09:06",
-      "gregorian_utc": "2026-11-01T17:39:06+00:00",
+      "tehran_time": "21:15:44",
+      "gregorian_utc": "2026-11-01T17:45:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 2984402,
-      "media_size_human": "2.85 MB",
+      "media_size_bytes": 4493302,
+      "media_size_human": "4.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364902_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364902_video.mp4",
+      "media_local_path": "media/IranintlTV_364903_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364903_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191149+00:00"
+      "archived_at": "2026-11-01T19:40:39.053791+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.500580+00:00"
+      "archived_at": "2026-11-01T19:40:39.300099+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.835966+00:00"
+      "archived_at": "2026-11-01T19:40:39.540867+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": "media/zedTV_15447_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15447_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:46.782640+00:00"
+      "archived_at": "2026-11-01T19:40:38.808484+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364901,
-      "message_link": "https://t.me/IranintlTV/364901",
-      "text": "تلاش کشورهای خلیج فارس برای جلوگیری از آغاز دوباره جنگ افزایش یافته است. رهبران این کشورها که به دلیل میزبانی از پایگاه‌های آمریکا، بار اصلی حملات تلافی‌جویانه جمهوری اسلامی را متحمل شده‌اند، خواستار تنش‌زدایی هستند.\n\nهم‌زمان بر اساس آنچه تاکنون در رسانه‌ها منتشر شده، انتظار می‌رود در دور احتمالی حملات آمریکا و اسرائیل، علاوه بر اهداف هسته‌ای و نظامی، زیرساخت‌های غیرنظامی ایران، از جمله نیروگاه‌ها و پالایشگاه‌ها، نیز هدف قرار گیرند؛ حملاتی که ممکن است ابعاد آن به‌مراتب گسترده‌تر و شدیدتر از جنگ ۴۰روزه باشد.\n\nگفت‌وگو با منشه امیر، کارشناس امور خاورمیانه\n@iranintltv",
+      "message_id": 364902,
+      "message_link": "https://t.me/IranintlTV/364902",
+      "text": "نجات بهرامی، تحلیلگر سیاسی، با اشاره به مواضع اخیر مقام‌های جمهوری اسلامی و افزایش حضور نظامی آمریکا در منطقه گفت نشانه‌ها از شکست قریب‌الوقوع دیپلماسی حکایت دارد. به گفته او، اظهارات اخیر دونالد ترامپ نیز برخلاف ماه‌های گذشته، نشانه‌ای از امیدواری به مذاکرات ندارد.\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:08:59",
-      "gregorian_utc": "2026-11-01T17:38:59+00:00",
+      "tehran_time": "21:09:06",
+      "gregorian_utc": "2026-11-01T17:39:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 6036461,
-      "media_size_human": "5.76 MB",
+      "media_size_bytes": 2984402,
+      "media_size_human": "2.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364901_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364901_video.mp4",
+      "media_local_path": "media/IranintlTV_364902_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364902_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191240+00:00"
+      "archived_at": "2026-11-01T19:40:39.053859+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76712_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76712_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500620+00:00"
+      "archived_at": "2026-11-01T19:40:39.300138+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_122818_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122818_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.836020+00:00"
+      "archived_at": "2026-11-01T19:40:39.540929+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": "media/zedTV_15446_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15446_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:46.782691+00:00"
+      "archived_at": "2026-11-01T19:40:38.808530+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364900,
-      "message_link": "https://t.me/IranintlTV/364900",
-      "text": "🔻خاتون بم، نماینده فوتبال زنان ایران در لیگ قهرمانان آسیا، در نخستین دیدار خود با نتیجه ۴ بر یک مقابل نماینده ژاپن شکست خورد.\n\n🔹گزارش رها پوربخش، ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 364901,
+      "message_link": "https://t.me/IranintlTV/364901",
+      "text": "تلاش کشورهای خلیج فارس برای جلوگیری از آغاز دوباره جنگ افزایش یافته است. رهبران این کشورها که به دلیل میزبانی از پایگاه‌های آمریکا، بار اصلی حملات تلافی‌جویانه جمهوری اسلامی را متحمل شده‌اند، خواستار تنش‌زدایی هستند.\n\nهم‌زمان بر اساس آنچه تاکنون در رسانه‌ها منتشر شده، انتظار می‌رود در دور احتمالی حملات آمریکا و اسرائیل، علاوه بر اهداف هسته‌ای و نظامی، زیرساخت‌های غیرنظامی ایران، از جمله نیروگاه‌ها و پالایشگاه‌ها، نیز هدف قرار گیرند؛ حملاتی که ممکن است ابعاد آن به‌مراتب گسترده‌تر و شدیدتر از جنگ ۴۰روزه باشد.\n\nگفت‌وگو با منشه امیر، کارشناس امور خاورمیانه\n@iranintltv",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:06:21",
-      "gregorian_utc": "2026-11-01T17:36:21+00:00",
+      "tehran_time": "21:08:59",
+      "gregorian_utc": "2026-11-01T17:38:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 1164671,
-      "media_size_human": "1.11 MB",
+      "media_size_bytes": 6036461,
+      "media_size_human": "5.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364900_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364900_video.mp4",
+      "media_local_path": "media/IranintlTV_364901_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364901_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191307+00:00"
+      "archived_at": "2026-11-01T19:40:39.053949+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76711_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76711_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500707+00:00"
+      "archived_at": "2026-11-01T19:40:39.300260+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.836069+00:00"
+      "archived_at": "2026-11-01T19:40:39.540981+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782744+00:00"
+      "archived_at": "2026-11-01T19:40:38.808562+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364899,
-      "message_link": "https://t.me/IranintlTV/364899",
-      "text": "ویدیوهای ارسال‌شده به ایران‌اینترنشنال، ساختن تندیس شنی جاویدنام امیرمحمد حاتمی را روی ساحل دریا نشان می‌دهد. این معترض ۱۸ ساله، پس از مجروح شدن و بازداشت در ۱۹ دی ۱۴۰۴ در شاهین‌شهر، با شلیک تیر خلاص کشته شد.",
+      "message_id": 364900,
+      "message_link": "https://t.me/IranintlTV/364900",
+      "text": "🔻خاتون بم، نماینده فوتبال زنان ایران در لیگ قهرمانان آسیا، در نخستین دیدار خود با نتیجه ۴ بر یک مقابل نماینده ژاپن شکست خورد.\n\n🔹گزارش رها پوربخش، ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "21:03:12",
-      "gregorian_utc": "2026-11-01T17:33:12+00:00",
+      "tehran_time": "21:06:21",
+      "gregorian_utc": "2026-11-01T17:36:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 5977770,
-      "media_size_human": "5.70 MB",
+      "media_size_bytes": 1164671,
+      "media_size_human": "1.11 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364899_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364899_video.mp4",
+      "media_local_path": "media/IranintlTV_364900_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364900_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191344+00:00"
+      "archived_at": "2026-11-01T19:40:39.054013+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76710_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76710_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500854+00:00"
+      "archived_at": "2026-11-01T19:40:39.300398+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_122816_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122816_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.836124+00:00"
+      "archived_at": "2026-11-01T19:40:39.541039+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782778+00:00"
+      "archived_at": "2026-11-01T19:40:38.808589+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364898,
-      "message_link": "https://t.me/IranintlTV/364898",
-      "text": "",
+      "message_id": 364899,
+      "message_link": "https://t.me/IranintlTV/364899",
+      "text": "ویدیوهای ارسال‌شده به ایران‌اینترنشنال، ساختن تندیس شنی جاویدنام امیرمحمد حاتمی را روی ساحل دریا نشان می‌دهد. این معترض ۱۸ ساله، پس از مجروح شدن و بازداشت در ۱۹ دی ۱۴۰۴ در شاهین‌شهر، با شلیک تیر خلاص کشته شد.",
       "shamsi_date": "1405/08/10",
-      "tehran_time": "20:29:34",
-      "gregorian_utc": "2026-11-01T16:59:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 147327,
-      "media_size_human": "143.87 KB",
+      "tehran_time": "21:03:12",
+      "gregorian_utc": "2026-11-01T17:33:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5977770,
+      "media_size_human": "5.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364898_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364898_photo.jpg",
+      "media_local_path": "media/IranintlTV_364899_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364899_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191384+00:00"
+      "archived_at": "2026-11-01T19:40:39.054050+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-11-01T19:30:47.500888+00:00"
+      "archived_at": "2026-11-01T19:40:39.300449+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.836174+00:00"
+      "archived_at": "2026-11-01T19:40:39.541090+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:46.782805+00:00"
+      "archived_at": "2026-11-01T19:40:38.808614+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 364897,
-      "message_link": "https://t.me/IranintlTV/364897",
+      "message_id": 364898,
+      "message_link": "https://t.me/IranintlTV/364898",
       "text": "",
       "shamsi_date": "1405/08/10",
       "tehran_time": "20:29:34",
       "gregorian_utc": "2026-11-01T16:59:34+00:00",
       "media_type": "photo",
-      "media_size_bytes": 193252,
-      "media_size_human": "188.72 KB",
+      "media_size_bytes": 147327,
+      "media_size_human": "143.87 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_364897_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364897_photo.jpg",
+      "media_local_path": "media/IranintlTV_364898_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_364898_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.191422+00:00"
+      "archived_at": "2026-11-01T19:40:39.054121+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76708_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76708_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-01T19:30:47.500971+00:00"
+      "archived_at": "2026-11-01T19:40:39.300535+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-01T19:30:47.836202+00:00"
+      "archived_at": "2026-11-01T19:40:39.541119+00:00"
     }
   ]
 }
