@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T22:02:12.783132+00:00",
-  "shamsi_generated": "1405/08/13 22:02:12 تهران",
+  "generated_at": "2026-11-04T22:12:16.957360+00:00",
+  "shamsi_generated": "1405/08/13 22:12:16 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.490915+00:00"
+      "archived_at": "2026-11-04T22:10:33.603292+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_365438_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365438_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.765953+00:00"
+      "archived_at": "2026-11-04T22:10:33.904702+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,25 +73,25 @@
       "media_local_path": "media/satlastnews_76730_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76730_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.019182+00:00"
+      "archived_at": "2026-11-04T22:10:34.227283+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122940,
-      "message_link": "https://t.me/Mellig/122940",
-      "text": "",
+      "message_id": 122941,
+      "message_link": "https://t.me/Mellig/122941",
+      "text": "🚨🚨🚨**فوری | پروازهای مکرر و گسترده هواپیماهای جنگی امریکا بر فراز آسمان بغداد، پایتخت عراق.**",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "01:15:53",
-      "gregorian_utc": "2026-11-04T21:45:53+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 55829,
-      "media_size_human": "54.52 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122940_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122940_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.249831+00:00"
+      "tehran_time": "01:35:41",
+      "gregorian_utc": "2026-11-04T22:05:41+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-04T22:10:34.527015+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.490966+00:00"
+      "archived_at": "2026-11-04T22:10:33.603343+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": "media/IranintlTV_365437_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365437_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.766046+00:00"
+      "archived_at": "2026-11-04T22:10:33.904776+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,25 +145,25 @@
       "media_local_path": "media/satlastnews_76729_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76729_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.019242+00:00"
+      "archived_at": "2026-11-04T22:10:34.227329+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122939,
-      "message_link": "https://t.me/Mellig/122939",
+      "message_id": 122940,
+      "message_link": "https://t.me/Mellig/122940",
       "text": "",
       "shamsi_date": "1405/08/14",
       "tehran_time": "01:15:53",
       "gregorian_utc": "2026-11-04T21:45:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 110513,
-      "media_size_human": "107.92 KB",
+      "media_size_bytes": 55829,
+      "media_size_human": "54.52 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122939_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122939_photo.jpg",
+      "media_local_path": "media/Mellig_122940_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122940_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.249882+00:00"
+      "archived_at": "2026-11-04T22:10:34.527071+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491001+00:00"
+      "archived_at": "2026-11-04T22:10:33.603370+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": "media/IranintlTV_365436_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365436_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.766138+00:00"
+      "archived_at": "2026-11-04T22:10:33.904846+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,25 +217,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.019291+00:00"
+      "archived_at": "2026-11-04T22:10:34.227363+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122938,
-      "message_link": "https://t.me/Mellig/122938",
-      "text": "جناب میرقادری پرواز دو پهباد MQ-4C Triton\nدر حریم هوایی اردن و خلیج فارس مشکوکه",
+      "message_id": 122939,
+      "message_link": "https://t.me/Mellig/122939",
+      "text": "",
       "shamsi_date": "1405/08/14",
       "tehran_time": "01:15:53",
       "gregorian_utc": "2026-11-04T21:45:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 100600,
-      "media_size_human": "98.24 KB",
+      "media_size_bytes": 110513,
+      "media_size_human": "107.92 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122938_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122938_photo.jpg",
+      "media_local_path": "media/Mellig_122939_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122939_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.249931+00:00"
+      "archived_at": "2026-11-04T22:10:34.527100+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491037+00:00"
+      "archived_at": "2026-11-04T22:10:33.603396+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_365435_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365435_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.766225+00:00"
+      "archived_at": "2026-11-04T22:10:33.904910+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,25 +289,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.019963+00:00"
+      "archived_at": "2026-11-04T22:10:34.227895+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122937,
-      "message_link": "https://t.me/Mellig/122937",
-      "text": "توییت دختر عموی جی دی ونس:\nپس پسرعموی نسبتاً سردرگم من، جی‌دی ونس، در پاسخ به نتایج انتخابات میان‌دوره‌ای، می‌خواهد تقصیر را به گردن حمایت از ایستادگی در برابر رژیم ایران بیندازد و موضع ضد اسرائیلی بگیرد؟\n\nنه، آقا!\n\n«صلح از طریق قدرت» دلیل شکست ما نیست.\n\nرئیس‌جمهور ترامپ حق داشت با آخوندها مقابله کند، و فاصله گرفتن از اسرائیل، سیاست و رویکرد اوباما بود، نه سیاست «اول آمریکا» (America First).\n\nاین دقیقاً همان چیزی است که من درباره‌اش هشدار می‌دادم.\n\nتاکر کارلسون به دلیلی از ونس انتقاد نکرده و به او کاری نداشته است؛ حالا می‌بینیم دلیلش چه بوده است. 🇺🇸🇮🇱\n\n«آنانی را که تو را برکت دهند، برکت خواهم داد و آنانی را که تو را لعنت کنند، لعنت خواهم کرد.»\n\nپیدایش ۱۲:۳",
+      "message_id": 122938,
+      "message_link": "https://t.me/Mellig/122938",
+      "text": "جناب میرقادری پرواز دو پهباد MQ-4C Triton\nدر حریم هوایی اردن و خلیج فارس مشکوکه",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "01:11:24",
-      "gregorian_utc": "2026-11-04T21:41:24+00:00",
+      "tehran_time": "01:15:53",
+      "gregorian_utc": "2026-11-04T21:45:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 106165,
-      "media_size_human": "103.68 KB",
+      "media_size_bytes": 100600,
+      "media_size_human": "98.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122937_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122937_photo.jpg",
+      "media_local_path": "media/Mellig_122938_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122938_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.249968+00:00"
+      "archived_at": "2026-11-04T22:10:34.527124+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491097+00:00"
+      "archived_at": "2026-11-04T22:10:33.603418+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_365434_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365434_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.766282+00:00"
+      "archived_at": "2026-11-04T22:10:33.904944+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,25 +361,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.020150+00:00"
+      "archived_at": "2026-11-04T22:10:34.228040+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122936,
-      "message_link": "https://t.me/Mellig/122936",
-      "text": "",
+      "message_id": 122937,
+      "message_link": "https://t.me/Mellig/122937",
+      "text": "توییت دختر عموی جی دی ونس:\nپس پسرعموی نسبتاً سردرگم من، جی‌دی ونس، در پاسخ به نتایج انتخابات میان‌دوره‌ای، می‌خواهد تقصیر را به گردن حمایت از ایستادگی در برابر رژیم ایران بیندازد و موضع ضد اسرائیلی بگیرد؟\n\nنه، آقا!\n\n«صلح از طریق قدرت» دلیل شکست ما نیست.\n\nرئیس‌جمهور ترامپ حق داشت با آخوندها مقابله کند، و فاصله گرفتن از اسرائیل، سیاست و رویکرد اوباما بود، نه سیاست «اول آمریکا» (America First).\n\nاین دقیقاً همان چیزی است که من درباره‌اش هشدار می‌دادم.\n\nتاکر کارلسون به دلیلی از ونس انتقاد نکرده و به او کاری نداشته است؛ حالا می‌بینیم دلیلش چه بوده است. 🇺🇸🇮🇱\n\n«آنانی را که تو را برکت دهند، برکت خواهم داد و آنانی را که تو را لعنت کنند، لعنت خواهم کرد.»\n\nپیدایش ۱۲:۳",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "00:35:55",
-      "gregorian_utc": "2026-11-04T21:05:55+00:00",
+      "tehran_time": "01:11:24",
+      "gregorian_utc": "2026-11-04T21:41:24+00:00",
       "media_type": "photo",
-      "media_size_bytes": 229324,
-      "media_size_human": "223.95 KB",
+      "media_size_bytes": 106165,
+      "media_size_human": "103.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122936_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122936_photo.jpg",
+      "media_local_path": "media/Mellig_122937_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122937_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.250006+00:00"
+      "archived_at": "2026-11-04T22:10:34.527147+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491163+00:00"
+      "archived_at": "2026-11-04T22:10:33.603440+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_365433_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365433_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.771845+00:00"
+      "archived_at": "2026-11-04T22:10:33.910794+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,25 +433,25 @@
       "media_local_path": "media/satlastnews_76718_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76718_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020241+00:00"
+      "archived_at": "2026-11-04T22:10:34.228106+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122935,
-      "message_link": "https://t.me/Mellig/122935",
-      "text": "🔴 #خبر_فوری\nدر ساعات اخیر رئیس جمهور لبنان از رهبر حزب الله خواسته است وارد جنگ قریب‌الوقوع میان اسرائیل و تهران نشود و لبنان را بار دیگر وارد جنگ نکند.",
+      "message_id": 122936,
+      "message_link": "https://t.me/Mellig/122936",
+      "text": "",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "00:30:22",
-      "gregorian_utc": "2026-11-04T21:00:22+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250078+00:00"
+      "tehran_time": "00:35:55",
+      "gregorian_utc": "2026-11-04T21:05:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 229324,
+      "media_size_human": "223.95 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122936_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122936_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-04T22:10:34.527169+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491219+00:00"
+      "archived_at": "2026-11-04T22:10:33.603459+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_365432_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365432_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.771948+00:00"
+      "archived_at": "2026-11-04T22:10:33.910904+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,25 +505,25 @@
       "media_local_path": "media/satlastnews_76717_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76717_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020344+00:00"
+      "archived_at": "2026-11-04T22:10:34.228183+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122934,
-      "message_link": "https://t.me/Mellig/122934",
-      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
-      "shamsi_date": "1405/08/13",
-      "tehran_time": "22:36:04",
-      "gregorian_utc": "2026-11-04T19:06:04+00:00",
-      "media_type": "webpage",
+      "message_id": 122935,
+      "message_link": "https://t.me/Mellig/122935",
+      "text": "🔴 #خبر_فوری\nدر ساعات اخیر رئیس جمهور لبنان از رهبر حزب الله خواسته است وارد جنگ قریب‌الوقوع میان اسرائیل و تهران نشود و لبنان را بار دیگر وارد جنگ نکند.",
+      "shamsi_date": "1405/08/14",
+      "tehran_time": "00:30:22",
+      "gregorian_utc": "2026-11-04T21:00:22+00:00",
+      "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-04T22:00:51.250146+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-04T22:10:34.527211+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491280+00:00"
+      "archived_at": "2026-11-04T22:10:33.603490+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_365431_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365431_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772032+00:00"
+      "archived_at": "2026-11-04T22:10:33.910968+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,25 +577,25 @@
       "media_local_path": "media/satlastnews_76716_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76716_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020403+00:00"
+      "archived_at": "2026-11-04T22:10:34.228224+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122933,
-      "message_link": "https://t.me/Mellig/122933",
-      "text": "مبارزجان \nیادتونه که آرش اعلایی چند وقت پیش میگفت که ترامپ داره اسلام رو ضعیف میکنه؟؟؟\nاز انشالله و ماشالله گفتن نماینده دموکراتا کاملا مشخص هست که چقدر اسلام ضعیف شده!!!",
+      "message_id": 122934,
+      "message_link": "https://t.me/Mellig/122934",
+      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "22:21:10",
-      "gregorian_utc": "2026-11-04T18:51:10+00:00",
-      "media_type": null,
+      "tehran_time": "22:36:04",
+      "gregorian_utc": "2026-11-04T19:06:04+00:00",
+      "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250177+00:00"
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-11-04T22:10:34.527254+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491322+00:00"
+      "archived_at": "2026-11-04T22:10:33.603512+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_365430_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365430_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772075+00:00"
+      "archived_at": "2026-11-04T22:10:33.910997+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,25 +649,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.020458+00:00"
+      "archived_at": "2026-11-04T22:10:34.228262+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122932,
-      "message_link": "https://t.me/Mellig/122932",
-      "text": "🎼 **سهم سینا از زندگی** 🕊️\n\n🎶 اثری به یاد جاویدنام **سینا اشگبوسی**\n\nنوجوانی شانزده‌ساله با رؤیاهایی بزرگ، که آرزوی پزشک‌شدن و ساختن آینده‌ای روشن را در دل داشت، اما در اعتراضات دی‌ماه ۱۴۰۴ زندگی‌اش ناتمام ماند.\n\nاین اثر، ادای احترامی است به یاد سینا؛ روایتی از آرزوهای ناتمام، اندوه یک خانواده و صدای نسلی که خواهان زندگی، آزادی و آینده‌ای بهتر بود.\n\n✍️ **شعر و ترانه: M.J**\n🎼 **آهنگسازی و تنظیم: M.J**\n🎧 **تهیه و تولید اثر: M.J**\n\n🕯️ تقدیم به سینا اشگبوسی و تمامی جان‌باختگان راه آزادی ایران.\n\n**یادشان جاودان، راهشان پررهرو**",
+      "message_id": 122933,
+      "message_link": "https://t.me/Mellig/122933",
+      "text": "مبارزجان \nیادتونه که آرش اعلایی چند وقت پیش میگفت که ترامپ داره اسلام رو ضعیف میکنه؟؟؟\nاز انشالله و ماشالله گفتن نماینده دموکراتا کاملا مشخص هست که چقدر اسلام ضعیف شده!!!",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "21:53:49",
-      "gregorian_utc": "2026-11-04T18:23:49+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 5436342,
-      "media_size_human": "5.18 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122932_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122932_audio.mp3",
-      "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.250305+00:00"
+      "tehran_time": "22:21:10",
+      "gregorian_utc": "2026-11-04T18:51:10+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-04T22:10:34.527272+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491349+00:00"
+      "archived_at": "2026-11-04T22:10:33.603530+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_365429_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365429_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772163+00:00"
+      "archived_at": "2026-11-04T22:10:33.911067+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,25 +721,25 @@
       "media_local_path": "media/satlastnews_76714_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76714_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020519+00:00"
+      "archived_at": "2026-11-04T22:10:34.228305+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122931,
-      "message_link": "https://t.me/Mellig/122931",
-      "text": "🔴 #خبر_فوری\nجی دی ونس، معاون اول ترامپ:\nجنگ با ایران مهم ترین دلیل شکست حزب جمهوری خواه در انتخابات کنگره بود.",
+      "message_id": 122932,
+      "message_link": "https://t.me/Mellig/122932",
+      "text": "🎼 **سهم سینا از زندگی** 🕊️\n\n🎶 اثری به یاد جاویدنام **سینا اشگبوسی**\n\nنوجوانی شانزده‌ساله با رؤیاهایی بزرگ، که آرزوی پزشک‌شدن و ساختن آینده‌ای روشن را در دل داشت، اما در اعتراضات دی‌ماه ۱۴۰۴ زندگی‌اش ناتمام ماند.\n\nاین اثر، ادای احترامی است به یاد سینا؛ روایتی از آرزوهای ناتمام، اندوه یک خانواده و صدای نسلی که خواهان زندگی، آزادی و آینده‌ای بهتر بود.\n\n✍️ **شعر و ترانه: M.J**\n🎼 **آهنگسازی و تنظیم: M.J**\n🎧 **تهیه و تولید اثر: M.J**\n\n🕯️ تقدیم به سینا اشگبوسی و تمامی جان‌باختگان راه آزادی ایران.\n\n**یادشان جاودان، راهشان پررهرو**",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "19:58:13",
-      "gregorian_utc": "2026-11-04T16:28:13+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250361+00:00"
+      "tehran_time": "21:53:49",
+      "gregorian_utc": "2026-11-04T18:23:49+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 5436342,
+      "media_size_human": "5.18 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122932_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122932_audio.mp3",
+      "no_media_reason": null,
+      "archived_at": "2026-11-04T22:10:34.527369+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491374+00:00"
+      "archived_at": "2026-11-04T22:10:33.603547+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_365428_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365428_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772215+00:00"
+      "archived_at": "2026-11-04T22:10:33.911107+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,17 +793,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.020617+00:00"
+      "archived_at": "2026-11-04T22:10:34.228361+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122930,
-      "message_link": "https://t.me/Mellig/122930",
-      "text": "مهدی محمدی، مشاور قالیباف: شکست انتخاباتی ترامپ بخشی از انتقام ما بود! 🤣🤣🤣\n\nMellig.net",
+      "message_id": 122931,
+      "message_link": "https://t.me/Mellig/122931",
+      "text": "🔴 #خبر_فوری\nجی دی ونس، معاون اول ترامپ:\nجنگ با ایران مهم ترین دلیل شکست حزب جمهوری خواه در انتخابات کنگره بود.",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "19:29:31",
-      "gregorian_utc": "2026-11-04T15:59:31+00:00",
+      "tehran_time": "19:58:13",
+      "gregorian_utc": "2026-11-04T16:28:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250412+00:00"
+      "archived_at": "2026-11-04T22:10:34.527404+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491399+00:00"
+      "archived_at": "2026-11-04T22:10:33.603565+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_365427_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365427_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772290+00:00"
+      "archived_at": "2026-11-04T22:10:33.911165+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,17 +865,17 @@
       "media_local_path": "media/satlastnews_76712_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76712_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020663+00:00"
+      "archived_at": "2026-11-04T22:10:34.228384+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122929,
-      "message_link": "https://t.me/Mellig/122929",
-      "text": "🔴 #خبر_فوری\nعلی قلهکی، روزنامه نگار نزدیک به سپاه:\nترامپ و نتانیاهو تصمیم آغاز جنگ سوم با ایران را گرفتند.",
+      "message_id": 122930,
+      "message_link": "https://t.me/Mellig/122930",
+      "text": "مهدی محمدی، مشاور قالیباف: شکست انتخاباتی ترامپ بخشی از انتقام ما بود! 🤣🤣🤣\n\nMellig.net",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "19:17:30",
-      "gregorian_utc": "2026-11-04T15:47:30+00:00",
+      "tehran_time": "19:29:31",
+      "gregorian_utc": "2026-11-04T15:59:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250461+00:00"
+      "archived_at": "2026-11-04T22:10:34.527435+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491426+00:00"
+      "archived_at": "2026-11-04T22:10:33.603583+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_365426_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365426_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772379+00:00"
+      "archived_at": "2026-11-04T22:10:33.911233+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,25 +937,25 @@
       "media_local_path": "media/satlastnews_76711_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76711_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020750+00:00"
+      "archived_at": "2026-11-04T22:10:34.228558+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122928,
-      "message_link": "https://t.me/Mellig/122928",
-      "text": "عبدول السید به جی‌دی ونس در حالی که به عربی او را «حبیبی» (دوست من) خطاب کرد گفت: «جی‌دی! حبیبی! در این حقیقت که طبق قانون اساسی تو ملزم هستی در ماه ژانویه مراسم تحلیف من را اجرا کنی، یک طنز با مزه وجود دارد.»\n\nMellig.net",
+      "message_id": 122929,
+      "message_link": "https://t.me/Mellig/122929",
+      "text": "🔴 #خبر_فوری\nعلی قلهکی، روزنامه نگار نزدیک به سپاه:\nترامپ و نتانیاهو تصمیم آغاز جنگ سوم با ایران را گرفتند.",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "18:35:01",
-      "gregorian_utc": "2026-11-04T15:05:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1846326,
-      "media_size_human": "1.76 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_122928_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122928_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.250528+00:00"
+      "tehran_time": "19:17:30",
+      "gregorian_utc": "2026-11-04T15:47:30+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-04T22:10:34.527464+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491451+00:00"
+      "archived_at": "2026-11-04T22:10:33.603599+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": "media/IranintlTV_365425_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365425_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772467+00:00"
+      "archived_at": "2026-11-04T22:10:33.911302+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,25 +1009,25 @@
       "media_local_path": "media/satlastnews_76710_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76710_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.020878+00:00"
+      "archived_at": "2026-11-04T22:10:34.228678+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122927,
-      "message_link": "https://t.me/Mellig/122927",
-      "text": "این و به ترامپ نشون بدید ببینیم واکنشش چیه 😁\n\nMellig.net",
+      "message_id": 122928,
+      "message_link": "https://t.me/Mellig/122928",
+      "text": "عبدول السید به جی‌دی ونس در حالی که به عربی او را «حبیبی» (دوست من) خطاب کرد گفت: «جی‌دی! حبیبی! در این حقیقت که طبق قانون اساسی تو ملزم هستی در ماه ژانویه مراسم تحلیف من را اجرا کنی، یک طنز با مزه وجود دارد.»\n\nMellig.net",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "17:41:46",
-      "gregorian_utc": "2026-11-04T14:11:46+00:00",
+      "tehran_time": "18:35:01",
+      "gregorian_utc": "2026-11-04T15:05:01+00:00",
       "media_type": "video",
-      "media_size_bytes": 10477760,
-      "media_size_human": "9.99 MB",
+      "media_size_bytes": 1846326,
+      "media_size_human": "1.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_122927_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122927_video.mp4",
+      "media_local_path": "media/Mellig_122928_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122928_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:51.250610+00:00"
+      "archived_at": "2026-11-04T22:10:34.527508+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:50.491476+00:00"
+      "archived_at": "2026-11-04T22:10:33.603638+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_365424_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365424_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-04T22:00:50.772538+00:00"
+      "archived_at": "2026-11-04T22:10:33.911353+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,25 +1081,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-11-04T22:00:51.020913+00:00"
+      "archived_at": "2026-11-04T22:10:34.228703+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 122926,
-      "message_link": "https://t.me/Mellig/122926",
-      "text": "💢💢 مارک لوین:\n\n سرنگونی حکومت ایران، قدرت را به آمریکا و حزب جمهوری‌خواه بازمی‌گرداند\n\nمارک لوین، مجری و چهره رسانه‌ای محافظه‌کار آمریکایی، در اظهاراتی تند علیه جمهوری اسلامی مدعی شد:\n«راه درمان مشکلات حزب جمهوری‌خواه، نابودی حکومتی است که باعث شده مردم آمریکا با دشواری‌های اقتصادی روبه‌رو شوند و حاکمان تهران رؤیاهای آن‌ها را به سرقت ببرند و به نمایش بگذارند.\nمطمئن باشید با سرنگونی حکومت ایران، قدرت و اقتدار بار دیگر به آمریکا و حزب جمهوری‌خواه بازخواهد گشت.»",
+      "message_id": 122927,
+      "message_link": "https://t.me/Mellig/122927",
+      "text": "این و به ترامپ نشون بدید ببینیم واکنشش چیه 😁\n\nMellig.net",
       "shamsi_date": "1405/08/13",
-      "tehran_time": "16:59:23",
-      "gregorian_utc": "2026-11-04T13:29:23+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-04T22:00:51.250643+00:00"
+      "tehran_time": "17:41:46",
+      "gregorian_utc": "2026-11-04T14:11:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10477760,
+      "media_size_human": "9.99 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_122927_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122927_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-04T22:10:34.527539+00:00"
     }
   ]
 }
