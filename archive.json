@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T10:28:21.166993+00:00",
-  "shamsi_generated": "1405/08/15 10:28:21 تهران",
+  "generated_at": "2026-11-06T10:37:27.297156+00:00",
+  "shamsi_generated": "1405/08/15 10:37:27 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15640,
-      "message_link": "https://t.me/zedTV/15640",
-      "text": "بحران سوخت و رکود بازار در بندرعباس؛ اخاذی مدارس از والدین در بروجرد برای جبران بودجه.\nتوقف خدمات کارت کالا در شیراز و قطع حقوق بازنشستگان هما؛ تهدید کارگران معترض به اخراج.\nتورم افسارگسیخته و گسترش فقر؛ فروپاشی معیشت شهروندان در سایه فساد و ناکارآمدی رژیم.",
+      "message_id": 15642,
+      "message_link": "https://t.me/zedTV/15642",
+      "text": "ایران در رتبه چهارم فلاکت‌بارترین کشورهای جهان قرار گرفت.\nثبت شاخص ۹۵.۹ در فهرست فلاکت؛ ایران در میان بحرانی‌ترین اقتصادهای دنیا.\nتداوم سقوط معیشتی و بحران اقتصادی در رده‌بندی جهانی.",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "11:33:01",
-      "gregorian_utc": "2026-11-06T08:03:01+00:00",
+      "tehran_time": "13:54:20",
+      "gregorian_utc": "2026-11-06T10:24:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283056+00:00"
+      "archived_at": "2026-11-06T10:31:02.995248+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365667,
-      "message_link": "https://t.me/IranintlTV/365667",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به پرسش خبرنگاران در کاخ سفید گفت جمهوری اسلامی از سال ۱۳۵۷ جنگ را آغاز کرده و هزاران ایرانی و آمریکایی را کشته است.\n@iranintltv",
+      "message_id": 365669,
+      "message_link": "https://t.me/IranintlTV/365669",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات دونالد ترامپ درباره اقدامات پیشین جمهوری اسلامی علیه آمریکا گفت ترامپ تلاش می‌کند جنگ با جمهوری اسلامی را نه اقدامی تهاجمی، بلکه دفاع از آمریکا جلوه دهد.\n\nبه گفته اکبرین، ترامپ با یادآوری کشته شدن نظامیان آمریکایی در حمله سال ۱۹۸۳ به مقر تفنگداران دریایی در بیروت و مواضع ایدئولوژیک جمهوری اسلامی علیه آمریکا و اسرائیل، در پی آماده نگه داشتن افکار عمومی برای ازسرگیری عملیات نظامی است.\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:44:30",
-      "gregorian_utc": "2026-11-06T10:14:30+00:00",
+      "tehran_time": "13:54:04",
+      "gregorian_utc": "2026-11-06T10:24:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 5647056,
-      "media_size_human": "5.39 MB",
+      "media_size_bytes": 4201839,
+      "media_size_human": "4.01 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365667_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365667_video.mp4",
+      "media_local_path": "media/IranintlTV_365669_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365669_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659259+00:00"
+      "archived_at": "2026-11-06T10:31:03.364676+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76751_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76751_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.078681+00:00"
+      "archived_at": "2026-11-06T10:31:03.747858+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_122986_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122986_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432539+00:00"
+      "archived_at": "2026-11-06T10:31:04.154811+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15639,
-      "message_link": "https://t.me/zedTV/15639",
-      "text": "بحران در دیجی‌کالا؛ انتقال ۹۰ درصد کارکنان به زیرمجموعه دیگر برای فرار از تسویه حساب و ورشکستگی.\nموج استعفای مدیران و تلاش برای صفر کردن سنوات پرسنل با تغییر قراردادها.\nفروپاشی پروژه‌های بزرگترین پلتفرم آنلاین کشور در میان مشکلات مالی گسترده.",
+      "message_id": 15641,
+      "message_link": "https://t.me/zedTV/15641",
+      "text": "تداوم اعزام هواپیماهای ترابری سنگین C-17 و C-5 به خاورمیانه؛ پرواز همزمان ناوگان سوخت‌رسان به سمت منطقه؛ تقویت گسترده لجستیک نظامی بر اساس داده‌های ردیابی پرواز.",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "02:04:26",
-      "gregorian_utc": "2026-11-05T22:34:26+00:00",
+      "tehran_time": "13:54:06",
+      "gregorian_utc": "2026-11-06T10:24:06+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283092+00:00"
+      "archived_at": "2026-11-06T10:31:02.995302+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365666,
-      "message_link": "https://t.me/IranintlTV/365666",
-      "text": "شاهزاده رضا پهلوی در آخرین روز سفر خود به بروکسل، به دعوت تئو فرانکن، وزیر دفاع بلژیک، در آکادمی سلطنتی نظامی این کشور درباره تحولات خاورمیانه سخنرانی کرد.\n\nفرانکن در مراسم استقبال گفت جمهوری اسلامی بلژیک را به پیامدهای سنگین برگزاری این سخنرانی تهدید کرده بود. او تاکید کرد این تهدیدها نشان‌دهنده نگرانی تهران از پیام شاهزاده رضا پهلوی و تلاش جمهوری اسلامی برای ارعاب و اعمال فشار بر دموکراسی بلژیک است.\n\nلی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+      "message_id": 365668,
+      "message_link": "https://t.me/IranintlTV/365668",
+      "text": "هیئت منصفه دادگاه کیفری لندن پس از پنج هفته رسیدگی به پرونده سه متهم به جمع‌آوری اطلاعات درباره خبرنگاران ایران‌اینترنشنال، وارد مرحله تصمیم‌گیری شد.\n\nمصطفی سپه‌وند، شاپور قلعه‌علی‌خانی نوری و فرهاد جوادی‌منش متهم‌اند با هدف آسیب‌رساندن به مجتبی پورمحسن و کامبیز حسینی، خبرنگاران ایران‌اینترنشنال، برای جمهوری اسلامی جاسوسی کرده‌اند.\n\nجزییات بیشتر با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:44:14",
-      "gregorian_utc": "2026-11-06T10:14:14+00:00",
+      "tehran_time": "13:51:42",
+      "gregorian_utc": "2026-11-06T10:21:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 3487167,
-      "media_size_human": "3.33 MB",
+      "media_size_bytes": 3763274,
+      "media_size_human": "3.59 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365666_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365666_video.mp4",
+      "media_local_path": "media/IranintlTV_365668_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365668_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659348+00:00"
+      "archived_at": "2026-11-06T10:31:03.364777+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.078799+00:00"
+      "archived_at": "2026-11-06T10:31:03.748010+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_122985_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122985_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432670+00:00"
+      "archived_at": "2026-11-06T10:31:04.154998+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15638,
-      "message_link": "https://t.me/zedTV/15638",
-      "text": "ادعای رژیم: رهگیری پنجمین پهپاد شناسایی MQM-170 آمریکا.\nمحل حادثه: آسمان جزیره قشم.\nتداوم گزارش‌های نظامی جمهوری اسلامی در منطقه.",
-      "shamsi_date": "1405/08/14",
-      "tehran_time": "23:28:12",
-      "gregorian_utc": "2026-11-05T19:58:12+00:00",
+      "message_id": 15640,
+      "message_link": "https://t.me/zedTV/15640",
+      "text": "بحران سوخت و رکود بازار در بندرعباس؛ اخاذی مدارس از والدین در بروجرد برای جبران بودجه.\nتوقف خدمات کارت کالا در شیراز و قطع حقوق بازنشستگان هما؛ تهدید کارگران معترض به اخراج.\nتورم افسارگسیخته و گسترش فقر؛ فروپاشی معیشت شهروندان در سایه فساد و ناکارآمدی رژیم.",
+      "shamsi_date": "1405/08/15",
+      "tehran_time": "11:33:01",
+      "gregorian_utc": "2026-11-06T08:03:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283115+00:00"
+      "archived_at": "2026-11-06T10:31:02.995336+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365665,
-      "message_link": "https://t.me/IranintlTV/365665",
-      "text": "شاهزاده رضا پهلوی از دیدار با برنار کنتن، وزیر کشور بلژیک، خبر داد و گفت در این دیدار درباره تهدیدهای فزاینده جمهوری اسلامی علیه امنیت بلژیک و تلاش‌های آن برای تضعیف دموکراسی این کشور گفت‌وگو کرده است.\nشاهزاده رضا پهلوی جمعه ۱۵ آبان در شبکه ایکس همچنین اعلام کرد از بلژیک خواسته است در اتحادیه اروپا پیشگام مقابله با جمهوری اسلامی باشد.\nhttps://iranintl.com/202611067321",
+      "message_id": 365667,
+      "message_link": "https://t.me/IranintlTV/365667",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در پاسخ به پرسش خبرنگاران در کاخ سفید گفت جمهوری اسلامی از سال ۱۳۵۷ جنگ را آغاز کرده و هزاران ایرانی و آمریکایی را کشته است.\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:40:39",
-      "gregorian_utc": "2026-11-06T10:10:39+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 131116,
-      "media_size_human": "128.04 KB",
+      "tehran_time": "13:44:30",
+      "gregorian_utc": "2026-11-06T10:14:30+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5647056,
+      "media_size_human": "5.39 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365665_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365665_photo.jpg",
+      "media_local_path": "media/IranintlTV_365667_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365667_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659423+00:00"
+      "archived_at": "2026-11-06T10:31:03.364889+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76745_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76745_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.078895+00:00"
+      "archived_at": "2026-11-06T10:31:03.748136+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": "media/Mellig_122984_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122984_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432741+00:00"
+      "archived_at": "2026-11-06T10:31:04.155093+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15637,
-      "message_link": "https://t.me/zedTV/15637",
-      "text": "تأکید محسن رضایی بر تداوم روابط با روسیه • اصرار مقامات بر حفظ مناسبات با مسکو • گزارش‌ها از تداوم همکاری‌های دوجانبه تهران و روسیه",
-      "shamsi_date": "1405/08/14",
-      "tehran_time": "23:12:03",
-      "gregorian_utc": "2026-11-05T19:42:03+00:00",
+      "message_id": 15639,
+      "message_link": "https://t.me/zedTV/15639",
+      "text": "بحران در دیجی‌کالا؛ انتقال ۹۰ درصد کارکنان به زیرمجموعه دیگر برای فرار از تسویه حساب و ورشکستگی.\nموج استعفای مدیران و تلاش برای صفر کردن سنوات پرسنل با تغییر قراردادها.\nفروپاشی پروژه‌های بزرگترین پلتفرم آنلاین کشور در میان مشکلات مالی گسترده.",
+      "shamsi_date": "1405/08/15",
+      "tehran_time": "02:04:26",
+      "gregorian_utc": "2026-11-05T22:34:26+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283139+00:00"
+      "archived_at": "2026-11-06T10:31:02.995371+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365664,
-      "message_link": "https://t.me/IranintlTV/365664",
-      "text": "شماری از مخاطبان ایران‌اینترنشنال در واکنش به سفر محسن رضایی به روسیه، از سیاست خارجی جمهوری اسلامی، عملکرد مقام‌های حکومتی و نقش رضایی در تصمیم‌گیری‌های کشور انتقاد کردند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 365666,
+      "message_link": "https://t.me/IranintlTV/365666",
+      "text": "شاهزاده رضا پهلوی در آخرین روز سفر خود به بروکسل، به دعوت تئو فرانکن، وزیر دفاع بلژیک، در آکادمی سلطنتی نظامی این کشور درباره تحولات خاورمیانه سخنرانی کرد.\n\nفرانکن در مراسم استقبال گفت جمهوری اسلامی بلژیک را به پیامدهای سنگین برگزاری این سخنرانی تهدید کرده بود. او تاکید کرد این تهدیدها نشان‌دهنده نگرانی تهران از پیام شاهزاده رضا پهلوی و تلاش جمهوری اسلامی برای ارعاب و اعمال فشار بر دموکراسی بلژیک است.\n\nلی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:39:00",
-      "gregorian_utc": "2026-11-06T10:09:00+00:00",
+      "tehran_time": "13:44:14",
+      "gregorian_utc": "2026-11-06T10:14:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 2165941,
-      "media_size_human": "2.07 MB",
+      "media_size_bytes": 3487167,
+      "media_size_human": "3.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365664_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365664_video.mp4",
+      "media_local_path": "media/IranintlTV_365666_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365666_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659488+00:00"
+      "archived_at": "2026-11-06T10:31:03.364988+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-06T10:20:48.079755+00:00"
+      "archived_at": "2026-11-06T10:31:03.761285+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432783+00:00"
+      "archived_at": "2026-11-06T10:31:04.155158+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15636,
-      "message_link": "https://t.me/zedTV/15636",
-      "text": "شواهد عینی از وقوع حملات نظامی؛ تناقض آشکار میان واقعیت و ادعاهای مقامات رژیم.\nتداوم حضور و عملیات گسترده نیروهای آمریکایی در منطقه.\nتأیید تحرکات نظامی برخلاف ادعاهای خروج نیروها.",
+      "message_id": 15638,
+      "message_link": "https://t.me/zedTV/15638",
+      "text": "ادعای رژیم: رهگیری پنجمین پهپاد شناسایی MQM-170 آمریکا.\nمحل حادثه: آسمان جزیره قشم.\nتداوم گزارش‌های نظامی جمهوری اسلامی در منطقه.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "23:11:55",
-      "gregorian_utc": "2026-11-05T19:41:55+00:00",
+      "tehran_time": "23:28:12",
+      "gregorian_utc": "2026-11-05T19:58:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283163+00:00"
+      "archived_at": "2026-11-06T10:31:02.995403+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365663,
-      "message_link": "https://t.me/IranintlTV/365663",
-      "text": "بارندگی بامداد جمعه پانزدهم آبان در بخش‌هایی از شرق مازندران موجب آب‌گرفتگی و بروز مشکلاتی برای مردم شد.\n@iranintltv",
+      "message_id": 365665,
+      "message_link": "https://t.me/IranintlTV/365665",
+      "text": "شاهزاده رضا پهلوی از دیدار با برنار کنتن، وزیر کشور بلژیک، خبر داد و گفت در این دیدار درباره تهدیدهای فزاینده جمهوری اسلامی علیه امنیت بلژیک و تلاش‌های آن برای تضعیف دموکراسی این کشور گفت‌وگو کرده است.\nشاهزاده رضا پهلوی جمعه ۱۵ آبان در شبکه ایکس همچنین اعلام کرد از بلژیک خواسته است در اتحادیه اروپا پیشگام مقابله با جمهوری اسلامی باشد.\nhttps://iranintl.com/202611067321",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:11:32",
-      "gregorian_utc": "2026-11-06T09:41:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 202758,
-      "media_size_human": "198.01 KB",
+      "tehran_time": "13:40:39",
+      "gregorian_utc": "2026-11-06T10:10:39+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 131116,
+      "media_size_human": "128.04 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365663_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365663_video.mp4",
+      "media_local_path": "media/IranintlTV_365665_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365665_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659525+00:00"
+      "archived_at": "2026-11-06T10:31:03.365083+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.079921+00:00"
+      "archived_at": "2026-11-06T10:31:03.761501+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": "media/Mellig_122982_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122982_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432814+00:00"
+      "archived_at": "2026-11-06T10:31:04.155208+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15635,
-      "message_link": "https://t.me/zedTV/15635",
-      "text": "قطعیت حمله نظامی و بمباران مواضع رژیم در تهران؛ آغاز حمایت‌های گسترده از مردم جهت سرنگونی جمهوری اسلامی.",
+      "message_id": 15637,
+      "message_link": "https://t.me/zedTV/15637",
+      "text": "تأکید محسن رضایی بر تداوم روابط با روسیه • اصرار مقامات بر حفظ مناسبات با مسکو • گزارش‌ها از تداوم همکاری‌های دوجانبه تهران و روسیه",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "22:58:46",
-      "gregorian_utc": "2026-11-05T19:28:46+00:00",
+      "tehran_time": "23:12:03",
+      "gregorian_utc": "2026-11-05T19:42:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283185+00:00"
+      "archived_at": "2026-11-06T10:31:02.995435+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365662,
-      "message_link": "https://t.me/IranintlTV/365662",
-      "text": "سرخط خبرهای جمعه ۱۵ آبان\n@iranintltv",
+      "message_id": 365664,
+      "message_link": "https://t.me/IranintlTV/365664",
+      "text": "شماری از مخاطبان ایران‌اینترنشنال در واکنش به سفر محسن رضایی به روسیه، از سیاست خارجی جمهوری اسلامی، عملکرد مقام‌های حکومتی و نقش رضایی در تصمیم‌گیری‌های کشور انتقاد کردند.\n\nجزییات بیشتر با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:09:55",
-      "gregorian_utc": "2026-11-06T09:39:55+00:00",
+      "tehran_time": "13:39:00",
+      "gregorian_utc": "2026-11-06T10:09:00+00:00",
       "media_type": "video",
-      "media_size_bytes": 1032258,
-      "media_size_human": "1008.06 KB",
+      "media_size_bytes": 2165941,
+      "media_size_human": "2.07 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365662_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365662_video.mp4",
+      "media_local_path": "media/IranintlTV_365664_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365664_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659554+00:00"
+      "archived_at": "2026-11-06T10:31:03.365152+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.079981+00:00"
+      "archived_at": "2026-11-06T10:31:03.761585+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432843+00:00"
+      "archived_at": "2026-11-06T10:31:04.155253+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15634,
-      "message_link": "https://t.me/zedTV/15634",
-      "text": "بحران معیشت: اسپری بینی ۳۸۰ هزار تومان؛ دستمزد اساتید کمتر از قیمت یک بسته چیپس.\nگسترش فساد و تورم: باج‌گیری از رانندگان و رکود در کیش؛ هزینه‌های کمرشکن زندگی و اجاره‌بها.\nفروپاشی خدمات عمومی: نبود مراقبت‌های درمانی و رفاهی همزمان با افزایش نارضایتی‌های معیشتی.",
+      "message_id": 15636,
+      "message_link": "https://t.me/zedTV/15636",
+      "text": "شواهد عینی از وقوع حملات نظامی؛ تناقض آشکار میان واقعیت و ادعاهای مقامات رژیم.\nتداوم حضور و عملیات گسترده نیروهای آمریکایی در منطقه.\nتأیید تحرکات نظامی برخلاف ادعاهای خروج نیروها.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "22:58:45",
-      "gregorian_utc": "2026-11-05T19:28:45+00:00",
+      "tehran_time": "23:11:55",
+      "gregorian_utc": "2026-11-05T19:41:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283204+00:00"
+      "archived_at": "2026-11-06T10:31:02.995461+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365661,
-      "message_link": "https://t.me/IranintlTV/365661",
-      "text": "ویدیوی منتشر شده در شبکه‎های اجتماعی نشان می‌دهد که مادر جاوید رضایی لباس فرزند نوجوان خود را بر سنگ آرامگاه او گذاشت و به یادش گریست. این جاویدنام در جریان اعتراضات ۱۸ دی زنجان، در سن ۱۷ سالگی به دست ماموران جمهوری اسلامی کشته شد.",
+      "message_id": 365663,
+      "message_link": "https://t.me/IranintlTV/365663",
+      "text": "بارندگی بامداد جمعه پانزدهم آبان در بخش‌هایی از شرق مازندران موجب آب‌گرفتگی و بروز مشکلاتی برای مردم شد.\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "13:04:36",
-      "gregorian_utc": "2026-11-06T09:34:36+00:00",
+      "tehran_time": "13:11:32",
+      "gregorian_utc": "2026-11-06T09:41:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 3615968,
-      "media_size_human": "3.45 MB",
+      "media_size_bytes": 202758,
+      "media_size_human": "198.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365661_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365661_video.mp4",
+      "media_local_path": "media/IranintlTV_365663_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365663_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659576+00:00"
+      "archived_at": "2026-11-06T10:31:03.365205+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.079999+00:00"
+      "archived_at": "2026-11-06T10:31:03.761616+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_122980_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122980_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432881+00:00"
+      "archived_at": "2026-11-06T10:31:04.155315+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15633,
-      "message_link": "https://t.me/zedTV/15633",
-      "text": "♦️ فراخوان برای حفظ هوشیاری و پیگیری لحظه‌ای اخبار در ساعات پیش رو.\n♦️ لزوم بیداری شهروندان برای رصد تحولات جاری طی امشب.\n♦️ انتظار برای رویدادهای کلیدی در صحنه میدانی علیه رژیم.",
+      "message_id": 15635,
+      "message_link": "https://t.me/zedTV/15635",
+      "text": "قطعیت حمله نظامی و بمباران مواضع رژیم در تهران؛ آغاز حمایت‌های گسترده از مردم جهت سرنگونی جمهوری اسلامی.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "22:43:53",
-      "gregorian_utc": "2026-11-05T19:13:53+00:00",
+      "tehran_time": "22:58:46",
+      "gregorian_utc": "2026-11-05T19:28:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283234+00:00"
+      "archived_at": "2026-11-06T10:31:02.995501+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365660,
-      "message_link": "https://t.me/IranintlTV/365660",
-      "text": "سرویس تغییرات اقلیمی کوپرنیک اتحادیه اروپا، جمعه ۱۵ آبان گزارش داد که اکتبر ۲۰۲۶ گرم‌ترین ماه اکتبر ثبت‌شده در جهان بوده است.\n\nاین نهاد اعلام کرد که میانگین دمای جهانی در سال ۲۰۲۶ به احتمال بسیار زیاد بیش از ۱.۵ درجه سانتی‌گراد بالاتر از سطح پیش از انقلاب صنعتی خواهد بود.\n\nبر اساس این گزارش، در صورت تحقق این پیش‌بینی، سال ۲۰۲۶ پس از سال ۲۰۲۴ دومین سال تقویمی خواهد بود که میانگین دمای جهانی آن از آستانه ۱.۵ درجه سانتی‌گراد بالاتر از سطح پیشاصنعتی عبور می‌کند.\nhttps://iranintl.com/202611060900",
+      "message_id": 365662,
+      "message_link": "https://t.me/IranintlTV/365662",
+      "text": "سرخط خبرهای جمعه ۱۵ آبان\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "12:53:05",
-      "gregorian_utc": "2026-11-06T09:23:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 108636,
-      "media_size_human": "106.09 KB",
+      "tehran_time": "13:09:55",
+      "gregorian_utc": "2026-11-06T09:39:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1032258,
+      "media_size_human": "1008.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365660_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365660_photo.jpg",
+      "media_local_path": "media/IranintlTV_365662_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365662_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659657+00:00"
+      "archived_at": "2026-11-06T10:31:03.365266+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.080102+00:00"
+      "archived_at": "2026-11-06T10:31:03.761749+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432897+00:00"
+      "archived_at": "2026-11-06T10:31:04.155344+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15632,
-      "message_link": "https://t.me/zedTV/15632",
-      "text": "تداوم تنش‌آفرینی رژیم در تنگه هرمز و اختلال در صادرات گاز\nجهش تقاضا برای گاز آمریکا؛ قطر برای تأمین نیاز آسیا به ایالات متحده متوسل شد\nایجاد فرصت‌های اقتصادی جدید برای شرکت‌های چنیر انرژی و ونچر گلوبال",
+      "message_id": 15634,
+      "message_link": "https://t.me/zedTV/15634",
+      "text": "بحران معیشت: اسپری بینی ۳۸۰ هزار تومان؛ دستمزد اساتید کمتر از قیمت یک بسته چیپس.\nگسترش فساد و تورم: باج‌گیری از رانندگان و رکود در کیش؛ هزینه‌های کمرشکن زندگی و اجاره‌بها.\nفروپاشی خدمات عمومی: نبود مراقبت‌های درمانی و رفاهی همزمان با افزایش نارضایتی‌های معیشتی.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "22:34:02",
-      "gregorian_utc": "2026-11-05T19:04:02+00:00",
+      "tehran_time": "22:58:45",
+      "gregorian_utc": "2026-11-05T19:28:45+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283253+00:00"
+      "archived_at": "2026-11-06T10:31:02.995529+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365659,
-      "message_link": "https://t.me/IranintlTV/365659",
-      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به ناکامی جمهوری‌خواهان در انتخابات کنگره گفت ترامپ برای بازسازی اقتدار و اعتبار سیاسی خود به سیاست خارجی و افزایش فشار بر جمهوری اسلامی روی خواهد آورد.\n\nبه گفته او، تاکید ترامپ بر صلح از مسیر قدرت و فشار حداکثری، در کنار ادامه مواضع جمهوری اسلامی، احتمال ازسرگیری درگیری نظامی را افزایش می‌دهد.\n@iranintltv",
+      "message_id": 365661,
+      "message_link": "https://t.me/IranintlTV/365661",
+      "text": "ویدیوی منتشر شده در شبکه‎های اجتماعی نشان می‌دهد که مادر جاوید رضایی لباس فرزند نوجوان خود را بر سنگ آرامگاه او گذاشت و به یادش گریست. این جاویدنام در جریان اعتراضات ۱۸ دی زنجان، در سن ۱۷ سالگی به دست ماموران جمهوری اسلامی کشته شد.",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "12:43:04",
-      "gregorian_utc": "2026-11-06T09:13:04+00:00",
+      "tehran_time": "13:04:36",
+      "gregorian_utc": "2026-11-06T09:34:36+00:00",
       "media_type": "video",
-      "media_size_bytes": 4492774,
-      "media_size_human": "4.28 MB",
+      "media_size_bytes": 3615968,
+      "media_size_human": "3.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365659_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365659_video.mp4",
+      "media_local_path": "media/IranintlTV_365661_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365661_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659710+00:00"
+      "archived_at": "2026-11-06T10:31:03.365305+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76736_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76736_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.080152+00:00"
+      "archived_at": "2026-11-06T10:31:03.761845+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432912+00:00"
+      "archived_at": "2026-11-06T10:31:04.155369+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15631,
-      "message_link": "https://t.me/zedTV/15631",
-      "text": "روسیه: اتباع این کشور از سفر به ایران خودداری کنند.\nهشدار رسمی مسکو درباره خطرات حضور در خاک ایران.\nتوصیه دیپلماتیک برای پرهیز از ترددهای غیرضروری.",
+      "message_id": 15633,
+      "message_link": "https://t.me/zedTV/15633",
+      "text": "♦️ فراخوان برای حفظ هوشیاری و پیگیری لحظه‌ای اخبار در ساعات پیش رو.\n♦️ لزوم بیداری شهروندان برای رصد تحولات جاری طی امشب.\n♦️ انتظار برای رویدادهای کلیدی در صحنه میدانی علیه رژیم.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "20:04:40",
-      "gregorian_utc": "2026-11-05T16:34:40+00:00",
+      "tehran_time": "22:43:53",
+      "gregorian_utc": "2026-11-05T19:13:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283271+00:00"
+      "archived_at": "2026-11-06T10:31:02.995556+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365658,
-      "message_link": "https://t.me/IranintlTV/365658",
-      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، دیدار محسن رضایی با ولادیمیر پوتین را در چارچوب تلاش‌های میانجیگرانه روسیه برای پایان دادن به جنگ ارزیابی کرد.\n\nبه گفته او، مسکو می‌کوشد جمهوری اسلامی را به تعدیل مواضع درباره اورانیوم غنی‌شده ۶۰ درصدی و تنگه هرمز و حرکت به سوی راه‌حل دیپلماتیک ترغیب کند.\n\nآقایی افزود این دیدار می‌تواند آخرین تلاش روسیه برای هشدار به جمهوری اسلامی پیش از تشدید درگیری‌ها باشد.\n@iranintltv",
+      "message_id": 365660,
+      "message_link": "https://t.me/IranintlTV/365660",
+      "text": "سرویس تغییرات اقلیمی کوپرنیک اتحادیه اروپا، جمعه ۱۵ آبان گزارش داد که اکتبر ۲۰۲۶ گرم‌ترین ماه اکتبر ثبت‌شده در جهان بوده است.\n\nاین نهاد اعلام کرد که میانگین دمای جهانی در سال ۲۰۲۶ به احتمال بسیار زیاد بیش از ۱.۵ درجه سانتی‌گراد بالاتر از سطح پیش از انقلاب صنعتی خواهد بود.\n\nبر اساس این گزارش، در صورت تحقق این پیش‌بینی، سال ۲۰۲۶ پس از سال ۲۰۲۴ دومین سال تقویمی خواهد بود که میانگین دمای جهانی آن از آستانه ۱.۵ درجه سانتی‌گراد بالاتر از سطح پیشاصنعتی عبور می‌کند.\nhttps://iranintl.com/202611060900",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "12:42:57",
-      "gregorian_utc": "2026-11-06T09:12:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4742760,
-      "media_size_human": "4.52 MB",
+      "tehran_time": "12:53:05",
+      "gregorian_utc": "2026-11-06T09:23:05+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 108636,
+      "media_size_human": "106.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365658_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365658_video.mp4",
+      "media_local_path": "media/IranintlTV_365660_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365660_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659766+00:00"
+      "archived_at": "2026-11-06T10:31:03.365400+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76735_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76735_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.080176+00:00"
+      "archived_at": "2026-11-06T10:31:03.761893+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432949+00:00"
+      "archived_at": "2026-11-06T10:31:04.155426+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15630,
-      "message_link": "https://t.me/zedTV/15630",
-      "text": "شاهزاده رضا پهلوی خطاب به اروپا: پایان دادن به سیاست شکست‌خورده مماشات با رژیم تروریستی ایران ضروری است. این حکومت هرگز شریک قابل اعتمادی برای ثبات نخواهد بود. پهلوی: راه حل نهایی مردم ایران هستند؛ با حمایت از ملت، آزادی را محقق کنید.",
+      "message_id": 15632,
+      "message_link": "https://t.me/zedTV/15632",
+      "text": "تداوم تنش‌آفرینی رژیم در تنگه هرمز و اختلال در صادرات گاز\nجهش تقاضا برای گاز آمریکا؛ قطر برای تأمین نیاز آسیا به ایالات متحده متوسل شد\nایجاد فرصت‌های اقتصادی جدید برای شرکت‌های چنیر انرژی و ونچر گلوبال",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "19:49:42",
-      "gregorian_utc": "2026-11-05T16:19:42+00:00",
+      "tehran_time": "22:34:02",
+      "gregorian_utc": "2026-11-05T19:04:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283287+00:00"
+      "archived_at": "2026-11-06T10:31:02.995580+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365657,
-      "message_link": "https://t.me/IranintlTV/365657",
-      "text": "تئو فرانکن، وزیر دفاع بلژیک، جمعه ۱۵ آبان در مراسم استقبال از شاهزاده رضا پهلوی در آکادمی سلطنتی نظامی بلژیک در بروکسل اعلام کرد که جمهوری اسلامی برای جلوگیری از برگزاری سخنرانی او تلاش کرده و هشدار داده است که برگزاری این نشست پیامدهای سنگینی خواهد داشت.\nفرانکن گفت مخالفت تهران با این برنامه نشان می‌دهد که جمهوری اسلامی از پیام شاهزاده رضا پهلوی نگران است و تلاش می‌کند آزادی گفت‌وگو و پژوهش را حتی در خارج از مرزهای خود محدود کند.\nوزیر دفاع بلژیک با اشاره به اهمیت تحولات خاورمیانه و تاثیر مناقشه میان آمریکا و جمهوری اسلامی بر منافع اقتصادی و امنیتی بلژیک، گفت که دیدگاه‌های شاهزاده رضا پهلوی می‌تواند به درک آینده منطقه کمک کند.\nاو شاهزاده رضا پهلوی را یکی از چهره‌های اصلی مخالف جمهوری اسلامی معرفی کرد و گفت که او از تشکیل حکومتی مبتنی بر حق مردم برای تعیین نظام سیاسی خود از طریق انتخابات آزاد و عادلانه حمایت می‌کند.\nفرانکن در پایان سخنانش با خواندن بیتی از حافظ، به امید مردم ایران برای دستیابی به آزادی و آینده‌ای بهتر اشاره کرد و از شاهزاده رضا پهلوی استقبال کرد.\nhttps://iranintl.com/202611068555",
+      "message_id": 365659,
+      "message_link": "https://t.me/IranintlTV/365659",
+      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به ناکامی جمهوری‌خواهان در انتخابات کنگره گفت ترامپ برای بازسازی اقتدار و اعتبار سیاسی خود به سیاست خارجی و افزایش فشار بر جمهوری اسلامی روی خواهد آورد.\n\nبه گفته او، تاکید ترامپ بر صلح از مسیر قدرت و فشار حداکثری، در کنار ادامه مواضع جمهوری اسلامی، احتمال ازسرگیری درگیری نظامی را افزایش می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "12:20:54",
-      "gregorian_utc": "2026-11-06T08:50:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 159727,
-      "media_size_human": "155.98 KB",
+      "tehran_time": "12:43:04",
+      "gregorian_utc": "2026-11-06T09:13:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4492774,
+      "media_size_human": "4.28 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365657_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365657_photo.jpg",
+      "media_local_path": "media/IranintlTV_365659_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365659_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659881+00:00"
+      "archived_at": "2026-11-06T10:31:03.365475+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76734_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76734_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.080198+00:00"
+      "archived_at": "2026-11-06T10:31:03.761929+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_122976_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122976_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.432982+00:00"
+      "archived_at": "2026-11-06T10:31:04.155483+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15629,
-      "message_link": "https://t.me/zedTV/15629",
-      "text": "پیشتازی آیزنکوت با ۵۶ کرسی در برابر ۵۳ کرسی نتانیاهو؛ حمایت حزب رعام از آیزنکوت قطعی شد.\nتداوم رایزنی‌ها برای رسیدن به حدنصاب ۶۱ کرسی؛ سرنوشت دولت در دستان فهرست مشترک و رئیس‌جمهور هرتزوگ.\nاحتمال واگذاری ماموریت تشکیل کابینه به آیزنکوت با توجه به برتری نسبی در پارلمان.",
+      "message_id": 15631,
+      "message_link": "https://t.me/zedTV/15631",
+      "text": "روسیه: اتباع این کشور از سفر به ایران خودداری کنند.\nهشدار رسمی مسکو درباره خطرات حضور در خاک ایران.\nتوصیه دیپلماتیک برای پرهیز از ترددهای غیرضروری.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "19:05:27",
-      "gregorian_utc": "2026-11-05T15:35:27+00:00",
+      "tehran_time": "20:04:40",
+      "gregorian_utc": "2026-11-05T16:34:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283303+00:00"
+      "archived_at": "2026-11-06T10:31:02.995604+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365656,
-      "message_link": "https://t.me/IranintlTV/365656",
-      "text": "ویدیوی رسیده نشان می‌دهد که شامگاه ۱۴ آبان در تبریز، یک شهروند پوستر علی خامنه‌ای با عنوان «رهبر شهید» را از دیوار مسجدی کند.",
+      "message_id": 365658,
+      "message_link": "https://t.me/IranintlTV/365658",
+      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، دیدار محسن رضایی با ولادیمیر پوتین را در چارچوب تلاش‌های میانجیگرانه روسیه برای پایان دادن به جنگ ارزیابی کرد.\n\nبه گفته او، مسکو می‌کوشد جمهوری اسلامی را به تعدیل مواضع درباره اورانیوم غنی‌شده ۶۰ درصدی و تنگه هرمز و حرکت به سوی راه‌حل دیپلماتیک ترغیب کند.\n\nآقایی افزود این دیدار می‌تواند آخرین تلاش روسیه برای هشدار به جمهوری اسلامی پیش از تشدید درگیری‌ها باشد.\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "12:00:18",
-      "gregorian_utc": "2026-11-06T08:30:18+00:00",
+      "tehran_time": "12:42:57",
+      "gregorian_utc": "2026-11-06T09:12:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 1818399,
-      "media_size_human": "1.73 MB",
+      "media_size_bytes": 4742760,
+      "media_size_human": "4.52 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365656_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365656_video.mp4",
+      "media_local_path": "media/IranintlTV_365658_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365658_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659904+00:00"
+      "archived_at": "2026-11-06T10:31:03.365553+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76733_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76733_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.080219+00:00"
+      "archived_at": "2026-11-06T10:31:03.761964+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.432997+00:00"
+      "archived_at": "2026-11-06T10:31:04.155511+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15628,
-      "message_link": "https://t.me/zedTV/15628",
-      "text": "♦️ سقوط آزاد وال استریت؛ بازار بورس آمریکا بیش از یک تریلیون دلار از ارزش خود را از دست داد. ♦️ تلاطم شدید در بازارهای مالی و ریزش سنگین شاخص‌ها در واکنش به آغاز درگیری‌های نظامی.",
+      "message_id": 15630,
+      "message_link": "https://t.me/zedTV/15630",
+      "text": "شاهزاده رضا پهلوی خطاب به اروپا: پایان دادن به سیاست شکست‌خورده مماشات با رژیم تروریستی ایران ضروری است. این حکومت هرگز شریک قابل اعتمادی برای ثبات نخواهد بود. پهلوی: راه حل نهایی مردم ایران هستند؛ با حمایت از ملت، آزادی را محقق کنید.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "19:05:08",
-      "gregorian_utc": "2026-11-05T15:35:08+00:00",
+      "tehran_time": "19:49:42",
+      "gregorian_utc": "2026-11-05T16:19:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283321+00:00"
+      "archived_at": "2026-11-06T10:31:02.995630+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365655,
-      "message_link": "https://t.me/IranintlTV/365655",
-      "text": "اسحاق هرتزوگ، رییس‌جمهور اسرائیل، اعلام کرد فرد منتخب برای تشکیل کابینه جدید را معرفی می‌کند. گادی آیزنکوت با ۶۷ توصیه نمایندگان احزاب و بنیامین نتانیاهو با ۴۶ توصیه، در پایان رایزنی‌ها قرار گرفتند.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 365657,
+      "message_link": "https://t.me/IranintlTV/365657",
+      "text": "تئو فرانکن، وزیر دفاع بلژیک، جمعه ۱۵ آبان در مراسم استقبال از شاهزاده رضا پهلوی در آکادمی سلطنتی نظامی بلژیک در بروکسل اعلام کرد که جمهوری اسلامی برای جلوگیری از برگزاری سخنرانی او تلاش کرده و هشدار داده است که برگزاری این نشست پیامدهای سنگینی خواهد داشت.\nفرانکن گفت مخالفت تهران با این برنامه نشان می‌دهد که جمهوری اسلامی از پیام شاهزاده رضا پهلوی نگران است و تلاش می‌کند آزادی گفت‌وگو و پژوهش را حتی در خارج از مرزهای خود محدود کند.\nوزیر دفاع بلژیک با اشاره به اهمیت تحولات خاورمیانه و تاثیر مناقشه میان آمریکا و جمهوری اسلامی بر منافع اقتصادی و امنیتی بلژیک، گفت که دیدگاه‌های شاهزاده رضا پهلوی می‌تواند به درک آینده منطقه کمک کند.\nاو شاهزاده رضا پهلوی را یکی از چهره‌های اصلی مخالف جمهوری اسلامی معرفی کرد و گفت که او از تشکیل حکومتی مبتنی بر حق مردم برای تعیین نظام سیاسی خود از طریق انتخابات آزاد و عادلانه حمایت می‌کند.\nفرانکن در پایان سخنانش با خواندن بیتی از حافظ، به امید مردم ایران برای دستیابی به آزادی و آینده‌ای بهتر اشاره کرد و از شاهزاده رضا پهلوی استقبال کرد.\nhttps://iranintl.com/202611068555",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "11:55:21",
-      "gregorian_utc": "2026-11-06T08:25:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2468494,
-      "media_size_human": "2.35 MB",
+      "tehran_time": "12:20:54",
+      "gregorian_utc": "2026-11-06T08:50:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 159727,
+      "media_size_human": "155.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365655_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365655_video.mp4",
+      "media_local_path": "media/IranintlTV_365657_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365657_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.659946+00:00"
+      "archived_at": "2026-11-06T10:31:03.365703+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76732_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76732_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.080239+00:00"
+      "archived_at": "2026-11-06T10:31:03.762004+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_122974_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_122974_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:48.433018+00:00"
+      "archived_at": "2026-11-06T10:31:04.155549+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15627,
-      "message_link": "https://t.me/zedTV/15627",
-      "text": "لغو ناگهانی سفر پزشکیان به استان گیلان؛\nمعاون رئیس‌جمهور «شرایط خاص در ساعات آینده» را علت غیبت وی اعلام کرد.",
+      "message_id": 15629,
+      "message_link": "https://t.me/zedTV/15629",
+      "text": "پیشتازی آیزنکوت با ۵۶ کرسی در برابر ۵۳ کرسی نتانیاهو؛ حمایت حزب رعام از آیزنکوت قطعی شد.\nتداوم رایزنی‌ها برای رسیدن به حدنصاب ۶۱ کرسی؛ سرنوشت دولت در دستان فهرست مشترک و رئیس‌جمهور هرتزوگ.\nاحتمال واگذاری ماموریت تشکیل کابینه به آیزنکوت با توجه به برتری نسبی در پارلمان.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "19:05:02",
-      "gregorian_utc": "2026-11-05T15:35:02+00:00",
+      "tehran_time": "19:05:27",
+      "gregorian_utc": "2026-11-05T15:35:27+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283336+00:00"
+      "archived_at": "2026-11-06T10:31:02.995653+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365654,
-      "message_link": "https://t.me/IranintlTV/365654",
-      "text": "🔻️️️️️️مارکا گزارش داد که خسوس اوونو، دروازه‌بان آندورا، پس از برخورد مرگبار با خسوس د میگل، بازیکن تنریف، در شوک شدید روحی به سر می‌برد و از زمان بازگشت به آندورا از خانه خارج نشده است. مادر، دوستان و هم‌تیمی‌های سابقش در کنار او هستند.\n\n🔹️️️️️️جرارد پیکه، سهامدار اصلی باشگاه آندورا، شخصا پیگیر وضعیت روحی خسوس اوونو است و همراه مدیران باشگاه برای ابراز تسلیت به خانواده خسوس د میگل سفر می‌کند. یکی از کاپیتان‌های آندورا درباره اوونو گفت: «او هرگز به کسی آسیب نمی‌رساند.»\n\n🔹️️️️️️باشگاه آندورا پس از مرگ خسوس د میگل، یک جلسه تمرینی اختیاری با حضور بازیکنان و یک دقیقه سکوت برگزار کرد. خسوس اوونو به دلیل شرایط روحی در این برنامه حاضر نشد. مسابقه آخر هفته آندورا نیز به تعویق افتاده است.\n\n🔹️️️️️️انجمن فوتبالیست‌های اسپانیا اعلام کرد که خسوس اوونو، دروازه‌بان آندورا، پس از حادثه مرگبار دیدار مقابل تنریف تنها نخواهد ماند. این انجمن برای حمایت روانی از بازیکنان هر دو تیم، که همچنان در شوک این حادثه هستند، اقدام کرده است.\n\n[**جزییات بیشتر\n**](https://iranintl.com/202611067499)\n@iranintltvsport",
+      "message_id": 365656,
+      "message_link": "https://t.me/IranintlTV/365656",
+      "text": "ویدیوی رسیده نشان می‌دهد که شامگاه ۱۴ آبان در تبریز، یک شهروند پوستر علی خامنه‌ای با عنوان «رهبر شهید» را از دیوار مسجدی کند.",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "11:47:13",
-      "gregorian_utc": "2026-11-06T08:17:13+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 262470,
-      "media_size_human": "256.32 KB",
+      "tehran_time": "12:00:18",
+      "gregorian_utc": "2026-11-06T08:30:18+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1818399,
+      "media_size_human": "1.73 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365654_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365654_photo.jpg",
+      "media_local_path": "media/IranintlTV_365656_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365656_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.713677+00:00"
+      "archived_at": "2026-11-06T10:31:03.365740+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.080281+00:00"
+      "archived_at": "2026-11-06T10:31:03.762064+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.433033+00:00"
+      "archived_at": "2026-11-06T10:31:04.155574+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15626,
-      "message_link": "https://t.me/zedTV/15626",
-      "text": "وزارت خارجه روسیه: اتباع این کشور از سفر به ایران خودداری کنند. توصیه سفارت روسیه برای خروج از ایران از طریق مرزهای آذربایجان و ارمنستان. تأکید بر لزوم هوشیاری و احتیاط کامل در ترددهای مرزی.",
+      "message_id": 15628,
+      "message_link": "https://t.me/zedTV/15628",
+      "text": "♦️ سقوط آزاد وال استریت؛ بازار بورس آمریکا بیش از یک تریلیون دلار از ارزش خود را از دست داد. ♦️ تلاطم شدید در بازارهای مالی و ریزش سنگین شاخص‌ها در واکنش به آغاز درگیری‌های نظامی.",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "19:05:02",
-      "gregorian_utc": "2026-11-05T15:35:02+00:00",
+      "tehran_time": "19:05:08",
+      "gregorian_utc": "2026-11-05T15:35:08+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:47.283351+00:00"
+      "archived_at": "2026-11-06T10:31:02.995676+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 365653,
-      "message_link": "https://t.me/IranintlTV/365653",
-      "text": "🎧نسخه صوتی اخبار بامدادی | جمعه ۱۵ آبان\n@iranintlTV",
+      "message_id": 365655,
+      "message_link": "https://t.me/IranintlTV/365655",
+      "text": "اسحاق هرتزوگ، رییس‌جمهور اسرائیل، اعلام کرد فرد منتخب برای تشکیل کابینه جدید را معرفی می‌کند. گادی آیزنکوت با ۶۷ توصیه نمایندگان احزاب و بنیامین نتانیاهو با ۴۶ توصیه، در پایان رایزنی‌ها قرار گرفتند.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "11:28:07",
-      "gregorian_utc": "2026-11-06T07:58:07+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30225816,
-      "media_size_human": "28.83 MB",
+      "tehran_time": "11:55:21",
+      "gregorian_utc": "2026-11-06T08:25:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2468494,
+      "media_size_human": "2.35 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_365653_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365653_audio.mp3",
+      "media_local_path": "media/IranintlTV_365655_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_365655_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-06T10:20:47.713779+00:00"
+      "archived_at": "2026-11-06T10:31:03.365803+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.080307+00:00"
+      "archived_at": "2026-11-06T10:31:03.762106+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-06T10:20:48.433048+00:00"
+      "archived_at": "2026-11-06T10:31:04.155598+00:00"
     }
   ]
 }
