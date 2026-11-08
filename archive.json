@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T20:53:47.659432+00:00",
-  "shamsi_generated": "1405/08/17 20:53:47 تهران",
+  "generated_at": "2026-11-08T21:04:10.309294+00:00",
+  "shamsi_generated": "1405/08/17 21:04:10 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750409+00:00"
+      "archived_at": "2026-11-08T21:00:54.170372+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,25 +55,25 @@
       "media_local_path": "media/IranintlTV_366032_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366032_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.215999+00:00"
+      "archived_at": "2026-11-08T21:00:54.447466+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76770,
-      "message_link": "https://t.me/satlastnews/76770",
-      "text": "از این موضوعات که بگذریم\n\nامروز توی خیلی از روستاهای لرستان برق قطع شده و الان ساعت هاست برق ندارن ... \n\nمن لرستان زندگی کردم ... خیلی از روستاها دور افتاده هستن و دسترسی سختی دارن ... قطعی برق به مشکلاتشون خیلی اضافه می کنه\n\nیه بارون ساده این بلا رو سر مردم این منطقه اورده ❤️ دلم با شماست همشهریا ❤️",
+      "message_id": 76771,
+      "message_link": "https://t.me/satlastnews/76771",
+      "text": "⭕️ سویچر ماهواره اولین چیزی است که در زیر باران و برف می سوزد!\n\nاگر از سویچر استفاده می کنید، شک نکنید که با ورود کوچک ترین قطره باران به این دستگاه، خواهد سوخت!\n\nحتما سویچر را در جای ایمن بگذارید و از گذاشتنش زیر دیش یا روی زمین جدا خودداری نمایید.\n\nحتی اگر تمامی 5 سوراخ سویچر پر شده اند، قطعا باز هم آب وارد آن خواهد شد.\n\n@SatLastNews",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "00:02:36",
-      "gregorian_utc": "2026-11-08T20:32:36+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.562348+00:00"
+      "tehran_time": "00:29:08",
+      "gregorian_utc": "2026-11-08T20:59:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 20101,
+      "media_size_human": "19.63 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76771_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76771_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-08T21:00:54.744112+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-08T20:50:37.852339+00:00"
+      "archived_at": "2026-11-08T21:00:55.025744+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750459+00:00"
+      "archived_at": "2026-11-08T21:00:54.170404+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,17 +127,17 @@
       "media_local_path": "media/IranintlTV_366031_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366031_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.216112+00:00"
+      "archived_at": "2026-11-08T21:00:54.447533+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76769,
-      "message_link": "https://t.me/satlastnews/76769",
-      "text": "من زنگ زدم تیمارستان، تخت رزرو کردم 😃",
-      "shamsi_date": "1405/08/17",
-      "tehran_time": "23:57:13",
-      "gregorian_utc": "2026-11-08T20:27:13+00:00",
+      "message_id": 76770,
+      "message_link": "https://t.me/satlastnews/76770",
+      "text": "از این موضوعات که بگذریم\n\nامروز توی خیلی از روستاهای لرستان برق قطع شده و الان ساعت هاست برق ندارن ... \n\nمن لرستان زندگی کردم ... خیلی از روستاها دور افتاده هستن و دسترسی سختی دارن ... قطعی برق به مشکلاتشون خیلی اضافه می کنه\n\nیه بارون ساده این بلا رو سر مردم این منطقه اورده ❤️ دلم با شماست همشهریا ❤️",
+      "shamsi_date": "1405/08/18",
+      "tehran_time": "00:02:36",
+      "gregorian_utc": "2026-11-08T20:32:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.562385+00:00"
+      "archived_at": "2026-11-08T21:00:54.744147+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123075_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123075_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852402+00:00"
+      "archived_at": "2026-11-08T21:00:55.025787+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750494+00:00"
+      "archived_at": "2026-11-08T21:00:54.170423+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,25 +199,25 @@
       "media_local_path": "media/IranintlTV_366030_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366030_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.216182+00:00"
+      "archived_at": "2026-11-08T21:00:54.447569+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76768,
-      "message_link": "https://t.me/satlastnews/76768",
-      "text": "⭕️ جالبه که صدای بچه های متخصص مدیا استار به زبان فارسی هم درومده و حتی کارشناسای فنی رسیور های مدیا استار هم از تغییر فرکانس های GEM به 8PSK گله دارن!\n\nواقعیتش دیگه خودمو اذیت نمی‌کنم و دیگه انقدر ضجه نمی‌زنم که آخرش بعضیا بخوان اینطور قضاوتم بکنن و بگن «مشکل شما با جم چیه!»\n\nاکثر نصاب ها هم چون نونشون تو روغن شده خوشحالن و به به چه چه می‌کنن و اکثر کانال های تلگرامی هم توسط همین افراد مدیریت میشن.\n\nکسی که یه تنه عین یه لشکر تک نفره وایساد و جنگید و به جم هشدار داد من بودم، اما با واکنش های بی ادبانه ای که از مردم همزبون و هم‌میهن خودم دیدم پشیمون شدم!\n\nاز این به بعد منم به به چه چه می‌کنم! \n\nقبلا گفتم بازم میگم، من به جم ده ها گله و شکایت و نقد دارم! اما ضربه خوردن به جم مساوی است با ضربه خوردن به کل مارکت تلویزیون های ماهواره ای فارسی و به مرور زمان نا امید شدن مخاطب ایرانی و فاصله گرفتن از تلویزیون و ماهواره!\n\nاز من گفتن بود ...\n\nشاید خیلی دیر بفهمید دلیل این همه نگرانی و ضجه زدن من چی بوده ... \n\n@SatLastNews",
+      "message_id": 76769,
+      "message_link": "https://t.me/satlastnews/76769",
+      "text": "من زنگ زدم تیمارستان، تخت رزرو کردم 😃",
       "shamsi_date": "1405/08/17",
-      "tehran_time": "23:13:54",
-      "gregorian_utc": "2026-11-08T19:43:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 287765,
-      "media_size_human": "281.02 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76768_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.562548+00:00"
+      "tehran_time": "23:57:13",
+      "gregorian_utc": "2026-11-08T20:27:13+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-08T21:00:54.744162+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.852433+00:00"
+      "archived_at": "2026-11-08T21:00:55.025803+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750531+00:00"
+      "archived_at": "2026-11-08T21:00:54.170443+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,25 +271,25 @@
       "media_local_path": "media/IranintlTV_366029_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366029_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241160+00:00"
+      "archived_at": "2026-11-08T21:00:54.458043+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76766,
-      "message_link": "https://t.me/satlastnews/76766",
-      "text": "**باز شروع شد!\n\nطرف اومده میگه چرا با HD شدن شبکه های GEM مخالفی!\n\nبه خدا از سر و کله زدن با یه عده آدم خسته شدم!!!!\n\nخوب چشماتو باز بکن درست بخون برادر من!\n\nمگه موضوع صرفا HD شدن شبکه هاست ؟! مگه شبکه های GEM بیش از 15 ساله HD نیستن؟\n\nموضوع هم 8PSK شدن و به شدت حساس شدن فرکانس ها (با یه ابر و بارون و پارازیت ساده قطع میشه!) و هم قطع شبکه های پلاسه!\n\nفقط موضوع HD شدن و قطع یک شبه تمام شبکه های SD نیست! که اونم اشتباهه که بخوای یک شبه همه SD ها رو قطع بکنی و حتی یه دونه هم وصل نذاری.\n\nموضوع یکی دو تا نیست که! موضوع بی مسئولتی GEM توی تصمیم گیری های یهویی و ناعاقلانست!\n\nبی احترامی به نصاب ها نباشه! اکثر کسایی که کامنت می ذارن و به به چه چه می کنن رو رفتم باهاشون حرف زدم می بینم همشون نصابن!\n\nخب طبیعیه! این تغییرات جم به شدت برای بعضی از این دوستان منفعت مالی داشته! طرف داره رسیور 5 تومنی رو 10 تومن می کنه تو پاچه ملت یا برای یه سرچ ساده میره خونه کسی که سواد درست حسابی نداره ازش یکی دو تومن میگیره!\n\nمشخصه که این دوستان باید با حرفی که من درباره بی مسئولیتی جم می زنم مخالف باشن!\n\nانقدر به فکر جیب خودتون نباشید! به اون کسایی که دسترسی به شماها ندارن، یا پول تو جیبشون نیست، یا اصلا مشکل پارازیت و قطعی دارن و مشکلشون با نصاب هم حل نمیشه یکم فکر کنید!**",
+      "message_id": 76768,
+      "message_link": "https://t.me/satlastnews/76768",
+      "text": "⭕️ جالبه که صدای بچه های متخصص مدیا استار به زبان فارسی هم درومده و حتی کارشناسای فنی رسیور های مدیا استار هم از تغییر فرکانس های GEM به 8PSK گله دارن!\n\nواقعیتش دیگه خودمو اذیت نمی‌کنم و دیگه انقدر ضجه نمی‌زنم که آخرش بعضیا بخوان اینطور قضاوتم بکنن و بگن «مشکل شما با جم چیه!»\n\nاکثر نصاب ها هم چون نونشون تو روغن شده خوشحالن و به به چه چه می‌کنن و اکثر کانال های تلگرامی هم توسط همین افراد مدیریت میشن.\n\nکسی که یه تنه عین یه لشکر تک نفره وایساد و جنگید و به جم هشدار داد من بودم، اما با واکنش های بی ادبانه ای که از مردم همزبون و هم‌میهن خودم دیدم پشیمون شدم!\n\nاز این به بعد منم به به چه چه می‌کنم! \n\nقبلا گفتم بازم میگم، من به جم ده ها گله و شکایت و نقد دارم! اما ضربه خوردن به جم مساوی است با ضربه خوردن به کل مارکت تلویزیون های ماهواره ای فارسی و به مرور زمان نا امید شدن مخاطب ایرانی و فاصله گرفتن از تلویزیون و ماهواره!\n\nاز من گفتن بود ...\n\nشاید خیلی دیر بفهمید دلیل این همه نگرانی و ضجه زدن من چی بوده ... \n\n@SatLastNews",
       "shamsi_date": "1405/08/17",
-      "tehran_time": "21:04:38",
-      "gregorian_utc": "2026-11-08T17:34:38+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.562701+00:00"
+      "tehran_time": "23:13:54",
+      "gregorian_utc": "2026-11-08T19:43:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 287765,
+      "media_size_human": "281.02 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76768_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-08T21:00:54.744239+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.852488+00:00"
+      "archived_at": "2026-11-08T21:00:55.025830+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750565+00:00"
+      "archived_at": "2026-11-08T21:00:54.170460+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,25 +343,25 @@
       "media_local_path": "media/IranintlTV_366028_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366028_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241313+00:00"
+      "archived_at": "2026-11-08T21:00:54.458182+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76765,
-      "message_link": "https://t.me/satlastnews/76765",
-      "text": "",
+      "message_id": 76766,
+      "message_link": "https://t.me/satlastnews/76766",
+      "text": "**باز شروع شد!\n\nطرف اومده میگه چرا با HD شدن شبکه های GEM مخالفی!\n\nبه خدا از سر و کله زدن با یه عده آدم خسته شدم!!!!\n\nخوب چشماتو باز بکن درست بخون برادر من!\n\nمگه موضوع صرفا HD شدن شبکه هاست ؟! مگه شبکه های GEM بیش از 15 ساله HD نیستن؟\n\nموضوع هم 8PSK شدن و به شدت حساس شدن فرکانس ها (با یه ابر و بارون و پارازیت ساده قطع میشه!) و هم قطع شبکه های پلاسه!\n\nفقط موضوع HD شدن و قطع یک شبه تمام شبکه های SD نیست! که اونم اشتباهه که بخوای یک شبه همه SD ها رو قطع بکنی و حتی یه دونه هم وصل نذاری.\n\nموضوع یکی دو تا نیست که! موضوع بی مسئولتی GEM توی تصمیم گیری های یهویی و ناعاقلانست!\n\nبی احترامی به نصاب ها نباشه! اکثر کسایی که کامنت می ذارن و به به چه چه می کنن رو رفتم باهاشون حرف زدم می بینم همشون نصابن!\n\nخب طبیعیه! این تغییرات جم به شدت برای بعضی از این دوستان منفعت مالی داشته! طرف داره رسیور 5 تومنی رو 10 تومن می کنه تو پاچه ملت یا برای یه سرچ ساده میره خونه کسی که سواد درست حسابی نداره ازش یکی دو تومن میگیره!\n\nمشخصه که این دوستان باید با حرفی که من درباره بی مسئولیتی جم می زنم مخالف باشن!\n\nانقدر به فکر جیب خودتون نباشید! به اون کسایی که دسترسی به شماها ندارن، یا پول تو جیبشون نیست، یا اصلا مشکل پارازیت و قطعی دارن و مشکلشون با نصاب هم حل نمیشه یکم فکر کنید!**",
       "shamsi_date": "1405/08/17",
-      "tehran_time": "20:54:31",
-      "gregorian_utc": "2026-11-08T17:24:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 77003,
-      "media_size_human": "75.20 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76765_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.562749+00:00"
+      "tehran_time": "21:04:38",
+      "gregorian_utc": "2026-11-08T17:34:38+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-08T21:00:54.744323+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_123072_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123072_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852567+00:00"
+      "archived_at": "2026-11-08T21:00:55.025875+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750599+00:00"
+      "archived_at": "2026-11-08T21:00:54.170478+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,25 +415,25 @@
       "media_local_path": "media/IranintlTV_366027_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366027_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241426+00:00"
+      "archived_at": "2026-11-08T21:00:54.458248+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76764,
-      "message_link": "https://t.me/satlastnews/76764",
+      "message_id": 76765,
+      "message_link": "https://t.me/satlastnews/76765",
       "text": "",
       "shamsi_date": "1405/08/17",
       "tehran_time": "20:54:31",
       "gregorian_utc": "2026-11-08T17:24:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 97036,
-      "media_size_human": "94.76 KB",
+      "media_size_bytes": 77003,
+      "media_size_human": "75.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76764_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
+      "media_local_path": "media/satlastnews_76765_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.562788+00:00"
+      "archived_at": "2026-11-08T21:00:54.744345+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.852600+00:00"
+      "archived_at": "2026-11-08T21:00:55.025891+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750631+00:00"
+      "archived_at": "2026-11-08T21:00:54.170493+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,25 +487,25 @@
       "media_local_path": "media/IranintlTV_366026_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366026_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241526+00:00"
+      "archived_at": "2026-11-08T21:00:54.458297+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76763,
-      "message_link": "https://t.me/satlastnews/76763",
+      "message_id": 76764,
+      "message_link": "https://t.me/satlastnews/76764",
       "text": "",
       "shamsi_date": "1405/08/17",
       "tehran_time": "20:54:31",
       "gregorian_utc": "2026-11-08T17:24:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 96237,
-      "media_size_human": "93.98 KB",
+      "media_size_bytes": 97036,
+      "media_size_human": "94.76 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76763_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
+      "media_local_path": "media/satlastnews_76764_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.562842+00:00"
+      "archived_at": "2026-11-08T21:00:54.744364+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.852665+00:00"
+      "archived_at": "2026-11-08T21:00:55.025923+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750673+00:00"
+      "archived_at": "2026-11-08T21:00:54.170521+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,25 +559,25 @@
       "media_local_path": "media/IranintlTV_366025_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366025_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241722+00:00"
+      "archived_at": "2026-11-08T21:00:54.458399+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76762,
-      "message_link": "https://t.me/satlastnews/76762",
+      "message_id": 76763,
+      "message_link": "https://t.me/satlastnews/76763",
       "text": "",
       "shamsi_date": "1405/08/17",
       "tehran_time": "20:54:31",
       "gregorian_utc": "2026-11-08T17:24:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 89503,
-      "media_size_human": "87.41 KB",
+      "media_size_bytes": 96237,
+      "media_size_human": "93.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76762_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76762_photo.jpg",
+      "media_local_path": "media/satlastnews_76763_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.562882+00:00"
+      "archived_at": "2026-11-08T21:00:54.744381+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_123069_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123069_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852772+00:00"
+      "archived_at": "2026-11-08T21:00:55.025980+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750702+00:00"
+      "archived_at": "2026-11-08T21:00:54.170538+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,25 +631,25 @@
       "media_local_path": "media/IranintlTV_366024_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366024_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241907+00:00"
+      "archived_at": "2026-11-08T21:00:54.458471+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76761,
-      "message_link": "https://t.me/satlastnews/76761",
-      "text": "⭕️ در تلگرام، همه راضی! در اینستاگرام، همه ناراضی!\n\nاین همه تفاوت باور نکردنی است ... هر پستی درباره GEM می گذاریم، در کانال تلگرام ما که یک کانال تلگرامی تخصصی در زمینه ماهواره است، همگی از اقدام جم برای قطع شبکه های SD و تبدیل فرکانس ها به 8PSK و تعطیلی شبکه های پلاس رضایت دارند!\n\nاما وقتی به پیج اینستاگرام جم مراجعه می کنی، تقریبا حتی 1 کامنت مثبت هم نمی بینی و همه شاکی هستند!\n\nالبته، مقایسه یک کانال تلگرامی مثل ما که اکثر افرادی که درش حضور دارند، کاربران حرفه ای ماهواره هستند، با پیج اینستاگرامی جم که تمام عامه مردم در آن حضور دارند شاید اشتباه باشد.\n\nاما این همه تفاوت در نوع مخاطب برایم بسیار عجیب است ... .\n\nاز روزی که GEM های SD و شبکه های پلاس جم تعطیل شده اند و فرکانس ها 8PSK شده، تلفن همراهم را به طور کامل سایلنت کردم و کلافه شده ام!\n\nشاید عجیب باشد اما حدود 100 تماس و پیام از دوست و فامیل و آشنا فقط روی شماره شخصی دریافت کرده ام که همگی برای دریافت GEM با مشکل مواجه شده اند! \n\nاز مرکز تهران گرفته، تا روستاها و شهر های کوچک! هر کدام هم یک مشکل دارند.\n\nیکی رسیور SD ندارد، یکی دنبال شبکه ریور پلاس و روبیکس پلاس می گردد، یکی می گوید پارازیت دارم و ... !\n\nبعد عجیب تر این که وقتی پستی در تلگرام می گذارم، تمام کامنت ها مثبت است و همگی قربان صدقه GEM می روند!\n\nعجیب تر این که خیلی ها بی ادبانه به من حمله می کنند که تو چه پدرکشتگی با جم داری که پست می ذاری!\n\nقضاوت با شما!\n\n@SatLastNews",
+      "message_id": 76762,
+      "message_link": "https://t.me/satlastnews/76762",
+      "text": "",
       "shamsi_date": "1405/08/17",
       "tehran_time": "20:54:31",
       "gregorian_utc": "2026-11-08T17:24:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 101726,
-      "media_size_human": "99.34 KB",
+      "media_size_bytes": 89503,
+      "media_size_human": "87.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76761_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76761_photo.jpg",
+      "media_local_path": "media/satlastnews_76762_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.563047+00:00"
+      "archived_at": "2026-11-08T21:00:54.744398+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_123068_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123068_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852842+00:00"
+      "archived_at": "2026-11-08T21:00:55.026005+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750728+00:00"
+      "archived_at": "2026-11-08T21:00:54.170551+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,25 +703,25 @@
       "media_local_path": "media/IranintlTV_366023_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366023_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.241990+00:00"
+      "archived_at": "2026-11-08T21:00:54.458507+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76759,
-      "message_link": "https://t.me/satlastnews/76759",
-      "text": "⭕️ نسخه اورجینال و قانونی GTA VI رو خریدم\n\nگفتم مراحلش رو با شما در میون بذارم و بگم از کی اجازه دانلود برای همه باز میشه و مراحل خریدش چطوریه!\n\nاگر علاقه داشتید، روی پیج اینستاگرام پست رو ببینید:\nhttps://www.instagram.com/ibenology/p/DfeL-eLDgIm/",
+      "message_id": 76761,
+      "message_link": "https://t.me/satlastnews/76761",
+      "text": "⭕️ در تلگرام، همه راضی! در اینستاگرام، همه ناراضی!\n\nاین همه تفاوت باور نکردنی است ... هر پستی درباره GEM می گذاریم، در کانال تلگرام ما که یک کانال تلگرامی تخصصی در زمینه ماهواره است، همگی از اقدام جم برای قطع شبکه های SD و تبدیل فرکانس ها به 8PSK و تعطیلی شبکه های پلاس رضایت دارند!\n\nاما وقتی به پیج اینستاگرام جم مراجعه می کنی، تقریبا حتی 1 کامنت مثبت هم نمی بینی و همه شاکی هستند!\n\nالبته، مقایسه یک کانال تلگرامی مثل ما که اکثر افرادی که درش حضور دارند، کاربران حرفه ای ماهواره هستند، با پیج اینستاگرامی جم که تمام عامه مردم در آن حضور دارند شاید اشتباه باشد.\n\nاما این همه تفاوت در نوع مخاطب برایم بسیار عجیب است ... .\n\nاز روزی که GEM های SD و شبکه های پلاس جم تعطیل شده اند و فرکانس ها 8PSK شده، تلفن همراهم را به طور کامل سایلنت کردم و کلافه شده ام!\n\nشاید عجیب باشد اما حدود 100 تماس و پیام از دوست و فامیل و آشنا فقط روی شماره شخصی دریافت کرده ام که همگی برای دریافت GEM با مشکل مواجه شده اند! \n\nاز مرکز تهران گرفته، تا روستاها و شهر های کوچک! هر کدام هم یک مشکل دارند.\n\nیکی رسیور SD ندارد، یکی دنبال شبکه ریور پلاس و روبیکس پلاس می گردد، یکی می گوید پارازیت دارم و ... !\n\nبعد عجیب تر این که وقتی پستی در تلگرام می گذارم، تمام کامنت ها مثبت است و همگی قربان صدقه GEM می روند!\n\nعجیب تر این که خیلی ها بی ادبانه به من حمله می کنند که تو چه پدرکشتگی با جم داری که پست می ذاری!\n\nقضاوت با شما!\n\n@SatLastNews",
       "shamsi_date": "1405/08/17",
-      "tehran_time": "11:01:01",
-      "gregorian_utc": "2026-11-08T07:31:01+00:00",
+      "tehran_time": "20:54:31",
+      "gregorian_utc": "2026-11-08T17:24:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 96362,
-      "media_size_human": "94.10 KB",
+      "media_size_bytes": 101726,
+      "media_size_human": "99.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76759_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76759_photo.jpg",
+      "media_local_path": "media/satlastnews_76761_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76761_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.563118+00:00"
+      "archived_at": "2026-11-08T21:00:54.744487+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_123067_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123067_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852892+00:00"
+      "archived_at": "2026-11-08T21:00:55.026025+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750753+00:00"
+      "archived_at": "2026-11-08T21:00:54.170564+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,25 +775,25 @@
       "media_local_path": "media/IranintlTV_366022_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366022_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.242074+00:00"
+      "archived_at": "2026-11-08T21:00:54.458546+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76755,
-      "message_link": "https://t.me/satlastnews/76755",
-      "text": "",
-      "shamsi_date": "1405/08/16",
-      "tehran_time": "17:33:44",
-      "gregorian_utc": "2026-11-07T14:03:44+00:00",
-      "media_type": "unsupported",
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-11-08T20:50:37.563147+00:00"
+      "message_id": 76759,
+      "message_link": "https://t.me/satlastnews/76759",
+      "text": "⭕️ نسخه اورجینال و قانونی GTA VI رو خریدم\n\nگفتم مراحلش رو با شما در میون بذارم و بگم از کی اجازه دانلود برای همه باز میشه و مراحل خریدش چطوریه!\n\nاگر علاقه داشتید، روی پیج اینستاگرام پست رو ببینید:\nhttps://www.instagram.com/ibenology/p/DfeL-eLDgIm/",
+      "shamsi_date": "1405/08/17",
+      "tehran_time": "11:01:01",
+      "gregorian_utc": "2026-11-08T07:31:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 96362,
+      "media_size_human": "94.10 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76759_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76759_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-08T21:00:54.744521+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_123066_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123066_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.852928+00:00"
+      "archived_at": "2026-11-08T21:00:55.026042+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750780+00:00"
+      "archived_at": "2026-11-08T21:00:54.170577+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,25 +847,25 @@
       "media_local_path": "media/IranintlTV_366021_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366021_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.242136+00:00"
+      "archived_at": "2026-11-08T21:00:54.458576+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76752,
-      "message_link": "https://t.me/satlastnews/76752",
-      "text": "⭕️ مقایسه انواع فرکانس‌های ماهواره‌ای؛ کدام قوی‌تر است و کدام زودتر قطع می‌شود؟\n\nحتماً متوجه شدید که بعضی از فرکانس‌های ماهواره‌ای حتی در هوای بارانی هم به‌خوبی دریافت می‌شن، اما بعضی دیگه با کوچک‌ترین تغییر در وضعیت دیش یا شرایط آب‌وهوایی قطع می‌شن!\n\nیکی از دلایل این تفاوت، استاندارد پخش و نوع مدولاسیون فرکانس‌هاست.\n\n🔹فرکانس های DVB-S / QPSK؛ فناوری قدیمی اما نسبتاً مقاوم\n\nاین استاندارد سال‌ها برای پخش شبکه‌های ماهواره‌ای استفاده شده و هنوز هم کاربرد داره.\n\n✅ سازگار با رسیورهای قدیمی SD و جدید\n✅ معمولاً دریافت راحت‌تر در مقایسه با فرکانس‌های 8PSK با FEC مشابه\n✅ تحمل نسبتاً مناسب در برابر افت کیفیت سیگنال\n❌ استفاده کمتر بهینه از ظرفیت فرکانس\n❌ ظرفیت پایین‌تر برای انتقال شبکه‌های تلویزیونی\n\n🔹 فرکانس های DVB-S2 / QPSK؛ ترکیب مقاومت و بهره‌وری\n\nاین فناوری از مدولاسیون QPSK استفاده می‌کنه، اما به لطف استاندارد جدیدتر DVB-S2 و سیستم تصحیح خطای پیشرفته‌تر، عملکرد بهتری داره.\n\n✅ امکان دریافت با سیگنال ضعیف‌تر نسبت به DVB-S قدیمی در برخی تنظیمات\n✅ مقاومت مناسب در برابر نویز و اختلال\n✅ استفاده بهینه‌تر از ظرفیت فرکانس\n✅ انتخاب مناسب برای پخش پایدار شبکه‌ها\n❌ نیازمند رسیور سازگار با DVB-S2 یا همان رسیور های HD بازار\n\n🔹 فرکانس های DVB-S2 / 8PSK؛ ظرفیت بیشتر، حساسیت بالاتر\n\nبسیاری از شبکه‌های ماهواره‌ای برای انتقال تعداد بیشتری شبکه یا تصویر با کیفیت بالاتر از این روش استفاده می‌کنن.\n\n✅ انتقال اطلاعات بیشتر در هر ثانیه\n✅ امکان پخش تعداد بیشتری شبکه در یک فرکانس\n✅ استفاده بهینه‌تر از پهنای باند ماهواره\n❌ معمولاً نیازمند سیگنال تمیزتر و قوی‌تر از نظر کیفیت دریافت\n❌ حساسیت بیشتر به تنظیم نبودن دیش، افت سیگنال و اختلال، در مقایسه با QPSK با FEC مشابه\n❌ احتمال قطع تصویر زودتر در بارندگی یا شرایط نامناسب دریافت\n❌ نیازمند رسیور DVB-S2 یا همان HD\n\n📊 از نظر ظرفیت، چقدر تفاوت دارن؟\n\nفرض کنیم سه فرکانس با Symbol Rate برابر 27500 و FEC برابر 3/4 داشته باشیم.\n\nظرفیت انتقال اطلاعات به‌صورت تقریبی:\n\n🔸 DVB-S / QPSK: حدود 38 مگابیت بر ثانیه\n🔸 DVB-S2 / QPSK: حدود 41 مگابیت بر ثانیه\n🔸 DVB-S2 / 8PSK: حدود 61 مگابیت بر ثانیه\n\nیعنی در این شرایط، 8PSK می‌تونه حدود ۵۰ درصد اطلاعات بیشتری نسبت به DVB-S2/QPSK منتقل کنه!\n\nاین اعداد تقریبی هستن و ظرفیت واقعی با توجه به تنظیمات فرکانس تغییر می‌کنه.\n\n🌧 در باران، برف و پارازیت چه اتفاقی می‌افته؟\n\nبارندگی، برف، پارازیت و تنظیم نبودن تجهیزات می‌تونن نسبت سیگنال به نویز رو کاهش بدن.\n\nدر شرایط یکسان و با FEC مشابه، معمولاً فرکانس‌های QPSK نسبت به 8PSK تحمل بیشتری در برابر افت کیفیت سیگنال دارن.\n\n🛠 برای دریافت بهتر به چه تجهیزاتی نیاز داریم؟\n\n📺 رسیور: برای DVB-S2 باید حتماً رسیور سازگار با این استاندارد داشته باشید. رسیورهای قدیمی که فقط DVB-S رو پشتیبانی می‌کنن، قادر به دریافت فرکانس‌های DVB-S2 نیستن.\n\n📡 دیش: هرچه دیش بزرگ‌تر و دقیق‌تر تنظیم شده باشه، معمولاً حاشیه اطمینان بیشتری برای دریافت خواهید داشت.\n\n📶 خود LNB: استفاده از LNB سالم و باکیفیت اهمیت زیادی داره.\n\n🔌 کابل: کابل فرسوده، اتصالات نامناسب و سیم‌کشی طولانی با افت زیاد می‌تونن دریافت فرکانس‌های حساس رو دشوارتر کنن.\n\n⚠️ یک نکته بسیار مهم!\n\nتغییر یک فرکانس از DVB-S به DVB-S2 یا از QPSK به 8PSK لزوماً به معنای کاهش قدرت ارسالی ماهواره نیست!\nممکنه قدرت سیگنال تقریباً ثابت مونده باشه، اما به دلیل افزایش حجم کیفیت سیگنال \"موردنیاز\" برای دریافت بدون خطا، رسیور دیگه نتونه تصویر رو نمایش بده.\n\nدر واقع ممکنه درصد قدرت فرکانس روی رسیور تغییری نکنه، اما دریافتش مشکل تر باشه.\n\nحتی بسیاری از رسیور های بازار ایران (از جمله مدیا استار ها!) عدد قدرت فرکانس های DVB-S2 8PSK را به اشتباه بیشتر از QPSK نمایش می دهند که این مورد فقط نرم افزاری است و واقعیت ندارد.\n\n📌 نتیجه‌گیری:\n\nاگر هدف پایداری دریافت در شرایط دشوار باشه، DVB-S2/QPSK با FEC مناسب انتخاب بسیار خوبیه.\n\nاگر هدف انتقال تعداد بیشتری شبکه در ظرفیت محدود ماهواره باشه، DVB-S2/8PSK مزیت قابل‌توجهی داره. اما به مراتب ضعیف تر و حساس تره و با یه پارازیت ساده ممکنه از دسترس خارج بشه (بلایی که سر شبکه های GEM اومده!)\n\n@SatLastNews",
-      "shamsi_date": "1405/08/15",
-      "tehran_time": "15:55:28",
-      "gregorian_utc": "2026-11-06T12:25:28+00:00",
-      "media_type": null,
+      "message_id": 76755,
+      "message_link": "https://t.me/satlastnews/76755",
+      "text": "",
+      "shamsi_date": "1405/08/16",
+      "tehran_time": "17:33:44",
+      "gregorian_utc": "2026-11-07T14:03:44+00:00",
+      "media_type": "unsupported",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.563636+00:00"
+      "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
+      "archived_at": "2026-11-08T21:00:54.744536+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.852992+00:00"
+      "archived_at": "2026-11-08T21:00:55.026075+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:36.750808+00:00"
+      "archived_at": "2026-11-08T21:00:54.170591+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,25 +919,25 @@
       "media_local_path": "media/IranintlTV_366020_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366020_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.242179+00:00"
+      "archived_at": "2026-11-08T21:00:54.458594+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76751,
-      "message_link": "https://t.me/satlastnews/76751",
-      "text": "⭕️ راهنمای قدم به قدم دریافت شبکه های جم:\n\nدر صورتی که شبکه های GEM شما قطع شده است، از این راهنمای قدم به قدم استفاده نمایید:\n\n1. حتما مطمئن شوید که رسیور شما HD است، چون GEM دیگر تحت هیچ شرایطی و به هیچ عنوان توسط رسیور های قدیمی SD قابل دریافت نیست. (کلماتی مثل Full HD یا H.264 بر روی رسیور به معنای HD بودن آن است)\n\n2. دقت نمایید که اگر در مکان های پارازیتی هستید، در ساعاتی فرکانس ها را وارد نمایید که پارازیت ها خاموش یا کمتر هستند (مثلا ساعات بامداد)\n\n3. از طریق منوی رسیور خود، وارد بخش تنظیمات شوید، در ماهواره یاهست را وارد کنید، و در فرکانس ها یک بار فرکانس 11881 و یک بار فرکانس 12034، بعد از انتخاب فرکانس، معمولا باید به آخرین گزینه یعنی جستوجو بروید و \"یک فرکانس\" یا \"یک ترنسپاندر\" را انتخاب کرده و برای شروع جستوجو Ok را بزنید.\n\n4. با جستوجوی هر 2 فرکانس، شما 28 عدد شبکه GEM به صورت HD را دریافت خواهید نمود. اگر برخی از این شبکه ها صدا دارند تصویر ندارند، یا تصویر دارند صدا ندارند، باید این شبکه ها را از لیست حذف کنید و مجددا مرحله 3 را انجام دهید.\n\n5. در صورتی که در مناطق پارازیتی نیستید و مطمئن هستید که رسیور شما HD است و باز هم فرکانس ها را دریافت نمی کنید باید دقت کنید که دریافت فرکانس های GEM حالا به تنظیم بودن بسیار دقیق دیش، بلند نبودن سیم کشی، استفاده از LNB استاندارد و از آن مهم تر عدم وجود تاب و زنگ زدگی در دیش بسیار حساس است.\n\n6. شبکه های RIVER و RUBIX و GEM TV و GEM Series و GEM Drama از فرکانس 11881 حذف شده اند! و جایگزین نسخه Plus (یا همان +) این شبکه ها در فرکانس 12034 شده اند، اگر شبکه های نامبرده در لیست شبکه ها قابل دریافت نیستند، احتمالا هنوز آن ها را از 11881 دریافت می کنید! به دنبال این شبکه ها در فرکانس 12034 بگردید.\n\n7. نسخه پلاس یا همان + شبکه هایی که در گام 6 نام بردیم، تعطیل شده است! دیگر امکان دریافت شبکه هایی که سریال ها را با یک ساعت تاخیر پخش می کردند وجود ندارد و این شبکه ها به طور کامل قطع می باشند.\n\n@SatLastNews",
+      "message_id": 76752,
+      "message_link": "https://t.me/satlastnews/76752",
+      "text": "⭕️ مقایسه انواع فرکانس‌های ماهواره‌ای؛ کدام قوی‌تر است و کدام زودتر قطع می‌شود؟\n\nحتماً متوجه شدید که بعضی از فرکانس‌های ماهواره‌ای حتی در هوای بارانی هم به‌خوبی دریافت می‌شن، اما بعضی دیگه با کوچک‌ترین تغییر در وضعیت دیش یا شرایط آب‌وهوایی قطع می‌شن!\n\nیکی از دلایل این تفاوت، استاندارد پخش و نوع مدولاسیون فرکانس‌هاست.\n\n🔹فرکانس های DVB-S / QPSK؛ فناوری قدیمی اما نسبتاً مقاوم\n\nاین استاندارد سال‌ها برای پخش شبکه‌های ماهواره‌ای استفاده شده و هنوز هم کاربرد داره.\n\n✅ سازگار با رسیورهای قدیمی SD و جدید\n✅ معمولاً دریافت راحت‌تر در مقایسه با فرکانس‌های 8PSK با FEC مشابه\n✅ تحمل نسبتاً مناسب در برابر افت کیفیت سیگنال\n❌ استفاده کمتر بهینه از ظرفیت فرکانس\n❌ ظرفیت پایین‌تر برای انتقال شبکه‌های تلویزیونی\n\n🔹 فرکانس های DVB-S2 / QPSK؛ ترکیب مقاومت و بهره‌وری\n\nاین فناوری از مدولاسیون QPSK استفاده می‌کنه، اما به لطف استاندارد جدیدتر DVB-S2 و سیستم تصحیح خطای پیشرفته‌تر، عملکرد بهتری داره.\n\n✅ امکان دریافت با سیگنال ضعیف‌تر نسبت به DVB-S قدیمی در برخی تنظیمات\n✅ مقاومت مناسب در برابر نویز و اختلال\n✅ استفاده بهینه‌تر از ظرفیت فرکانس\n✅ انتخاب مناسب برای پخش پایدار شبکه‌ها\n❌ نیازمند رسیور سازگار با DVB-S2 یا همان رسیور های HD بازار\n\n🔹 فرکانس های DVB-S2 / 8PSK؛ ظرفیت بیشتر، حساسیت بالاتر\n\nبسیاری از شبکه‌های ماهواره‌ای برای انتقال تعداد بیشتری شبکه یا تصویر با کیفیت بالاتر از این روش استفاده می‌کنن.\n\n✅ انتقال اطلاعات بیشتر در هر ثانیه\n✅ امکان پخش تعداد بیشتری شبکه در یک فرکانس\n✅ استفاده بهینه‌تر از پهنای باند ماهواره\n❌ معمولاً نیازمند سیگنال تمیزتر و قوی‌تر از نظر کیفیت دریافت\n❌ حساسیت بیشتر به تنظیم نبودن دیش، افت سیگنال و اختلال، در مقایسه با QPSK با FEC مشابه\n❌ احتمال قطع تصویر زودتر در بارندگی یا شرایط نامناسب دریافت\n❌ نیازمند رسیور DVB-S2 یا همان HD\n\n📊 از نظر ظرفیت، چقدر تفاوت دارن؟\n\nفرض کنیم سه فرکانس با Symbol Rate برابر 27500 و FEC برابر 3/4 داشته باشیم.\n\nظرفیت انتقال اطلاعات به‌صورت تقریبی:\n\n🔸 DVB-S / QPSK: حدود 38 مگابیت بر ثانیه\n🔸 DVB-S2 / QPSK: حدود 41 مگابیت بر ثانیه\n🔸 DVB-S2 / 8PSK: حدود 61 مگابیت بر ثانیه\n\nیعنی در این شرایط، 8PSK می‌تونه حدود ۵۰ درصد اطلاعات بیشتری نسبت به DVB-S2/QPSK منتقل کنه!\n\nاین اعداد تقریبی هستن و ظرفیت واقعی با توجه به تنظیمات فرکانس تغییر می‌کنه.\n\n🌧 در باران، برف و پارازیت چه اتفاقی می‌افته؟\n\nبارندگی، برف، پارازیت و تنظیم نبودن تجهیزات می‌تونن نسبت سیگنال به نویز رو کاهش بدن.\n\nدر شرایط یکسان و با FEC مشابه، معمولاً فرکانس‌های QPSK نسبت به 8PSK تحمل بیشتری در برابر افت کیفیت سیگنال دارن.\n\n🛠 برای دریافت بهتر به چه تجهیزاتی نیاز داریم؟\n\n📺 رسیور: برای DVB-S2 باید حتماً رسیور سازگار با این استاندارد داشته باشید. رسیورهای قدیمی که فقط DVB-S رو پشتیبانی می‌کنن، قادر به دریافت فرکانس‌های DVB-S2 نیستن.\n\n📡 دیش: هرچه دیش بزرگ‌تر و دقیق‌تر تنظیم شده باشه، معمولاً حاشیه اطمینان بیشتری برای دریافت خواهید داشت.\n\n📶 خود LNB: استفاده از LNB سالم و باکیفیت اهمیت زیادی داره.\n\n🔌 کابل: کابل فرسوده، اتصالات نامناسب و سیم‌کشی طولانی با افت زیاد می‌تونن دریافت فرکانس‌های حساس رو دشوارتر کنن.\n\n⚠️ یک نکته بسیار مهم!\n\nتغییر یک فرکانس از DVB-S به DVB-S2 یا از QPSK به 8PSK لزوماً به معنای کاهش قدرت ارسالی ماهواره نیست!\nممکنه قدرت سیگنال تقریباً ثابت مونده باشه، اما به دلیل افزایش حجم کیفیت سیگنال \"موردنیاز\" برای دریافت بدون خطا، رسیور دیگه نتونه تصویر رو نمایش بده.\n\nدر واقع ممکنه درصد قدرت فرکانس روی رسیور تغییری نکنه، اما دریافتش مشکل تر باشه.\n\nحتی بسیاری از رسیور های بازار ایران (از جمله مدیا استار ها!) عدد قدرت فرکانس های DVB-S2 8PSK را به اشتباه بیشتر از QPSK نمایش می دهند که این مورد فقط نرم افزاری است و واقعیت ندارد.\n\n📌 نتیجه‌گیری:\n\nاگر هدف پایداری دریافت در شرایط دشوار باشه، DVB-S2/QPSK با FEC مناسب انتخاب بسیار خوبیه.\n\nاگر هدف انتقال تعداد بیشتری شبکه در ظرفیت محدود ماهواره باشه، DVB-S2/8PSK مزیت قابل‌توجهی داره. اما به مراتب ضعیف تر و حساس تره و با یه پارازیت ساده ممکنه از دسترس خارج بشه (بلایی که سر شبکه های GEM اومده!)\n\n@SatLastNews",
       "shamsi_date": "1405/08/15",
-      "tehran_time": "11:02:44",
-      "gregorian_utc": "2026-11-06T07:32:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 207745,
-      "media_size_human": "202.88 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76751_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76751_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.563862+00:00"
+      "tehran_time": "15:55:28",
+      "gregorian_utc": "2026-11-06T12:25:28+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-08T21:00:54.744835+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_123064_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123064_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.853034+00:00"
+      "archived_at": "2026-11-08T21:00:55.026094+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": "media/zedTV_15699_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15699_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:36.750918+00:00"
+      "archived_at": "2026-11-08T21:00:54.170643+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,25 +991,25 @@
       "media_local_path": "media/IranintlTV_366019_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366019_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.242302+00:00"
+      "archived_at": "2026-11-08T21:00:54.458656+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76746,
-      "message_link": "https://t.me/satlastnews/76746",
-      "text": "⭕️ پیشنهاد های واضح برای گروه جم:\n\n1. اصلا نیازی به FOOD 2 نبود! که الکی جا اشغال کند و شما را مجبور کند که از فرکانس های 8PSK (که ضعیف تر هستند اما تعداد شبکه بیشتری جا می گیرند!) استفاده کنید.\n\n2. بهتر بود شبکه های GEM TV و Series و Drama و River و Rubix در جای خود HD می شدند، نه این که شبکه های پر مخاطبی که روی 11881 بودند را قطع کنید و آن ها را به جای نسخه پلاس در 12034 روی آنتن ببرید!\n\n3. گروه جم در حال حاضر 4 شبکه موسیقی دارد، جم موزیک، میفا، میفا پلاس و 24B که میشد حداقل 2 تا از این شبکه ها را تعطیل کرد و به جم موزیک و 24B یا میفا و 24B محدود کرد.\n\n4. وجود شبکه GEM FILM با کیفیت اچ دی زمانی که ONYX با کیفیت اچ دی وجود دارد اصلا نیاز نبود!\n\n**جم می توانست با مدیریت بهتر پهنای باند، از 8PSK کردن فرکانس 11881 خودداری کند تا این طور فرکانس ضعیف نشود ... .**\n\n**این که 2 فرکانس یا لااقل یک فرکانس DVB-S QPSK باقی می ماند اما 2-3 تا از شبکه ها حذف میشد، بهتر بود! تا این که الان در شهر های پر از پارازیت، یا با یک ابر ساده، فرکانس ها به طور کامل از دسترس خارج شوند.**\n\n@SatLastNews",
-      "shamsi_date": "1405/08/14",
-      "tehran_time": "18:36:15",
-      "gregorian_utc": "2026-11-05T15:06:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.563998+00:00"
+      "message_id": 76751,
+      "message_link": "https://t.me/satlastnews/76751",
+      "text": "⭕️ راهنمای قدم به قدم دریافت شبکه های جم:\n\nدر صورتی که شبکه های GEM شما قطع شده است، از این راهنمای قدم به قدم استفاده نمایید:\n\n1. حتما مطمئن شوید که رسیور شما HD است، چون GEM دیگر تحت هیچ شرایطی و به هیچ عنوان توسط رسیور های قدیمی SD قابل دریافت نیست. (کلماتی مثل Full HD یا H.264 بر روی رسیور به معنای HD بودن آن است)\n\n2. دقت نمایید که اگر در مکان های پارازیتی هستید، در ساعاتی فرکانس ها را وارد نمایید که پارازیت ها خاموش یا کمتر هستند (مثلا ساعات بامداد)\n\n3. از طریق منوی رسیور خود، وارد بخش تنظیمات شوید، در ماهواره یاهست را وارد کنید، و در فرکانس ها یک بار فرکانس 11881 و یک بار فرکانس 12034، بعد از انتخاب فرکانس، معمولا باید به آخرین گزینه یعنی جستوجو بروید و \"یک فرکانس\" یا \"یک ترنسپاندر\" را انتخاب کرده و برای شروع جستوجو Ok را بزنید.\n\n4. با جستوجوی هر 2 فرکانس، شما 28 عدد شبکه GEM به صورت HD را دریافت خواهید نمود. اگر برخی از این شبکه ها صدا دارند تصویر ندارند، یا تصویر دارند صدا ندارند، باید این شبکه ها را از لیست حذف کنید و مجددا مرحله 3 را انجام دهید.\n\n5. در صورتی که در مناطق پارازیتی نیستید و مطمئن هستید که رسیور شما HD است و باز هم فرکانس ها را دریافت نمی کنید باید دقت کنید که دریافت فرکانس های GEM حالا به تنظیم بودن بسیار دقیق دیش، بلند نبودن سیم کشی، استفاده از LNB استاندارد و از آن مهم تر عدم وجود تاب و زنگ زدگی در دیش بسیار حساس است.\n\n6. شبکه های RIVER و RUBIX و GEM TV و GEM Series و GEM Drama از فرکانس 11881 حذف شده اند! و جایگزین نسخه Plus (یا همان +) این شبکه ها در فرکانس 12034 شده اند، اگر شبکه های نامبرده در لیست شبکه ها قابل دریافت نیستند، احتمالا هنوز آن ها را از 11881 دریافت می کنید! به دنبال این شبکه ها در فرکانس 12034 بگردید.\n\n7. نسخه پلاس یا همان + شبکه هایی که در گام 6 نام بردیم، تعطیل شده است! دیگر امکان دریافت شبکه هایی که سریال ها را با یک ساعت تاخیر پخش می کردند وجود ندارد و این شبکه ها به طور کامل قطع می باشند.\n\n@SatLastNews",
+      "shamsi_date": "1405/08/15",
+      "tehran_time": "11:02:44",
+      "gregorian_utc": "2026-11-06T07:32:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 207745,
+      "media_size_human": "202.88 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/satlastnews_76751_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76751_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-08T21:00:54.744944+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.853080+00:00"
+      "archived_at": "2026-11-08T21:00:55.026126+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": "media/zedTV_15698_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15698_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:36.750968+00:00"
+      "archived_at": "2026-11-08T21:00:54.170667+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,25 +1063,25 @@
       "media_local_path": "media/IranintlTV_366018_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366018_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.242431+00:00"
+      "archived_at": "2026-11-08T21:00:54.458722+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76745,
-      "message_link": "https://t.me/satlastnews/76745",
-      "text": "⭕️ اگر برای دریافت GEM پارازیت دارید، متاسفانه گروه جم دچار اشتباه تکنیکال بزرگی شد و فرکانس 11881 را از QPSK به 8PSK تغییر داد.\n\nاین امر باعث افت شدید قدرت سیگنال می شود، هر چند که عدد درصد سیگنال شاید در بسیاری از رسیور ها تغییری نکند! فرکانس های 8PSK فرکانس های به شدت حساسی هستند و برای دریافت به تجهیزات بسیار دقیق نیاز دارند.\n\nفرکانس های QPSK (که قبلا 11881 از آن نوع بود!) در مقابل پارازیت ها پایدار تر و مقاوم تر هستند، در صورتی که فرکانس های 8PSK نه تنها با یک پارازیت ساده، بلکه با یک ابر و باران و برف ساده از دسترس خارج می شوند.\n\nآن هم با دیش های ایرانی که هیچ کدام استاندارد نیستند و سیم کشی های چند ده متری که در خانه ها استفاده می شود.\n\nای کاش، جم برای HD شدن شبکه ها، لااقل فرکانس را از DVB-S QPSK به DVB-S2 QPSK تغییر میداد!\n\nبه جای افزودن شبکه ای مثل FOOD 2 که اصلا وجودش نیاز نبود، بهتر بود فرکانس را QPSK نگه دارند!\n\n@SatLastNews",
+      "message_id": 76746,
+      "message_link": "https://t.me/satlastnews/76746",
+      "text": "⭕️ پیشنهاد های واضح برای گروه جم:\n\n1. اصلا نیازی به FOOD 2 نبود! که الکی جا اشغال کند و شما را مجبور کند که از فرکانس های 8PSK (که ضعیف تر هستند اما تعداد شبکه بیشتری جا می گیرند!) استفاده کنید.\n\n2. بهتر بود شبکه های GEM TV و Series و Drama و River و Rubix در جای خود HD می شدند، نه این که شبکه های پر مخاطبی که روی 11881 بودند را قطع کنید و آن ها را به جای نسخه پلاس در 12034 روی آنتن ببرید!\n\n3. گروه جم در حال حاضر 4 شبکه موسیقی دارد، جم موزیک، میفا، میفا پلاس و 24B که میشد حداقل 2 تا از این شبکه ها را تعطیل کرد و به جم موزیک و 24B یا میفا و 24B محدود کرد.\n\n4. وجود شبکه GEM FILM با کیفیت اچ دی زمانی که ONYX با کیفیت اچ دی وجود دارد اصلا نیاز نبود!\n\n**جم می توانست با مدیریت بهتر پهنای باند، از 8PSK کردن فرکانس 11881 خودداری کند تا این طور فرکانس ضعیف نشود ... .**\n\n**این که 2 فرکانس یا لااقل یک فرکانس DVB-S QPSK باقی می ماند اما 2-3 تا از شبکه ها حذف میشد، بهتر بود! تا این که الان در شهر های پر از پارازیت، یا با یک ابر ساده، فرکانس ها به طور کامل از دسترس خارج شوند.**\n\n@SatLastNews",
       "shamsi_date": "1405/08/14",
-      "tehran_time": "18:33:11",
-      "gregorian_utc": "2026-11-05T15:03:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 250346,
-      "media_size_human": "244.48 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76745_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76745_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-08T20:50:37.564121+00:00"
+      "tehran_time": "18:36:15",
+      "gregorian_utc": "2026-11-05T15:06:15+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-08T21:00:54.745017+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-08T20:50:37.853130+00:00"
+      "archived_at": "2026-11-08T21:00:55.026150+00:00"
     }
   ]
 }
