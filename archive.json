@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T23:42:43.696915+00:00",
-  "shamsi_generated": "1405/08/18 23:42:43 تهران",
+  "generated_at": "2026-11-09T23:52:16.681786+00:00",
+  "shamsi_generated": "1405/08/18 23:52:16 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15740,
-      "message_link": "https://t.me/zedTV/15740",
-      "text": "رئیس سازمان اطلاعات ترکیه: مایک پنس، معاون اول ترامپ و غلامحسین رضایی در قطر دیدار می‌کنند.\nرایزنی‌های دیپلماتیک میان دو طرف در دوحه دنبال می‌شود.\nتمرکز بر گفتگوهای سیاسی پیرامون تحولات ایران.",
+      "message_id": 15741,
+      "message_link": "https://t.me/zedTV/15741",
+      "text": "حمله هوایی آمریکا به سایت پدافندی در جزیره قشم؛\nانهدام سامانه موشکی کوتاه برد و پیشرفته رژیم.\nگزارش‌ها از انهدام کامل اهداف تعیین شده حکایت دارد.",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "03:04:04",
-      "gregorian_utc": "2026-11-09T23:34:04+00:00",
+      "tehran_time": "03:18:52",
+      "gregorian_utc": "2026-11-09T23:48:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.426912+00:00"
+      "archived_at": "2026-11-09T23:50:33.451867+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366212,
-      "message_link": "https://t.me/IranintlTV/366212",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: گوادلوپ چینی؟\n@iranintlTV",
+      "message_id": 366214,
+      "message_link": "https://t.me/IranintlTV/366214",
+      "text": "خبرگزاری دولتی عراق گزارش داد که این کشور از روز جمعه گذرگاه مرزی مندلی با ایران (در مجاورت سومار کرمانشاه) را به‌طور موقت «برای تکمیل الزامات فنی» تعطیل خواهد کرد. در هفته‌های اخیر، شماری از گذرگاه‌های مرزی ایران و عراق «موقتا» بسته شده‌اند. \nدر همین حال، رییس سازمان گذرگاه‌های مرزی عراق اعلام کرد این کشور پس از تکمیل الزامات فنی و اقدامات ضروری، صبح سه‌شنبه گذرگاه مرزی شیب، مقابل مرز چذابه ایران را بازگشایی خواهد کرد.\nاین تحولات در حالی رخ می‌دهد که آمریکا علاوه بر اعمال محدودیت بر مراودات مرزی ایران با ترکیه و پاکستان، از دولت عراق خواسته است گذرگاه‌های مرزی با ایران را ببندد.\n\nhttps://iranintl.com/202611093309",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:32:55",
-      "gregorian_utc": "2026-11-09T23:02:55+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 17414753,
-      "media_size_human": "16.61 MB",
+      "tehran_time": "03:17:34",
+      "gregorian_utc": "2026-11-09T23:47:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 150456,
+      "media_size_human": "146.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366212_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366212_audio.mp3",
+      "media_local_path": "media/IranintlTV_366214_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366214_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.733595+00:00"
+      "archived_at": "2026-11-09T23:50:33.689625+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.046330+00:00"
+      "archived_at": "2026-11-09T23:50:33.942015+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366680+00:00"
+      "archived_at": "2026-11-09T23:50:34.182194+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15739,
-      "message_link": "https://t.me/zedTV/15739",
-      "text": "رئیس سازمان اطلاعات ترکیه: قطر میزبان دیدار جی‌دی ونس و محسن رضایی خواهد بود.\nاین نشست فرصتی مهم برای پیشرفت در روند مذاکرات ارزیابی می‌شود.\nرایزنی‌های دیپلماتیک میان معاون ترامپ و مقام ارشد رژیم در دوحه.",
+      "message_id": 15740,
+      "message_link": "https://t.me/zedTV/15740",
+      "text": "رئیس سازمان اطلاعات ترکیه: مایک پنس، معاون اول ترامپ و غلامحسین رضایی در قطر دیدار می‌کنند.\nرایزنی‌های دیپلماتیک میان دو طرف در دوحه دنبال می‌شود.\nتمرکز بر گفتگوهای سیاسی پیرامون تحولات ایران.",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:05:09",
-      "gregorian_utc": "2026-11-09T22:35:09+00:00",
+      "tehran_time": "03:04:04",
+      "gregorian_utc": "2026-11-09T23:34:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.426963+00:00"
+      "archived_at": "2026-11-09T23:50:33.451914+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366211,
-      "message_link": "https://t.me/IranintlTV/366211",
-      "text": "فرانسه می‌گوید سپاه پاسداران به یخچال‌های سوپرمارکت‌های این کشور حمله کرده!\n\nفرانسه می‌گوید سپاه پاسداران یخچال‌های سوپرمارکت‌های این کشور را هک کرده است. وزیر خارجهٔ فرانسه سفیر جمهوری اسلامی را احضار کرده و گفته است که این حمله برای تهران پیامد خواهد داشت.\n\nامشب در «برنامه با کامبیز حسینی» به این ماجرا می‌پردازیم و می‌پرسیم هزینهٔ چنین عملیات‌هایی بیهوده ای را در نهایت چه کسی می‌پردازد؟\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
+      "message_id": 366212,
+      "message_link": "https://t.me/IranintlTV/366212",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: گوادلوپ چینی؟\n@iranintlTV",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:31:50",
-      "gregorian_utc": "2026-11-09T23:01:50+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3567762,
-      "media_size_human": "3.40 MB",
+      "tehran_time": "02:32:55",
+      "gregorian_utc": "2026-11-09T23:02:55+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 17414753,
+      "media_size_human": "16.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366211_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366211_video.mp4",
+      "media_local_path": "media/IranintlTV_366212_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366212_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.733739+00:00"
+      "archived_at": "2026-11-09T23:50:33.697031+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76775_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76775_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.046404+00:00"
+      "archived_at": "2026-11-09T23:50:33.942099+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366745+00:00"
+      "archived_at": "2026-11-09T23:50:34.182267+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15738,
-      "message_link": "https://t.me/zedTV/15738",
-      "text": "سازمان ملل: ۱۳۵ وکیل در ایران تحت فشارهای قضایی؛ سرکوب سیستماتیک وکلای مستقل شدت یافت.\nممانعت از پذیرش پرونده‌های معترضان و بازداشت گسترده مدافعان حقوق بشر توسط رژیم.\nامیرسالار داودی، وکیل حقوق بشر، در حین پیگیری پرونده موکلان خود بازداشت شد.",
+      "message_id": 15739,
+      "message_link": "https://t.me/zedTV/15739",
+      "text": "رئیس سازمان اطلاعات ترکیه: قطر میزبان دیدار جی‌دی ونس و محسن رضایی خواهد بود.\nاین نشست فرصتی مهم برای پیشرفت در روند مذاکرات ارزیابی می‌شود.\nرایزنی‌های دیپلماتیک میان معاون ترامپ و مقام ارشد رژیم در دوحه.",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "01:20:04",
-      "gregorian_utc": "2026-11-09T21:50:04+00:00",
+      "tehran_time": "02:05:09",
+      "gregorian_utc": "2026-11-09T22:35:09+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427002+00:00"
+      "archived_at": "2026-11-09T23:50:33.451964+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366210,
-      "message_link": "https://t.me/IranintlTV/366210",
-      "text": "سه دقیقه طوفانی محمد دادکان؛\n\nآدم‌حسابیِ مملکت که حرفش حرف مردم است\nچرا سخنان محمد دادکان هنوز در فوتبال ایران خبرساز می‌شود؟\n\nتیم ملی ایران در دوران ریاست دادکان بر فدراسیون فوتبال به جام جهانی ۲۰۰۶ راه یافت. پس از حذف تیم ملی از رقابت‌ها، دولت احمدی‌نژاد او را برکنار کرد. فیفا نیز در پی دخالت دولت، فوتبال ایران را تعلیق کرد.\n\nدادکان پس از برکناری نیز به انتقادهایش ادامه داد. او از ممنوعیت ورود زنان به ورزشگاه‌ها انتقاد کرد و دربارهٔ دلالی و فساد در فوتبال سخن گفت.\n\nکامبیز حسینی در «برنامه» از محمد دادکان می گوید.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
+      "message_id": 366211,
+      "message_link": "https://t.me/IranintlTV/366211",
+      "text": "فرانسه می‌گوید سپاه پاسداران به یخچال‌های سوپرمارکت‌های این کشور حمله کرده!\n\nفرانسه می‌گوید سپاه پاسداران یخچال‌های سوپرمارکت‌های این کشور را هک کرده است. وزیر خارجهٔ فرانسه سفیر جمهوری اسلامی را احضار کرده و گفته است که این حمله برای تهران پیامد خواهد داشت.\n\nامشب در «برنامه با کامبیز حسینی» به این ماجرا می‌پردازیم و می‌پرسیم هزینهٔ چنین عملیات‌هایی بیهوده ای را در نهایت چه کسی می‌پردازد؟\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:30:34",
-      "gregorian_utc": "2026-11-09T23:00:34+00:00",
+      "tehran_time": "02:31:50",
+      "gregorian_utc": "2026-11-09T23:01:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 3456514,
-      "media_size_human": "3.30 MB",
+      "media_size_bytes": 3567762,
+      "media_size_human": "3.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366210_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366210_video.mp4",
+      "media_local_path": "media/IranintlTV_366211_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366211_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.733864+00:00"
+      "archived_at": "2026-11-09T23:50:33.697165+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76774_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76774_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.046469+00:00"
+      "archived_at": "2026-11-09T23:50:33.942138+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366796+00:00"
+      "archived_at": "2026-11-09T23:50:34.182312+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15737,
-      "message_link": "https://t.me/zedTV/15737",
-      "text": "استثمار کارکنان خدماتی مدارس تهران؛ اعتراض به بیگاری و تبعیض در نظام آموزشی.\nمحرومیت نیروهای متخصص از ارتقای شغلی به دلیل رانت‌خواری و پارتی‌بازی گسترده.\nفشار کاری شدید و نادیده گرفتن حقوق قانونی؛ شکاف عمیق عدالت در نهادهای دولتی.",
+      "message_id": 15738,
+      "message_link": "https://t.me/zedTV/15738",
+      "text": "سازمان ملل: ۱۳۵ وکیل در ایران تحت فشارهای قضایی؛ سرکوب سیستماتیک وکلای مستقل شدت یافت.\nممانعت از پذیرش پرونده‌های معترضان و بازداشت گسترده مدافعان حقوق بشر توسط رژیم.\nامیرسالار داودی، وکیل حقوق بشر، در حین پیگیری پرونده موکلان خود بازداشت شد.",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "00:36:05",
-      "gregorian_utc": "2026-11-09T21:06:05+00:00",
+      "tehran_time": "01:20:04",
+      "gregorian_utc": "2026-11-09T21:50:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427043+00:00"
+      "archived_at": "2026-11-09T23:50:33.451998+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366209,
-      "message_link": "https://t.me/IranintlTV/366209",
-      "text": "آخرین بار که رفتید خرید، چه چیزی را به‌خاطر قیمتش از سبدتان بیرون گذاشتید؟\n\nعلی بابایی کارنامی، رییس کمیسیون اجتماعی مجلس، به دیده‌بان ایران گفته است که حدود ۸ میلیون نفر دچار فقر مطلق و سوءتغذیه شده‌اند و تا ۵۰ میلیون نفر برای تهیهٔ غذا مشکل دارند.\n\nامشب در «برنامه با کامبیز حسینی» از خرید آخر شما شروع می‌کنیم. چه چیزی کمتر می‌خرید؟ چه چیزی از سفره‌تان حذف شده؟\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
+      "message_id": 366210,
+      "message_link": "https://t.me/IranintlTV/366210",
+      "text": "سه دقیقه طوفانی محمد دادکان؛\n\nآدم‌حسابیِ مملکت که حرفش حرف مردم است\nچرا سخنان محمد دادکان هنوز در فوتبال ایران خبرساز می‌شود؟\n\nتیم ملی ایران در دوران ریاست دادکان بر فدراسیون فوتبال به جام جهانی ۲۰۰۶ راه یافت. پس از حذف تیم ملی از رقابت‌ها، دولت احمدی‌نژاد او را برکنار کرد. فیفا نیز در پی دخالت دولت، فوتبال ایران را تعلیق کرد.\n\nدادکان پس از برکناری نیز به انتقادهایش ادامه داد. او از ممنوعیت ورود زنان به ورزشگاه‌ها انتقاد کرد و دربارهٔ دلالی و فساد در فوتبال سخن گفت.\n\nکامبیز حسینی در «برنامه» از محمد دادکان می گوید.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:29:31",
-      "gregorian_utc": "2026-11-09T22:59:31+00:00",
+      "tehran_time": "02:30:34",
+      "gregorian_utc": "2026-11-09T23:00:34+00:00",
       "media_type": "video",
-      "media_size_bytes": 3608669,
-      "media_size_human": "3.44 MB",
+      "media_size_bytes": 3456514,
+      "media_size_human": "3.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366209_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366209_video.mp4",
+      "media_local_path": "media/IranintlTV_366210_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366210_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.733966+00:00"
+      "archived_at": "2026-11-09T23:50:33.697293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.046659+00:00"
+      "archived_at": "2026-11-09T23:50:33.942323+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366826+00:00"
+      "archived_at": "2026-11-09T23:50:34.182336+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15736,
-      "message_link": "https://t.me/zedTV/15736",
-      "text": "بحران معیشت فرهنگیان؛ حقوق ۲۳ میلیونی معلمان با مدرک دکترا پاسخگوی اجاره‌بها و هزینه‌های اولیه نیست.\nبی‌توجهی رژیم به مطالبات معیشتی؛ کادر آموزشی در بن‌بست اقتصادی و حسرت زندگی حداقلی.\nگسترش موج نارضایتی میان معلمان؛ فقر تحمیلی نظام آموزشی را در آستانه فروپاشی قرار داد.",
+      "message_id": 15737,
+      "message_link": "https://t.me/zedTV/15737",
+      "text": "استثمار کارکنان خدماتی مدارس تهران؛ اعتراض به بیگاری و تبعیض در نظام آموزشی.\nمحرومیت نیروهای متخصص از ارتقای شغلی به دلیل رانت‌خواری و پارتی‌بازی گسترده.\nفشار کاری شدید و نادیده گرفتن حقوق قانونی؛ شکاف عمیق عدالت در نهادهای دولتی.",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "00:05:46",
-      "gregorian_utc": "2026-11-09T20:35:46+00:00",
+      "tehran_time": "00:36:05",
+      "gregorian_utc": "2026-11-09T21:06:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427073+00:00"
+      "archived_at": "2026-11-09T23:50:33.452023+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366208,
-      "message_link": "https://t.me/IranintlTV/366208",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه ۱۸ آبان پس از دیدار با نخست‌وزیر قطر در کاخ سفید از «شتاب مثبت» به‌سوی توافق برای پایان جنگ با ایران خبر داد. ترامپ در سخنانی در کاخ سفید گفت اسرائیل و کل خاورمیانه از «خطر و تهدید ایران» در امان‌اند و «حرکت به‌سوی پایان» این درگیری دیده می‌شود. او افزود: «فکر می‌کنم به‌زودی تمام خواهد شد.» رییس‌جمهوری آمریکا در پستی در تروث سوشال نیز نوشت از سرگیری حملات نظامی آمریکا علیه ایران «بعید» است و قدرت‌های حوزه خلیج فارس خواهان حفظ وضع موجودند.\n@iranintltv",
+      "message_id": 366209,
+      "message_link": "https://t.me/IranintlTV/366209",
+      "text": "آخرین بار که رفتید خرید، چه چیزی را به‌خاطر قیمتش از سبدتان بیرون گذاشتید؟\n\nعلی بابایی کارنامی، رییس کمیسیون اجتماعی مجلس، به دیده‌بان ایران گفته است که حدود ۸ میلیون نفر دچار فقر مطلق و سوءتغذیه شده‌اند و تا ۵۰ میلیون نفر برای تهیهٔ غذا مشکل دارند.\n\nامشب در «برنامه با کامبیز حسینی» از خرید آخر شما شروع می‌کنیم. چه چیزی کمتر می‌خرید؟ چه چیزی از سفره‌تان حذف شده؟\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/dceS0Uj9JGU\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:24:11",
-      "gregorian_utc": "2026-11-09T22:54:11+00:00",
+      "tehran_time": "02:29:31",
+      "gregorian_utc": "2026-11-09T22:59:31+00:00",
       "media_type": "video",
-      "media_size_bytes": 181273,
-      "media_size_human": "177.02 KB",
+      "media_size_bytes": 3608669,
+      "media_size_human": "3.44 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366208_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366208_video.mp4",
+      "media_local_path": "media/IranintlTV_366209_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366209_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734066+00:00"
+      "archived_at": "2026-11-09T23:50:33.697386+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.046767+00:00"
+      "archived_at": "2026-11-09T23:50:33.942424+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-09T23:40:35.366886+00:00"
+      "archived_at": "2026-11-09T23:50:34.182389+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15735,
-      "message_link": "https://t.me/zedTV/15735",
-      "text": "جلیلی مذاکره را بی‌فایده دانست و بر اولویت نبرد میدانی تأکید کرد.\nتداوم تلاش‌های دیپلماتیک و التماس رژیم به روسیه، چین، قطر و ترکیه.\nتضاد میان لفاظی‌های تهاجمی و نیاز مبرم به حمایت قدرت‌های خارجی.",
-      "shamsi_date": "1405/08/18",
-      "tehran_time": "21:59:38",
-      "gregorian_utc": "2026-11-09T18:29:38+00:00",
+      "message_id": 15736,
+      "message_link": "https://t.me/zedTV/15736",
+      "text": "بحران معیشت فرهنگیان؛ حقوق ۲۳ میلیونی معلمان با مدرک دکترا پاسخگوی اجاره‌بها و هزینه‌های اولیه نیست.\nبی‌توجهی رژیم به مطالبات معیشتی؛ کادر آموزشی در بن‌بست اقتصادی و حسرت زندگی حداقلی.\nگسترش موج نارضایتی میان معلمان؛ فقر تحمیلی نظام آموزشی را در آستانه فروپاشی قرار داد.",
+      "shamsi_date": "1405/08/19",
+      "tehran_time": "00:05:46",
+      "gregorian_utc": "2026-11-09T20:35:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427110+00:00"
+      "archived_at": "2026-11-09T23:50:33.452055+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366207,
-      "message_link": "https://t.me/IranintlTV/366207",
-      "text": "همزمان با آغاز نشست اقلیمی سازمان ملل در آنتالیای ترکیه از روز دوشنبه، رهبران جهان در حالی در آن حضور می‌یابند که جنگ و پیامدهای آن، دست‌کم از نظر اقتصادی، شوک بزرگی به کشورهایشان وارد کرده است. امنیت کشتیرانی از پرتکرارترین عبارت‌های خبری ماه‌های اخیر بوده، اما هزینه اقلیمی ناامنی دریایی کمتر دیده شده است. سهم کشتیرانی از انتشار جهانی دی‌اکسید کربن حدود ۲٫۳ درصد است، اما دور زدن مسیرهای ناامن آلایندگی را افزایش می‌دهد: وقتی کشتی‌های باربری در مسیر آسیا به اروپا به‌جای دریای سرخ ناچار به دور زدن قاره آفریقا می‌شوند، مسافت حدود ۲۹ درصد بیشتر می‌شود و بنا بر یک برآورد پژوهشی، انتشار هر کشتی در این مسیر اضافی می‌تواند حدود ۴۲ درصد افزایش یابد. خطر نشت نفت و آسیب به زیست‌بوم‌ها در حمله به نفت‌کش‌ها نیز مشخص است، اما روشن نیست چه کسی باید مسئولیت اقلیمی این ناامنی را بر عهده بگیرد. گزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 366208,
+      "message_link": "https://t.me/IranintlTV/366208",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، دوشنبه ۱۸ آبان پس از دیدار با نخست‌وزیر قطر در کاخ سفید از «شتاب مثبت» به‌سوی توافق برای پایان جنگ با ایران خبر داد. ترامپ در سخنانی در کاخ سفید گفت اسرائیل و کل خاورمیانه از «خطر و تهدید ایران» در امان‌اند و «حرکت به‌سوی پایان» این درگیری دیده می‌شود. او افزود: «فکر می‌کنم به‌زودی تمام خواهد شد.» رییس‌جمهوری آمریکا در پستی در تروث سوشال نیز نوشت از سرگیری حملات نظامی آمریکا علیه ایران «بعید» است و قدرت‌های حوزه خلیج فارس خواهان حفظ وضع موجودند.\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:16:31",
-      "gregorian_utc": "2026-11-09T22:46:31+00:00",
+      "tehran_time": "02:24:11",
+      "gregorian_utc": "2026-11-09T22:54:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 973189,
-      "media_size_human": "950.38 KB",
+      "media_size_bytes": 181273,
+      "media_size_human": "177.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366207_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366207_video.mp4",
+      "media_local_path": "media/IranintlTV_366208_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366208_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734192+00:00"
+      "archived_at": "2026-11-09T23:50:33.697471+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76771_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76771_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.046848+00:00"
+      "archived_at": "2026-11-09T23:50:33.942494+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366915+00:00"
+      "archived_at": "2026-11-09T23:50:34.182412+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15734,
-      "message_link": "https://t.me/zedTV/15734",
-      "text": "رویترز: هیچ چشم‌اندازی برای توافق نزدیک جهت پایان جنگ میان رژیم ایران و آمریکا وجود ندارد. تداوم بن‌بست کامل دیپلماتیک و استمرار درگیری‌های نظامی در منطقه.",
+      "message_id": 15735,
+      "message_link": "https://t.me/zedTV/15735",
+      "text": "جلیلی مذاکره را بی‌فایده دانست و بر اولویت نبرد میدانی تأکید کرد.\nتداوم تلاش‌های دیپلماتیک و التماس رژیم به روسیه، چین، قطر و ترکیه.\nتضاد میان لفاظی‌های تهاجمی و نیاز مبرم به حمایت قدرت‌های خارجی.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "21:59:22",
-      "gregorian_utc": "2026-11-09T18:29:22+00:00",
+      "tehran_time": "21:59:38",
+      "gregorian_utc": "2026-11-09T18:29:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427140+00:00"
+      "archived_at": "2026-11-09T23:50:33.452080+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366206,
-      "message_link": "https://t.me/IranintlTV/366206",
-      "text": "ژان نوئل بارو، وزیر خارجه فرانسه، اعلام کرد سپاه پاسداران مسئولحمله سایبری گسترده ماه اکتبر در این کشور بوده است. به گفته او، این حملات به تخریب انبارها و وقوع آتش‌سوزی منجر شده و نخستین عملیات سایبری گسترده با هدف خرابکاری در خاک فرانسه محسوب می‌شود.\n\nبارو تاکید کرد این حمله بدون پاسخ نخواهد ماند. او از احضار سفیر جمهوری اسلامی در پاریس خبر داد و گفت فرانسه در سطح اتحادیه اروپا علیه مسئولان این حمله تحریم اعمال خواهد کرد و اقدامات دیگری نیز برای جلوگیری از تکرار چنین حملاتی در نظر دارد.\n@iranintltv",
+      "message_id": 366207,
+      "message_link": "https://t.me/IranintlTV/366207",
+      "text": "همزمان با آغاز نشست اقلیمی سازمان ملل در آنتالیای ترکیه از روز دوشنبه، رهبران جهان در حالی در آن حضور می‌یابند که جنگ و پیامدهای آن، دست‌کم از نظر اقتصادی، شوک بزرگی به کشورهایشان وارد کرده است. امنیت کشتیرانی از پرتکرارترین عبارت‌های خبری ماه‌های اخیر بوده، اما هزینه اقلیمی ناامنی دریایی کمتر دیده شده است. سهم کشتیرانی از انتشار جهانی دی‌اکسید کربن حدود ۲٫۳ درصد است، اما دور زدن مسیرهای ناامن آلایندگی را افزایش می‌دهد: وقتی کشتی‌های باربری در مسیر آسیا به اروپا به‌جای دریای سرخ ناچار به دور زدن قاره آفریقا می‌شوند، مسافت حدود ۲۹ درصد بیشتر می‌شود و بنا بر یک برآورد پژوهشی، انتشار هر کشتی در این مسیر اضافی می‌تواند حدود ۴۲ درصد افزایش یابد. خطر نشت نفت و آسیب به زیست‌بوم‌ها در حمله به نفت‌کش‌ها نیز مشخص است، اما روشن نیست چه کسی باید مسئولیت اقلیمی این ناامنی را بر عهده بگیرد. گزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:15:31",
-      "gregorian_utc": "2026-11-09T22:45:31+00:00",
+      "tehran_time": "02:16:31",
+      "gregorian_utc": "2026-11-09T22:46:31+00:00",
       "media_type": "video",
-      "media_size_bytes": 1168127,
-      "media_size_human": "1.11 MB",
+      "media_size_bytes": 973189,
+      "media_size_human": "950.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366206_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366206_video.mp4",
+      "media_local_path": "media/IranintlTV_366207_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366207_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734286+00:00"
+      "archived_at": "2026-11-09T23:50:33.697597+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76768_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.046985+00:00"
+      "archived_at": "2026-11-09T23:50:33.942622+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,14 +523,14 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.366978+00:00"
+      "archived_at": "2026-11-09T23:50:34.182469+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15733,
-      "message_link": "https://t.me/zedTV/15733",
-      "text": "گزارش‌ها از وقوع انفجار در محدوده تنگه هرمز.\nتایید وقوع حادثه در این آبراه راهبردی.",
+      "message_id": 15734,
+      "message_link": "https://t.me/zedTV/15734",
+      "text": "رویترز: هیچ چشم‌اندازی برای توافق نزدیک جهت پایان جنگ میان رژیم ایران و آمریکا وجود ندارد. تداوم بن‌بست کامل دیپلماتیک و استمرار درگیری‌های نظامی در منطقه.",
       "shamsi_date": "1405/08/18",
       "tehran_time": "21:59:22",
       "gregorian_utc": "2026-11-09T18:29:22+00:00",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427183+00:00"
+      "archived_at": "2026-11-09T23:50:33.452119+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366205,
-      "message_link": "https://t.me/IranintlTV/366205",
-      "text": "دونالد ترامپ بار دیگر بر ترجیح راه‌حل دیپلماتیک تاکید کرد، اما گزینه نظامی علیه جمهوری اسلامی را همچنان باز گذاشت. هم‌زمان، گزارش‌ها از افزایش حضور ناوهای هواپیمابر آمریکا در منطقه حکایت دارند.\nهمزمان، مارکو روبیو دستیابی به توافق با جمهوری اسلامی در آینده نزدیک را بعید دانسته است.\n\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 366206,
+      "message_link": "https://t.me/IranintlTV/366206",
+      "text": "ژان نوئل بارو، وزیر خارجه فرانسه، اعلام کرد سپاه پاسداران مسئولحمله سایبری گسترده ماه اکتبر در این کشور بوده است. به گفته او، این حملات به تخریب انبارها و وقوع آتش‌سوزی منجر شده و نخستین عملیات سایبری گسترده با هدف خرابکاری در خاک فرانسه محسوب می‌شود.\n\nبارو تاکید کرد این حمله بدون پاسخ نخواهد ماند. او از احضار سفیر جمهوری اسلامی در پاریس خبر داد و گفت فرانسه در سطح اتحادیه اروپا علیه مسئولان این حمله تحریم اعمال خواهد کرد و اقدامات دیگری نیز برای جلوگیری از تکرار چنین حملاتی در نظر دارد.\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:13:56",
-      "gregorian_utc": "2026-11-09T22:43:56+00:00",
+      "tehran_time": "02:15:31",
+      "gregorian_utc": "2026-11-09T22:45:31+00:00",
       "media_type": "video",
-      "media_size_bytes": 3695615,
-      "media_size_human": "3.52 MB",
+      "media_size_bytes": 1168127,
+      "media_size_human": "1.11 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366205_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366205_video.mp4",
+      "media_local_path": "media/IranintlTV_366206_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366206_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734370+00:00"
+      "archived_at": "2026-11-09T23:50:33.697689+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.047138+00:00"
+      "archived_at": "2026-11-09T23:50:33.942770+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.367033+00:00"
+      "archived_at": "2026-11-09T23:50:34.182516+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15732,
-      "message_link": "https://t.me/zedTV/15732",
-      "text": "فعال‌شدن سامانه‌های پدافند هوایی در منطقه سیلوانا ارومیه؛ گزارش‌ها از شلیک پدافندی در آسمان آذربایجان غربی.",
+      "message_id": 15733,
+      "message_link": "https://t.me/zedTV/15733",
+      "text": "گزارش‌ها از وقوع انفجار در محدوده تنگه هرمز.\nتایید وقوع حادثه در این آبراه راهبردی.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "21:41:13",
-      "gregorian_utc": "2026-11-09T18:11:13+00:00",
+      "tehran_time": "21:59:22",
+      "gregorian_utc": "2026-11-09T18:29:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427217+00:00"
+      "archived_at": "2026-11-09T23:50:33.452143+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366204,
-      "message_link": "https://t.me/IranintlTV/366204",
-      "text": "محسن رضایی در مطلبی در ایکس با تاکید بر اینکه دولت آمریکا در نتیجه جنگ ایران «از هم پاشیده» است، خطاب به واشینگتن گفت: «زمان آن رسیده است که در برابر هفت شرطی که ایران بارها مطرح کرده است، تسلیم شوید.»\nرضایی نوشت: «جنگ ایران در حال حاضر دولت آمریکا را از هم پاشیده است. اما واشینگتن همچنان مانند قماربازی درمانده و مستاصل، دست‌وپا می‌زند. از بازی کنار بکشید. از تولید اخبار جعلی درباره مذاکرات خیالی دست بردارید. از انکار نظم نوین غرب آسیا دست بردارید.»\n\nhttps://iranintl.com/202611094755",
+      "message_id": 366205,
+      "message_link": "https://t.me/IranintlTV/366205",
+      "text": "دونالد ترامپ بار دیگر بر ترجیح راه‌حل دیپلماتیک تاکید کرد، اما گزینه نظامی علیه جمهوری اسلامی را همچنان باز گذاشت. هم‌زمان، گزارش‌ها از افزایش حضور ناوهای هواپیمابر آمریکا در منطقه حکایت دارند.\nهمزمان، مارکو روبیو دستیابی به توافق با جمهوری اسلامی در آینده نزدیک را بعید دانسته است.\n\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:11:12",
-      "gregorian_utc": "2026-11-09T22:41:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123900,
-      "media_size_human": "121.00 KB",
+      "tehran_time": "02:13:56",
+      "gregorian_utc": "2026-11-09T22:43:56+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3695615,
+      "media_size_human": "3.52 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366204_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366204_photo.jpg",
+      "media_local_path": "media/IranintlTV_366205_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366205_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734500+00:00"
+      "archived_at": "2026-11-09T23:50:33.697757+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76765_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047181+00:00"
+      "archived_at": "2026-11-09T23:50:33.942800+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": "media/Mellig_123102_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123102_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.367099+00:00"
+      "archived_at": "2026-11-09T23:50:34.182586+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15731,
-      "message_link": "https://t.me/zedTV/15731",
-      "text": "مارکو روبیو طرح پیشنهادی تهران را بی‌معنا خواند.\nنزدیک شدن سومین ناو هواپیمابر ایالات متحده به آب‌های منطقه.\nافشای طرح آمریکا برای تهاجم زمینی به جنوب ایران در رسانه‌های عراقی.",
+      "message_id": 15732,
+      "message_link": "https://t.me/zedTV/15732",
+      "text": "فعال‌شدن سامانه‌های پدافند هوایی در منطقه سیلوانا ارومیه؛ گزارش‌ها از شلیک پدافندی در آسمان آذربایجان غربی.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "21:00:37",
-      "gregorian_utc": "2026-11-09T17:30:37+00:00",
+      "tehran_time": "21:41:13",
+      "gregorian_utc": "2026-11-09T18:11:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427246+00:00"
+      "archived_at": "2026-11-09T23:50:33.452165+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366203,
-      "message_link": "https://t.me/IranintlTV/366203",
-      "text": "جلال ایجادی، استاد جامعه‌شناسی، گفت حملات سایبری منتسب به سپاه پاسداران در فرانسه می‌تواند زمینه‌ساز تحریم‌های تازه و اقدامات قضایی علیه جمهوری اسلامی شود. او با انتقاد از سیاست‌های گذشته فرانسه و اتحادیه اروپا تاکید کرد که این کشورها باید در برابر تهدیدهای امنیتی جمهوری اسلامی واکنش جدی‌تری نشان دهند.\n\nایجادی افزود پیگیری قضایی عوامل حملات سایبری و شناسایی شبکه‌های وابسته به سپاه پاسداران در اروپا ضروری است. به گفته او، فرانسه و دیگر کشورهای اروپایی باید با همکاری اطلاعاتی و قضایی، اقدامات هماهنگی برای مقابله با فعالیت‌های جمهوری اسلامی انجام دهند.\n@iranintltv",
+      "message_id": 366204,
+      "message_link": "https://t.me/IranintlTV/366204",
+      "text": "محسن رضایی در مطلبی در ایکس با تاکید بر اینکه دولت آمریکا در نتیجه جنگ ایران «از هم پاشیده» است، خطاب به واشینگتن گفت: «زمان آن رسیده است که در برابر هفت شرطی که ایران بارها مطرح کرده است، تسلیم شوید.»\nرضایی نوشت: «جنگ ایران در حال حاضر دولت آمریکا را از هم پاشیده است. اما واشینگتن همچنان مانند قماربازی درمانده و مستاصل، دست‌وپا می‌زند. از بازی کنار بکشید. از تولید اخبار جعلی درباره مذاکرات خیالی دست بردارید. از انکار نظم نوین غرب آسیا دست بردارید.»\n\nhttps://iranintl.com/202611094755",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:08:18",
-      "gregorian_utc": "2026-11-09T22:38:18+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4674344,
-      "media_size_human": "4.46 MB",
+      "tehran_time": "02:11:12",
+      "gregorian_utc": "2026-11-09T22:41:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 123900,
+      "media_size_human": "121.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366203_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366203_video.mp4",
+      "media_local_path": "media/IranintlTV_366204_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366204_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734610+00:00"
+      "archived_at": "2026-11-09T23:50:33.697850+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76764_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047218+00:00"
+      "archived_at": "2026-11-09T23:50:33.942828+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 155.67 MB)",
-      "archived_at": "2026-11-09T23:40:35.367145+00:00"
+      "archived_at": "2026-11-09T23:50:34.182627+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15730,
-      "message_link": "https://t.me/zedTV/15730",
-      "text": "آغاز پل هوایی نظامی از شرق آسیا به سمت خاورمیانه؛\nبرخاستن بی‌سابقه چندین هواپیمای ترابری گلوب‌مستر آمریکا از توکیو؛\nتداوم حرکت ناوگان ترابری ایالات متحده به مقصد منطقه.",
+      "message_id": 15731,
+      "message_link": "https://t.me/zedTV/15731",
+      "text": "مارکو روبیو طرح پیشنهادی تهران را بی‌معنا خواند.\nنزدیک شدن سومین ناو هواپیمابر ایالات متحده به آب‌های منطقه.\nافشای طرح آمریکا برای تهاجم زمینی به جنوب ایران در رسانه‌های عراقی.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "20:21:02",
-      "gregorian_utc": "2026-11-09T16:51:02+00:00",
+      "tehran_time": "21:00:37",
+      "gregorian_utc": "2026-11-09T17:30:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427271+00:00"
+      "archived_at": "2026-11-09T23:50:33.452187+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366202,
-      "message_link": "https://t.me/IranintlTV/366202",
-      "text": "ژان نوئل بارو، وزیر خارجه فرانسه، سپاه پاسداران را مسئول حملات سایبری به سامانه‌های سرمایشی صدها فروشگاه مواد غذایی در این کشور معرفی کرد و هشدار داد جمهوری اسلامی با پیامدهای این اقدام روبه‌رو خواهد شد.\n\nهم‌زمان، دادستانی پاریس تحقیقاتی را درباره نقش احتمالی گروه هکری موسوم به «شهید کاوه» در این حملات آغاز کرده است.\n\nجزییات بیشتر در گفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 366203,
+      "message_link": "https://t.me/IranintlTV/366203",
+      "text": "جلال ایجادی، استاد جامعه‌شناسی، گفت حملات سایبری منتسب به سپاه پاسداران در فرانسه می‌تواند زمینه‌ساز تحریم‌های تازه و اقدامات قضایی علیه جمهوری اسلامی شود. او با انتقاد از سیاست‌های گذشته فرانسه و اتحادیه اروپا تاکید کرد که این کشورها باید در برابر تهدیدهای امنیتی جمهوری اسلامی واکنش جدی‌تری نشان دهند.\n\nایجادی افزود پیگیری قضایی عوامل حملات سایبری و شناسایی شبکه‌های وابسته به سپاه پاسداران در اروپا ضروری است. به گفته او، فرانسه و دیگر کشورهای اروپایی باید با همکاری اطلاعاتی و قضایی، اقدامات هماهنگی برای مقابله با فعالیت‌های جمهوری اسلامی انجام دهند.\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "02:01:46",
-      "gregorian_utc": "2026-11-09T22:31:46+00:00",
+      "tehran_time": "02:08:18",
+      "gregorian_utc": "2026-11-09T22:38:18+00:00",
       "media_type": "video",
-      "media_size_bytes": 1868643,
-      "media_size_human": "1.78 MB",
+      "media_size_bytes": 4674344,
+      "media_size_human": "4.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366202_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366202_video.mp4",
+      "media_local_path": "media/IranintlTV_366203_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366203_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734688+00:00"
+      "archived_at": "2026-11-09T23:50:33.697937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76763_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047253+00:00"
+      "archived_at": "2026-11-09T23:50:33.942855+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_123100_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123100_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.367206+00:00"
+      "archived_at": "2026-11-09T23:50:34.182679+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15729,
-      "message_link": "https://t.me/zedTV/15729",
-      "text": "کانال ۱۵ اسرائیل: نشست امنیتی نتانیاهو همزمان با آمادگی برای حمله احتمالی آمریکا به رژیم.\nفرصت نهایی ترامپ به مقامات آمریکایی برای تلاش‌های دیپلماتیک پیش از اقدام نظامی.",
+      "message_id": 15730,
+      "message_link": "https://t.me/zedTV/15730",
+      "text": "آغاز پل هوایی نظامی از شرق آسیا به سمت خاورمیانه؛\nبرخاستن بی‌سابقه چندین هواپیمای ترابری گلوب‌مستر آمریکا از توکیو؛\nتداوم حرکت ناوگان ترابری ایالات متحده به مقصد منطقه.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:43:25",
-      "gregorian_utc": "2026-11-09T15:13:25+00:00",
+      "tehran_time": "20:21:02",
+      "gregorian_utc": "2026-11-09T16:51:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427297+00:00"
+      "archived_at": "2026-11-09T23:50:33.452210+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366201,
-      "message_link": "https://t.me/IranintlTV/366201",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «همزمان با تحولات منطقه، رقابت بر سر قدرت در درون جمهوری اسلامی هم شدت گرفته و نفوذ محسن رضایی رو به افزایش و قدرت قالیباف رو به کاهش است. رقابت برای تبدیل شدن به محور تصمیم‌گیری‌ها بالا گرفته و محسن رضایی در تلاش است کنترل معادلات با آمریکا، روسیه و چین را در دست بگیرد.»\n@iranintltv",
+      "message_id": 366202,
+      "message_link": "https://t.me/IranintlTV/366202",
+      "text": "ژان نوئل بارو، وزیر خارجه فرانسه، سپاه پاسداران را مسئول حملات سایبری به سامانه‌های سرمایشی صدها فروشگاه مواد غذایی در این کشور معرفی کرد و هشدار داد جمهوری اسلامی با پیامدهای این اقدام روبه‌رو خواهد شد.\n\nهم‌زمان، دادستانی پاریس تحقیقاتی را درباره نقش احتمالی گروه هکری موسوم به «شهید کاوه» در این حملات آغاز کرده است.\n\nجزییات بیشتر در گفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "01:58:36",
-      "gregorian_utc": "2026-11-09T22:28:36+00:00",
+      "tehran_time": "02:01:46",
+      "gregorian_utc": "2026-11-09T22:31:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 493271,
-      "media_size_human": "481.71 KB",
+      "media_size_bytes": 1868643,
+      "media_size_human": "1.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366201_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366201_video.mp4",
+      "media_local_path": "media/IranintlTV_366202_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366202_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734760+00:00"
+      "archived_at": "2026-11-09T23:50:33.698021+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76762_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047288+00:00"
+      "archived_at": "2026-11-09T23:50:33.942881+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": "media/Mellig_123099_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123099_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.367261+00:00"
+      "archived_at": "2026-11-09T23:50:34.182723+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15728,
-      "message_link": "https://t.me/zedTV/15728",
-      "text": "هشدار وزارت بهداشت: در صورت حمله به تاسیسات هسته‌ای، از نگاه کردن به نور انفجار خودداری کنید.\nتوصیه‌های ایمنی برای مقابله با خطرات ناشی از انفجار در زیرساخت‌های اتمی رژیم.\nتاکید بر پیامدهای احتمالی حملات بر سلامت شهروندان.",
+      "message_id": 15729,
+      "message_link": "https://t.me/zedTV/15729",
+      "text": "کانال ۱۵ اسرائیل: نشست امنیتی نتانیاهو همزمان با آمادگی برای حمله احتمالی آمریکا به رژیم.\nفرصت نهایی ترامپ به مقامات آمریکایی برای تلاش‌های دیپلماتیک پیش از اقدام نظامی.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:29:27",
-      "gregorian_utc": "2026-11-09T14:59:27+00:00",
+      "tehran_time": "18:43:25",
+      "gregorian_utc": "2026-11-09T15:13:25+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427325+00:00"
+      "archived_at": "2026-11-09T23:50:33.452235+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366199,
-      "message_link": "https://t.me/IranintlTV/366199",
-      "text": "ترامپ در گفت‌وگو با خبرنگاران در کاخ سفید با اشاره به اینکه جمهوری اسلامی علاوه بر کشتن شمار زیادی از شهروندان آمریکا، «دست‌کم ۷۵ هزار معترض» را کشته است، گفت: «اما اگر مجبور شویم دوباره وارد عمل شویم، در آمادگی کامل نظامی قرار داریم و آماده اقدام هستیم.»\nترامپ با تاکید بر اینکه درگیری با جمهوری اسلامی «به‌سرعت در حال پایان یافتن»، گفت: «ما می‌خواهیم از کشورهایی که طی سال‌های گذشته رفتار بسیار خوبی با ما داشته‌اند، مراقبت کنیم.»\nاو گفت: «ایران هرگز به سلاح هسته‌ای دست نخواهد یافت، اما باید اطمینان حاصل کنیم که این وضعیت در بلندمدت نیز برقرار خواهد ماند.»\n\nhttps://iranintl.com/202611090533",
+      "message_id": 366201,
+      "message_link": "https://t.me/IranintlTV/366201",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «همزمان با تحولات منطقه، رقابت بر سر قدرت در درون جمهوری اسلامی هم شدت گرفته و نفوذ محسن رضایی رو به افزایش و قدرت قالیباف رو به کاهش است. رقابت برای تبدیل شدن به محور تصمیم‌گیری‌ها بالا گرفته و محسن رضایی در تلاش است کنترل معادلات با آمریکا، روسیه و چین را در دست بگیرد.»\n@iranintltv",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "01:54:52",
-      "gregorian_utc": "2026-11-09T22:24:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 193026,
-      "media_size_human": "188.50 KB",
+      "tehran_time": "01:58:36",
+      "gregorian_utc": "2026-11-09T22:28:36+00:00",
+      "media_type": "video",
+      "media_size_bytes": 493271,
+      "media_size_human": "481.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366199_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366199_photo.jpg",
+      "media_local_path": "media/IranintlTV_366201_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366201_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734863+00:00"
+      "archived_at": "2026-11-09T23:50:33.698083+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76761_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76761_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047477+00:00"
+      "archived_at": "2026-11-09T23:50:33.943061+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_123098_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123098_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.367315+00:00"
+      "archived_at": "2026-11-09T23:50:34.182767+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15727,
-      "message_link": "https://t.me/zedTV/15727",
-      "text": "ترامپ: پیروزی در جنگ با جمهوری اسلامی؛ رژیم توان پرداخت حقوق نظامیان را ندارد.\nامکان انهدام زیرساخت‌ها وجود دارد اما اولویت عدم فشار بر مردم است.\nدستیابی رژیم ایران به سلاح هسته‌ای هرگز محقق نخواهد شد.",
+      "message_id": 15728,
+      "message_link": "https://t.me/zedTV/15728",
+      "text": "هشدار وزارت بهداشت: در صورت حمله به تاسیسات هسته‌ای، از نگاه کردن به نور انفجار خودداری کنید.\nتوصیه‌های ایمنی برای مقابله با خطرات ناشی از انفجار در زیرساخت‌های اتمی رژیم.\nتاکید بر پیامدهای احتمالی حملات بر سلامت شهروندان.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:14:29",
-      "gregorian_utc": "2026-11-09T14:44:29+00:00",
+      "tehran_time": "18:29:27",
+      "gregorian_utc": "2026-11-09T14:59:27+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427349+00:00"
+      "archived_at": "2026-11-09T23:50:33.452255+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366198,
-      "message_link": "https://t.me/IranintlTV/366198",
-      "text": "ترامپ در تروث‌سوشال با اشاره به تماس «بسیار عالی» خود با نخست‌وزیر قطر درباره جمهوری اسلامی گفت قطر، عربستان سعودی، امارات متحده عربی، بحرین، کویت و دیگر کشورها ترجیح می‌دهند «وضعیت موجود» در ارتباط با ایران حفظ شود.\nترامپ افزود: «به عبارت دیگر، بزرگ‌ترین محاصره دریایی تاریخ ادامه یابد و عملیات جدید دروازه آهنین نیز اجرا شود. بنابراین، عملیات هم در خشکی و هم در دریا ادامه خواهد داشت.»\n\nhttps://iranintl.com/202611092236",
+      "message_id": 366199,
+      "message_link": "https://t.me/IranintlTV/366199",
+      "text": "ترامپ در گفت‌وگو با خبرنگاران در کاخ سفید با اشاره به اینکه جمهوری اسلامی علاوه بر کشتن شمار زیادی از شهروندان آمریکا، «دست‌کم ۷۵ هزار معترض» را کشته است، گفت: «اما اگر مجبور شویم دوباره وارد عمل شویم، در آمادگی کامل نظامی قرار داریم و آماده اقدام هستیم.»\nترامپ با تاکید بر اینکه درگیری با جمهوری اسلامی «به‌سرعت در حال پایان یافتن»، گفت: «ما می‌خواهیم از کشورهایی که طی سال‌های گذشته رفتار بسیار خوبی با ما داشته‌اند، مراقبت کنیم.»\nاو گفت: «ایران هرگز به سلاح هسته‌ای دست نخواهد یافت، اما باید اطمینان حاصل کنیم که این وضعیت در بلندمدت نیز برقرار خواهد ماند.»\n\nhttps://iranintl.com/202611090533",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "01:36:17",
-      "gregorian_utc": "2026-11-09T22:06:17+00:00",
+      "tehran_time": "01:54:52",
+      "gregorian_utc": "2026-11-09T22:24:52+00:00",
       "media_type": "photo",
-      "media_size_bytes": 179426,
-      "media_size_human": "175.22 KB",
+      "media_size_bytes": 193026,
+      "media_size_human": "188.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366198_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366198_photo.jpg",
+      "media_local_path": "media/IranintlTV_366199_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366199_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.734945+00:00"
+      "archived_at": "2026-11-09T23:50:33.698174+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76759_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76759_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.047549+00:00"
+      "archived_at": "2026-11-09T23:50:33.943118+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:35.367360+00:00"
+      "archived_at": "2026-11-09T23:50:34.182801+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15726,
-      "message_link": "https://t.me/zedTV/15726",
-      "text": "تایمز اسرائیل: بررسی طرح اشغال سواحل بحرین و امارات توسط نیروهای مسلح؛\nاحتمال وقوع جنگ سوم با ایالات متحده و اسرائیل؛\nگزارش‌ها از برنامه‌ریزی برای گسترش درگیری‌ها به حاشیه خلیج فارس.",
+      "message_id": 15727,
+      "message_link": "https://t.me/zedTV/15727",
+      "text": "ترامپ: پیروزی در جنگ با جمهوری اسلامی؛ رژیم توان پرداخت حقوق نظامیان را ندارد.\nامکان انهدام زیرساخت‌ها وجود دارد اما اولویت عدم فشار بر مردم است.\nدستیابی رژیم ایران به سلاح هسته‌ای هرگز محقق نخواهد شد.",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:14:15",
-      "gregorian_utc": "2026-11-09T14:44:15+00:00",
+      "tehran_time": "18:14:29",
+      "gregorian_utc": "2026-11-09T14:44:29+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T23:40:34.427373+00:00"
+      "archived_at": "2026-11-09T23:50:33.452274+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366197,
-      "message_link": "https://t.me/IranintlTV/366197",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در شرایطی که منطقه میان احتمال توافق یا جنگ بین آمریکا و جمهوری اسلامی قرار گرفته، انور قرقاش، مشاور دیپلماتیک رییس امارات، هشدار داده که راه‌حلی برای منازعات منطقه در دسترس نیست و خاورمیانه احتمالا به سمت دوره‌ای از بی‌ثباتی و ناآرامی پیش می‌رود؛ وضعیتی که امارات هم خود را برای آن بدترین سناریو آماده می‌کند.»\n@iranintltv",
+      "message_id": 366198,
+      "message_link": "https://t.me/IranintlTV/366198",
+      "text": "ترامپ در تروث‌سوشال با اشاره به تماس «بسیار عالی» خود با نخست‌وزیر قطر درباره جمهوری اسلامی گفت قطر، عربستان سعودی، امارات متحده عربی، بحرین، کویت و دیگر کشورها ترجیح می‌دهند «وضعیت موجود» در ارتباط با ایران حفظ شود.\nترامپ افزود: «به عبارت دیگر، بزرگ‌ترین محاصره دریایی تاریخ ادامه یابد و عملیات جدید دروازه آهنین نیز اجرا شود. بنابراین، عملیات هم در خشکی و هم در دریا ادامه خواهد داشت.»\n\nhttps://iranintl.com/202611092236",
       "shamsi_date": "1405/08/19",
-      "tehran_time": "01:35:53",
-      "gregorian_utc": "2026-11-09T22:05:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 445830,
-      "media_size_human": "435.38 KB",
+      "tehran_time": "01:36:17",
+      "gregorian_utc": "2026-11-09T22:06:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 179426,
+      "media_size_human": "175.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366197_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366197_video.mp4",
+      "media_local_path": "media/IranintlTV_366198_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366198_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:34.735019+00:00"
+      "archived_at": "2026-11-09T23:50:33.698247+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-11-09T23:40:35.047580+00:00"
+      "archived_at": "2026-11-09T23:50:33.943140+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_123096_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123096_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T23:40:35.367419+00:00"
+      "archived_at": "2026-11-09T23:50:34.182848+00:00"
     }
   ]
 }
