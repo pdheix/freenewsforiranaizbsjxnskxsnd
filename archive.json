@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T15:26:25.665135+00:00",
-  "shamsi_generated": "1405/08/18 15:26:25 تهران",
+  "generated_at": "2026-11-09T15:35:58.016453+00:00",
+  "shamsi_generated": "1405/08/18 15:35:58 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419554+00:00"
+      "archived_at": "2026-11-09T15:31:13.574236+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366140,
-      "message_link": "https://t.me/IranintlTV/366140",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، در شبکه ایکس اعلام کرد که با وزیر خارجه آلمان دیدار کرده و درباره تامین آزادی کشتیرانی، تقویت همکاری‌های دفاعی و گسترش روابط تجاری میان دو کشور گفت‌وگو کرده است.\n\nروبیو در این پیام نوشت: «ما با وزیر خارجه آلمان درباره تامین آزادی کشتیرانی، تقویت همکاری‌های دفاعی و تعمیق روابط تجاری گفت‌وگو کردیم.»\n\nوزیر خارجه آمریکا همچنین بر اهمیت روابط واشینگتن و برلین تاکید کرد و افزود: «مشارکت ما با آلمان برای صلح و امنیت فراآتلانتیک اهمیت دارد.»\nhttps://iranintl.com/202611090038",
+      "message_id": 366145,
+      "message_link": "https://t.me/IranintlTV/366145",
+      "text": "در حالی که مارکو روبیو طرح ارائه شده تهران برای توافق را بی‌معنی خواند، سومین ناو هواپیمابر آمریکا در تا شش روز دیگر به نزدیکی اب‌های ایران می‌رسد. همزمان یک روزنامه عراقی از قول نخست وزیر این کشور فاش کرد آمریکا طرحی برای حمله زمینی به جنوب ایران دارد.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:50:40",
-      "gregorian_utc": "2026-11-09T15:20:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 131923,
-      "media_size_human": "128.83 KB",
+      "tehran_time": "18:58:02",
+      "gregorian_utc": "2026-11-09T15:28:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7837491,
+      "media_size_human": "7.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366140_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366140_photo.jpg",
+      "media_local_path": "media/IranintlTV_366145_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366145_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734689+00:00"
+      "archived_at": "2026-11-09T15:31:13.885007+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.052383+00:00"
+      "archived_at": "2026-11-09T15:31:14.232987+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.385764+00:00"
+      "archived_at": "2026-11-09T15:31:14.606721+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419585+00:00"
+      "archived_at": "2026-11-09T15:31:13.574268+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366139,
-      "message_link": "https://t.me/IranintlTV/366139",
-      "text": "خبرگزاری رویترز دوشنبه ۱۸ آبان به نقل از یک منبع ارشد ایرانی گزارش داد که حملات شامگاه یک‌شنبه ۱۷ آبان آمریکا به جزیره قشم، سامانه‌های راداری مورد استفاده در پدافند هوایی و ناوبری دریایی، پایگاه‌های پرتاب موشک و سامانه‌های مین‌گذاری دریایی را هدف قرار داده است.\nبر اساس آمار نهادهای بین‌المللی دریانوردی که هفته گذشته منتشر شد، حملات به نفتکش‌ها در خلیج فارس و تنگه هرمز در ماه اکتبر به‌شدت افزایش یافته و از آن زمان با بالاترین نرخ از آغاز جنگ ادامه داشته است.\nhttps://iranintl.com/202611091428",
+      "message_id": 366144,
+      "message_link": "https://t.me/IranintlTV/366144",
+      "text": "کوثر افتخاری، از آسیب‌دیدگان چشمی اعتراضات سراسری، در حاشیه نشست بین‌المللی «زنان، آزادی و امنیت» در گفت‌وگو با علی حسن‌پور، خبرنگار ایران‌اینترنشنال، گفت: «فریاد کسانی که سند زنده جنایت جمهوری اسلامی هستند، باید شنیده شود. به چشمان ما شلیک کردند تا صدایمان را بگیرد، اما ما نمی‌گذاریم این اتفاق بیفتد. ما قربانی نیستیم و مبارزه را ادامه می‌دهیم.»\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:43:15",
-      "gregorian_utc": "2026-11-09T15:13:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 193945,
-      "media_size_human": "189.40 KB",
+      "tehran_time": "18:56:52",
+      "gregorian_utc": "2026-11-09T15:26:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3979738,
+      "media_size_human": "3.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366139_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366139_photo.jpg",
+      "media_local_path": "media/IranintlTV_366144_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366144_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734752+00:00"
+      "archived_at": "2026-11-09T15:31:13.885065+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76775_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76775_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052442+00:00"
+      "archived_at": "2026-11-09T15:31:14.233053+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123096_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123096_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.385836+00:00"
+      "archived_at": "2026-11-09T15:31:14.606795+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419616+00:00"
+      "archived_at": "2026-11-09T15:31:13.574289+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366138,
-      "message_link": "https://t.me/IranintlTV/366138",
-      "text": "هم‌زمان با دهمین ماه از سرکوب اعتراضات دی‌ماه، اطلاعات رسیده به ایران‌اینترنشنال حاکی است محمد پارسا امینی، نوجوان ۱۷ ساله‌ای که دی‌ماه ۱۴۰۴ هنگام کمک به یک معترض مجروح کشته شد، پیش‌تر در جریان اعتراضات «زن، زندگی، آزادی» به دلیل «عمامه‌پرانی» شکنجه شده بود.\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال",
+      "message_id": 366143,
+      "message_link": "https://t.me/IranintlTV/366143",
+      "text": "خبرگزاری رسمی عراق، یاسر عبدالزهرا الحجاج، سفیر عراق در ایران، تایید کرد که سفر محرمانه علی فالح الزیدی، نخست‌وزیر عراق، به تهران در روز جمعه ۱۵ آبان، «با هدف کاهش تنش‌ها و جلوگیری از تشدید جنگ در منطقه» انجام شده است.\nخبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران، به نقل از منابع آگاه گزارش داد که علی الزیدی، نخست‌وزیر عراق، پس از گفت‌وگو با دونالد ترامپ و تام باراک، جمعه ۱۵ آبان در تهران با مسعود پزشکیان، رییس دولت جمهوری اسلامی و محمدباقر قالیباف، رییس مجلس دیدار کرد.\nتسنیم همچنین نوشت: «این منابع می‌گویند که فالح فیاض، رییس حشد شعبی عراق و هادی العامری، فرمانده سازمان بدر، در این سفر علی الزیدی، نخست‌وزیر عراق، را همراهی می‌کردند.»\nhttps://iranintl.com/202611093741",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:30:54",
-      "gregorian_utc": "2026-11-09T15:00:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 17552792,
-      "media_size_human": "16.74 MB",
+      "tehran_time": "18:56:16",
+      "gregorian_utc": "2026-11-09T15:26:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 129382,
+      "media_size_human": "126.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366138_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366138_video.mp4",
+      "media_local_path": "media/IranintlTV_366143_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366143_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734788+00:00"
+      "archived_at": "2026-11-09T15:31:13.885175+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76774_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76774_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052465+00:00"
+      "archived_at": "2026-11-09T15:31:14.233077+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.385890+00:00"
+      "archived_at": "2026-11-09T15:31:14.606851+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419636+00:00"
+      "archived_at": "2026-11-09T15:31:13.574309+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366137,
-      "message_link": "https://t.me/IranintlTV/366137",
-      "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n\n@iranintltv",
+      "message_id": 366142,
+      "message_link": "https://t.me/IranintlTV/366142",
+      "text": "",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:19:29",
-      "gregorian_utc": "2026-11-09T14:49:29+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 285712,
-      "media_size_human": "279.02 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366137_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366137_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734831+00:00"
+      "tehran_time": "18:51:07",
+      "gregorian_utc": "2026-11-09T15:21:07+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-09T15:31:13.885194+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.052574+00:00"
+      "archived_at": "2026-11-09T15:31:14.281478+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.385921+00:00"
+      "archived_at": "2026-11-09T15:31:14.606885+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419654+00:00"
+      "archived_at": "2026-11-09T15:31:13.574325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366136,
-      "message_link": "https://t.me/IranintlTV/366136",
-      "text": "ده ماه پس از دی‌ماه خونین ۱۴۰۴، گروهی از خانواده‌های جاویدنامان انقلاب ملی ایرانیان بر مزار عزیزانشان گرد هم آمدند و یاد آن‌ها را گرامی داشتند.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 366141,
+      "message_link": "https://t.me/IranintlTV/366141",
+      "text": "بیش از نصف شرکت‌کنندگان نظرسنجی ما می‌گویند گران شدن بنزین تغییری در مصرف بنزین خانوار آنها نداشته. \nشما چی فکر می‌کنید؟\n\nتجربه‌تان را در چند سوال کوتاه با ما در میان بگذارید.\n\n[شروع نظرسنجی](https://t.me/Charsou_bot?start=qsx7YDAf)",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:13:55",
-      "gregorian_utc": "2026-11-09T14:43:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1469436,
-      "media_size_human": "1.40 MB",
+      "tehran_time": "18:51:01",
+      "gregorian_utc": "2026-11-09T15:21:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 32288,
+      "media_size_human": "31.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366136_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366136_video.mp4",
+      "media_local_path": "media/IranintlTV_366141_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366141_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734871+00:00"
+      "archived_at": "2026-11-09T15:31:13.885239+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.052638+00:00"
+      "archived_at": "2026-11-09T15:31:14.281630+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.385953+00:00"
+      "archived_at": "2026-11-09T15:31:14.606916+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419674+00:00"
+      "archived_at": "2026-11-09T15:31:13.574347+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366135,
-      "message_link": "https://t.me/IranintlTV/366135",
-      "text": "فؤاد حسین، وزیر خارجه عراق، در گفت‌وگو با شبکه الجزیره که یکشنبه ۱۷ آبان پخش شد، گفت: «خسارت‌های عراق در پی جنگ ایران و اختلال در صادرات نفت به ۶۰ میلیارد دلار رسیده است.» او همچنین افزود: «وزارت خزانه‌داری آمریکا از بغداد خواسته است تمام گذرگاه‌های مرزی با ایران، به‌جز دو گذرگاه، را ببندد.»\n\nاو افزود که عراق با آمریکا به تفاهمی برای عبور محموله‌های نفتی این کشور از تنگه هرمز، از طریق یک مسیر کشتیرانی در نزدیکی عمان، دست یافته است.\n@iranintltv",
+      "message_id": 366140,
+      "message_link": "https://t.me/IranintlTV/366140",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، در شبکه ایکس اعلام کرد که با وزیر خارجه آلمان دیدار کرده و درباره تامین آزادی کشتیرانی، تقویت همکاری‌های دفاعی و گسترش روابط تجاری میان دو کشور گفت‌وگو کرده است.\n\nروبیو در این پیام نوشت: «ما با وزیر خارجه آلمان درباره تامین آزادی کشتیرانی، تقویت همکاری‌های دفاعی و تعمیق روابط تجاری گفت‌وگو کردیم.»\n\nوزیر خارجه آمریکا همچنین بر اهمیت روابط واشینگتن و برلین تاکید کرد و افزود: «مشارکت ما با آلمان برای صلح و امنیت فراآتلانتیک اهمیت دارد.»\nhttps://iranintl.com/202611090038",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:07:42",
-      "gregorian_utc": "2026-11-09T14:37:42+00:00",
-      "media_type": "video",
-      "media_size_bytes": 867365,
-      "media_size_human": "847.04 KB",
+      "tehran_time": "18:50:40",
+      "gregorian_utc": "2026-11-09T15:20:40+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 131923,
+      "media_size_human": "128.83 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366135_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366135_video.mp4",
+      "media_local_path": "media/IranintlTV_366140_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366140_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734916+00:00"
+      "archived_at": "2026-11-09T15:31:13.885291+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76771_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76771_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052679+00:00"
+      "archived_at": "2026-11-09T15:31:14.281713+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_123092_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123092_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.385985+00:00"
+      "archived_at": "2026-11-09T15:31:14.606949+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419688+00:00"
+      "archived_at": "2026-11-09T15:31:13.574361+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366134,
-      "message_link": "https://t.me/IranintlTV/366134",
-      "text": "با نزدیک شدن فصل سرما، نگرانی‌ها درباره تشدید کمبود گاز و افزایش قطعی برق در ایران بیشتر شده است. مقام‌های جمهوری اسلامی از محدودیت در تامین انرژی خبر می‌دهند و از مردم می‌خواهند مصرف خود را کاهش دهند.\n\nمهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» ابعاد بحران انرژی در ایران و برنامه‌های حکومت برای مقابله با آن را بررسی می‌کند.\n@iranintltv",
+      "message_id": 366139,
+      "message_link": "https://t.me/IranintlTV/366139",
+      "text": "خبرگزاری رویترز دوشنبه ۱۸ آبان به نقل از یک منبع ارشد ایرانی گزارش داد که حملات شامگاه یک‌شنبه ۱۷ آبان آمریکا به جزیره قشم، سامانه‌های راداری مورد استفاده در پدافند هوایی و ناوبری دریایی، پایگاه‌های پرتاب موشک و سامانه‌های مین‌گذاری دریایی را هدف قرار داده است.\nبر اساس آمار نهادهای بین‌المللی دریانوردی که هفته گذشته منتشر شد، حملات به نفتکش‌ها در خلیج فارس و تنگه هرمز در ماه اکتبر به‌شدت افزایش یافته و از آن زمان با بالاترین نرخ از آغاز جنگ ادامه داشته است.\nhttps://iranintl.com/202611091428",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:07:17",
-      "gregorian_utc": "2026-11-09T14:37:17+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4592459,
-      "media_size_human": "4.38 MB",
+      "tehran_time": "18:43:15",
+      "gregorian_utc": "2026-11-09T15:13:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 193945,
+      "media_size_human": "189.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366134_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366134_video.mp4",
+      "media_local_path": "media/IranintlTV_366139_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366139_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734958+00:00"
+      "archived_at": "2026-11-09T15:31:13.885338+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76768_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052750+00:00"
+      "archived_at": "2026-11-09T15:31:14.281799+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_123091_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123091_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.386011+00:00"
+      "archived_at": "2026-11-09T15:31:14.606974+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419716+00:00"
+      "archived_at": "2026-11-09T15:31:13.574389+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366133,
-      "message_link": "https://t.me/IranintlTV/366133",
-      "text": "ثریا طالبی، مادر امیرحسین موسوی، فعال مجازی محکوم به اعدام، گفت فرزندش پس از بازداشت، ۱۷۶ روز در سلول انفرادی بند ۲۰۹ اوین نگهداری شده و برای اعتراف اجباری تحت فشار قرار گرفته است.\n\nجزییات بیشتر در گفت‌وگو با رضا حاجی‌حسینی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 366138,
+      "message_link": "https://t.me/IranintlTV/366138",
+      "text": "هم‌زمان با دهمین ماه از سرکوب اعتراضات دی‌ماه، اطلاعات رسیده به ایران‌اینترنشنال حاکی است محمد پارسا امینی، نوجوان ۱۷ ساله‌ای که دی‌ماه ۱۴۰۴ هنگام کمک به یک معترض مجروح کشته شد، پیش‌تر در جریان اعتراضات «زن، زندگی، آزادی» به دلیل «عمامه‌پرانی» شکنجه شده بود.\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "18:05:13",
-      "gregorian_utc": "2026-11-09T14:35:13+00:00",
+      "tehran_time": "18:30:54",
+      "gregorian_utc": "2026-11-09T15:00:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 3351685,
-      "media_size_human": "3.20 MB",
+      "media_size_bytes": 17552792,
+      "media_size_human": "16.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366133_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366133_video.mp4",
+      "media_local_path": "media/IranintlTV_366138_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366138_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.734991+00:00"
+      "archived_at": "2026-11-09T15:31:13.885361+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.052837+00:00"
+      "archived_at": "2026-11-09T15:31:14.281893+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_123090_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123090_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.386047+00:00"
+      "archived_at": "2026-11-09T15:31:14.607012+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419731+00:00"
+      "archived_at": "2026-11-09T15:31:13.574405+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366132,
-      "message_link": "https://t.me/IranintlTV/366132",
-      "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه اعلام کرد که علی فالح الزیدی، نخست‌وزیر عراق، جمعه ۱۵ آبان در سفری چندساعته به تهران، با محمدباقر قالیباف، رییس مجلس، دیدار کرد.\nبر اساس این گزارش، نخست‌وزیر عراق و هیات همراه او، با قالیباف درباره «تلاش‌های بغداد برای پایان دادن به جنگ ایران» گفت‌وگو کردند.\nفارس به نقل از این منبع آگاه گزارش داد که محمدباقر قالیباف، «بر ضرورت احترام آمریکا به حقوق ایران در چارچوب این طرح برای پیشبرد مذاکرات» تاکید کرد.\nhttps://iranintl.com/202611095304",
+      "message_id": 366137,
+      "message_link": "https://t.me/IranintlTV/366137",
+      "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:53:10",
-      "gregorian_utc": "2026-11-09T14:23:10+00:00",
+      "tehran_time": "18:19:29",
+      "gregorian_utc": "2026-11-09T14:49:29+00:00",
       "media_type": "photo",
-      "media_size_bytes": 175504,
-      "media_size_human": "171.39 KB",
+      "media_size_bytes": 285712,
+      "media_size_human": "279.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366132_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366132_photo.jpg",
+      "media_local_path": "media/IranintlTV_366137_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366137_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.735044+00:00"
+      "archived_at": "2026-11-09T15:31:13.885398+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76765_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052857+00:00"
+      "archived_at": "2026-11-09T15:31:14.281918+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.386071+00:00"
+      "archived_at": "2026-11-09T15:31:14.607038+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419745+00:00"
+      "archived_at": "2026-11-09T15:31:13.574420+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366131,
-      "message_link": "https://t.me/IranintlTV/366131",
-      "text": "دفتر ارتباطات شاهزاده رضا پهلوی با انتشار پیامی در شبکه اجتماعی ایکس اعلام کرد متین شعبانی، جوان ایرانی بازداشت‌شده در جریان خیزش دی‌ماه، از سوی دادگاه جمهوری اسلامی به اعدام محکوم شده و در زندان وکیل‌آباد مشهد با خطر قریب‌الوقوع اجرای این حکم روبه‌رو است.\nدر این پیام آمده است که دادگاه جمهوری اسلامی متین شعبانی را بر اساس اتهام‌های ساختگی به اعدام محکوم کرده است.\nدفتر ارتباطات شاهزاده رضا پهلوی با هشدار درباره خطر اجرای حکم اعدام این زندانی، از مخاطبان خواست صدای او باشند و اجازه ندهند جمهوری اسلامی جان یک فرد بی‌گناه دیگر را در سکوت بگیرد.\nhttps://iranintl.com/202611093229",
+      "message_id": 366136,
+      "message_link": "https://t.me/IranintlTV/366136",
+      "text": "ده ماه پس از دی‌ماه خونین ۱۴۰۴، گروهی از خانواده‌های جاویدنامان انقلاب ملی ایرانیان بر مزار عزیزانشان گرد هم آمدند و یاد آن‌ها را گرامی داشتند.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:44:28",
-      "gregorian_utc": "2026-11-09T14:14:28+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 127702,
-      "media_size_human": "124.71 KB",
+      "tehran_time": "18:13:55",
+      "gregorian_utc": "2026-11-09T14:43:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1469436,
+      "media_size_human": "1.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366131_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366131_photo.jpg",
+      "media_local_path": "media/IranintlTV_366136_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366136_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.735095+00:00"
+      "archived_at": "2026-11-09T15:31:13.885431+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76764_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052874+00:00"
+      "archived_at": "2026-11-09T15:31:14.281938+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.386122+00:00"
+      "archived_at": "2026-11-09T15:31:14.607104+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419758+00:00"
+      "archived_at": "2026-11-09T15:31:13.574433+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366130,
-      "message_link": "https://t.me/IranintlTV/366130",
-      "text": "🔻مهدی فرج‌پور، بازیکن کاراگستر، پس از به ثمر رساندن گل پیروزی تیمش مقابل نفت و گاز گچساران، شادی خود را با مادرش تقسیم کرد. او پس از پایان مسابقه به سمت خانواده‌اش رفت و با در آغوش گرفتن مادرش، لحظه‌ای احساسی را رقم زد.\n\n@iranintltvsport",
+      "message_id": 366135,
+      "message_link": "https://t.me/IranintlTV/366135",
+      "text": "فؤاد حسین، وزیر خارجه عراق، در گفت‌وگو با شبکه الجزیره که یکشنبه ۱۷ آبان پخش شد، گفت: «خسارت‌های عراق در پی جنگ ایران و اختلال در صادرات نفت به ۶۰ میلیارد دلار رسیده است.» او همچنین افزود: «وزارت خزانه‌داری آمریکا از بغداد خواسته است تمام گذرگاه‌های مرزی با ایران، به‌جز دو گذرگاه، را ببندد.»\n\nاو افزود که عراق با آمریکا به تفاهمی برای عبور محموله‌های نفتی این کشور از تنگه هرمز، از طریق یک مسیر کشتیرانی در نزدیکی عمان، دست یافته است.\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:39:52",
-      "gregorian_utc": "2026-11-09T14:09:52+00:00",
+      "tehran_time": "18:07:42",
+      "gregorian_utc": "2026-11-09T14:37:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 55893955,
-      "media_size_human": "53.30 MB",
+      "media_size_bytes": 867365,
+      "media_size_human": "847.04 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366130_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366130_video.mp4",
+      "media_local_path": "media/IranintlTV_366135_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366135_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.751502+00:00"
+      "archived_at": "2026-11-09T15:31:13.885473+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76763_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052892+00:00"
+      "archived_at": "2026-11-09T15:31:14.281958+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "دانلود رسانه با خطا مواجه شد. (Request was unsuccessful 6 time(s))",
-      "archived_at": "2026-11-09T15:20:43.386139+00:00"
+      "archived_at": "2026-11-09T15:31:14.607127+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:42.419771+00:00"
+      "archived_at": "2026-11-09T15:31:13.574446+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366129,
-      "message_link": "https://t.me/IranintlTV/366129",
-      "text": "نشست بین‌المللی «زنان، آزادی و امنیت» با حضور فعالان حقوق بشر، چهره‌های سیاسی و مخالفان حکومت‌های اقتدارگرا در پارلمان فدرال آلمان در برلین برگزار شد.\n\nگزارش علی حسن‌پور، خبرنگار ایران‌اینترنشنال و گفت‌وگوی او با مسیح علینژاد، فعال زنان\n@iranintltv",
+      "message_id": 366134,
+      "message_link": "https://t.me/IranintlTV/366134",
+      "text": "با نزدیک شدن فصل سرما، نگرانی‌ها درباره تشدید کمبود گاز و افزایش قطعی برق در ایران بیشتر شده است. مقام‌های جمهوری اسلامی از محدودیت در تامین انرژی خبر می‌دهند و از مردم می‌خواهند مصرف خود را کاهش دهند.\n\nمهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» ابعاد بحران انرژی در ایران و برنامه‌های حکومت برای مقابله با آن را بررسی می‌کند.\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:36:43",
-      "gregorian_utc": "2026-11-09T14:06:43+00:00",
+      "tehran_time": "18:07:17",
+      "gregorian_utc": "2026-11-09T14:37:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 4981004,
-      "media_size_human": "4.75 MB",
+      "media_size_bytes": 4592459,
+      "media_size_human": "4.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366129_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366129_video.mp4",
+      "media_local_path": "media/IranintlTV_366134_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366134_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.751660+00:00"
+      "archived_at": "2026-11-09T15:31:13.885511+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76762_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.052909+00:00"
+      "archived_at": "2026-11-09T15:31:14.281978+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_123086_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123086_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.386176+00:00"
+      "archived_at": "2026-11-09T15:31:14.607165+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": "media/zedTV_15717_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15717_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.419826+00:00"
+      "archived_at": "2026-11-09T15:31:13.574503+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366128,
-      "message_link": "https://t.me/IranintlTV/366128",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، در واکنش به نشست وزیران خارجه گروه هفت در پاریس گفت پایان دادن به جنگ اوکراین برای اروپا، نسبت به جنگ جمهوری اسلامی و آمریکا، اولویت دارد.\n@iranintltv",
+      "message_id": 366133,
+      "message_link": "https://t.me/IranintlTV/366133",
+      "text": "ثریا طالبی، مادر امیرحسین موسوی، فعال مجازی محکوم به اعدام، گفت فرزندش پس از بازداشت، ۱۷۶ روز در سلول انفرادی بند ۲۰۹ اوین نگهداری شده و برای اعتراف اجباری تحت فشار قرار گرفته است.\n\nجزییات بیشتر در گفت‌وگو با رضا حاجی‌حسینی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:36:25",
-      "gregorian_utc": "2026-11-09T14:06:25+00:00",
+      "tehran_time": "18:05:13",
+      "gregorian_utc": "2026-11-09T14:35:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 3286769,
-      "media_size_human": "3.13 MB",
+      "media_size_bytes": 3351685,
+      "media_size_human": "3.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366128_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366128_video.mp4",
+      "media_local_path": "media/IranintlTV_366133_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366133_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.751706+00:00"
+      "archived_at": "2026-11-09T15:31:13.885542+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76761_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76761_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.053002+00:00"
+      "archived_at": "2026-11-09T15:31:14.282084+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_123085_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123085_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.386229+00:00"
+      "archived_at": "2026-11-09T15:31:14.607223+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": "media/zedTV_15716_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15716_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.419849+00:00"
+      "archived_at": "2026-11-09T15:31:13.574526+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366127,
-      "message_link": "https://t.me/IranintlTV/366127",
-      "text": "گوئو جیاکون، سخنگوی وزارت خارجه چین، دوشنبه ۱۸ آبان اعلام کرد که پکن درباره دیدار احتمالی روسای جمهوری چین، آمریکا و روسیه برای گفت‌وگو درباره پایان جنگ ایران، با این دو کشور در تماس است.\nاو در نشست خبری خود، در پاسخ به پرسش خبرگزاری فرانسه درباره اظهارات دونالد ترامپ، رییس‌جمهوری آمریکا، مبنی بر احتمال دیدار با رهبران چین و روسیه در هفته آینده برای گفت‌وگو درباره پایان جنگ ایران و موضوعاتی مانند «خلع سلاح هسته‌ای»، گفت: «چین درباره دیدار سه رییس‌جمهوری با طرف‌های مربوطه در ارتباط است.»\nگوئو جیاکون همچنین گفت که طولانی شدن درگیری میان تهران و واشینگتن، به نفع طرف‌های درگیر و جامعه بین‌المللی نیست.\nاو افزود: «طرف‌ها باید به صلح پایبند باشند، اختلافات را از طریق گفت‌وگو و مذاکره حل کنند و هرچه زودتر صلح و آرامش را به خاورمیانه و منطقه خلیج فارس بازگردانند.» \nhttps://iranintl.com/202611099059",
+      "message_id": 366132,
+      "message_link": "https://t.me/IranintlTV/366132",
+      "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، به نقل از یک منبع آگاه اعلام کرد که علی فالح الزیدی، نخست‌وزیر عراق، جمعه ۱۵ آبان در سفری چندساعته به تهران، با محمدباقر قالیباف، رییس مجلس، دیدار کرد.\nبر اساس این گزارش، نخست‌وزیر عراق و هیات همراه او، با قالیباف درباره «تلاش‌های بغداد برای پایان دادن به جنگ ایران» گفت‌وگو کردند.\nفارس به نقل از این منبع آگاه گزارش داد که محمدباقر قالیباف، «بر ضرورت احترام آمریکا به حقوق ایران در چارچوب این طرح برای پیشبرد مذاکرات» تاکید کرد.\nhttps://iranintl.com/202611095304",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:34:42",
-      "gregorian_utc": "2026-11-09T14:04:42+00:00",
+      "tehran_time": "17:53:10",
+      "gregorian_utc": "2026-11-09T14:23:10+00:00",
       "media_type": "photo",
-      "media_size_bytes": 137095,
-      "media_size_human": "133.88 KB",
+      "media_size_bytes": 175504,
+      "media_size_human": "171.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366127_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366127_photo.jpg",
+      "media_local_path": "media/IranintlTV_366132_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366132_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.751789+00:00"
+      "archived_at": "2026-11-09T15:31:13.885587+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76759_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76759_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:43.053033+00:00"
+      "archived_at": "2026-11-09T15:31:14.282159+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 139.51 MB)",
-      "archived_at": "2026-11-09T15:20:43.386268+00:00"
+      "archived_at": "2026-11-09T15:31:14.607261+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": "media/zedTV_15715_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15715_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.419869+00:00"
+      "archived_at": "2026-11-09T15:31:13.574547+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366126,
-      "message_link": "https://t.me/IranintlTV/366126",
-      "text": "بر اساس ویدیوهای منتشرشده، گروهی از بازنشستگان مخابرات در تهران دوشنبه ۱۸ آبان برای پیگیری مطالبات خود راهپیمایی اعتراضی کردند.",
+      "message_id": 366131,
+      "message_link": "https://t.me/IranintlTV/366131",
+      "text": "دفتر ارتباطات شاهزاده رضا پهلوی با انتشار پیامی در شبکه اجتماعی ایکس اعلام کرد متین شعبانی، جوان ایرانی بازداشت‌شده در جریان خیزش دی‌ماه، از سوی دادگاه جمهوری اسلامی به اعدام محکوم شده و در زندان وکیل‌آباد مشهد با خطر قریب‌الوقوع اجرای این حکم روبه‌رو است.\nدر این پیام آمده است که دادگاه جمهوری اسلامی متین شعبانی را بر اساس اتهام‌های ساختگی به اعدام محکوم کرده است.\nدفتر ارتباطات شاهزاده رضا پهلوی با هشدار درباره خطر اجرای حکم اعدام این زندانی، از مخاطبان خواست صدای او باشند و اجازه ندهند جمهوری اسلامی جان یک فرد بی‌گناه دیگر را در سکوت بگیرد.\nhttps://iranintl.com/202611093229",
       "shamsi_date": "1405/08/18",
-      "tehran_time": "17:31:44",
-      "gregorian_utc": "2026-11-09T14:01:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 14940140,
-      "media_size_human": "14.25 MB",
+      "tehran_time": "17:44:28",
+      "gregorian_utc": "2026-11-09T14:14:28+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 127702,
+      "media_size_human": "124.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366126_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366126_video.mp4",
+      "media_local_path": "media/IranintlTV_366131_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366131_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-09T15:20:42.751810+00:00"
+      "archived_at": "2026-11-09T15:31:13.885636+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-11-09T15:20:43.053046+00:00"
+      "archived_at": "2026-11-09T15:31:14.282177+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-09T15:20:43.386283+00:00"
+      "archived_at": "2026-11-09T15:31:14.607276+00:00"
     }
   ]
 }
