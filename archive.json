@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T14:55:31.891913+00:00",
-  "shamsi_generated": "1405/08/20 14:55:31 تهران",
+  "generated_at": "2026-11-11T15:04:39.086639+00:00",
+  "shamsi_generated": "1405/08/20 15:04:39 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,7 +37,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895507+00:00"
+      "archived_at": "2026-11-11T15:00:57.016768+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -55,7 +55,7 @@
       "media_local_path": "media/IranintlTV_366474_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366474_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.249753+00:00"
+      "archived_at": "2026-11-11T15:00:57.294102+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,25 +73,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.619880+00:00"
+      "archived_at": "2026-11-11T15:00:57.574962+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123165,
-      "message_link": "https://t.me/Mellig/123165",
-      "text": "🔴 #خبر_فوری\nاولین تهدید مستقیم ایران به هدف قرار دادن اروپا،\nمحسن رضایی، دبیر شورای عالی امنیت ملی:\nاگر آمریکایی‌ها با حمله به کوه‌کلنگ مرتکب اشتباه شوند،\nتنها به هدف‌قراردادن پایگاه‌های نزدیک اکتفا نخواهیم کرد؛\nبلکه همۀ پایگاه‌های آمریکا در اروپا را نیز هدف حمله قرار می‌دهیم.",
+      "message_id": 123166,
+      "message_link": "https://t.me/Mellig/123166",
+      "text": "فقر، سرکوب و بی عدالتی میراث حکومت شیعیان بر ایران\n\nMellig.net",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "18:03:18",
-      "gregorian_utc": "2026-11-11T14:33:18+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:40.006002+00:00"
+      "tehran_time": "18:27:41",
+      "gregorian_utc": "2026-11-11T14:57:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 991100,
+      "media_size_human": "967.87 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_123166_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123166_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-11T15:00:57.851886+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,7 +109,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895545+00:00"
+      "archived_at": "2026-11-11T15:00:57.016822+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -127,7 +127,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.249785+00:00"
+      "archived_at": "2026-11-11T15:00:57.294149+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,25 +145,25 @@
       "media_local_path": "media/satlastnews_76777_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76777_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.619951+00:00"
+      "archived_at": "2026-11-11T15:00:57.575061+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123164,
-      "message_link": "https://t.me/Mellig/123164",
-      "text": "فائزه مرادنسب، بلاگر حکومتی، با انتشار ویدیویی با شعار چادر محدودیت نیست، در دریا شیرجه زد و به غواصی پرداخت.\n\nMellig.net",
+      "message_id": 123165,
+      "message_link": "https://t.me/Mellig/123165",
+      "text": "🔴 #خبر_فوری\nاولین تهدید مستقیم ایران به هدف قرار دادن اروپا،\nمحسن رضایی، دبیر شورای عالی امنیت ملی:\nاگر آمریکایی‌ها با حمله به کوه‌کلنگ مرتکب اشتباه شوند،\nتنها به هدف‌قراردادن پایگاه‌های نزدیک اکتفا نخواهیم کرد؛\nبلکه همۀ پایگاه‌های آمریکا در اروپا را نیز هدف حمله قرار می‌دهیم.",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "17:03:19",
-      "gregorian_utc": "2026-11-11T13:33:19+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2067359,
-      "media_size_human": "1.97 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_123164_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123164_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006072+00:00"
+      "tehran_time": "18:03:18",
+      "gregorian_utc": "2026-11-11T14:33:18+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-11T15:00:57.851983+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,7 +181,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895571+00:00"
+      "archived_at": "2026-11-11T15:00:57.016860+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -199,7 +199,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-11T14:50:39.249831+00:00"
+      "archived_at": "2026-11-11T15:00:57.294216+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,25 +217,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.620012+00:00"
+      "archived_at": "2026-11-11T15:00:57.575154+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123163,
-      "message_link": "https://t.me/Mellig/123163",
-      "text": "🔴 #خبر_فوری\nمحسن رضایی، دبیر شورای عالی امنیت ملی:\nبه روسیه اطلاع دادیم که برای طراحی کشتی‌ها و زیردریایی‌های هسته‌ای به مواد غنی‌شده اورانیوم نیاز داریم و مواد غنی شده تحت هیچ شرایطی از ایران خارج نخواهد شد.",
+      "message_id": 123164,
+      "message_link": "https://t.me/Mellig/123164",
+      "text": "فائزه مرادنسب، بلاگر حکومتی، با انتشار ویدیویی با شعار چادر محدودیت نیست، در دریا شیرجه زد و به غواصی پرداخت.\n\nMellig.net",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "14:38:17",
-      "gregorian_utc": "2026-11-11T11:08:17+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:40.006117+00:00"
+      "tehran_time": "17:03:19",
+      "gregorian_utc": "2026-11-11T13:33:19+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2067359,
+      "media_size_human": "1.97 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_123164_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123164_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-11T15:00:57.852049+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,7 +253,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895596+00:00"
+      "archived_at": "2026-11-11T15:00:57.016899+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -271,7 +271,7 @@
       "media_local_path": "media/IranintlTV_366471_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366471_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.249869+00:00"
+      "archived_at": "2026-11-11T15:00:57.294274+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,25 +289,25 @@
       "media_local_path": "media/satlastnews_76775_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76775_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620056+00:00"
+      "archived_at": "2026-11-11T15:00:57.575221+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123162,
-      "message_link": "https://t.me/Mellig/123162",
-      "text": "این هم وطن کامنت حقی نوشته قبول دارید؟\n\nMellig.net",
+      "message_id": 123163,
+      "message_link": "https://t.me/Mellig/123163",
+      "text": "🔴 #خبر_فوری\nمحسن رضایی، دبیر شورای عالی امنیت ملی:\nبه روسیه اطلاع دادیم که برای طراحی کشتی‌ها و زیردریایی‌های هسته‌ای به مواد غنی‌شده اورانیوم نیاز داریم و مواد غنی شده تحت هیچ شرایطی از ایران خارج نخواهد شد.",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "14:22:08",
-      "gregorian_utc": "2026-11-11T10:52:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 62083,
-      "media_size_human": "60.63 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_123162_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123162_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006154+00:00"
+      "tehran_time": "14:38:17",
+      "gregorian_utc": "2026-11-11T11:08:17+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-11T15:00:57.852114+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,7 +325,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895615+00:00"
+      "archived_at": "2026-11-11T15:00:57.016930+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -343,7 +343,7 @@
       "media_local_path": "media/IranintlTV_366470_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366470_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.249919+00:00"
+      "archived_at": "2026-11-11T15:00:57.294352+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,25 +361,25 @@
       "media_local_path": "media/satlastnews_76774_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76774_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620081+00:00"
+      "archived_at": "2026-11-11T15:00:57.575265+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123161,
-      "message_link": "https://t.me/Mellig/123161",
-      "text": "صدای امیر حسین موسوی باشیم🇮🇷👌",
+      "message_id": 123162,
+      "message_link": "https://t.me/Mellig/123162",
+      "text": "این هم وطن کامنت حقی نوشته قبول دارید؟\n\nMellig.net",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "11:57:02",
-      "gregorian_utc": "2026-11-11T08:27:02+00:00",
+      "tehran_time": "14:22:08",
+      "gregorian_utc": "2026-11-11T10:52:08+00:00",
       "media_type": "photo",
-      "media_size_bytes": 134910,
-      "media_size_human": "131.75 KB",
+      "media_size_bytes": 62083,
+      "media_size_human": "60.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_123161_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123161_photo.jpg",
+      "media_local_path": "media/Mellig_123162_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123162_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006192+00:00"
+      "archived_at": "2026-11-11T15:00:57.852174+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,7 +397,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895639+00:00"
+      "archived_at": "2026-11-11T15:00:57.016972+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -415,7 +415,7 @@
       "media_local_path": "media/IranintlTV_366469_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366469_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.249971+00:00"
+      "archived_at": "2026-11-11T15:00:57.294438+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,25 +433,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.620226+00:00"
+      "archived_at": "2026-11-11T15:00:57.575473+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123160,
-      "message_link": "https://t.me/Mellig/123160",
-      "text": "نیویورک تایمز:\nوزیر خزانه‌داری ایالات متحده به دلیل توطئه‌های ایران علیه جان او،\nمحل سکونت خود را ترک کرده و به یک پایگاه نظامی ویژه منتقل شده است.",
+      "message_id": 123161,
+      "message_link": "https://t.me/Mellig/123161",
+      "text": "صدای امیر حسین موسوی باشیم🇮🇷👌",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "11:39:57",
-      "gregorian_utc": "2026-11-11T08:09:57+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:40.006210+00:00"
+      "tehran_time": "11:57:02",
+      "gregorian_utc": "2026-11-11T08:27:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 134910,
+      "media_size_human": "131.75 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_123161_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123161_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-11T15:00:57.852237+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,7 +469,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895658+00:00"
+      "archived_at": "2026-11-11T15:00:57.017003+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -487,7 +487,7 @@
       "media_local_path": "media/IranintlTV_366468_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366468_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275002+00:00"
+      "archived_at": "2026-11-11T15:00:57.304121+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,25 +505,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.620318+00:00"
+      "archived_at": "2026-11-11T15:00:57.575587+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123159,
-      "message_link": "https://t.me/Mellig/123159",
-      "text": "[حملات سپاه به کشتی های نفتی در سواحل امارات، آخرین اخبار جنگ چند لایه ۱۹ آبان ۲۵۸۵](https://www.youtube.com/live/AlEAfJ4STYI)\n\nMellig.net",
+      "message_id": 123160,
+      "message_link": "https://t.me/Mellig/123160",
+      "text": "نیویورک تایمز:\nوزیر خزانه‌داری ایالات متحده به دلیل توطئه‌های ایران علیه جان او،\nمحل سکونت خود را ترک کرده و به یک پایگاه نظامی ویژه منتقل شده است.",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "10:08:33",
-      "gregorian_utc": "2026-11-11T06:38:33+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 72427217,
-      "media_size_human": "69.07 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_123159_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123159_audio.mp3",
-      "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006254+00:00"
+      "tehran_time": "11:39:57",
+      "gregorian_utc": "2026-11-11T08:09:57+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-11T15:00:57.852270+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,7 +541,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895689+00:00"
+      "archived_at": "2026-11-11T15:00:57.017054+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -559,7 +559,7 @@
       "media_local_path": "media/IranintlTV_366467_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366467_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275165+00:00"
+      "archived_at": "2026-11-11T15:00:57.304309+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,25 +577,25 @@
       "media_local_path": "media/satlastnews_76771_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76771_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620373+00:00"
+      "archived_at": "2026-11-11T15:00:57.575671+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123158,
-      "message_link": "https://t.me/Mellig/123158",
-      "text": "اگر نمیگفتن آیزنکوت اینه فکر میکردم رئیس فدراسیون ورزش های زورخانه ای اسرائیله 😁\n\nMellig.net",
+      "message_id": 123159,
+      "message_link": "https://t.me/Mellig/123159",
+      "text": "[حملات سپاه به کشتی های نفتی در سواحل امارات، آخرین اخبار جنگ چند لایه ۱۹ آبان ۲۵۸۵](https://www.youtube.com/live/AlEAfJ4STYI)\n\nMellig.net",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "08:35:12",
-      "gregorian_utc": "2026-11-11T05:05:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5328060,
-      "media_size_human": "5.08 MB",
+      "tehran_time": "10:08:33",
+      "gregorian_utc": "2026-11-11T06:38:33+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 72427217,
+      "media_size_human": "69.07 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_123158_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123158_video.mp4",
+      "media_local_path": "media/Mellig_123159_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123159_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006301+00:00"
+      "archived_at": "2026-11-11T15:00:57.852337+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,7 +613,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895709+00:00"
+      "archived_at": "2026-11-11T15:00:57.017085+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -631,7 +631,7 @@
       "media_local_path": "media/IranintlTV_366466_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366466_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275237+00:00"
+      "archived_at": "2026-11-11T15:00:57.304395+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,25 +649,25 @@
       "media_local_path": "media/satlastnews_76768_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620468+00:00"
+      "archived_at": "2026-11-11T15:00:57.575828+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123157,
-      "message_link": "https://t.me/Mellig/123157",
-      "text": "",
+      "message_id": 123158,
+      "message_link": "https://t.me/Mellig/123158",
+      "text": "اگر نمیگفتن آیزنکوت اینه فکر میکردم رئیس فدراسیون ورزش های زورخانه ای اسرائیله 😁\n\nMellig.net",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "07:35:03",
-      "gregorian_utc": "2026-11-11T04:05:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 299834,
-      "media_size_human": "292.81 KB",
+      "tehran_time": "08:35:12",
+      "gregorian_utc": "2026-11-11T05:05:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5328060,
+      "media_size_human": "5.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_123157_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123157_photo.jpg",
+      "media_local_path": "media/Mellig_123158_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123158_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006327+00:00"
+      "archived_at": "2026-11-11T15:00:57.852398+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,7 +685,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895726+00:00"
+      "archived_at": "2026-11-11T15:00:57.017113+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -703,7 +703,7 @@
       "media_local_path": "media/IranintlTV_366465_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366465_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275287+00:00"
+      "archived_at": "2026-11-11T15:00:57.304455+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,25 +721,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.620580+00:00"
+      "archived_at": "2026-11-11T15:00:57.575997+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123156,
-      "message_link": "https://t.me/Mellig/123156",
-      "text": "نستوه، کاوهٔ دوران 🇮🇷✨\n\nنستوه، ای کاوهٔ دوران، مرد میدان و نبرد نام تو در قلب ایران، شعله‌ای از عشق و درد\n\nسرسخت و استوار، با دلی چون کوهسار شجاع و بی‌باک، در مسیر روزگار\n\nنستوه، ای قهرمان، ای امید سرزمین نامت بماند جاودان، در قلب مردم ایران‌زمین\n\nاز دل طوفان برمی‌خیزی، با غروری بی‌کران نستوه، ای نام ماندگار، امید فردای ایران ❤️",
+      "message_id": 123157,
+      "message_link": "https://t.me/Mellig/123157",
+      "text": "",
       "shamsi_date": "1405/08/20",
       "tehran_time": "07:35:03",
       "gregorian_utc": "2026-11-11T04:05:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 181154,
-      "media_size_human": "176.91 KB",
+      "media_size_bytes": 299834,
+      "media_size_human": "292.81 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_123156_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123156_photo.jpg",
+      "media_local_path": "media/Mellig_123157_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123157_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006384+00:00"
+      "archived_at": "2026-11-11T15:00:57.852441+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,7 +757,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895745+00:00"
+      "archived_at": "2026-11-11T15:00:57.017142+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -775,7 +775,7 @@
       "media_local_path": "media/IranintlTV_366464_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366464_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275345+00:00"
+      "archived_at": "2026-11-11T15:00:57.304499+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,25 +793,25 @@
       "media_local_path": "media/satlastnews_76765_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620604+00:00"
+      "archived_at": "2026-11-11T15:00:57.576039+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123155,
-      "message_link": "https://t.me/Mellig/123155",
-      "text": "⁨ نازنین شریفیان به‌عنوان نخستین نماینده فارسی‌زبان وارد کنست، پارلمان اسرائیل، می‌شود.\nاو که از حزب یاشار به رهبری گادی آیزنکوت به پارلمان راه یافته، به بابک اسحاقی، خبرنگار ایران‌اینترنشنال، گفت برخلاف گفته‌های بنیامین نتانیاهو، آیزنکوت خواهان سرنگونی جمهوری اسلامی است و هیچ جایی برای توافق با آن نمی‌بیند.⁩\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.05 MB)",
+      "message_id": 123156,
+      "message_link": "https://t.me/Mellig/123156",
+      "text": "نستوه، کاوهٔ دوران 🇮🇷✨\n\nنستوه، ای کاوهٔ دوران، مرد میدان و نبرد نام تو در قلب ایران، شعله‌ای از عشق و درد\n\nسرسخت و استوار، با دلی چون کوهسار شجاع و بی‌باک، در مسیر روزگار\n\nنستوه، ای قهرمان، ای امید سرزمین نامت بماند جاودان، در قلب مردم ایران‌زمین\n\nاز دل طوفان برمی‌خیزی، با غروری بی‌کران نستوه، ای نام ماندگار، امید فردای ایران ❤️",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "05:29:02",
-      "gregorian_utc": "2026-11-11T01:59:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 158391471,
-      "media_size_human": "151.05 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.05 MB)",
-      "archived_at": "2026-11-11T14:50:40.006409+00:00"
+      "tehran_time": "07:35:03",
+      "gregorian_utc": "2026-11-11T04:05:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 181154,
+      "media_size_human": "176.91 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_123156_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123156_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-11T15:00:57.852532+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,7 +829,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895761+00:00"
+      "archived_at": "2026-11-11T15:00:57.017170+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -847,7 +847,7 @@
       "media_local_path": "media/IranintlTV_366463_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366463_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275369+00:00"
+      "archived_at": "2026-11-11T15:00:57.304532+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,25 +865,25 @@
       "media_local_path": "media/satlastnews_76764_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620626+00:00"
+      "archived_at": "2026-11-11T15:00:57.576078+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123154,
-      "message_link": "https://t.me/Mellig/123154",
-      "text": "شست شوی مغزی شروع شده😄",
+      "message_id": 123155,
+      "message_link": "https://t.me/Mellig/123155",
+      "text": "⁨ نازنین شریفیان به‌عنوان نخستین نماینده فارسی‌زبان وارد کنست، پارلمان اسرائیل، می‌شود.\nاو که از حزب یاشار به رهبری گادی آیزنکوت به پارلمان راه یافته، به بابک اسحاقی، خبرنگار ایران‌اینترنشنال، گفت برخلاف گفته‌های بنیامین نتانیاهو، آیزنکوت خواهان سرنگونی جمهوری اسلامی است و هیچ جایی برای توافق با آن نمی‌بیند.⁩\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.05 MB)",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "03:24:02",
-      "gregorian_utc": "2026-11-10T23:54:02+00:00",
+      "tehran_time": "05:29:02",
+      "gregorian_utc": "2026-11-11T01:59:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 14209985,
-      "media_size_human": "13.55 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_123154_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123154_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006439+00:00"
+      "media_size_bytes": 158391471,
+      "media_size_human": "151.05 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.05 MB)",
+      "archived_at": "2026-11-11T15:00:57.852577+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,7 +901,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895779+00:00"
+      "archived_at": "2026-11-11T15:00:57.017198+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -919,7 +919,7 @@
       "media_local_path": "media/IranintlTV_366462_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366462_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275459+00:00"
+      "archived_at": "2026-11-11T15:00:57.304631+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,25 +937,25 @@
       "media_local_path": "media/satlastnews_76763_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620646+00:00"
+      "archived_at": "2026-11-11T15:00:57.576115+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123153,
-      "message_link": "https://t.me/Mellig/123153",
-      "text": "یادتان هست کارتون «سرندیپیتی» و جزیره ناشناخته را؟\n\nخانم لورا، فرمانروای جزیره، شخصیتی مرموز بود که هیچ‌کس اجازه نداشت چهره‌اش را ببیند. او همیشه پشت به ملاقات‌کنندگان، بر تخت سلطنتی‌اش می‌نشست و از پشت با آن‌ها صحبت می‌کرد. یک دلفین مشاورش بود و کوسه‌ها مأمور حفاظت از مرزهای دریایی جزیره بودند.\n\nامروز، با گذشت سال‌ها، آن کارتون برایم یادآور واقعیتی تلخ است؛ رهبر جمهوری اسلامی نیز گویی نسخه‌ای واقعی از خانم لوراست؛ رهبری که نه مردم او را می‌بینند و نه حتی از حضور و وضعیت واقعی‌اش اطمینان دارند. پس از بمباران بیت رهبری و کشته‌شدن پدرش و شماری از اعضای خانواده‌اش، او نیز در هاله‌ای از ابهام و پنهان‌کاری قرار گرفته است؛ شخصیتی که یک حلقه قدرت و نظامی‌ـ‌امنیتی، بدون اراده و انتخاب آزادانه مردم، بر سرنوشت یک ملت حاکم کرده است.\n\nانگار خانم لورا از دنیای کودکی ما به دنیای واقعی آمده است؛ با این تفاوت که اینجا دیگر پای یک کارتون و یک جزیره خیالی در میان نیست، بلکه سرنوشت یک ملت و یک کشور در میان است.\nبهزاد بازرگانی ، تگزاس .",
+      "message_id": 123154,
+      "message_link": "https://t.me/Mellig/123154",
+      "text": "شست شوی مغزی شروع شده😄",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "03:12:19",
-      "gregorian_utc": "2026-11-10T23:42:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 202141,
-      "media_size_human": "197.40 KB",
+      "tehran_time": "03:24:02",
+      "gregorian_utc": "2026-11-10T23:54:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 14209985,
+      "media_size_human": "13.55 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_123153_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123153_photo.jpg",
+      "media_local_path": "media/Mellig_123154_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123154_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:40.006462+00:00"
+      "archived_at": "2026-11-11T15:00:57.852627+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,7 +973,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895794+00:00"
+      "archived_at": "2026-11-11T15:00:57.017225+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -991,7 +991,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:39.275633+00:00"
+      "archived_at": "2026-11-11T15:00:57.304989+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,25 +1009,25 @@
       "media_local_path": "media/satlastnews_76762_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620666+00:00"
+      "archived_at": "2026-11-11T15:00:57.576153+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123152,
-      "message_link": "https://t.me/Mellig/123152",
-      "text": "🔴 #خبر_فوری\nدقایقی پیش مجلس نمایندگان کنگره آمریکا که اکنون اکثریت کرسی‌های آن را جمهوری‌خواهان در اختیار دارند،\nتلاش‌ دموکرات ها برای برکناری و استیضاح وزیر جنگ به دلیل عملیات‌های نظامی آمریکا در ایران، یمن، ونزوئلا و دریای کارائیب را پس از رأی گیری،\nرد کرد و وزیر جنگ آمریکا تا حداقل دو ماه آینده در سمت خود باقی خواهد ماند.",
+      "message_id": 123153,
+      "message_link": "https://t.me/Mellig/123153",
+      "text": "یادتان هست کارتون «سرندیپیتی» و جزیره ناشناخته را؟\n\nخانم لورا، فرمانروای جزیره، شخصیتی مرموز بود که هیچ‌کس اجازه نداشت چهره‌اش را ببیند. او همیشه پشت به ملاقات‌کنندگان، بر تخت سلطنتی‌اش می‌نشست و از پشت با آن‌ها صحبت می‌کرد. یک دلفین مشاورش بود و کوسه‌ها مأمور حفاظت از مرزهای دریایی جزیره بودند.\n\nامروز، با گذشت سال‌ها، آن کارتون برایم یادآور واقعیتی تلخ است؛ رهبر جمهوری اسلامی نیز گویی نسخه‌ای واقعی از خانم لوراست؛ رهبری که نه مردم او را می‌بینند و نه حتی از حضور و وضعیت واقعی‌اش اطمینان دارند. پس از بمباران بیت رهبری و کشته‌شدن پدرش و شماری از اعضای خانواده‌اش، او نیز در هاله‌ای از ابهام و پنهان‌کاری قرار گرفته است؛ شخصیتی که یک حلقه قدرت و نظامی‌ـ‌امنیتی، بدون اراده و انتخاب آزادانه مردم، بر سرنوشت یک ملت حاکم کرده است.\n\nانگار خانم لورا از دنیای کودکی ما به دنیای واقعی آمده است؛ با این تفاوت که اینجا دیگر پای یک کارتون و یک جزیره خیالی در میان نیست، بلکه سرنوشت یک ملت و یک کشور در میان است.\nبهزاد بازرگانی ، تگزاس .",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "02:41:12",
-      "gregorian_utc": "2026-11-10T23:11:12+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:40.006509+00:00"
+      "tehran_time": "03:12:19",
+      "gregorian_utc": "2026-11-10T23:42:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 202141,
+      "media_size_human": "197.40 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_123153_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123153_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-11T15:00:57.852669+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,7 +1045,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:38.895811+00:00"
+      "archived_at": "2026-11-11T15:00:57.017251+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1063,7 +1063,7 @@
       "media_local_path": "media/IranintlTV_366460_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366460_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.275754+00:00"
+      "archived_at": "2026-11-11T15:00:57.305149+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,17 +1081,17 @@
       "media_local_path": "media/satlastnews_76761_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76761_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-11T14:50:39.620783+00:00"
+      "archived_at": "2026-11-11T15:00:57.576328+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 123151,
-      "message_link": "https://t.me/Mellig/123151",
-      "text": "🔴 #خبر_فوری\nرویترز:\nحملات شدید پهپادی روز های گذشته اوکراین به پالایشگاه های روسیه،\nظرفیت پالایش نفت روسیه را حدود 30 درصد کاهش داده است،\nکمبود جدی سوخت در سراسر روسیه در حال به وجود آمدن است،\nمجدداً صف های طولانی بنزین و گازوئیل در مسکو، پایتخت روسیه پدیدار شده است.",
+      "message_id": 123152,
+      "message_link": "https://t.me/Mellig/123152",
+      "text": "🔴 #خبر_فوری\nدقایقی پیش مجلس نمایندگان کنگره آمریکا که اکنون اکثریت کرسی‌های آن را جمهوری‌خواهان در اختیار دارند،\nتلاش‌ دموکرات ها برای برکناری و استیضاح وزیر جنگ به دلیل عملیات‌های نظامی آمریکا در ایران، یمن، ونزوئلا و دریای کارائیب را پس از رأی گیری،\nرد کرد و وزیر جنگ آمریکا تا حداقل دو ماه آینده در سمت خود باقی خواهد ماند.",
       "shamsi_date": "1405/08/20",
-      "tehran_time": "02:37:02",
-      "gregorian_utc": "2026-11-10T23:07:02+00:00",
+      "tehran_time": "02:41:12",
+      "gregorian_utc": "2026-11-10T23:11:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-11T14:50:40.006550+00:00"
+      "archived_at": "2026-11-11T15:00:57.852756+00:00"
     }
   ]
 }
