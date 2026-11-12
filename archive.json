@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T18:32:09.329270+00:00",
-  "shamsi_generated": "1405/08/21 18:32:09 تهران",
+  "generated_at": "2026-11-12T18:42:23.394130+00:00",
+  "shamsi_generated": "1405/08/21 18:42:23 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648551+00:00"
+      "archived_at": "2026-11-12T18:40:34.028078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366660,
-      "message_link": "https://t.me/IranintlTV/366660",
-      "text": "شبکه کان اسرائیل پنج‌شنبه ۲۱ آبان به نقل از یک مقام آمریکایی گزارش داد فرماندهی مرکزی آمریکا در روزهای اخیر به نمایندگان ارتش اسرائیل در ایالات متحده پیام داده است که برای احتمال ازسرگیری جنگ با ایران آماده شوند.\nبر اساس این گزارش، پیام‌های مشابهی از طریق کانال‌های امنیتی به اسرائیل و کشورهای خلیج فارس منتقل شده است تا برای احتمال ازسرگیری جنگ در آینده نزدیک آماده باشند. کان افزود این پیام‌ها با اظهارات اخیر دونالد ترامپ مبنی بر اینکه نیازی به ازسرگیری عملیات نظامی علیه ایران نمی‌بیند، در تضاد است.\nکان همچنین گزارش داد آمریکا همچنان در حال انتقال تجهیزات به خاورمیانه است و دو ناو هواپیمابر «جورج واشینگتن» و «جورج بوش» در منطقه حضور دارند و سومین ناو نیز قرار است هفته آینده به دریای عرب برسد.\nhttps://iranintl.com/202611129101",
+      "message_id": 366662,
+      "message_link": "https://t.me/IranintlTV/366662",
+      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:54:53",
-      "gregorian_utc": "2026-11-12T18:24:53+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 251738,
-      "media_size_human": "245.84 KB",
+      "tehran_time": "22:05:17",
+      "gregorian_utc": "2026-11-12T18:35:17+00:00",
+      "media_type": "video",
+      "media_size_bytes": 948017,
+      "media_size_human": "925.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366660_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366660_photo.jpg",
+      "media_local_path": "media/IranintlTV_366662_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366662_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899536+00:00"
+      "archived_at": "2026-11-12T18:40:34.345201+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76780_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76780_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.154939+00:00"
+      "archived_at": "2026-11-12T18:40:34.642297+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.451801+00:00"
+      "archived_at": "2026-11-12T18:40:34.934825+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648608+00:00"
+      "archived_at": "2026-11-12T18:40:34.028116+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366659,
-      "message_link": "https://t.me/IranintlTV/366659",
-      "text": "دفتر نخست‌وزیری اسرائیل پنج‌شنبه ۲۱ آبان اعلام کرد که نشست امنیتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و گادی آیزنکوت، رهبر حزب یاشار، پس از حدود دو ساعت به پایان رسید.\n\nبر اساس بیانیه دفتر نخست‌وزیری اسرائیل، گای مارکیزنو، دبیر نظامی نتانیاهو، نیز در این نشست حضور داشت.\n\nدر این بیانیه آمده است: «آیزنکوت در جریان چالش‌های امنیتی و دیپلماتیک کنونی اسرائیل قرار گرفت.»\n\nدفتر نخست‌وزیری اسرائیل همچنین اعلام کرد که دو طرف توافق کردند در صورت لزوم، یکدیگر را در جریان تحولات قرار دهند.\nhttps://iranintl.com/202611121453",
+      "message_id": 366661,
+      "message_link": "https://t.me/IranintlTV/366661",
+      "text": "ویدیوهای رسیده نشان‌دهنده تجمع مالکان بلاتکلیف کوی شهرآرا در بروجرد در روز ۲۰ آبان است.\n\nبه گفته برخی مالباختگان، زمین‌های کوی شهرآرا سال ۸۲ در قالب تعاونی سه‌گانه ارتش، آموزش‌وپرورش و شهرداری از کشاورزان خریداری شد و برگ واگذاری زمین در اختیار حدود پنج هزار عضو این تعاونی‌ها قرار گرفت، اما مالکان هنوز در بلاتکلیفی به سر می‌برند.",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:12:02",
-      "gregorian_utc": "2026-11-12T17:42:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 127585,
-      "media_size_human": "124.59 KB",
+      "tehran_time": "22:02:57",
+      "gregorian_utc": "2026-11-12T18:32:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4851191,
+      "media_size_human": "4.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366659_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366659_photo.jpg",
+      "media_local_path": "media/IranintlTV_366661_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366661_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899653+00:00"
+      "archived_at": "2026-11-12T18:40:34.345270+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76779_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76779_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155022+00:00"
+      "archived_at": "2026-11-12T18:40:34.642356+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.451873+00:00"
+      "archived_at": "2026-11-12T18:40:34.934878+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648648+00:00"
+      "archived_at": "2026-11-12T18:40:34.028143+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366658,
-      "message_link": "https://t.me/IranintlTV/366658",
-      "text": "به گفته جی‌دبلیو کارول، رییس موقت پلیس متروپولیتن واشینگتن، مردی مسلح کمی پیش از ساعت ۸ صبح پنج‌شنبه ۲۱ آبان به وقت محلی در یک باشگاه ورزشی در واشینگتن دی‌سی تیراندازی کرد که در آن یک نفر کشته و چهار نفر دیگر زخمی شدند. او سپس در واحدی در طبقه هفتم یک ساختمان مسکونی سنگر گرفت. پلیس پس از حدود یک ساعت گفت‌وگو با مظنون، صدای شلیک شنید و با ورود به آپارتمان، او را با جراحت ناشی از شلیک به خود یافت. وضعیت مظنون به‌طور رسمی اعلام نشده، اما ان‌بی‌سی و فاکس‌نیوز به نقل از منابع انتظامی ناشناس گزارش دادند که او درگذشته است. به گفته کارول، پلیس بر این باور است که مظنون ساکن همان آپارتمان و عضو باشگاه بوده و انگیزه حمله در دست بررسی است.\n@iranintltv",
+      "message_id": 366660,
+      "message_link": "https://t.me/IranintlTV/366660",
+      "text": "شبکه کان اسرائیل پنج‌شنبه ۲۱ آبان به نقل از یک مقام آمریکایی گزارش داد فرماندهی مرکزی آمریکا در روزهای اخیر به نمایندگان ارتش اسرائیل در ایالات متحده پیام داده است که برای احتمال ازسرگیری جنگ با ایران آماده شوند.\nبر اساس این گزارش، پیام‌های مشابهی از طریق کانال‌های امنیتی به اسرائیل و کشورهای خلیج فارس منتقل شده است تا برای احتمال ازسرگیری جنگ در آینده نزدیک آماده باشند. کان افزود این پیام‌ها با اظهارات اخیر دونالد ترامپ مبنی بر اینکه نیازی به ازسرگیری عملیات نظامی علیه ایران نمی‌بیند، در تضاد است.\nکان همچنین گزارش داد آمریکا همچنان در حال انتقال تجهیزات به خاورمیانه است و دو ناو هواپیمابر «جورج واشینگتن» و «جورج بوش» در منطقه حضور دارند و سومین ناو نیز قرار است هفته آینده به دریای عرب برسد.\nhttps://iranintl.com/202611129101",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:06:56",
-      "gregorian_utc": "2026-11-12T17:36:56+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1242521,
-      "media_size_human": "1.18 MB",
+      "tehran_time": "21:54:53",
+      "gregorian_utc": "2026-11-12T18:24:53+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 251738,
+      "media_size_human": "245.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366658_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366658_video.mp4",
+      "media_local_path": "media/IranintlTV_366660_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366660_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899769+00:00"
+      "archived_at": "2026-11-12T18:40:34.345400+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.155087+00:00"
+      "archived_at": "2026-11-12T18:40:34.642401+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_123214_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123214_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.451936+00:00"
+      "archived_at": "2026-11-12T18:40:34.934926+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648688+00:00"
+      "archived_at": "2026-11-12T18:40:34.028168+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366657,
-      "message_link": "https://t.me/IranintlTV/366657",
-      "text": "محسن مهیمنی- روند سرکوب و کنترل امنیتی مدارس در ایران، در پاسخ به گسترش گفتمان و اقدامات حمایت از شاهزاده رضا پهلوی و انقلاب ملی، ابعاد تازه‌ای به خود گرفته است. در یکی از مدارس یک روحانی حکومتی با پوشش دروغین «حامی پهلوی»، به بازجویی عقیدتی از دانش‌آموزان کم‌سن‌ برای شناسایی آن‌ها اقدام کرد. \nبر اساس روایت‌های رسیده به ایران اینترنشنال، این فرد که به مدت دو زنگ درسی در کلاس حضور یافته بود، با ادعای حضور در اعتراضات دی‌ماه ۱۴۰۴، دانش‌آموزان را به صورت غیرمستقیم تحت فشار گذاشت تا اعتراف کنند چه کسانی در اعتراضات شرکت داشته یا به شاهزاده رضا پهلوی گرایش دارند.\n\nاین روش امنیتی، پس از ماه‌ها فریادزدن شعارهای ضدحکومتی و حمایت از خاندان پهلوی و یادبود جاویدنامان در راهروها و روی تخته‌های کلاس‌های درس اجرا شده و موجی از ناامنی و وحشت را در میان دانش‌آموزان و خانواده‌های آنان ایجاد کرده است.\n\nگزارش کامل را در وبسایت ایران اینترنشنال بخوانید.\nhttps://iranintl.com/202611126986",
+      "message_id": 366659,
+      "message_link": "https://t.me/IranintlTV/366659",
+      "text": "دفتر نخست‌وزیری اسرائیل پنج‌شنبه ۲۱ آبان اعلام کرد که نشست امنیتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و گادی آیزنکوت، رهبر حزب یاشار، پس از حدود دو ساعت به پایان رسید.\n\nبر اساس بیانیه دفتر نخست‌وزیری اسرائیل، گای مارکیزنو، دبیر نظامی نتانیاهو، نیز در این نشست حضور داشت.\n\nدر این بیانیه آمده است: «آیزنکوت در جریان چالش‌های امنیتی و دیپلماتیک کنونی اسرائیل قرار گرفت.»\n\nدفتر نخست‌وزیری اسرائیل همچنین اعلام کرد که دو طرف توافق کردند در صورت لزوم، یکدیگر را در جریان تحولات قرار دهند.\nhttps://iranintl.com/202611121453",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:04:30",
-      "gregorian_utc": "2026-11-12T17:34:30+00:00",
+      "tehran_time": "21:12:02",
+      "gregorian_utc": "2026-11-12T17:42:02+00:00",
       "media_type": "photo",
-      "media_size_bytes": 147996,
-      "media_size_human": "144.53 KB",
+      "media_size_bytes": 127585,
+      "media_size_human": "124.59 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366657_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366657_photo.jpg",
+      "media_local_path": "media/IranintlTV_366659_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366659_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899909+00:00"
+      "archived_at": "2026-11-12T18:40:34.345501+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76777_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76777_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155156+00:00"
+      "archived_at": "2026-11-12T18:40:34.642456+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_123213_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123213_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.451980+00:00"
+      "archived_at": "2026-11-12T18:40:34.934953+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648718+00:00"
+      "archived_at": "2026-11-12T18:40:34.028187+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366656,
-      "message_link": "https://t.me/IranintlTV/366656",
-      "text": "از آرامگاه جاویدنام صابر رمضانی ویدیویی در رسانه‌های اجتماعی منتشر شده است. روی ویدیو صدای پدر این جاویدنام شنیده می‌شود که در سوگ پسر خود شعر می‌خوانَد.\n\nصابر، معترض ۳۱ ساله، ۱۸ دی‌ماه در لاهیجان با شلیک نیروهای سرکوبگر به صورتش کشته شد. ماموران امنیتی پیکر او را از بیمارستان به رشت منتقل کردند و خانواده‌اش پس از سه روز توانستند آن را تحویل بگیرند.",
+      "message_id": 366658,
+      "message_link": "https://t.me/IranintlTV/366658",
+      "text": "به گفته جی‌دبلیو کارول، رییس موقت پلیس متروپولیتن واشینگتن، مردی مسلح کمی پیش از ساعت ۸ صبح پنج‌شنبه ۲۱ آبان به وقت محلی در یک باشگاه ورزشی در واشینگتن دی‌سی تیراندازی کرد که در آن یک نفر کشته و چهار نفر دیگر زخمی شدند. او سپس در واحدی در طبقه هفتم یک ساختمان مسکونی سنگر گرفت. پلیس پس از حدود یک ساعت گفت‌وگو با مظنون، صدای شلیک شنید و با ورود به آپارتمان، او را با جراحت ناشی از شلیک به خود یافت. وضعیت مظنون به‌طور رسمی اعلام نشده، اما ان‌بی‌سی و فاکس‌نیوز به نقل از منابع انتظامی ناشناس گزارش دادند که او درگذشته است. به گفته کارول، پلیس بر این باور است که مظنون ساکن همان آپارتمان و عضو باشگاه بوده و انگیزه حمله در دست بررسی است.\n@iranintltv",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:02:33",
-      "gregorian_utc": "2026-11-12T17:32:33+00:00",
+      "tehran_time": "21:06:56",
+      "gregorian_utc": "2026-11-12T17:36:56+00:00",
       "media_type": "video",
-      "media_size_bytes": 10576848,
-      "media_size_human": "10.09 MB",
+      "media_size_bytes": 1242521,
+      "media_size_human": "1.18 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366656_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366656_video.mp4",
+      "media_local_path": "media/IranintlTV_366658_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366658_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899953+00:00"
+      "archived_at": "2026-11-12T18:40:34.345584+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.155235+00:00"
+      "archived_at": "2026-11-12T18:40:34.642513+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_123212_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123212_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452020+00:00"
+      "archived_at": "2026-11-12T18:40:34.934977+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648755+00:00"
+      "archived_at": "2026-11-12T18:40:34.028212+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366655,
-      "message_link": "https://t.me/IranintlTV/366655",
-      "text": "«رویداد»، مرور آخرین تحولات جهان در یک دقیقه",
+      "message_id": 366657,
+      "message_link": "https://t.me/IranintlTV/366657",
+      "text": "محسن مهیمنی- روند سرکوب و کنترل امنیتی مدارس در ایران، در پاسخ به گسترش گفتمان و اقدامات حمایت از شاهزاده رضا پهلوی و انقلاب ملی، ابعاد تازه‌ای به خود گرفته است. در یکی از مدارس یک روحانی حکومتی با پوشش دروغین «حامی پهلوی»، به بازجویی عقیدتی از دانش‌آموزان کم‌سن‌ برای شناسایی آن‌ها اقدام کرد. \nبر اساس روایت‌های رسیده به ایران اینترنشنال، این فرد که به مدت دو زنگ درسی در کلاس حضور یافته بود، با ادعای حضور در اعتراضات دی‌ماه ۱۴۰۴، دانش‌آموزان را به صورت غیرمستقیم تحت فشار گذاشت تا اعتراف کنند چه کسانی در اعتراضات شرکت داشته یا به شاهزاده رضا پهلوی گرایش دارند.\n\nاین روش امنیتی، پس از ماه‌ها فریادزدن شعارهای ضدحکومتی و حمایت از خاندان پهلوی و یادبود جاویدنامان در راهروها و روی تخته‌های کلاس‌های درس اجرا شده و موجی از ناامنی و وحشت را در میان دانش‌آموزان و خانواده‌های آنان ایجاد کرده است.\n\nگزارش کامل را در وبسایت ایران اینترنشنال بخوانید.\nhttps://iranintl.com/202611126986",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "21:00:48",
-      "gregorian_utc": "2026-11-12T17:30:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5512554,
-      "media_size_human": "5.26 MB",
+      "tehran_time": "21:04:30",
+      "gregorian_utc": "2026-11-12T17:34:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 147996,
+      "media_size_human": "144.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366655_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366655_video.mp4",
+      "media_local_path": "media/IranintlTV_366657_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366657_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.899996+00:00"
+      "archived_at": "2026-11-12T18:40:34.345684+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76775_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76775_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155294+00:00"
+      "archived_at": "2026-11-12T18:40:34.642549+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_123211_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123211_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452057+00:00"
+      "archived_at": "2026-11-12T18:40:34.934998+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648785+00:00"
+      "archived_at": "2026-11-12T18:40:34.028231+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366654,
-      "message_link": "https://t.me/IranintlTV/366654",
-      "text": "مسعود پزشکیان پنج‌شنبه ۲۱ آبان پس از اجلاس تغییرات اقلیمی سازمان ملل در آنتالیا، با اشاره به حملات آمریکا و اسرائیل گفت: «واقعیت این است که حق با ماست و کشورهایی که مدعی دموکراسی و حقوق بشر هستند، تمام آن چیزهایی را که از نظر قانونی و انسانی مطرح است، زیر پا گذاشته‌اند.»\n\nپزشکیان گفت این اجلاس فرصتی برای بیان مواضع جمهوری اسلامی و گفت‌وگو با روسای جمهوری و نخست‌وزیران کشورهای دیگر بوده و افزود این دیدارها و تعاملات «خیلی خوب» بوده است. او ابراز امیدواری کرد این گفت‌وگوها ادامه پیدا کند.\n\nاو گفت: «با تمام فشاری که آمریکا وارد می‌کند و به قول خودش می‌خواست مردم و کشور ما را به زانو دربیاورد، یواش‌یواش خودشان دارند به زانو درمی‌آیند.»\n\nپزشکیان افزود دغدغه دولت، معیشت و آینده مردم و ایجاد امید در آنهاست و گفت: «تا جایی که جان در بدن داریم، در خدمت مردم عزیزمان هستیم.»\n\nپزشکیان در حاشیه این اجلاس با رجب طیب اردوغان، رییس‌جمهوری ترکیه، و لوییس ایناسیو لولا دا سیلوا، رییس‌جمهوری برزیل، گفت‌وگو کرد.\n\nاو همچنین با رییس اقلیم کردستان عراق دیدار کرد.\nhttps://iranintl.com/202611125307",
+      "message_id": 366656,
+      "message_link": "https://t.me/IranintlTV/366656",
+      "text": "از آرامگاه جاویدنام صابر رمضانی ویدیویی در رسانه‌های اجتماعی منتشر شده است. روی ویدیو صدای پدر این جاویدنام شنیده می‌شود که در سوگ پسر خود شعر می‌خوانَد.\n\nصابر، معترض ۳۱ ساله، ۱۸ دی‌ماه در لاهیجان با شلیک نیروهای سرکوبگر به صورتش کشته شد. ماموران امنیتی پیکر او را از بیمارستان به رشت منتقل کردند و خانواده‌اش پس از سه روز توانستند آن را تحویل بگیرند.",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:53:41",
-      "gregorian_utc": "2026-11-12T17:23:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 164978,
-      "media_size_human": "161.11 KB",
+      "tehran_time": "21:02:33",
+      "gregorian_utc": "2026-11-12T17:32:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10576848,
+      "media_size_human": "10.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366654_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366654_photo.jpg",
+      "media_local_path": "media/IranintlTV_366656_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366656_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.900131+00:00"
+      "archived_at": "2026-11-12T18:40:34.345709+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76774_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76774_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155335+00:00"
+      "archived_at": "2026-11-12T18:40:34.642572+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_123210_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123210_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452094+00:00"
+      "archived_at": "2026-11-12T18:40:34.935022+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648827+00:00"
+      "archived_at": "2026-11-12T18:40:34.028262+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366653,
-      "message_link": "https://t.me/IranintlTV/366653",
-      "text": "🔻حمزه ضیاء، خبرنگار عراقی، با انتشار ویدیویی از سردار آزمون در تمرین تیم ملی فوتبال در عراق، با کنایه به بی‌حوصلگی او نوشت: «کش تمرینی بر آزمون پیروز شد.»\n\n@iranintltvsport",
+      "message_id": 366655,
+      "message_link": "https://t.me/IranintlTV/366655",
+      "text": "«رویداد»، مرور آخرین تحولات جهان در یک دقیقه",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:48:40",
-      "gregorian_utc": "2026-11-12T17:18:40+00:00",
+      "tehran_time": "21:00:48",
+      "gregorian_utc": "2026-11-12T17:30:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 2249034,
-      "media_size_human": "2.14 MB",
+      "media_size_bytes": 5512554,
+      "media_size_human": "5.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366653_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366653_video.mp4",
+      "media_local_path": "media/IranintlTV_366655_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366655_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.909719+00:00"
+      "archived_at": "2026-11-12T18:40:34.345737+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.155534+00:00"
+      "archived_at": "2026-11-12T18:40:34.642713+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_123209_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123209_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452148+00:00"
+      "archived_at": "2026-11-12T18:40:34.935058+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648856+00:00"
+      "archived_at": "2026-11-12T18:40:34.028283+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366652,
-      "message_link": "https://t.me/IranintlTV/366652",
-      "text": "به‌گفته امدادگران، سه قایق چوبی که روز پنج‌شنبه ۲۱ آبان به بندر لا رستینگا در جزیره ال‌یرو، یکی از جزایر قناری اسپانیا، رسیدند، بیش از ۱۵۰ مهاجر را با خود داشتند که نزدیک به یک هفته در دریا بودند. فرناندو کلاویخو، رییس دولت محلی جزایر قناری، روز سه‌شنبه ۱۹ آبان اعلام کرد که از ۱۰ تا ۱۹ آبان، هفت هزار و ۴۳۲ مهاجر وارد این جزایر شده‌اند. او درباره افزایش مهاجرت از مسیر اقیانوس اطلس هشدار داد. به‌گفته کلاویخو، مقام‌ها پیش‌تر هشدارها و اطلاعاتی درباره افزایش حرکت قایق‌ها از غرب آفریقا دریافت کرده بودند. مسیر اطلس از غرب آفریقا به جزایر قناری یکی از مرگبارترین مسیرهای مهاجرت در جهان است.\n@iranintltv",
+      "message_id": 366654,
+      "message_link": "https://t.me/IranintlTV/366654",
+      "text": "مسعود پزشکیان پنج‌شنبه ۲۱ آبان پس از اجلاس تغییرات اقلیمی سازمان ملل در آنتالیا، با اشاره به حملات آمریکا و اسرائیل گفت: «واقعیت این است که حق با ماست و کشورهایی که مدعی دموکراسی و حقوق بشر هستند، تمام آن چیزهایی را که از نظر قانونی و انسانی مطرح است، زیر پا گذاشته‌اند.»\n\nپزشکیان گفت این اجلاس فرصتی برای بیان مواضع جمهوری اسلامی و گفت‌وگو با روسای جمهوری و نخست‌وزیران کشورهای دیگر بوده و افزود این دیدارها و تعاملات «خیلی خوب» بوده است. او ابراز امیدواری کرد این گفت‌وگوها ادامه پیدا کند.\n\nاو گفت: «با تمام فشاری که آمریکا وارد می‌کند و به قول خودش می‌خواست مردم و کشور ما را به زانو دربیاورد، یواش‌یواش خودشان دارند به زانو درمی‌آیند.»\n\nپزشکیان افزود دغدغه دولت، معیشت و آینده مردم و ایجاد امید در آنهاست و گفت: «تا جایی که جان در بدن داریم، در خدمت مردم عزیزمان هستیم.»\n\nپزشکیان در حاشیه این اجلاس با رجب طیب اردوغان، رییس‌جمهوری ترکیه، و لوییس ایناسیو لولا دا سیلوا، رییس‌جمهوری برزیل، گفت‌وگو کرد.\n\nاو همچنین با رییس اقلیم کردستان عراق دیدار کرد.\nhttps://iranintl.com/202611125307",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:45:00",
-      "gregorian_utc": "2026-11-12T17:15:00+00:00",
-      "media_type": "video",
-      "media_size_bytes": 989528,
-      "media_size_human": "966.34 KB",
+      "tehran_time": "20:53:41",
+      "gregorian_utc": "2026-11-12T17:23:41+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 164978,
+      "media_size_human": "161.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366652_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366652_video.mp4",
+      "media_local_path": "media/IranintlTV_366654_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366654_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.909839+00:00"
+      "archived_at": "2026-11-12T18:40:34.345839+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.155640+00:00"
+      "archived_at": "2026-11-12T18:40:34.642787+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.452202+00:00"
+      "archived_at": "2026-11-12T18:40:34.935092+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648883+00:00"
+      "archived_at": "2026-11-12T18:40:34.028301+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366651,
-      "message_link": "https://t.me/IranintlTV/366651",
-      "text": "آنیتا آناند، وزیر خارجه کانادا، در اقدامی کم‌سابقه اعلام کرد اتاوا در رای‌گیری مخفی مجمع عمومی سازمان ملل، به عضویت جمهوری اسلامی در «کمیته برنامه و هماهنگی» رای منفی داده است.\n\nآناند با تاکید بر حمایت کانادا از مردم ایران گفت جمهوری اسلامی مخالفان را در داخل کشور سرکوب می‌کند و به بی‌ثباتی در خاورمیانه دامن می‌زند. به گفته وزیر خارجه کانادا، حکومتی با چنین کارنامه‌ای صلاحیت عضویت در نهادی را ندارد که وظیفه‌اش پاسداری از منشور سازمان ملل متحد است.\n\nگفت‌وگو با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 366653,
+      "message_link": "https://t.me/IranintlTV/366653",
+      "text": "🔻حمزه ضیاء، خبرنگار عراقی، با انتشار ویدیویی از سردار آزمون در تمرین تیم ملی فوتبال در عراق، با کنایه به بی‌حوصلگی او نوشت: «کش تمرینی بر آزمون پیروز شد.»\n\n@iranintltvsport",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:44:07",
-      "gregorian_utc": "2026-11-12T17:14:07+00:00",
+      "tehran_time": "20:48:40",
+      "gregorian_utc": "2026-11-12T17:18:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 2223148,
-      "media_size_human": "2.12 MB",
+      "media_size_bytes": 2249034,
+      "media_size_human": "2.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366651_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366651_video.mp4",
+      "media_local_path": "media/IranintlTV_366653_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366653_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.909936+00:00"
+      "archived_at": "2026-11-12T18:40:34.347213+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76771_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76771_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155720+00:00"
+      "archived_at": "2026-11-12T18:40:34.642840+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_123207_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123207_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452257+00:00"
+      "archived_at": "2026-11-12T18:40:34.935126+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648908+00:00"
+      "archived_at": "2026-11-12T18:40:34.028317+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366650,
-      "message_link": "https://t.me/IranintlTV/366650",
-      "text": "یک فایل صوتی‌ به دست ایران‌اینترنشنال رسیده است که نشان می‌دهد مصطفی سپهوند با فردی به نام مصطفی قربانی درباره افزایش دستمزد به‌دلیل خطرات موجود برای انجام ماموریت دستگاه اطلاعاتی جمهوری اسلامی و اعمال خشونت شدید علیه مجتبی پورمحسن و کامبیز حسینی، روزنامه‌نگاران ایران‌اینترنشنال، گفت‌وگو می‌کند.\n\nدادگاهی در بریتانیا، مصطفی سپهوند و فرهاد جوادی‌منش را به اتهام کمک به دستگاه اطلاعاتی جمهوری اسلامی برای اعمال خشونت شدید علیه مجتبی پورمحسن و کامبیز حسینی مجرم شناخت.\n\nدادگاه کیفری وولویچ بریتانیا، پنج‌شنبه ۲۱ آبان، سپهوند را به اتفاق آرا در دو اتهام کمک به یک سرویس اطلاعاتی خارجی و انجام اقدامات مراقبتی و شناسایی با هدف ارتکاب خشونت شدید مجرم شناخت.\n\nهیات منصفه دادگاه همچنین جوادی‌منش را به اتفاق آرا در اتهام کمک به یک سرویس اطلاعاتی خارجی مجرم شناخت، اما او را از اتهام مشارکت در برنامه‌ریزی برای حمله خشونت‌آمیز تبرئه کرد.\n\nشاپور قلعه‌علی‌خانی نوری، سومین متهم این پرونده، از هر دو اتهام مطرح‌شده علیه خود تبرئه و آزاد شد.\n\nقرار است حکم مجازات سپهوند و جوادی‌منش ۲۶ آذر، ساعت ۱۴، در دادگاه اولد بیلی لندن اعلام شود.",
+      "message_id": 366652,
+      "message_link": "https://t.me/IranintlTV/366652",
+      "text": "به‌گفته امدادگران، سه قایق چوبی که روز پنج‌شنبه ۲۱ آبان به بندر لا رستینگا در جزیره ال‌یرو، یکی از جزایر قناری اسپانیا، رسیدند، بیش از ۱۵۰ مهاجر را با خود داشتند که نزدیک به یک هفته در دریا بودند. فرناندو کلاویخو، رییس دولت محلی جزایر قناری، روز سه‌شنبه ۱۹ آبان اعلام کرد که از ۱۰ تا ۱۹ آبان، هفت هزار و ۴۳۲ مهاجر وارد این جزایر شده‌اند. او درباره افزایش مهاجرت از مسیر اقیانوس اطلس هشدار داد. به‌گفته کلاویخو، مقام‌ها پیش‌تر هشدارها و اطلاعاتی درباره افزایش حرکت قایق‌ها از غرب آفریقا دریافت کرده بودند. مسیر اطلس از غرب آفریقا به جزایر قناری یکی از مرگبارترین مسیرهای مهاجرت در جهان است.\n@iranintltv",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:43:50",
-      "gregorian_utc": "2026-11-12T17:13:50+00:00",
+      "tehran_time": "20:45:00",
+      "gregorian_utc": "2026-11-12T17:15:00+00:00",
       "media_type": "video",
-      "media_size_bytes": 3631730,
-      "media_size_human": "3.46 MB",
+      "media_size_bytes": 989528,
+      "media_size_human": "966.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366650_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366650_video.mp4",
+      "media_local_path": "media/IranintlTV_366652_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366652_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.909977+00:00"
+      "archived_at": "2026-11-12T18:40:34.347313+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76768_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76768_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.155848+00:00"
+      "archived_at": "2026-11-12T18:40:34.642935+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_123206_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123206_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452324+00:00"
+      "archived_at": "2026-11-12T18:40:34.935166+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648934+00:00"
+      "archived_at": "2026-11-12T18:40:34.028334+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366649,
-      "message_link": "https://t.me/IranintlTV/366649",
-      "text": "**🗣روایت شما از زندگی در سایه سرکوب سیاسی و بحران اقتصادی - پنجشنبه ۲۱ آبان**\n\n🔹امروز رفتم تمام داروخانه‌های شهر رو گشتم برای قرص «پرفنازین» که در دسته قرص‌های اعصاب هست، اما گفتن که اصلاً توی بازار پیدا نمی‌شه.\n\n🔹امروز توی تهران برای خرید نان تافتون متوجه شدم که رنگ نون تغییر کرده. نانوایی گفت آردها ناخالصی دارن و به‌خاطر کمبود آرد سفید، از غلاتی که خوراک دام هستن استفاده می‌شه.\n\n🔹نانوایی‌ها توی دزفول هر ساعتی که شروع به پخت می‌کنن، حتی اگه بیست دقیقه قبل از شروع پخت توی صف بایستی، آخر سر یا نون کم گیرت میاد یا ممکنه اصلاً گیرت نیاد. حدود یک هفته‌ست که این مشکل توی دزفول هم به وضع وحشتناکی رسیده. آخه چه وضعشه؟ دیگه نون هم نخوریم راضی می‌شید؟\n\n🔹من یه کارمندم، ۲۶ میلیون تومان حداقل حقوق اداره کار رو می‌گیرم و ۲۴ میلیون تومان قسط می‌دم. حقوق شوهرم هم همین‌قدر قسط داره. کالابرگ ما رو حذف کردن، گفتن حقوق بالای ۳۰ میلیون داریم. خونه هم نداریم و نمی‌دونم اینا که از همه‌چیز خبر دارن، چرا ما رو قربانی اهداف خودشون می‌کنن.\n\n🔹اینجا توی دهدشت همه‌چیز گرون شده. توان خرید مردم به حدی پایین اومده که حتی نمی‌تونن یه سیب‌زمینی و گوجه بخرن. من خودم عسلویه کار می‌کنم و از برج ۶ هنوز حقوق نگرفتم. بعد سپاه تروریستی ککش هم نمی‌گزه که مردم چه فشاری رو دارن تحمل می‌کنن.\n\n🔹امروز رفتم بنزین بزنم، دیدم به‌جای ۵۰ لیتر بنزین ۳۰۰۰ تومانی، ۴۵ لیتر توی کارتم هست. پرسیدم ۵ لیترش کجا رفت؟ مسئول پمپ گفت حتماً سری قبل که بنزین زدی، کارت رو با عجله درآوردی و ۵ لیتر پریده! یعنی همه‌جوره مردم رو دارن می‌چاپن.\n\n🔹من ضایعات جمع می‌کنم. دیروز موتورم جام کرد و هزینه‌اش شد ۵ میلیون تومان. یک لیتر روغن هم شد ۸ میلیون تومان. ما باید چیکار کنیم؟",
+      "message_id": 366651,
+      "message_link": "https://t.me/IranintlTV/366651",
+      "text": "آنیتا آناند، وزیر خارجه کانادا، در اقدامی کم‌سابقه اعلام کرد اتاوا در رای‌گیری مخفی مجمع عمومی سازمان ملل، به عضویت جمهوری اسلامی در «کمیته برنامه و هماهنگی» رای منفی داده است.\n\nآناند با تاکید بر حمایت کانادا از مردم ایران گفت جمهوری اسلامی مخالفان را در داخل کشور سرکوب می‌کند و به بی‌ثباتی در خاورمیانه دامن می‌زند. به گفته وزیر خارجه کانادا، حکومتی با چنین کارنامه‌ای صلاحیت عضویت در نهادی را ندارد که وظیفه‌اش پاسداری از منشور سازمان ملل متحد است.\n\nگفت‌وگو با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:23:19",
-      "gregorian_utc": "2026-11-12T16:53:19+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.910191+00:00"
+      "tehran_time": "20:44:07",
+      "gregorian_utc": "2026-11-12T17:14:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2223148,
+      "media_size_human": "2.12 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_366651_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366651_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-12T18:40:34.347388+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.155989+00:00"
+      "archived_at": "2026-11-12T18:40:34.643046+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_123205_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123205_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452435+00:00"
+      "archived_at": "2026-11-12T18:40:34.935244+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648965+00:00"
+      "archived_at": "2026-11-12T18:40:34.028352+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366648,
-      "message_link": "https://t.me/IranintlTV/366648",
-      "text": "🔻️️️️️️کمیته انضباطی فدراسیون فوتبال یاسر آسانی، وینگر استقلال را به دلیل «بدرفتاری نسبت به مقام رسمی مسابقه (داور) از طریق ارتکاب رفتار غیرورزشی» در بازی با استقلال خوزستان در اهواز، دو جلسه محروم کرد که یک جلسه آن تا پایان فصل تعلیق شده است. آسانی همچنین ۵۰۰ میلیون تومان جریمه شده است.\n\n🔹از سوی دیگر، علیرضا ایلدروم، کمک‌داور بازی به دلیل «بدرفتاری نسبت به یاسر آسانی» دو ماه از داوری محروم کرد.\n\n🔹آسانی در دقایق پایانی بازی استقلال خوزستان و استقلال که جریان هفته دوازدهم لیگ برتر برگزار شد، پس از درگیری لفظی با کمک‌داور، رفتاری مشهور به «کشاله شجاع» انجام داد و پس از دریافت کارت زرد دوم، از زمین اخراج شد.\n\n🔹باشگاه استقلال هم به دلیل پرتاب بطری هوادارانش، ۵۰۰ میلیون تومان جریمه شد.\n\n🔹همچنین تراکتور به دلیل شعارهای تماشاگران علیه ملوان در بازی با خیبر، ۵۰۰ میلیون تومان جریمه شد. علاوه بر اینکه بازی برگشت تراکتور-ملوان، بدون تماشاگر خواهد بود. \n\n🔹از سوی دیگر، شجاع خلیل‌زاده، کاپیتان تراکتور به دلیل «نشر اکاذیب» در مصاحبه پس از بازی ۵۱ میلیون تومان جریمه و یک جلسه محروم شد.\n\n[جزییات بیشتر\n](https://www.iranintl.com/202611123101)\n@iranintltvsport",
+      "message_id": 366650,
+      "message_link": "https://t.me/IranintlTV/366650",
+      "text": "یک فایل صوتی‌ به دست ایران‌اینترنشنال رسیده است که نشان می‌دهد مصطفی سپهوند با فردی به نام مصطفی قربانی درباره افزایش دستمزد به‌دلیل خطرات موجود برای انجام ماموریت دستگاه اطلاعاتی جمهوری اسلامی و اعمال خشونت شدید علیه مجتبی پورمحسن و کامبیز حسینی، روزنامه‌نگاران ایران‌اینترنشنال، گفت‌وگو می‌کند.\n\nدادگاهی در بریتانیا، مصطفی سپهوند و فرهاد جوادی‌منش را به اتهام کمک به دستگاه اطلاعاتی جمهوری اسلامی برای اعمال خشونت شدید علیه مجتبی پورمحسن و کامبیز حسینی مجرم شناخت.\n\nدادگاه کیفری وولویچ بریتانیا، پنج‌شنبه ۲۱ آبان، سپهوند را به اتفاق آرا در دو اتهام کمک به یک سرویس اطلاعاتی خارجی و انجام اقدامات مراقبتی و شناسایی با هدف ارتکاب خشونت شدید مجرم شناخت.\n\nهیات منصفه دادگاه همچنین جوادی‌منش را به اتفاق آرا در اتهام کمک به یک سرویس اطلاعاتی خارجی مجرم شناخت، اما او را از اتهام مشارکت در برنامه‌ریزی برای حمله خشونت‌آمیز تبرئه کرد.\n\nشاپور قلعه‌علی‌خانی نوری، سومین متهم این پرونده، از هر دو اتهام مطرح‌شده علیه خود تبرئه و آزاد شد.\n\nقرار است حکم مجازات سپهوند و جوادی‌منش ۲۶ آذر، ساعت ۱۴، در دادگاه اولد بیلی لندن اعلام شود.",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:19:55",
-      "gregorian_utc": "2026-11-12T16:49:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 149659,
-      "media_size_human": "146.15 KB",
+      "tehran_time": "20:43:50",
+      "gregorian_utc": "2026-11-12T17:13:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3631730,
+      "media_size_human": "3.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366648_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366648_photo.jpg",
+      "media_local_path": "media/IranintlTV_366650_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366650_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.910361+00:00"
+      "archived_at": "2026-11-12T18:40:34.347415+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76765_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.156032+00:00"
+      "archived_at": "2026-11-12T18:40:34.643068+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_123204_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123204_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452477+00:00"
+      "archived_at": "2026-11-12T18:40:34.935269+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,17 +973,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.648990+00:00"
+      "archived_at": "2026-11-12T18:40:34.028368+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366647,
-      "message_link": "https://t.me/IranintlTV/366647",
-      "text": "",
+      "message_id": 366649,
+      "message_link": "https://t.me/IranintlTV/366649",
+      "text": "**🗣روایت شما از زندگی در سایه سرکوب سیاسی و بحران اقتصادی - پنجشنبه ۲۱ آبان**\n\n🔹امروز رفتم تمام داروخانه‌های شهر رو گشتم برای قرص «پرفنازین» که در دسته قرص‌های اعصاب هست، اما گفتن که اصلاً توی بازار پیدا نمی‌شه.\n\n🔹امروز توی تهران برای خرید نان تافتون متوجه شدم که رنگ نون تغییر کرده. نانوایی گفت آردها ناخالصی دارن و به‌خاطر کمبود آرد سفید، از غلاتی که خوراک دام هستن استفاده می‌شه.\n\n🔹نانوایی‌ها توی دزفول هر ساعتی که شروع به پخت می‌کنن، حتی اگه بیست دقیقه قبل از شروع پخت توی صف بایستی، آخر سر یا نون کم گیرت میاد یا ممکنه اصلاً گیرت نیاد. حدود یک هفته‌ست که این مشکل توی دزفول هم به وضع وحشتناکی رسیده. آخه چه وضعشه؟ دیگه نون هم نخوریم راضی می‌شید؟\n\n🔹من یه کارمندم، ۲۶ میلیون تومان حداقل حقوق اداره کار رو می‌گیرم و ۲۴ میلیون تومان قسط می‌دم. حقوق شوهرم هم همین‌قدر قسط داره. کالابرگ ما رو حذف کردن، گفتن حقوق بالای ۳۰ میلیون داریم. خونه هم نداریم و نمی‌دونم اینا که از همه‌چیز خبر دارن، چرا ما رو قربانی اهداف خودشون می‌کنن.\n\n🔹اینجا توی دهدشت همه‌چیز گرون شده. توان خرید مردم به حدی پایین اومده که حتی نمی‌تونن یه سیب‌زمینی و گوجه بخرن. من خودم عسلویه کار می‌کنم و از برج ۶ هنوز حقوق نگرفتم. بعد سپاه تروریستی ککش هم نمی‌گزه که مردم چه فشاری رو دارن تحمل می‌کنن.\n\n🔹امروز رفتم بنزین بزنم، دیدم به‌جای ۵۰ لیتر بنزین ۳۰۰۰ تومانی، ۴۵ لیتر توی کارتم هست. پرسیدم ۵ لیترش کجا رفت؟ مسئول پمپ گفت حتماً سری قبل که بنزین زدی، کارت رو با عجله درآوردی و ۵ لیتر پریده! یعنی همه‌جوره مردم رو دارن می‌چاپن.\n\n🔹من ضایعات جمع می‌کنم. دیروز موتورم جام کرد و هزینه‌اش شد ۵ میلیون تومان. یک لیتر روغن هم شد ۸ میلیون تومان. ما باید چیکار کنیم؟",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:10:04",
-      "gregorian_utc": "2026-11-12T16:40:04+00:00",
+      "tehran_time": "20:23:19",
+      "gregorian_utc": "2026-11-12T16:53:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -991,7 +991,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.910397+00:00"
+      "archived_at": "2026-11-12T18:40:34.347637+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76764_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76764_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.156071+00:00"
+      "archived_at": "2026-11-12T18:40:34.643089+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_123203_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123203_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.452552+00:00"
+      "archived_at": "2026-11-12T18:40:34.935300+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:43.649015+00:00"
+      "archived_at": "2026-11-12T18:40:34.028383+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 366646,
-      "message_link": "https://t.me/IranintlTV/366646",
-      "text": "بیش از ۶۰ درصد شرکت‌کنندگان در نظرسنجی ما به فکر مهاجرت از ایران طی دو سال آینده هستند. \nشما درباره مهاجرت چه فکری می‌کنید؟\n\nدر چند سوال کوتاه نگاه‌تان را با ما در میان بگذارید.\n\n[**شروع نظرسنجی**](https://t.me/Charsou_bot?start=DYk4ghRF)",
+      "message_id": 366648,
+      "message_link": "https://t.me/IranintlTV/366648",
+      "text": "🔻️️️️️️کمیته انضباطی فدراسیون فوتبال یاسر آسانی، وینگر استقلال را به دلیل «بدرفتاری نسبت به مقام رسمی مسابقه (داور) از طریق ارتکاب رفتار غیرورزشی» در بازی با استقلال خوزستان در اهواز، دو جلسه محروم کرد که یک جلسه آن تا پایان فصل تعلیق شده است. آسانی همچنین ۵۰۰ میلیون تومان جریمه شده است.\n\n🔹از سوی دیگر، علیرضا ایلدروم، کمک‌داور بازی به دلیل «بدرفتاری نسبت به یاسر آسانی» دو ماه از داوری محروم کرد.\n\n🔹آسانی در دقایق پایانی بازی استقلال خوزستان و استقلال که جریان هفته دوازدهم لیگ برتر برگزار شد، پس از درگیری لفظی با کمک‌داور، رفتاری مشهور به «کشاله شجاع» انجام داد و پس از دریافت کارت زرد دوم، از زمین اخراج شد.\n\n🔹باشگاه استقلال هم به دلیل پرتاب بطری هوادارانش، ۵۰۰ میلیون تومان جریمه شد.\n\n🔹همچنین تراکتور به دلیل شعارهای تماشاگران علیه ملوان در بازی با خیبر، ۵۰۰ میلیون تومان جریمه شد. علاوه بر اینکه بازی برگشت تراکتور-ملوان، بدون تماشاگر خواهد بود. \n\n🔹از سوی دیگر، شجاع خلیل‌زاده، کاپیتان تراکتور به دلیل «نشر اکاذیب» در مصاحبه پس از بازی ۵۱ میلیون تومان جریمه و یک جلسه محروم شد.\n\n[جزییات بیشتر\n](https://www.iranintl.com/202611123101)\n@iranintltvsport",
       "shamsi_date": "1405/08/21",
-      "tehran_time": "20:10:00",
-      "gregorian_utc": "2026-11-12T16:40:00+00:00",
+      "tehran_time": "20:19:55",
+      "gregorian_utc": "2026-11-12T16:49:55+00:00",
       "media_type": "photo",
-      "media_size_bytes": 27836,
-      "media_size_human": "27.18 KB",
+      "media_size_bytes": 149659,
+      "media_size_human": "146.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_366646_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366646_photo.jpg",
+      "media_local_path": "media/IranintlTV_366648_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_366648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:43.910473+00:00"
+      "archived_at": "2026-11-12T18:40:34.347773+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76763_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76763_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-12T18:30:44.156108+00:00"
+      "archived_at": "2026-11-12T18:40:34.643111+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-12T18:30:44.452627+00:00"
+      "archived_at": "2026-11-12T18:40:34.935349+00:00"
     }
   ]
 }
