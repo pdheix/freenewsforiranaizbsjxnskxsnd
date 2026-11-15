@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T18:03:39.337093+00:00",
-  "shamsi_generated": "1405/08/24 18:03:39 تهران",
+  "generated_at": "2026-11-15T18:13:36.787678+00:00",
+  "shamsi_generated": "1405/08/24 18:13:36 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,32 +37,32 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199529+00:00"
+      "archived_at": "2026-11-15T18:10:32.074090+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367107,
-      "message_link": "https://t.me/IranintlTV/367107",
-      "text": "در سال‌های اخیر گزارش‌های متعددی درباره ترور، ربودن و بازجویی از اعضای سپاه پاسداران به دست موساد منتشر شده است.\n\nروزنامه نیویورک‌تایمز در گزارشی تحقیقی به تلاش‌های موساد و دولت اسرائیل برای روشن شدن سرنوشت رون آراد، خلبان اسرائیلی که از مهرماه سال ۱۳۶۵ مفقود شده، و همچنین جزییات ربایش دو فرمانده ارشد سپاه پاسداران به دست موساد پرداخته است.\n\nگفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 367108,
+      "message_link": "https://t.me/IranintlTV/367108",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در یکشنبه ۲۴ آبان، آلودگی شدید هوای اصفهان را نشان می‌دهد و می‌گوید: «آلودگی شروع شده و تا آخر زمستان هم می‌ماند. مردم تا چه زمانی باید این آلودگی را تحمل کنند؟»",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "21:12:47",
-      "gregorian_utc": "2026-11-15T17:42:47+00:00",
+      "tehran_time": "21:31:21",
+      "gregorian_utc": "2026-11-15T18:01:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 4477882,
-      "media_size_human": "4.27 MB",
+      "media_size_bytes": 9021144,
+      "media_size_human": "8.60 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367107_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367107_video.mp4",
+      "media_local_path": "media/IranintlTV_367108_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367108_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561281+00:00"
+      "archived_at": "2026-11-15T18:10:32.569196+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
       "message_id": 76797,
       "message_link": "https://t.me/satlastnews/76797",
-      "text": "⭕️**سریال محبوب و پرمخاطب «یل» توقیف شد**\n\nبا دستور دادسرای فرهنگ و رسانه، انتشار سریال «یل» به دلیل انتشار محتوای مجرمانه و مغایر با عفت و اخلاق عمومی، تا اطلاع ثانوی متوقف شد.\n\n@SatLastNews",
+      "text": "⭕️ سریال محبوب و پرمخاطب «یل» توقیف شد\n\nبا دستور دادسرای فرهنگ و رسانه، انتشار سریال «یل» به دلیل انتشار محتوای مجرمانه و مغایر با عفت و اخلاق عمومی، تا اطلاع ثانوی متوقف شد.\n\n@SatLastNews",
       "shamsi_date": "1405/08/24",
       "tehran_time": "16:03:29",
       "gregorian_utc": "2026-11-15T12:33:29+00:00",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76797_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76797_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.965940+00:00"
+      "archived_at": "2026-11-15T18:10:33.018644+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_123306_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123306_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.342549+00:00"
+      "archived_at": "2026-11-15T18:10:33.359565+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199566+00:00"
+      "archived_at": "2026-11-15T18:10:32.074146+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367106,
-      "message_link": "https://t.me/IranintlTV/367106",
-      "text": "منابع آگاه از وضعیت زندانیان سیاسی زندان تهران بزرگ به ایران‌اینترنشنال گفتند زندانیان اندرزگاه چهار تیپ شش این زندان با کمبود شدید غذا، شرایط غیربهداشتی و محدودیت دسترسی به حمام روبه‌رو هستند. بسیاری از زندانیان محبوس در این بخش از بازداشت‌شدگان اعتراضات دی‌ماه هستند.\n\nشمار زیادی از بازداشت‌شدگان اعتراضات ۱۸ و ۱۹ دی‌ماه ۱۴۰۴ و دیگر زندانیان سیاسی در اندرزگاه چهار تیپ شش زندان تهران بزرگ مشهور به فشافویه نگهداری می‌شوند. به گفته منابع آگاه، بسیاری از زندانیان این اندرزگاه متولد دهه ۱۳۸۰ هستند.\n\nبه گفته این منابع، اندرزگاه چهار دارای ۱۶ اتاق با ظرفیت ۱۵ نفر در هر اتاق است، اما اکنون در بسیاری از اتاق‌ها بیش از ۲۵ زندانی نگهداری می‌شوند.\n\nاین منابع جمعیت فعلی اندرزگاه را حدود ۳۶۰ تا ۳۷۰ نفر اعلام کردند، هرچند در اطلاعات ارائه‌شده از سوی برخی منابع دیگر به ایران‌اینترنشنال، شمار زندانیان این بخش حدود ۴۰۰ نفر برآورد شده است.\nگزارش کامل را در وب‌سایت ایران‌اینترنشنال بخوانید.\nhttps://iranintl.com/202611154874",
+      "message_id": 367107,
+      "message_link": "https://t.me/IranintlTV/367107",
+      "text": "در سال‌های اخیر گزارش‌های متعددی درباره ترور، ربودن و بازجویی از اعضای سپاه پاسداران به دست موساد منتشر شده است.\n\nروزنامه نیویورک‌تایمز در گزارشی تحقیقی به تلاش‌های موساد و دولت اسرائیل برای روشن شدن سرنوشت رون آراد، خلبان اسرائیلی که از مهرماه سال ۱۳۶۵ مفقود شده، و همچنین جزییات ربایش دو فرمانده ارشد سپاه پاسداران به دست موساد پرداخته است.\n\nگفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "21:12:23",
-      "gregorian_utc": "2026-11-15T17:42:23+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 122719,
-      "media_size_human": "119.84 KB",
+      "tehran_time": "21:12:47",
+      "gregorian_utc": "2026-11-15T17:42:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4477882,
+      "media_size_human": "4.27 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367106_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367106_photo.jpg",
+      "media_local_path": "media/IranintlTV_367107_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367107_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561420+00:00"
+      "archived_at": "2026-11-15T18:10:32.569277+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76796_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76796_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.965991+00:00"
+      "archived_at": "2026-11-15T18:10:33.018682+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123305_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123305_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.342585+00:00"
+      "archived_at": "2026-11-15T18:10:33.359596+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199589+00:00"
+      "archived_at": "2026-11-15T18:10:32.074168+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367105,
-      "message_link": "https://t.me/IranintlTV/367105",
-      "text": "",
+      "message_id": 367106,
+      "message_link": "https://t.me/IranintlTV/367106",
+      "text": "منابع آگاه از وضعیت زندانیان سیاسی زندان تهران بزرگ به ایران‌اینترنشنال گفتند زندانیان اندرزگاه چهار تیپ شش این زندان با کمبود شدید غذا، شرایط غیربهداشتی و محدودیت دسترسی به حمام روبه‌رو هستند. بسیاری از زندانیان محبوس در این بخش از بازداشت‌شدگان اعتراضات دی‌ماه هستند.\n\nشمار زیادی از بازداشت‌شدگان اعتراضات ۱۸ و ۱۹ دی‌ماه ۱۴۰۴ و دیگر زندانیان سیاسی در اندرزگاه چهار تیپ شش زندان تهران بزرگ مشهور به فشافویه نگهداری می‌شوند. به گفته منابع آگاه، بسیاری از زندانیان این اندرزگاه متولد دهه ۱۳۸۰ هستند.\n\nبه گفته این منابع، اندرزگاه چهار دارای ۱۶ اتاق با ظرفیت ۱۵ نفر در هر اتاق است، اما اکنون در بسیاری از اتاق‌ها بیش از ۲۵ زندانی نگهداری می‌شوند.\n\nاین منابع جمعیت فعلی اندرزگاه را حدود ۳۶۰ تا ۳۷۰ نفر اعلام کردند، هرچند در اطلاعات ارائه‌شده از سوی برخی منابع دیگر به ایران‌اینترنشنال، شمار زندانیان این بخش حدود ۴۰۰ نفر برآورد شده است.\nگزارش کامل را در وب‌سایت ایران‌اینترنشنال بخوانید.\nhttps://iranintl.com/202611154874",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "21:06:45",
-      "gregorian_utc": "2026-11-15T17:36:45+00:00",
+      "tehran_time": "21:12:23",
+      "gregorian_utc": "2026-11-15T17:42:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 165810,
-      "media_size_human": "161.92 KB",
+      "media_size_bytes": 122719,
+      "media_size_human": "119.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367105_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367105_photo.jpg",
+      "media_local_path": "media/IranintlTV_367106_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367106_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561451+00:00"
+      "archived_at": "2026-11-15T18:10:32.569367+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.966388+00:00"
+      "archived_at": "2026-11-15T18:10:33.018952+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_123304_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123304_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.342706+00:00"
+      "archived_at": "2026-11-15T18:10:33.359687+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": "media/zedTV_15928_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15928_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.199654+00:00"
+      "archived_at": "2026-11-15T18:10:32.074246+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367104,
-      "message_link": "https://t.me/IranintlTV/367104",
+      "message_id": 367105,
+      "message_link": "https://t.me/IranintlTV/367105",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 230178,
-      "media_size_human": "224.78 KB",
+      "media_size_bytes": 165810,
+      "media_size_human": "161.92 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367104_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367104_photo.jpg",
+      "media_local_path": "media/IranintlTV_367105_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367105_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561477+00:00"
+      "archived_at": "2026-11-15T18:10:32.569390+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.966426+00:00"
+      "archived_at": "2026-11-15T18:10:33.018979+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_123303_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123303_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.342737+00:00"
+      "archived_at": "2026-11-15T18:10:33.359707+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": "media/zedTV_15927_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15927_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.199688+00:00"
+      "archived_at": "2026-11-15T18:10:32.074367+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367103,
-      "message_link": "https://t.me/IranintlTV/367103",
+      "message_id": 367104,
+      "message_link": "https://t.me/IranintlTV/367104",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 190561,
-      "media_size_human": "186.09 KB",
+      "media_size_bytes": 230178,
+      "media_size_human": "224.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367103_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367103_photo.jpg",
+      "media_local_path": "media/IranintlTV_367104_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367104_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561501+00:00"
+      "archived_at": "2026-11-15T18:10:32.569409+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.966687+00:00"
+      "archived_at": "2026-11-15T18:10:33.019160+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_123302_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123302_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.342768+00:00"
+      "archived_at": "2026-11-15T18:10:33.359733+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199713+00:00"
+      "archived_at": "2026-11-15T18:10:32.074509+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367102,
-      "message_link": "https://t.me/IranintlTV/367102",
+      "message_id": 367103,
+      "message_link": "https://t.me/IranintlTV/367103",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 179178,
-      "media_size_human": "174.98 KB",
+      "media_size_bytes": 190561,
+      "media_size_human": "186.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367102_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367102_photo.jpg",
+      "media_local_path": "media/IranintlTV_367103_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367103_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561529+00:00"
+      "archived_at": "2026-11-15T18:10:32.569433+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76792_document.pdf",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76792_document.pdf",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967149+00:00"
+      "archived_at": "2026-11-15T18:10:33.019483+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.342807+00:00"
+      "archived_at": "2026-11-15T18:10:33.359761+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199734+00:00"
+      "archived_at": "2026-11-15T18:10:32.074561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367101,
-      "message_link": "https://t.me/IranintlTV/367101",
+      "message_id": 367102,
+      "message_link": "https://t.me/IranintlTV/367102",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 180734,
-      "media_size_human": "176.50 KB",
+      "media_size_bytes": 179178,
+      "media_size_human": "174.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367101_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367101_photo.jpg",
+      "media_local_path": "media/IranintlTV_367102_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367102_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561551+00:00"
+      "archived_at": "2026-11-15T18:10:32.569452+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.967386+00:00"
+      "archived_at": "2026-11-15T18:10:33.019640+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.342849+00:00"
+      "archived_at": "2026-11-15T18:10:33.359811+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199765+00:00"
+      "archived_at": "2026-11-15T18:10:32.074626+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367100,
-      "message_link": "https://t.me/IranintlTV/367100",
+      "message_id": 367101,
+      "message_link": "https://t.me/IranintlTV/367101",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 167457,
-      "media_size_human": "163.53 KB",
+      "media_size_bytes": 180734,
+      "media_size_human": "176.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367100_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367100_photo.jpg",
+      "media_local_path": "media/IranintlTV_367101_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367101_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561575+00:00"
+      "archived_at": "2026-11-15T18:10:32.569469+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.967458+00:00"
+      "archived_at": "2026-11-15T18:10:33.019687+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.342880+00:00"
+      "archived_at": "2026-11-15T18:10:33.359843+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199784+00:00"
+      "archived_at": "2026-11-15T18:10:32.074712+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367099,
-      "message_link": "https://t.me/IranintlTV/367099",
+      "message_id": 367100,
+      "message_link": "https://t.me/IranintlTV/367100",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 310580,
-      "media_size_human": "303.30 KB",
+      "media_size_bytes": 167457,
+      "media_size_human": "163.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367099_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367099_photo.jpg",
+      "media_local_path": "media/IranintlTV_367100_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367100_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561595+00:00"
+      "archived_at": "2026-11-15T18:10:32.569485+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76789_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967488+00:00"
+      "archived_at": "2026-11-15T18:10:33.019708+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.342945+00:00"
+      "archived_at": "2026-11-15T18:10:33.359861+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199802+00:00"
+      "archived_at": "2026-11-15T18:10:32.074727+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367098,
-      "message_link": "https://t.me/IranintlTV/367098",
+      "message_id": 367099,
+      "message_link": "https://t.me/IranintlTV/367099",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151183,
-      "media_size_human": "147.64 KB",
+      "media_size_bytes": 310580,
+      "media_size_human": "303.30 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367098_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367098_photo.jpg",
+      "media_local_path": "media/IranintlTV_367099_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367099_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561615+00:00"
+      "archived_at": "2026-11-15T18:10:32.569500+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76788_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76788_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967512+00:00"
+      "archived_at": "2026-11-15T18:10:33.019725+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.342973+00:00"
+      "archived_at": "2026-11-15T18:10:33.359882+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199818+00:00"
+      "archived_at": "2026-11-15T18:10:32.074775+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367097,
-      "message_link": "https://t.me/IranintlTV/367097",
+      "message_id": 367098,
+      "message_link": "https://t.me/IranintlTV/367098",
       "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 196641,
-      "media_size_human": "192.03 KB",
+      "media_size_bytes": 151183,
+      "media_size_human": "147.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367097_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367097_photo.jpg",
+      "media_local_path": "media/IranintlTV_367098_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367098_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.561634+00:00"
+      "archived_at": "2026-11-15T18:10:32.569515+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76787_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76787_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967742+00:00"
+      "archived_at": "2026-11-15T18:10:33.019878+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.343008+00:00"
+      "archived_at": "2026-11-15T18:10:33.359907+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199835+00:00"
+      "archived_at": "2026-11-15T18:10:32.074880+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367096,
-      "message_link": "https://t.me/IranintlTV/367096",
-      "text": "🔻️️️️️️رونالدینیو، ستاره ۴۶ ساله برزیلی و برنده توپ طلای ۲۰۰۵، روز یکشنبه ۲۴ آبان پس از ۱۱ سال دوری از مسابقات رسمی، با پیراهن راونا در سری سی ایتالیا به میدان رفت.\n\n🔹️️️️️️رونالدینیو آخرین بار در سپتامبر ۲۰۱۵ برای فلومیننزه برزیل در یک مسابقه رسمی بازی کرده بود و در سال ۲۰۱۸ نیز بازنشستگی خود را اعلام کرد.\n\n🔹️️️️️️بازگشت رونالدینیو در دیدار راونا و فورلی در ورزشگاه برونو بنلی و در حضور ۶ هزار و ۵۰۰ تماشاگر رقم خورد. تمام بازیکنان راونا نیز پیش از آغاز مسابقه برای گرفتن عکس یادگاری با او در زمین حاضر شدند.\n\n🔹️️️️️️رونالدینیو در این مسابقه از ابتدا در ترکیب راونا حضور داشت و در دقیقه ۲۶ پایه‌گذار گل نخست تیمش بود؛ او توپ را به لورنزو لوناردی سپرد، پاس او به جولیو دوناتی، رسید و گل اول رقم خورد.\n\n@iranintltvsport",
+      "message_id": 367097,
+      "message_link": "https://t.me/IranintlTV/367097",
+      "text": "",
       "shamsi_date": "1405/08/24",
       "tehran_time": "21:06:45",
       "gregorian_utc": "2026-11-15T17:36:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 165324,
-      "media_size_human": "161.45 KB",
+      "media_size_bytes": 196641,
+      "media_size_human": "192.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367096_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367096_photo.jpg",
+      "media_local_path": "media/IranintlTV_367097_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367097_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.571820+00:00"
+      "archived_at": "2026-11-15T18:10:32.569530+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76786_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76786_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967786+00:00"
+      "archived_at": "2026-11-15T18:10:33.019908+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_123295_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123295_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.343055+00:00"
+      "archived_at": "2026-11-15T18:10:33.359942+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199853+00:00"
+      "archived_at": "2026-11-15T18:10:32.074899+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367095,
-      "message_link": "https://t.me/IranintlTV/367095",
-      "text": "نجات بهرامی، تحلیل‌گر سیاسی، گفت حمله دوباره جمهوری اسلامی به بحرین تلاشی برای خروج از وضعیت نه جنگ و نه صلح و پایان دادن به فشارهای ناشی از محاصره دریایی و اقتصادی آمریکاست. به گفته او، تهران با هدف قرار دادن زیرساخت‌های کشورهای منطقه می‌خواهد تنش‌ها را افزایش دهد و آمریکا را به آغاز دور تازه‌ای از جنگ سوق دهد.\n\nبهرامی افزود جمهوری اسلامی ادامه محاصره اقتصادی را تهدیدی جدی برای بقای خود می‌داند و تصور می‌کند عبور از یک جنگ دیگر بدون سرنگونی، فرصتی برای بازسازی توان نظامی و تقویت موقعیتش فراهم خواهد کرد. او معتقد است با ادامه حملات موشکی جمهوری اسلامی و افزایش آمادگی نظامی آمریکا، ازسرگیری درگیری گسترده اجتناب‌ناپذیر خواهد بود.\n@iranintltv",
+      "message_id": 367096,
+      "message_link": "https://t.me/IranintlTV/367096",
+      "text": "🔻️️️️️️رونالدینیو، ستاره ۴۶ ساله برزیلی و برنده توپ طلای ۲۰۰۵، روز یکشنبه ۲۴ آبان پس از ۱۱ سال دوری از مسابقات رسمی، با پیراهن راونا در سری سی ایتالیا به میدان رفت.\n\n🔹️️️️️️رونالدینیو آخرین بار در سپتامبر ۲۰۱۵ برای فلومیننزه برزیل در یک مسابقه رسمی بازی کرده بود و در سال ۲۰۱۸ نیز بازنشستگی خود را اعلام کرد.\n\n🔹️️️️️️بازگشت رونالدینیو در دیدار راونا و فورلی در ورزشگاه برونو بنلی و در حضور ۶ هزار و ۵۰۰ تماشاگر رقم خورد. تمام بازیکنان راونا نیز پیش از آغاز مسابقه برای گرفتن عکس یادگاری با او در زمین حاضر شدند.\n\n🔹️️️️️️رونالدینیو در این مسابقه از ابتدا در ترکیب راونا حضور داشت و در دقیقه ۲۶ پایه‌گذار گل نخست تیمش بود؛ او توپ را به لورنزو لوناردی سپرد، پاس او به جولیو دوناتی، رسید و گل اول رقم خورد.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "21:06:14",
-      "gregorian_utc": "2026-11-15T17:36:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4240489,
-      "media_size_human": "4.04 MB",
+      "tehran_time": "21:06:45",
+      "gregorian_utc": "2026-11-15T17:36:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 165324,
+      "media_size_human": "161.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367095_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367095_video.mp4",
+      "media_local_path": "media/IranintlTV_367096_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367096_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.571958+00:00"
+      "archived_at": "2026-11-15T18:10:32.577912+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.967901+00:00"
+      "archived_at": "2026-11-15T18:10:33.019984+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:50.343091+00:00"
+      "archived_at": "2026-11-15T18:10:33.359969+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199868+00:00"
+      "archived_at": "2026-11-15T18:10:32.074915+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367094,
-      "message_link": "https://t.me/IranintlTV/367094",
-      "text": "حمله دوباره جمهوری اسلامی به بحرین با موجی از محکومیت‌های منطقه‌ای مواجه شده است. وزارت خارجه قطر این حمله را عاملی برای تضعیف تلاش‌های دیپلماتیک توصیف کرد.\n\nهم‌زمان، وال‌استریت ژورنال گزارش داد نهادهای اطلاعاتی آمریکا برآورد می‌کنند جمهوری اسلامی همچنان بین هزار و ۵۰۰ تا دو هزار و ۵۰۰ موشک در اختیار دارد؛ زرادخانه‌ای که در صورت ازسرگیری جنگ، توان قابل‌توجهی برای حمله به اهداف آمریکایی و متحدان واشینگتن فراهم می‌کند. به نوشته این روزنامه، این ارزیابی در بحث‌های دولت دونالد ترامپ درباره احتمال ازسرگیری جنگ نقش داشته است.\n@iranintltv",
+      "message_id": 367095,
+      "message_link": "https://t.me/IranintlTV/367095",
+      "text": "نجات بهرامی، تحلیل‌گر سیاسی، گفت حمله دوباره جمهوری اسلامی به بحرین تلاشی برای خروج از وضعیت نه جنگ و نه صلح و پایان دادن به فشارهای ناشی از محاصره دریایی و اقتصادی آمریکاست. به گفته او، تهران با هدف قرار دادن زیرساخت‌های کشورهای منطقه می‌خواهد تنش‌ها را افزایش دهد و آمریکا را به آغاز دور تازه‌ای از جنگ سوق دهد.\n\nبهرامی افزود جمهوری اسلامی ادامه محاصره اقتصادی را تهدیدی جدی برای بقای خود می‌داند و تصور می‌کند عبور از یک جنگ دیگر بدون سرنگونی، فرصتی برای بازسازی توان نظامی و تقویت موقعیتش فراهم خواهد کرد. او معتقد است با ادامه حملات موشکی جمهوری اسلامی و افزایش آمادگی نظامی آمریکا، ازسرگیری درگیری گسترده اجتناب‌ناپذیر خواهد بود.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "21:00:14",
-      "gregorian_utc": "2026-11-15T17:30:14+00:00",
+      "tehran_time": "21:06:14",
+      "gregorian_utc": "2026-11-15T17:36:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 2287738,
-      "media_size_human": "2.18 MB",
+      "media_size_bytes": 4240489,
+      "media_size_human": "4.04 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367094_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367094_video.mp4",
+      "media_local_path": "media/IranintlTV_367095_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367095_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.572037+00:00"
+      "archived_at": "2026-11-15T18:10:32.578004+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76784_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76784_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.967976+00:00"
+      "archived_at": "2026-11-15T18:10:33.020017+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_123293_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123293_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:50.343112+00:00"
+      "archived_at": "2026-11-15T18:10:33.359986+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.199883+00:00"
+      "archived_at": "2026-11-15T18:10:32.074929+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367093,
-      "message_link": "https://t.me/IranintlTV/367093",
-      "text": "مارکوین مولین، وزیر امنیت داخلی آمریکا، یک‌شنبه ۲۴ آبان در گفت‌وگو با برنامه «ساندی بریفینگ» اعلام کرد که ایالات متحده برای مقابله با تهدیدهای احتمالی جمهوری اسلامی علیه دونالد ترامپ، رییس‌جمهوری آمریکا، و اعضای کابینه او آمادگی کامل دارد.\n\nمولین در واکنش به گزارش رسانه‌های اسرائیلی درباره هشدار اطلاعاتی موساد به واشینگتن در مورد طرح احتمالی ترور با استفاده از پهپادهای حامل مواد منفجره، گفت مقام‌های آمریکایی هر روز گزارش‌های اطلاعاتی درباره تهدیدهای احتمالی تهران دریافت می‌کنند.\n\nاو با اشاره به تهدیدهای مطرح‌شده علیه رییس‌جمهوری آمریکا گفت که ترامپ و خانواده‌اش «هدف شماره یک» جمهوری اسلامی هستند.\n\nوزیر امنیت داخلی آمریکا گفت: «آن‌ها مدام درباره این موضوع صحبت می‌کنند؛ درباره فناوری پهپادی که می‌گویند استفاده از آن در حد یک هدف مورد نظر است. اما ما در داخل ایالات متحده آمادگی کامل داریم و هر روز این موضوع را زیر نظر می‌گیریم.»\n\nمولین افزود که وزارت امنیت داخلی آمریکا پیش از تبادل اطلاعاتی گزارش‌شده از سوی روزنامه اسرائیلی «اسرائیل هیوم» نیز از این تهدیدها آگاه بوده است.\nhttps://iranintl.com/202611151145",
+      "message_id": 367094,
+      "message_link": "https://t.me/IranintlTV/367094",
+      "text": "حمله دوباره جمهوری اسلامی به بحرین با موجی از محکومیت‌های منطقه‌ای مواجه شده است. وزارت خارجه قطر این حمله را عاملی برای تضعیف تلاش‌های دیپلماتیک توصیف کرد.\n\nهم‌زمان، وال‌استریت ژورنال گزارش داد نهادهای اطلاعاتی آمریکا برآورد می‌کنند جمهوری اسلامی همچنان بین هزار و ۵۰۰ تا دو هزار و ۵۰۰ موشک در اختیار دارد؛ زرادخانه‌ای که در صورت ازسرگیری جنگ، توان قابل‌توجهی برای حمله به اهداف آمریکایی و متحدان واشینگتن فراهم می‌کند. به نوشته این روزنامه، این ارزیابی در بحث‌های دولت دونالد ترامپ درباره احتمال ازسرگیری جنگ نقش داشته است.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "20:57:10",
-      "gregorian_utc": "2026-11-15T17:27:10+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 132418,
-      "media_size_human": "129.31 KB",
+      "tehran_time": "21:00:14",
+      "gregorian_utc": "2026-11-15T17:30:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2287738,
+      "media_size_human": "2.18 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367093_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367093_photo.jpg",
+      "media_local_path": "media/IranintlTV_367094_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367094_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T18:00:49.572159+00:00"
+      "archived_at": "2026-11-15T18:10:32.578055+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T18:00:49.968259+00:00"
+      "archived_at": "2026-11-15T18:10:33.020211+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 102.19 MB)",
-      "archived_at": "2026-11-15T18:00:50.343152+00:00"
+      "archived_at": "2026-11-15T18:10:33.360019+00:00"
     }
   ]
 }
