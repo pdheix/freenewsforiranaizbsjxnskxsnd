@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T09:23:19.670378+00:00",
-  "shamsi_generated": "1405/08/24 09:23:19 تهران",
+  "generated_at": "2026-11-15T09:32:31.971721+00:00",
+  "shamsi_generated": "1405/08/24 09:32:31 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839320+00:00"
+      "archived_at": "2026-11-15T09:30:39.012619+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367025,
-      "message_link": "https://t.me/IranintlTV/367025",
-      "text": "عباس گلرو، عضو کمیسیون امنیت ملی مجلس، به خبرگزاری میزان گفت: «به صلاح آمریکا و کشورهای هم‌پیمان آن است که روند فعلی را متوقف کنند و وارد رویارویی نظامی نشوند، چرا که واکنش جمهوری اسلامی می‌تواند بازدارنده و متناسب با شرایط باشد.»\n\nگلرو یکشنبه ۲۴ آبان گفت: «دایره جنگ می‌تواند فراتر برود و در همان جغرافیای موجود نیز اهداف جدیدی تعریف شده است. این اهداف جدید مورد بررسی قرار گرفته و آنچه از توانمندی و آمادگی نیروهای مسلح خودمان سراغ داریم، نشان‌دهنده برنامه‌ها و توانمندی‌های جدید است.»\n\nاین نماینده مجلس افزود: «از نظر نظامی، نیروهای مسلح جمهوری اسلامی در سطح بالایی از آمادگی قرار دارند.»\nhttps://iranintl.com/202611156679",
+      "message_id": 367029,
+      "message_link": "https://t.me/IranintlTV/367029",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال نشان می‌دهد یک دانشجو بادکنک‌های سفیدی را مقابل دانشکده فنی و مهندسی تهران به یاد کشته‌شدگان آبان ۹۸ به هوا می‌فرستد.",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:50:40",
-      "gregorian_utc": "2026-11-15T09:20:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 146154,
-      "media_size_human": "142.73 KB",
+      "tehran_time": "12:58:06",
+      "gregorian_utc": "2026-11-15T09:28:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11627056,
+      "media_size_human": "11.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367025_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367025_photo.jpg",
+      "media_local_path": "media/IranintlTV_367029_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367029_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.246695+00:00"
+      "archived_at": "2026-11-15T09:30:39.329428+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.715786+00:00"
+      "archived_at": "2026-11-15T09:30:39.615192+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_123295_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123295_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:46.105963+00:00"
+      "archived_at": "2026-11-15T09:30:39.864348+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": "media/zedTV_15915_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15915_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:44.839398+00:00"
+      "archived_at": "2026-11-15T09:30:39.012707+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367024,
-      "message_link": "https://t.me/IranintlTV/367024",
-      "text": "🔻روماریو، مهاجم پیشین تیم ملی برزیل و قهرمان جام جهانی ۱۹۹۴، پس از شکست سه بر دو این تیم مقابل ژاپن در دیداری دوستانه، به‌شدت از کارلو آنچلوتی انتقاد کرد و خواستار برکناری فوری او از سرمربیگری برزیل شد.\n\n🔹به گزارش وب‌سایت گل، روماریو پس از شکست روز شنبه برزیل در ورزشگاه ملی سنگاپور، از سمیر شاود، رییس کنفدراسیون فوتبال برزیل، خواست پیش از آنکه تیم ملی این کشور وارد بحران عمیق‌تری شود، آنچلوتی را برکنار کند.\n\n🔹روماریو که اکنون سناتور برزیل است، در صفحه اینستاگرام خود خطاب به سرمربی ایتالیایی نوشت: «آنچلوتی، دیگر بس است! چمدان‌هایت را ببند و برو!»\n\n🔹او در ادامه تاکید کرد: «هیچ‌کس میراث تو را زیر سوال نمی‌برد. تو یکی از بزرگ‌ترین مربیان تاریخ فوتبال جهان هستی، اما این موفقیت‌ها در سطح باشگاهی بوده است. در تیم ملی برزیل هنوز نتوانسته‌ای نتیجه بگیری. دیگر تحمل نداریم!»\n\n🔹این انتقادها در شرایطی مطرح شده که آنچلوتی با وجود حذف برزیل مقابل نروژ در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، قرارداد خود را با فدراسیون فوتبال این کشور تا سال ۲۰۳۰ تمدید کرده است.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202611151418) بخوانید\n\n@iranintltvsport",
+      "message_id": 367028,
+      "message_link": "https://t.me/IranintlTV/367028",
+      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، با اشاره به اجرای طرح احراز هویت مصرف‌کنندگان بنزین گفت جمهوری اسلامی همزمان با اجرای این طرح در تهران، در استان‌های مرزی نیز عرضه بنزین را به شکل جیره‌بندی و قطره‌چکانی محدود کرده است.\n\nاو با اشاره به صف‌های طولانی مقابل جایگاه‌های سوخت، این اقدامات را نشانه کمبود بنزین و فاصله میان تولید و مصرف دانست و گفت دولت با محدود کردن عرضه، در پی زمینه‌سازی برای افزایش قیمت بنزین و جبران کسری بودجه است.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:45:13",
-      "gregorian_utc": "2026-11-15T09:15:13+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 164972,
-      "media_size_human": "161.11 KB",
+      "tehran_time": "12:56:25",
+      "gregorian_utc": "2026-11-15T09:26:25+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3905519,
+      "media_size_human": "3.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367024_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367024_photo.jpg",
+      "media_local_path": "media/IranintlTV_367028_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367028_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278082+00:00"
+      "archived_at": "2026-11-15T09:30:39.329555+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76792_document.pdf",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76792_document.pdf",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716236+00:00"
+      "archived_at": "2026-11-15T09:30:39.615772+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106031+00:00"
+      "archived_at": "2026-11-15T09:30:39.864429+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": "media/zedTV_15914_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15914_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:44.839431+00:00"
+      "archived_at": "2026-11-15T09:30:39.012760+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367023,
-      "message_link": "https://t.me/IranintlTV/367023",
-      "text": "هوشنگ حسن‌یاری، کارشناس مسائل خاورمیانه و امور نظامی، با اشاره به حملات سپاه پاسداران به بحرین گفت این حملات تلاش میانجی‌ها برای کاهش تنش را بی‌اعتبار کرده است.\n\nاو افزود جمهوری اسلامی با افزایش حملات پهپادی و اقدامات نظامی علیه کشورهای منطقه و کشتی‌ها، در پی منصرف کردن آمریکا از جنگ و وادار کردن واشینگتن به ترک منطقه است؛ راهبردی که به گفته او می‌تواند آمریکا را به ورود به مرحله نهایی جنگ سوق دهد.\n@iranintltv",
+      "message_id": 367027,
+      "message_link": "https://t.me/IranintlTV/367027",
+      "text": "مسعود پزشکیان یکشنبه ۲۴ آبان در نشست «روز کتاب و کتابخوانی» گفت: مطالعه کتاب برای مدیران و مسئولان به منظور درک هرچه بهتر شرایط و زندگی روز جامعه، اهمیت بالایی دارد و باید کتاب‌هایی مطالعه کنند که به آنان در جهت ارائه خدمت بهتر و حل مشکلات مردم کمک کند.\nاو افزود: ما باید مشکلات مردم را حل کنیم و این کار ممکن نیست، مگر اینکه ببینیم گذشتگانی که مشکلات را حل کردند، چه کردند و ما چگونه باید این راه را ادامه دهیم و خودمان را با آن تجربه‌ها تطبیق دهیم. \nhttps://iranintl.com/202611150665",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:44:32",
-      "gregorian_utc": "2026-11-15T09:14:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3996545,
-      "media_size_human": "3.81 MB",
+      "tehran_time": "12:55:00",
+      "gregorian_utc": "2026-11-15T09:25:00+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 126542,
+      "media_size_human": "123.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367023_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367023_video.mp4",
+      "media_local_path": "media/IranintlTV_367027_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367027_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278245+00:00"
+      "archived_at": "2026-11-15T09:30:39.329666+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.716437+00:00"
+      "archived_at": "2026-11-15T09:30:39.616095+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_123293_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123293_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:46.106062+00:00"
+      "archived_at": "2026-11-15T09:30:39.864475+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839455+00:00"
+      "archived_at": "2026-11-15T09:30:39.012797+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367022,
-      "message_link": "https://t.me/IranintlTV/367022",
-      "text": "فضاپیمای استارشیپ شرکت اسپیس‌ایکس شنبه ۲۳ آبان پس از بیش از ۲۲ ساعت پرواز در مدار زمین و ۱۴ بار گردش به دور سیاره، با موفقیت به برج پرتاب خود در پایگاه استاربیس در تگزاس بازگشت و توسط دو بازوی مکانیکی برج در هوا مهار شد. این نخستین بار است که فضاپیمای استارشیپ پس از پرواز، با موفقیت به محل پرتاب بازمی‌گردد و توسط برج مهار می‌شود. این موفقیت گام مهمی در تلاش اسپیس‌ایکس برای ساخت موشکی است که بتوان همه بخش‌های آن را دوباره استفاده کرد. با این حال، بوستر موشک، یعنی بخش بزرگ پایینی آن که استارشیپ را به فضا پرتاب می‌کند، در این ماموریت نتوانست به محل پرتاب بازگردد.\n@iranintltv",
+      "message_id": 367026,
+      "message_link": "https://t.me/IranintlTV/367026",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به افشای پرونده‌های فساد و قاچاق نفت گروه‌های نزدیک به جمهوری اسلامی در عراق گفت پیامدهای جنگ اخیر، دولت عراق را به سمت محدود کردن فعالیت این گروه‌ها سوق داده است.\n\nاو با اشاره به پرونده‌های کتائب حزب‌الله، عصائب اهل حق، حرکت حزب‌الله النجبا و سازمان بدر افزود افشای ابعاد فساد مالی این گروه‌ها، نگاه جامعه عراق به آنها را تغییر داده و دولت این کشور با حمایت آمریکا در پی مهار فعالیت نیروهای نیابتی جمهوری اسلامی است.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:44:17",
-      "gregorian_utc": "2026-11-15T09:14:17+00:00",
+      "tehran_time": "12:52:21",
+      "gregorian_utc": "2026-11-15T09:22:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 410356,
-      "media_size_human": "400.74 KB",
+      "media_size_bytes": 3806619,
+      "media_size_human": "3.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367022_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367022_video.mp4",
+      "media_local_path": "media/IranintlTV_367026_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367026_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278317+00:00"
+      "archived_at": "2026-11-15T09:30:39.329761+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.716502+00:00"
+      "archived_at": "2026-11-15T09:30:39.616201+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 102.19 MB)",
-      "archived_at": "2026-11-15T09:20:46.106108+00:00"
+      "archived_at": "2026-11-15T09:30:39.864541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839474+00:00"
+      "archived_at": "2026-11-15T09:30:39.012832+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367021,
-      "message_link": "https://t.me/IranintlTV/367021",
-      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفت جمهوری اسلامی بار دیگر در تلاش است برنامه هسته‌ای خود را احیا کند. او تاکید کرد اسرائیل باید با اقداماتی مشابه عملیات «طلوع شیران» و «غرش شیران»، مانع دستیابی جمهوری اسلامی به سلاح هسته‌ای شود.\n@iranintltv",
+      "message_id": 367025,
+      "message_link": "https://t.me/IranintlTV/367025",
+      "text": "عباس گلرو، عضو کمیسیون امنیت ملی مجلس، به خبرگزاری میزان گفت: «به صلاح آمریکا و کشورهای هم‌پیمان آن است که روند فعلی را متوقف کنند و وارد رویارویی نظامی نشوند، چرا که واکنش جمهوری اسلامی می‌تواند بازدارنده و متناسب با شرایط باشد.»\n\nگلرو یکشنبه ۲۴ آبان گفت: «دایره جنگ می‌تواند فراتر برود و در همان جغرافیای موجود نیز اهداف جدیدی تعریف شده است. این اهداف جدید مورد بررسی قرار گرفته و آنچه از توانمندی و آمادگی نیروهای مسلح خودمان سراغ داریم، نشان‌دهنده برنامه‌ها و توانمندی‌های جدید است.»\n\nاین نماینده مجلس افزود: «از نظر نظامی، نیروهای مسلح جمهوری اسلامی در سطح بالایی از آمادگی قرار دارند.»\nhttps://iranintl.com/202611156679",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:37:13",
-      "gregorian_utc": "2026-11-15T09:07:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 25044063,
-      "media_size_human": "23.88 MB",
+      "tehran_time": "12:50:40",
+      "gregorian_utc": "2026-11-15T09:20:40+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 146154,
+      "media_size_human": "142.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367021_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367021_video.mp4",
+      "media_local_path": "media/IranintlTV_367025_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367025_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278382+00:00"
+      "archived_at": "2026-11-15T09:30:39.329875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76789_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716534+00:00"
+      "archived_at": "2026-11-15T09:30:39.616252+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106153+00:00"
+      "archived_at": "2026-11-15T09:30:39.864615+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": "media/zedTV_15911_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15911_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:44.839506+00:00"
+      "archived_at": "2026-11-15T09:30:39.012885+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367020,
-      "message_link": "https://t.me/IranintlTV/367020",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال، صف طولانی خودروها را در یکشنبه ۲۴ آبان برای دریافت بنزین در شهر جم استان بوشهر نشان می‌دهد.",
+      "message_id": 367024,
+      "message_link": "https://t.me/IranintlTV/367024",
+      "text": "🔻روماریو، مهاجم پیشین تیم ملی برزیل و قهرمان جام جهانی ۱۹۹۴، پس از شکست سه بر دو این تیم مقابل ژاپن در دیداری دوستانه، به‌شدت از کارلو آنچلوتی انتقاد کرد و خواستار برکناری فوری او از سرمربیگری برزیل شد.\n\n🔹به گزارش وب‌سایت گل، روماریو پس از شکست روز شنبه برزیل در ورزشگاه ملی سنگاپور، از سمیر شاود، رییس کنفدراسیون فوتبال برزیل، خواست پیش از آنکه تیم ملی این کشور وارد بحران عمیق‌تری شود، آنچلوتی را برکنار کند.\n\n🔹روماریو که اکنون سناتور برزیل است، در صفحه اینستاگرام خود خطاب به سرمربی ایتالیایی نوشت: «آنچلوتی، دیگر بس است! چمدان‌هایت را ببند و برو!»\n\n🔹او در ادامه تاکید کرد: «هیچ‌کس میراث تو را زیر سوال نمی‌برد. تو یکی از بزرگ‌ترین مربیان تاریخ فوتبال جهان هستی، اما این موفقیت‌ها در سطح باشگاهی بوده است. در تیم ملی برزیل هنوز نتوانسته‌ای نتیجه بگیری. دیگر تحمل نداریم!»\n\n🔹این انتقادها در شرایطی مطرح شده که آنچلوتی با وجود حذف برزیل مقابل نروژ در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، قرارداد خود را با فدراسیون فوتبال این کشور تا سال ۲۰۳۰ تمدید کرده است.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202611151418) بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:32:54",
-      "gregorian_utc": "2026-11-15T09:02:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3294829,
-      "media_size_human": "3.14 MB",
+      "tehran_time": "12:45:13",
+      "gregorian_utc": "2026-11-15T09:15:13+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 164972,
+      "media_size_human": "161.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367020_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367020_video.mp4",
+      "media_local_path": "media/IranintlTV_367024_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367024_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278411+00:00"
+      "archived_at": "2026-11-15T09:30:39.331569+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76788_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76788_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716559+00:00"
+      "archived_at": "2026-11-15T09:30:39.616291+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106214+00:00"
+      "archived_at": "2026-11-15T09:30:39.864710+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839524+00:00"
+      "archived_at": "2026-11-15T09:30:39.012923+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367019,
-      "message_link": "https://t.me/IranintlTV/367019",
-      "text": "مقام‌های مجارستان در جریان تحقیقات درباره پرونده رشوه‌خواری میکلوش سشتاک، وزیر پیشین توسعه این کشور در دولت ویکتور اوربان، نزدیک به ۲۰ میلیون دلار پول نقد کشف و ضبط کردند. بخشی از این پول‌ها در جنگل‌ها دفن شده و بخشی دیگر در ساختمان‌های کشاورزی و انبارها پنهان شده بود. سشتاک هرگونه تخلف را رد کرده و وکیل او گفته است پول‌های ضبط‌شده متعلق به موکلش نیست. این کشفیات بخشی از کارزار مبارزه با فساد به رهبری پیتر ماگیار، نخست‌وزیر مجارستان، برای تحقیق درباره اتهامات فساد در دوران ۱۶ ساله حکومت اوربان است.\n@iranintltv",
+      "message_id": 367023,
+      "message_link": "https://t.me/IranintlTV/367023",
+      "text": "هوشنگ حسن‌یاری، کارشناس مسائل خاورمیانه و امور نظامی، با اشاره به حملات سپاه پاسداران به بحرین گفت این حملات تلاش میانجی‌ها برای کاهش تنش را بی‌اعتبار کرده است.\n\nاو افزود جمهوری اسلامی با افزایش حملات پهپادی و اقدامات نظامی علیه کشورهای منطقه و کشتی‌ها، در پی منصرف کردن آمریکا از جنگ و وادار کردن واشینگتن به ترک منطقه است؛ راهبردی که به گفته او می‌تواند آمریکا را به ورود به مرحله نهایی جنگ سوق دهد.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:29:02",
-      "gregorian_utc": "2026-11-15T08:59:02+00:00",
+      "tehran_time": "12:44:32",
+      "gregorian_utc": "2026-11-15T09:14:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 390578,
-      "media_size_human": "381.42 KB",
+      "media_size_bytes": 3996545,
+      "media_size_human": "3.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367019_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367019_video.mp4",
+      "media_local_path": "media/IranintlTV_367023_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367023_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278475+00:00"
+      "archived_at": "2026-11-15T09:30:39.331677+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76787_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76787_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716752+00:00"
+      "archived_at": "2026-11-15T09:30:39.616593+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_123289_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123289_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:46.106239+00:00"
+      "archived_at": "2026-11-15T09:30:39.864753+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839553+00:00"
+      "archived_at": "2026-11-15T09:30:39.012965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367018,
-      "message_link": "https://t.me/IranintlTV/367018",
-      "text": "دانشجویان متحد گزارش داد که حراست دانشگاه الزهرا در روزهای گذشته، شماری از دانشجویانی را که در روزهای هالووین با گریم از گیت خوابگاه عبور کرده بودند، احضار کرده است. \n\nبر اساس این گزارش، حراست دانشگاه پس از گذشت چند هفته و با بازبینی تصاویر دوربین‌های مداربسته، این دانشجویان را شناسایی کرده و به‌دلیل گریم هالووین، آن‌ها را مورد سرکوب و برخوردهای انضباطی قرار داده است.\n\nهمچنین دانشجویان احضارشده در جریان این برخوردها با اظهارات سرزنش‌آمیز روبه‌رو شده و به ارائه تعهد کتبی ملزم شده‌اند.\nhttps://iranintl.com/202611158398",
+      "message_id": 367022,
+      "message_link": "https://t.me/IranintlTV/367022",
+      "text": "فضاپیمای استارشیپ شرکت اسپیس‌ایکس شنبه ۲۳ آبان پس از بیش از ۲۲ ساعت پرواز در مدار زمین و ۱۴ بار گردش به دور سیاره، با موفقیت به برج پرتاب خود در پایگاه استاربیس در تگزاس بازگشت و توسط دو بازوی مکانیکی برج در هوا مهار شد. این نخستین بار است که فضاپیمای استارشیپ پس از پرواز، با موفقیت به محل پرتاب بازمی‌گردد و توسط برج مهار می‌شود. این موفقیت گام مهمی در تلاش اسپیس‌ایکس برای ساخت موشکی است که بتوان همه بخش‌های آن را دوباره استفاده کرد. با این حال، بوستر موشک، یعنی بخش بزرگ پایینی آن که استارشیپ را به فضا پرتاب می‌کند، در این ماموریت نتوانست به محل پرتاب بازگردد.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:26:01",
-      "gregorian_utc": "2026-11-15T08:56:01+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 159820,
-      "media_size_human": "156.07 KB",
+      "tehran_time": "12:44:17",
+      "gregorian_utc": "2026-11-15T09:14:17+00:00",
+      "media_type": "video",
+      "media_size_bytes": 410356,
+      "media_size_human": "400.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367018_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367018_photo.jpg",
+      "media_local_path": "media/IranintlTV_367022_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367022_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278553+00:00"
+      "archived_at": "2026-11-15T09:30:39.331780+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76786_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76786_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716794+00:00"
+      "archived_at": "2026-11-15T09:30:39.616661+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106269+00:00"
+      "archived_at": "2026-11-15T09:30:39.864801+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839571+00:00"
+      "archived_at": "2026-11-15T09:30:39.013011+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367017,
-      "message_link": "https://t.me/IranintlTV/367017",
-      "text": "**🗣روایت شما از وضعیت مدارس و هزینه تحصیل در ایران - یکشنبه ۲۴ آبان**\n\n🔹الان دو ماه از آغاز مدارس می‌گذره، ولی هنوز هیچ خبری از وسایل گرمایشی نیست و حتی اجازه ورود به کلاس رو هم بهمون نمی‌دن و باید توی حیاط مدرسه در سرما بایستیم. مدرسه صبحان در رباط کریم که داره ۹۲ میلیون تومان شهریه می‌گیره، حتی از معلم خوب هم برخوردار نیست.\n\n🔹از تبریز: من دانش‌آموزی ۱۷ ساله هستم. به دلیل فعال نشدن سیستم گرمایشی مدرسه و فاصله زیاد خونه تا مدرسه، حتی امکان همراه داشتن وسایل گرمایشی مثل پتو رو هم ندارم.\n\n🔹از کرمان: خاک بر سرشون، یکی بیاد بهشون بگه ما بسیج و هسته‌ای نمی‌خوایم. حداقل بیان وسایل گرمایشی مدرسه‌مون رو راه بندازن، یخ زدیم.\n\n🔹از کاشان: دبیرستان حاج احمد زارع، کلاس‌ها سرد هستن و شوفاژها رو روشن نمی‌کنن. با چند لایه لباس و کاپشن سر کلاس می‌شینیم و تمرکز روی درس نداریم.\n\n🔹از کرج: در مدرسه‌ها سیستم گرمایشی نداریم، چند روزه که برق هم نداریم و در تاریکی کامل به سر می‌بریم. از هر طریقی که می‌تونن دانش‌آموزان رو اذیت می‌کنن، از نحوه درس و امتحان بگیرید تا گیر دادن به مانتویی که کلاً یک سانت بالای زانو هست.\n\n🔹از پرند: دخترم در دبیرستان دخترانه ریحانه درس می‌خونه. کلاس‌ها هیچ‌گونه وسایل گرمایشی ندارن و بچه‌های ما همیشه مریض می‌شن.\n\n🔹دانشگاه آزاد دورود لرستان به خاطر کمبود منابع، وسایل گرمایشی رو روشن نمی‌کنن و از سرما یخ می‌زنیم.\n\n🔹به‌عنوان یک معلم، در یک ماه و نیمی که از آغاز مدرسه گذشته، جز بی‌احترامی و سرکوفت چیزی نشنیدم. بزرگ‌ترین اشتباهم این بود که وارد آموزش‌وپرورش شدم. اگر پرچمی و ارزشی نیستید، هیچ‌وقت وارد این سازمان سرتاسر نفرین‌شده جمهوری اسلامی نشید، مخصوصاً اگر یک خانم هستید.\n\n🔹من یک دانش‌آموز دهمی هستم، رشته‌ام هنر نقاشیه. از ساعت ۸ شب دربه‌در دنبال بوم، شابلون و قلم‌موی بزرگ بودیم. هرچقدر گشتیم، نبود. آخر رفتیم یک جا پیدا کردیم، شده ۳۰ میلیون تومان. واقعاً انصاف نیست، به‌خاطر یک بوم و شابلون آدم این‌قدر پول بده.\n\n🔹امروز در راه مدرسه، یک آخوند اومد و به‌خاطر اینکه من و دوستم مقنعه نپوشیده بودیم، ازمون فیلم گرفت و پیاده شد که بیاد سمت ما. یک خانم مهربون با ماشین سریع ما رو سوار کرد و رسوند به مدرسه. \n\n🔹از تهران: اگر آموزش‌وپرورش برای گرم کردن کلاس بودجه نداره، چطور برای امنیتی کردن کلاس و نصب دوربین بودجه داره؟",
+      "message_id": 367021,
+      "message_link": "https://t.me/IranintlTV/367021",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، گفت جمهوری اسلامی بار دیگر در تلاش است برنامه هسته‌ای خود را احیا کند. او تاکید کرد اسرائیل باید با اقداماتی مشابه عملیات «طلوع شیران» و «غرش شیران»، مانع دستیابی جمهوری اسلامی به سلاح هسته‌ای شود.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:25:18",
-      "gregorian_utc": "2026-11-15T08:55:18+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.278736+00:00"
+      "tehran_time": "12:37:13",
+      "gregorian_utc": "2026-11-15T09:07:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 25044063,
+      "media_size_human": "23.88 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_367021_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367021_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-15T09:30:39.331850+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.716894+00:00"
+      "archived_at": "2026-11-15T09:30:39.616831+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106301+00:00"
+      "archived_at": "2026-11-15T09:30:39.864858+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839587+00:00"
+      "archived_at": "2026-11-15T09:30:39.013043+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367016,
-      "message_link": "https://t.me/IranintlTV/367016",
-      "text": "رسانه‌های اسرائیلی گزارش دادند که آمادگی‌ها برای حمله احتمالی دوباره به جمهوری اسلامی ادامه دارد، اما در دستگاه امنیتی اسرائیل درباره زمان‌بندی عملیات و ضرورت اقدام فوری اختلاف نظر وجود دارد.\n\nجزییات بیشتر با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 367020,
+      "message_link": "https://t.me/IranintlTV/367020",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال، صف طولانی خودروها را در یکشنبه ۲۴ آبان برای دریافت بنزین در شهر جم استان بوشهر نشان می‌دهد.",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:24:04",
-      "gregorian_utc": "2026-11-15T08:54:04+00:00",
+      "tehran_time": "12:32:54",
+      "gregorian_utc": "2026-11-15T09:02:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 2546960,
-      "media_size_human": "2.43 MB",
+      "media_size_bytes": 3294829,
+      "media_size_human": "3.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367016_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367016_video.mp4",
+      "media_local_path": "media/IranintlTV_367020_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367020_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278783+00:00"
+      "archived_at": "2026-11-15T09:30:39.331890+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76784_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76784_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.716938+00:00"
+      "archived_at": "2026-11-15T09:30:39.616910+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106324+00:00"
+      "archived_at": "2026-11-15T09:30:39.864900+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839602+00:00"
+      "archived_at": "2026-11-15T09:30:39.013068+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367015,
-      "message_link": "https://t.me/IranintlTV/367015",
-      "text": "🔻روماریو، مهاجم پیشین تیم ملی برزیل و قهرمان جام جهانی ۱۹۹۴، پس از شکست سه بر دو این تیم مقابل ژاپن در دیداری دوستانه، به‌شدت از کارلو آنچلوتی انتقاد کرد و خواستار برکناری فوری او از سرمربیگری برزیل شد.\n\n🔹به گزارش وب‌سایت گل، روماریو پس از شکست روز شنبه برزیل در ورزشگاه ملی سنگاپور، از سمیر شاود، رییس کنفدراسیون فوتبال برزیل، خواست پیش از آنکه تیم ملی این کشور وارد بحران عمیق‌تری شود، آنچلوتی را برکنار کند.\n\n🔹روماریو که اکنون سناتور برزیل است، در صفحه اینستاگرام خود خطاب به سرمربی ایتالیایی نوشت: «آنچلوتی، دیگر بس است! چمدان‌هایت را ببند و برو!»\n\n🔹او در ادامه تاکید کرد: «هیچ‌کس میراث تو را زیر سوال نمی‌برد. تو یکی از بزرگ‌ترین مربیان تاریخ فوتبال جهان هستی، اما این موفقیت‌ها در سطح باشگاهی بوده است. در تیم ملی برزیل هنوز نتوانسته‌ای نتیجه بگیری. دیگر تحمل نداریم!»\n\n🔹این انتقادها در شرایطی مطرح شده که آنچلوتی با وجود حذف برزیل مقابل نروژ در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، قرارداد خود را با فدراسیون فوتبال این کشور تا سال ۲۰۳۰ تمدید کرده است.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202611151418) بخوانید\n\n@iranintltvsport",
+      "message_id": 367019,
+      "message_link": "https://t.me/IranintlTV/367019",
+      "text": "مقام‌های مجارستان در جریان تحقیقات درباره پرونده رشوه‌خواری میکلوش سشتاک، وزیر پیشین توسعه این کشور در دولت ویکتور اوربان، نزدیک به ۲۰ میلیون دلار پول نقد کشف و ضبط کردند. بخشی از این پول‌ها در جنگل‌ها دفن شده و بخشی دیگر در ساختمان‌های کشاورزی و انبارها پنهان شده بود. سشتاک هرگونه تخلف را رد کرده و وکیل او گفته است پول‌های ضبط‌شده متعلق به موکلش نیست. این کشفیات بخشی از کارزار مبارزه با فساد به رهبری پیتر ماگیار، نخست‌وزیر مجارستان، برای تحقیق درباره اتهامات فساد در دوران ۱۶ ساله حکومت اوربان است.\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:18:27",
-      "gregorian_utc": "2026-11-15T08:48:27+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 164972,
-      "media_size_human": "161.11 KB",
+      "tehran_time": "12:29:02",
+      "gregorian_utc": "2026-11-15T08:59:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 390578,
+      "media_size_human": "381.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367015_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367015_photo.jpg",
+      "media_local_path": "media/IranintlTV_367019_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367019_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.278884+00:00"
+      "archived_at": "2026-11-15T09:30:39.331979+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.717174+00:00"
+      "archived_at": "2026-11-15T09:30:39.617280+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106347+00:00"
+      "archived_at": "2026-11-15T09:30:39.864943+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839616+00:00"
+      "archived_at": "2026-11-15T09:30:39.013092+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367014,
-      "message_link": "https://t.me/IranintlTV/367014",
-      "text": "🔻برونو فرناندز، کاپیتان منچستریونایتد، تصمیم گرفته است مذاکرات تمدید قرارداد خود را تا مشخص شدن عملکرد مائوریسیو پوچتینو، سرمربی جدید این تیم، به تعویق بیندازد.\n\n🔹به گزارش روزنامه سان، فرناندز ۳۲ ساله که قراردادش تابستان آینده به پایان می‌رسد، تاکنون دو پیشنهاد تمدید قرارداد باشگاه را رد کرده و قصد دارد پیش از تصمیم‌گیری درباره آینده خود، شرایط تیم را زیر نظر پوچتینو ارزیابی کند.\n\n🔹این هافبک پرتغالی از نتایج ضعیف منچستریونایتد در فصل جاری و برخی تصمیم‌های مدیریتی باشگاه ناراضی است. منچستریونایتد پس از سقوط به منطقه سقوط لیگ برتر انگلیس، مایکل کریک را برکنار کرد و پوچتینو را به‌عنوان سرمربی جدید معرفی کرد.\n\n🔹یک منبع آگاه به سان گفت: «برونو می‌خواهد پیش از متعهد شدن به قرارداد جدید، ببیند در ادامه فصل چه اتفاقی می‌افتد.»\n\n🔹این منبع گفت: «او می‌داند پوچتینو مربی خوبی است، اما می‌خواهد ببیند باشگاه به‌درستی از او حمایت می‌کند یا نه. برونو و برخی دیگر از بازیکنان معتقدند شرایط این فصل به‌گونه‌ای بوده که آنها از ابتدا در موقعیت شکست قرار گرفته‌اند.»\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202611158646) بخوانید\n\n@iranintltvsport",
+      "message_id": 367018,
+      "message_link": "https://t.me/IranintlTV/367018",
+      "text": "دانشجویان متحد گزارش داد که حراست دانشگاه الزهرا در روزهای گذشته، شماری از دانشجویانی را که در روزهای هالووین با گریم از گیت خوابگاه عبور کرده بودند، احضار کرده است. \n\nبر اساس این گزارش، حراست دانشگاه پس از گذشت چند هفته و با بازبینی تصاویر دوربین‌های مداربسته، این دانشجویان را شناسایی کرده و به‌دلیل گریم هالووین، آن‌ها را مورد سرکوب و برخوردهای انضباطی قرار داده است.\n\nهمچنین دانشجویان احضارشده در جریان این برخوردها با اظهارات سرزنش‌آمیز روبه‌رو شده و به ارائه تعهد کتبی ملزم شده‌اند.\nhttps://iranintl.com/202611158398",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:18:27",
-      "gregorian_utc": "2026-11-15T08:48:27+00:00",
+      "tehran_time": "12:26:01",
+      "gregorian_utc": "2026-11-15T08:56:01+00:00",
       "media_type": "photo",
-      "media_size_bytes": 178661,
-      "media_size_human": "174.47 KB",
+      "media_size_bytes": 159820,
+      "media_size_human": "156.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367014_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367014_photo.jpg",
+      "media_local_path": "media/IranintlTV_367018_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367018_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.279002+00:00"
+      "archived_at": "2026-11-15T09:30:39.332124+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76780_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76780_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.717222+00:00"
+      "archived_at": "2026-11-15T09:30:39.617355+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106362+00:00"
+      "archived_at": "2026-11-15T09:30:39.864971+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839631+00:00"
+      "archived_at": "2026-11-15T09:30:39.013119+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367013,
-      "message_link": "https://t.me/IranintlTV/367013",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال در بامداد یکشنبه ۲۴ آبان، صف کیلومتری و طولانی خودروها را برای دریافت بنزین در عسلویه نشان می‌دهد.",
+      "message_id": 367017,
+      "message_link": "https://t.me/IranintlTV/367017",
+      "text": "**🗣روایت شما از وضعیت مدارس و هزینه تحصیل در ایران - یکشنبه ۲۴ آبان**\n\n🔹الان دو ماه از آغاز مدارس می‌گذره، ولی هنوز هیچ خبری از وسایل گرمایشی نیست و حتی اجازه ورود به کلاس رو هم بهمون نمی‌دن و باید توی حیاط مدرسه در سرما بایستیم. مدرسه صبحان در رباط کریم که داره ۹۲ میلیون تومان شهریه می‌گیره، حتی از معلم خوب هم برخوردار نیست.\n\n🔹از تبریز: من دانش‌آموزی ۱۷ ساله هستم. به دلیل فعال نشدن سیستم گرمایشی مدرسه و فاصله زیاد خونه تا مدرسه، حتی امکان همراه داشتن وسایل گرمایشی مثل پتو رو هم ندارم.\n\n🔹از کرمان: خاک بر سرشون، یکی بیاد بهشون بگه ما بسیج و هسته‌ای نمی‌خوایم. حداقل بیان وسایل گرمایشی مدرسه‌مون رو راه بندازن، یخ زدیم.\n\n🔹از کاشان: دبیرستان حاج احمد زارع، کلاس‌ها سرد هستن و شوفاژها رو روشن نمی‌کنن. با چند لایه لباس و کاپشن سر کلاس می‌شینیم و تمرکز روی درس نداریم.\n\n🔹از کرج: در مدرسه‌ها سیستم گرمایشی نداریم، چند روزه که برق هم نداریم و در تاریکی کامل به سر می‌بریم. از هر طریقی که می‌تونن دانش‌آموزان رو اذیت می‌کنن، از نحوه درس و امتحان بگیرید تا گیر دادن به مانتویی که کلاً یک سانت بالای زانو هست.\n\n🔹از پرند: دخترم در دبیرستان دخترانه ریحانه درس می‌خونه. کلاس‌ها هیچ‌گونه وسایل گرمایشی ندارن و بچه‌های ما همیشه مریض می‌شن.\n\n🔹دانشگاه آزاد دورود لرستان به خاطر کمبود منابع، وسایل گرمایشی رو روشن نمی‌کنن و از سرما یخ می‌زنیم.\n\n🔹به‌عنوان یک معلم، در یک ماه و نیمی که از آغاز مدرسه گذشته، جز بی‌احترامی و سرکوفت چیزی نشنیدم. بزرگ‌ترین اشتباهم این بود که وارد آموزش‌وپرورش شدم. اگر پرچمی و ارزشی نیستید، هیچ‌وقت وارد این سازمان سرتاسر نفرین‌شده جمهوری اسلامی نشید، مخصوصاً اگر یک خانم هستید.\n\n🔹من یک دانش‌آموز دهمی هستم، رشته‌ام هنر نقاشیه. از ساعت ۸ شب دربه‌در دنبال بوم، شابلون و قلم‌موی بزرگ بودیم. هرچقدر گشتیم، نبود. آخر رفتیم یک جا پیدا کردیم، شده ۳۰ میلیون تومان. واقعاً انصاف نیست، به‌خاطر یک بوم و شابلون آدم این‌قدر پول بده.\n\n🔹امروز در راه مدرسه، یک آخوند اومد و به‌خاطر اینکه من و دوستم مقنعه نپوشیده بودیم، ازمون فیلم گرفت و پیاده شد که بیاد سمت ما. یک خانم مهربون با ماشین سریع ما رو سوار کرد و رسوند به مدرسه. \n\n🔹از تهران: اگر آموزش‌وپرورش برای گرم کردن کلاس بودجه نداره، چطور برای امنیتی کردن کلاس و نصب دوربین بودجه داره؟",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "12:02:04",
-      "gregorian_utc": "2026-11-15T08:32:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6890174,
-      "media_size_human": "6.57 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367013_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367013_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.279029+00:00"
+      "tehran_time": "12:25:18",
+      "gregorian_utc": "2026-11-15T08:55:18+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-15T09:30:39.332405+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76779_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76779_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.717258+00:00"
+      "archived_at": "2026-11-15T09:30:39.617415+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106413+00:00"
+      "archived_at": "2026-11-15T09:30:39.865068+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839644+00:00"
+      "archived_at": "2026-11-15T09:30:39.013144+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367012,
-      "message_link": "https://t.me/IranintlTV/367012",
-      "text": "احمد راستینه، سخنگوی فراکسیون دفاع و اقتدار ملی مجلس، به سایت دیده‌بان ایران گفت: «به لطف خدا و توان دانشمندان هسته‌ای، به مرزهایی بازدارندگی مطلق نزدیک شده‌ایم و این بازدارندگی مطلق می‌تواند در برابر خطای محاسباتی آمریکا، در استفاده از سلاح‌های نامتعارف نمایش داده شود.»\n\nراستینه، یکشنبه ۲۴ آبان ادامه داد: «در صورت خطای محاسباتی آمریکا در حمله اتمی به برخی از مناطق کشور، این بازدارندگی مطلق را آن‌چنان گسترده به نمایش می‌گذاریم که جهان از این قدرت بازدارندگی متعجب می‌شود.»\n\nاین نماینده مجلس افزود: «غنی‌سازی اورانیوم یکی از کمترین فناوری‌های دانش هسته‌ای ماست و امروز در عرصه‌های مختلف دانش هسته‌ای به مراحلی از پیشرفت رسیده‌ایم که فناوری‌های هسته‌ای اسرائیل و پاکستان در برابر فناوری هسته‌ای جمهوری اسلامی بسیار ناچیز و حقیر است.»\nhttps://iranintl.com/202611157844",
+      "message_id": 367016,
+      "message_link": "https://t.me/IranintlTV/367016",
+      "text": "رسانه‌های اسرائیلی گزارش دادند که آمادگی‌ها برای حمله احتمالی دوباره به جمهوری اسلامی ادامه دارد، اما در دستگاه امنیتی اسرائیل درباره زمان‌بندی عملیات و ضرورت اقدام فوری اختلاف نظر وجود دارد.\n\nجزییات بیشتر با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "11:57:48",
-      "gregorian_utc": "2026-11-15T08:27:48+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 132022,
-      "media_size_human": "128.93 KB",
+      "tehran_time": "12:24:04",
+      "gregorian_utc": "2026-11-15T08:54:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2546960,
+      "media_size_human": "2.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367012_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367012_photo.jpg",
+      "media_local_path": "media/IranintlTV_367016_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367016_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.279101+00:00"
+      "archived_at": "2026-11-15T09:30:39.332478+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:45.717293+00:00"
+      "archived_at": "2026-11-15T09:30:39.617473+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-15T09:20:46.106449+00:00"
+      "archived_at": "2026-11-15T09:30:39.865139+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:44.839658+00:00"
+      "archived_at": "2026-11-15T09:30:39.013166+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367011,
-      "message_link": "https://t.me/IranintlTV/367011",
-      "text": "اسماعیل بقایی، سخنگوی وزارت خارجه جمهوری اسلامی، یک‌شنبه ۲۴ آبان در نشست خبری در واکنش به پرسشی درباره حملات اخیر جمهوری اسلامی به بحرین گفت ما پیش‌تر اعلام کردیم هیچ حمله‌ای را بی‌پاسخ نمی‌گذاریم و به شیوه و روشی که نیروهای نظامی تشخیص دهند پاسخ می‌دهیم.\nاو گفت تفاوت معناداری میان مقام‌های آمریکا درباره جنگ ایران وجود ندارد و تصمیم‌گیری درباره جنگ در واشینگتن انجام نمی‌شود، بلکه همه تصمیم‌ها در جای دیگری گرفته می‌شود.\nبقایی تاکید کرد استفاده از ابزار دیپلماسی به معنای امید بستن به هیچ طرفی نیست و گفت: «دیپلمات‌های آمریکایی خنجر بسته‌اند.»\nاو افزود جمهوری اسلامی هیچ تعهدی درباره برنامه هسته‌ای خود را نمی‌پذیرد و اکنون در مرحله پذیرش چنین تعهداتی نیست.\n\nhttps://iranintl.com/202611158648",
+      "message_id": 367015,
+      "message_link": "https://t.me/IranintlTV/367015",
+      "text": "🔻روماریو، مهاجم پیشین تیم ملی برزیل و قهرمان جام جهانی ۱۹۹۴، پس از شکست سه بر دو این تیم مقابل ژاپن در دیداری دوستانه، به‌شدت از کارلو آنچلوتی انتقاد کرد و خواستار برکناری فوری او از سرمربیگری برزیل شد.\n\n🔹به گزارش وب‌سایت گل، روماریو پس از شکست روز شنبه برزیل در ورزشگاه ملی سنگاپور، از سمیر شاود، رییس کنفدراسیون فوتبال برزیل، خواست پیش از آنکه تیم ملی این کشور وارد بحران عمیق‌تری شود، آنچلوتی را برکنار کند.\n\n🔹روماریو که اکنون سناتور برزیل است، در صفحه اینستاگرام خود خطاب به سرمربی ایتالیایی نوشت: «آنچلوتی، دیگر بس است! چمدان‌هایت را ببند و برو!»\n\n🔹او در ادامه تاکید کرد: «هیچ‌کس میراث تو را زیر سوال نمی‌برد. تو یکی از بزرگ‌ترین مربیان تاریخ فوتبال جهان هستی، اما این موفقیت‌ها در سطح باشگاهی بوده است. در تیم ملی برزیل هنوز نتوانسته‌ای نتیجه بگیری. دیگر تحمل نداریم!»\n\n🔹این انتقادها در شرایطی مطرح شده که آنچلوتی با وجود حذف برزیل مقابل نروژ در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، قرارداد خود را با فدراسیون فوتبال این کشور تا سال ۲۰۳۰ تمدید کرده است.\n\n🔹جزییات بیشتر را در [سایت](https://iranintl.com/202611151418) بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/08/24",
-      "tehran_time": "11:48:37",
-      "gregorian_utc": "2026-11-15T08:18:37+00:00",
+      "tehran_time": "12:18:27",
+      "gregorian_utc": "2026-11-15T08:48:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 150137,
-      "media_size_human": "146.62 KB",
+      "media_size_bytes": 164972,
+      "media_size_human": "161.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367011_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367011_photo.jpg",
+      "media_local_path": "media/IranintlTV_367015_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367015_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.279169+00:00"
+      "archived_at": "2026-11-15T09:30:39.332636+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76777_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76777_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-15T09:20:45.717329+00:00"
+      "archived_at": "2026-11-15T09:30:39.617532+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-15T09:20:46.106484+00:00"
+      "archived_at": "2026-11-15T09:30:39.865197+00:00"
     }
   ]
 }
