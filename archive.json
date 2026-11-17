@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T23:44:49.977929+00:00",
-  "shamsi_generated": "1405/08/26 23:44:49 تهران",
+  "generated_at": "2026-11-17T23:53:03.981383+00:00",
+  "shamsi_generated": "1405/08/26 23:53:03 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.831957+00:00"
+      "archived_at": "2026-11-17T23:50:37.548077+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367496,
-      "message_link": "https://t.me/IranintlTV/367496",
-      "text": "پلیس ترکیه بامداد سه‌شنبه وارد ساختمان یکی از پربیننده‌ترین شبکه‌های تلویزیونی منتقد دولت در استانبول شد و مدیریت آن با حکم قضایی به سرپرست دولتی واگذار شد.\n\nاین عملیات تنها یک ماه پس از اقدامی مشابه علیه یک شبکه تلویزیونی دیگر انجام شده و نگرانی احزاب مخالف درباره آزادی رسانه‌ها را افزایش داده است.\n\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 367497,
+      "message_link": "https://t.me/IranintlTV/367497",
+      "text": "دفتر دادستانی فدرال حوزه قضایی شرق نیویورک اعلام کرد که آصف مرچنت، تبعه پاکستان و از عوامل آموزش‌دیده سپاه پاسداران، سه‌شنبه در دادگاه فدرال بروکلین از سوی اریک آر. کومیتی، قاضی دادگاه منطقه‌ای آمریکا، به اتهام تلاش برای ارتکاب یک اقدام تروریستی فرامرزی و قتل سفارشی، به ۳۳۰ ماه زندان محکوم شد.\n\nتاد بلانش، دادستان کل آمریکا، گفت: «یک عامل جمهوری اسلامی که برای هماهنگی تلاش برای ترور رییس‌جمهور ترامپ به آمریکا آمده بود، به دلیل اقدامات مجرمانه خود به مجازات عادلانه‌ای محکوم شده است.»\n\nبر اساس اعتراف خود مرچنت، او داوطلبانه به سپاه پاسداران پیوست و به یک عامل اطلاعاتی آموزش‌دیده تبدیل شد.\n\nاو سپس به آمریکا سفر کرد و به نمایندگی از سپاه پاسداران، افرادی را برای اجرای قتل‌های سفارشی مقام‌های دولت آمریکا پیدا کرد و به آنها پول پرداخت.\n\nمرچنت اعتراف کرد که انگیزه این طرح ترور، تمایل ایران برای انتقام گرفتن از کشته شدن قاسم سلیمانی، فرمانده پیشین سپاه پاسداران، بوده است که در ژانویه ۲۰۲۰ در حمله پهپادی آمریکا کشته شد.\n\nجزئیات بیشتر را در سایت ایران اینترنشنال بخوانید.\nhttps://iranintl.com/202611173531",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "03:06:45",
-      "gregorian_utc": "2026-11-17T23:36:45+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1439716,
-      "media_size_human": "1.37 MB",
+      "tehran_time": "03:14:00",
+      "gregorian_utc": "2026-11-17T23:44:00+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 200939,
+      "media_size_human": "196.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367496_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367496_video.mp4",
+      "media_local_path": "media/IranintlTV_367497_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367497_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.225141+00:00"
+      "archived_at": "2026-11-17T23:50:37.833683+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76801_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76801_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.701980+00:00"
+      "archived_at": "2026-11-17T23:50:38.158760+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-17T23:40:41.071095+00:00"
+      "archived_at": "2026-11-17T23:50:38.443266+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.831992+00:00"
+      "archived_at": "2026-11-17T23:50:37.548121+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367495,
-      "message_link": "https://t.me/IranintlTV/367495",
-      "text": "به گزارش سی‌سی‌تی‌وی، ولادیمیر پوتین، رییس‌جمهوری روسیه، بامداد چهارشنبه برای شرکت در سی‌وسومین نشست سران همکاری اقتصادی آسیا-اقیانوسیه (اپک) وارد شنژن در استان گوانگدونگ در جنوب چین شد. این نشست چهارشنبه و پنجشنبه برگزار می‌شود. چای چی، عضو کمیته دائمی دفتر سیاسی و عضو دبیرخانه کمیته مرکزی حزب کمونیست چین، در فرودگاه از پوتین استقبال کرد.\n@iranintltv",
+      "message_id": 367496,
+      "message_link": "https://t.me/IranintlTV/367496",
+      "text": "پلیس ترکیه بامداد سه‌شنبه وارد ساختمان یکی از پربیننده‌ترین شبکه‌های تلویزیونی منتقد دولت در استانبول شد و مدیریت آن با حکم قضایی به سرپرست دولتی واگذار شد.\n\nاین عملیات تنها یک ماه پس از اقدامی مشابه علیه یک شبکه تلویزیونی دیگر انجام شده و نگرانی احزاب مخالف درباره آزادی رسانه‌ها را افزایش داده است.\n\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "03:01:29",
-      "gregorian_utc": "2026-11-17T23:31:29+00:00",
+      "tehran_time": "03:06:45",
+      "gregorian_utc": "2026-11-17T23:36:45+00:00",
       "media_type": "video",
-      "media_size_bytes": 784449,
-      "media_size_human": "766.06 KB",
+      "media_size_bytes": 1439716,
+      "media_size_human": "1.37 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367495_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367495_video.mp4",
+      "media_local_path": "media/IranintlTV_367496_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367496_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.225211+00:00"
+      "archived_at": "2026-11-17T23:50:37.833808+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.702310+00:00"
+      "archived_at": "2026-11-17T23:50:38.159115+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123384_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123384_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071144+00:00"
+      "archived_at": "2026-11-17T23:50:38.443323+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832016+00:00"
+      "archived_at": "2026-11-17T23:50:37.548149+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367494,
-      "message_link": "https://t.me/IranintlTV/367494",
-      "text": "رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، با اشاره به اعتراضات آبدانان پس از واژگونی اتوبوس حامل کارگران، گفت این حادثه را باید در بستر سال‌ها محرومیت و بی‌توجهی به ایمنی راه‌ها و زیرساخت‌های شهری بررسی کرد.\n\nاو افزود فقر، بی‌ثباتی معیشتی و از دست رفتن امید به آینده، بخش‌هایی از جامعه را به نیرویی برای تغییر تبدیل کرده و هر اعتراض می‌تواند زمینه پیوستن گروه‌های دیگر و گسترش اعتراضات را فراهم کند.\n@iranintltv",
+      "message_id": 367495,
+      "message_link": "https://t.me/IranintlTV/367495",
+      "text": "به گزارش سی‌سی‌تی‌وی، ولادیمیر پوتین، رییس‌جمهوری روسیه، بامداد چهارشنبه برای شرکت در سی‌وسومین نشست سران همکاری اقتصادی آسیا-اقیانوسیه (اپک) وارد شنژن در استان گوانگدونگ در جنوب چین شد. این نشست چهارشنبه و پنجشنبه برگزار می‌شود. چای چی، عضو کمیته دائمی دفتر سیاسی و عضو دبیرخانه کمیته مرکزی حزب کمونیست چین، در فرودگاه از پوتین استقبال کرد.\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "03:01:23",
-      "gregorian_utc": "2026-11-17T23:31:23+00:00",
+      "tehran_time": "03:01:29",
+      "gregorian_utc": "2026-11-17T23:31:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 3647093,
-      "media_size_human": "3.48 MB",
+      "media_size_bytes": 784449,
+      "media_size_human": "766.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367494_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367494_video.mp4",
+      "media_local_path": "media/IranintlTV_367495_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367495_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.225277+00:00"
+      "archived_at": "2026-11-17T23:50:37.833881+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76798_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.702434+00:00"
+      "archived_at": "2026-11-17T23:50:38.159224+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071179+00:00"
+      "archived_at": "2026-11-17T23:50:38.443362+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832046+00:00"
+      "archived_at": "2026-11-17T23:50:37.548182+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367493,
-      "message_link": "https://t.me/IranintlTV/367493",
-      "text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۶ آبان\n@iranintlTV",
+      "message_id": 367494,
+      "message_link": "https://t.me/IranintlTV/367494",
+      "text": "رقیه رضایی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، با اشاره به اعتراضات آبدانان پس از واژگونی اتوبوس حامل کارگران، گفت این حادثه را باید در بستر سال‌ها محرومیت و بی‌توجهی به ایمنی راه‌ها و زیرساخت‌های شهری بررسی کرد.\n\nاو افزود فقر، بی‌ثباتی معیشتی و از دست رفتن امید به آینده، بخش‌هایی از جامعه را به نیرویی برای تغییر تبدیل کرده و هر اعتراض می‌تواند زمینه پیوستن گروه‌های دیگر و گسترش اعتراضات را فراهم کند.\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:57:46",
-      "gregorian_utc": "2026-11-17T23:27:46+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30122490,
-      "media_size_human": "28.73 MB",
+      "tehran_time": "03:01:23",
+      "gregorian_utc": "2026-11-17T23:31:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3647093,
+      "media_size_human": "3.48 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367493_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367493_audio.mp3",
+      "media_local_path": "media/IranintlTV_367494_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367494_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.234817+00:00"
+      "archived_at": "2026-11-17T23:50:37.833952+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76797_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76797_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.702490+00:00"
+      "archived_at": "2026-11-17T23:50:38.159279+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071210+00:00"
+      "archived_at": "2026-11-17T23:50:38.443396+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832066+00:00"
+      "archived_at": "2026-11-17T23:50:37.548204+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367492,
-      "message_link": "https://t.me/IranintlTV/367492",
-      "text": "فروغ کنعانی، پژوهشگر جامعه‌شناسی و فعال حقوق زنان، با اشاره به تجمع اعتراضی مردم آبدانان گفت شعارهای ضدحکومتی و حمایت از شاهزاده رضا پهلوی نشان می‌دهد سرکوب دی‌ماه نتوانسته مطالبات سیاسی مردم را از میان ببرد.\n\nاو گفت اعتراض شهروندان پس از واژگونی اتوبوس حامل کارگران، فراتر از مطالبه تغییر مسئولان محلی رفته و کلیت جمهوری اسلامی را هدف قرار داده است. به ارزیابی او، تداوم عوامل نارضایتی، زمینه شکل‌گیری دوباره اعتراضات و گسترش آن‌ها را حفظ می‌کند.\n\nاو همچنین از ایرانیان خارج از کشور خواست ویدیوهای اعتراضات را بازنشر کنند و توجه نمایندگان سیاسی کشورهای محل اقامتشان را به آن‌ها جلب کنند.\n@iranintltv",
+      "message_id": 367493,
+      "message_link": "https://t.me/IranintlTV/367493",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۲۶ آبان\n@iranintlTV",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:51:26",
-      "gregorian_utc": "2026-11-17T23:21:26+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4137127,
-      "media_size_human": "3.95 MB",
+      "tehran_time": "02:57:46",
+      "gregorian_utc": "2026-11-17T23:27:46+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30122490,
+      "media_size_human": "28.73 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367492_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367492_video.mp4",
+      "media_local_path": "media/IranintlTV_367493_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367493_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.234944+00:00"
+      "archived_at": "2026-11-17T23:50:37.845671+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76796_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76796_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.702524+00:00"
+      "archived_at": "2026-11-17T23:50:38.159318+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071246+00:00"
+      "archived_at": "2026-11-17T23:50:38.443435+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832090+00:00"
+      "archived_at": "2026-11-17T23:50:37.548232+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367491,
-      "message_link": "https://t.me/IranintlTV/367491",
-      "text": "وزارت کشور بحرین با صدور یک هشدار از شهروندان و افراد مقیم خواست برای حفظ ایمنی عمومی، آرامش خود را حفظ کنند، به نزدیک‌ترین مکان امن بروند و اخبار را از طریق کانال‌های رسمی پیگیری کنند.\n\nهمزمان، العربیه از به صدا درآمدن آژیر در بحرین خبر داد.\nhttps://iranintl.com/202611176504",
+      "message_id": 367492,
+      "message_link": "https://t.me/IranintlTV/367492",
+      "text": "فروغ کنعانی، پژوهشگر جامعه‌شناسی و فعال حقوق زنان، با اشاره به تجمع اعتراضی مردم آبدانان گفت شعارهای ضدحکومتی و حمایت از شاهزاده رضا پهلوی نشان می‌دهد سرکوب دی‌ماه نتوانسته مطالبات سیاسی مردم را از میان ببرد.\n\nاو گفت اعتراض شهروندان پس از واژگونی اتوبوس حامل کارگران، فراتر از مطالبه تغییر مسئولان محلی رفته و کلیت جمهوری اسلامی را هدف قرار داده است. به ارزیابی او، تداوم عوامل نارضایتی، زمینه شکل‌گیری دوباره اعتراضات و گسترش آن‌ها را حفظ می‌کند.\n\nاو همچنین از ایرانیان خارج از کشور خواست ویدیوهای اعتراضات را بازنشر کنند و توجه نمایندگان سیاسی کشورهای محل اقامتشان را به آن‌ها جلب کنند.\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:43:46",
-      "gregorian_utc": "2026-11-17T23:13:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 52150,
-      "media_size_human": "50.93 KB",
+      "tehran_time": "02:51:26",
+      "gregorian_utc": "2026-11-17T23:21:26+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4137127,
+      "media_size_human": "3.95 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367491_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367491_photo.jpg",
+      "media_local_path": "media/IranintlTV_367492_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367492_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235015+00:00"
+      "archived_at": "2026-11-17T23:50:37.845872+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.702817+00:00"
+      "archived_at": "2026-11-17T23:50:38.159625+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071282+00:00"
+      "archived_at": "2026-11-17T23:50:38.443478+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832109+00:00"
+      "archived_at": "2026-11-17T23:50:37.548254+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367490,
-      "message_link": "https://t.me/IranintlTV/367490",
-      "text": "امیر گیتی، خبرنگار ایران‌اینترنشنال با اشاره به گزارش رویترز درباره بن‌بست مذاکرات گفت اطلاعات روشنی از سوی دو طرف درباره روند گفت‌وگوها منتشر نشده است.\n\nاو گفت در حالی که خبرگزاری‌ها به نقل از منابع خود از مذاکرات گزارش می‌دهند، مقام‌های جمهوری اسلامی انجام مذاکره را رد می‌کنند.\n\nگیتی افزود دونالد ترامپ ادامه وضعیت موجود و فشار اقتصادی را راهی برای رسیدن به فروپاشی اقتصادی جمهوری اسلامی توصیف کرده و اسکات بسنت، وزیر خزانه‌داری آمریکا، نیز بر تشدید بحران اقتصادی جمهوری اسلامی تاکید کرده است.\n@iranintltv",
+      "message_id": 367491,
+      "message_link": "https://t.me/IranintlTV/367491",
+      "text": "وزارت کشور بحرین با صدور یک هشدار از شهروندان و افراد مقیم خواست برای حفظ ایمنی عمومی، آرامش خود را حفظ کنند، به نزدیک‌ترین مکان امن بروند و اخبار را از طریق کانال‌های رسمی پیگیری کنند.\n\nهمزمان، العربیه از به صدا درآمدن آژیر در بحرین خبر داد.\nhttps://iranintl.com/202611176504",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:39:32",
-      "gregorian_utc": "2026-11-17T23:09:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2341388,
-      "media_size_human": "2.23 MB",
+      "tehran_time": "02:43:46",
+      "gregorian_utc": "2026-11-17T23:13:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 52150,
+      "media_size_human": "50.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367490_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367490_video.mp4",
+      "media_local_path": "media/IranintlTV_367491_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367491_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235181+00:00"
+      "archived_at": "2026-11-17T23:50:37.845952+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.702851+00:00"
+      "archived_at": "2026-11-17T23:50:38.159662+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071308+00:00"
+      "archived_at": "2026-11-17T23:50:38.443510+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": "media/zedTV_15976_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15976_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:39.832182+00:00"
+      "archived_at": "2026-11-17T23:50:37.548343+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367489,
-      "message_link": "https://t.me/IranintlTV/367489",
-      "text": "گیلا گملیل، وزیر فناوری اسرائیل، با انتشار بخشی از سخنرانی خود در وبینار مرکز مطالعات خاورمیانه و دیپلماسی حییم هرتزوگ در دانشگاه بن‌گوریون که با حضور شاهزاده رضا پهلوی برگزار شد، در ایکس نوشت: «من در کنار مردم ایران و شاهزاده رضا پهلوی در تلاش برای دستیابی به آزادی، ایستاده‌ام.»\n\nگملیل همچنین نوشت: «راه‌حل پایدار، جایگزینی حکومت اسلامی با یک حکومت دموکراتیک است. این مبارزه برای ایران است؛ برای مردم آن، کرامتشان و آینده‌شان.»",
+      "message_id": 367490,
+      "message_link": "https://t.me/IranintlTV/367490",
+      "text": "امیر گیتی، خبرنگار ایران‌اینترنشنال با اشاره به گزارش رویترز درباره بن‌بست مذاکرات گفت اطلاعات روشنی از سوی دو طرف درباره روند گفت‌وگوها منتشر نشده است.\n\nاو گفت در حالی که خبرگزاری‌ها به نقل از منابع خود از مذاکرات گزارش می‌دهند، مقام‌های جمهوری اسلامی انجام مذاکره را رد می‌کنند.\n\nگیتی افزود دونالد ترامپ ادامه وضعیت موجود و فشار اقتصادی را راهی برای رسیدن به فروپاشی اقتصادی جمهوری اسلامی توصیف کرده و اسکات بسنت، وزیر خزانه‌داری آمریکا، نیز بر تشدید بحران اقتصادی جمهوری اسلامی تاکید کرده است.\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:34:57",
-      "gregorian_utc": "2026-11-17T23:04:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 140357,
-      "media_size_human": "137.07 KB",
+      "tehran_time": "02:39:32",
+      "gregorian_utc": "2026-11-17T23:09:32+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2341388,
+      "media_size_human": "2.23 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367489_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367489_photo.jpg",
+      "media_local_path": "media/IranintlTV_367490_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367490_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235213+00:00"
+      "archived_at": "2026-11-17T23:50:37.846030+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.703118+00:00"
+      "archived_at": "2026-11-17T23:50:38.159957+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_123378_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123378_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071333+00:00"
+      "archived_at": "2026-11-17T23:50:38.443541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": "media/zedTV_15975_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15975_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:39.832217+00:00"
+      "archived_at": "2026-11-17T23:50:37.548381+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367488,
-      "message_link": "https://t.me/IranintlTV/367488",
-      "text": "به گزارش سمیرا قرائی، خبرنگار ایران‌اینترنشنال از شنژن چین، قرار است روز پنجشنبه نشستی سه‌جانبه و بی‌سابقه با حضور پوتین، شی و ترامپ برگزار شود و تنش با جمهوری اسلامی یکی از محورهای اصلی آن خواهد بود. برخی تحلیلگران این نشست را با کنفرانس یالتا در فوریه ۱۹۴۵ مقایسه کرده‌اند؛ برخی دیگر این قیاس را نادرست می‌دانند و معتقدند جمهوری اسلامی نه سرزمینی از دست داده و نه از نظر نظامی در موقعیت آلمان نازی قرار دارد. به گفته این تحلیلگران، چین موضوع تایوان، روسیه موضوع اوکراین و ترامپ پرونده جمهوری اسلامی را در دست دارد و به همین دلیل برخی معتقدند ممکن است پشت پرده اتفاقاتی رخ دهد که شنژن را شبیه یالتا کند.\n@iranintltv",
+      "message_id": 367489,
+      "message_link": "https://t.me/IranintlTV/367489",
+      "text": "گیلا گملیل، وزیر فناوری اسرائیل، با انتشار بخشی از سخنرانی خود در وبینار مرکز مطالعات خاورمیانه و دیپلماسی حییم هرتزوگ در دانشگاه بن‌گوریون که با حضور شاهزاده رضا پهلوی برگزار شد، در ایکس نوشت: «من در کنار مردم ایران و شاهزاده رضا پهلوی در تلاش برای دستیابی به آزادی، ایستاده‌ام.»\n\nگملیل همچنین نوشت: «راه‌حل پایدار، جایگزینی حکومت اسلامی با یک حکومت دموکراتیک است. این مبارزه برای ایران است؛ برای مردم آن، کرامتشان و آینده‌شان.»",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "02:13:10",
-      "gregorian_utc": "2026-11-17T22:43:10+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1912750,
-      "media_size_human": "1.82 MB",
+      "tehran_time": "02:34:57",
+      "gregorian_utc": "2026-11-17T23:04:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 140357,
+      "media_size_human": "137.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367488_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367488_video.mp4",
+      "media_local_path": "media/IranintlTV_367489_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367489_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235287+00:00"
+      "archived_at": "2026-11-17T23:50:37.846063+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76792_document.pdf",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76792_document.pdf",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.703491+00:00"
+      "archived_at": "2026-11-17T23:50:38.160345+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:41.071376+00:00"
+      "archived_at": "2026-11-17T23:50:38.443585+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": "media/zedTV_15974_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15974_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:39.832244+00:00"
+      "archived_at": "2026-11-17T23:50:37.548416+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367487,
-      "message_link": "https://t.me/IranintlTV/367487",
-      "text": "سرخط خبرهای چهارشنبه ۲۷ آبان\n@iranintltv",
+      "message_id": 367488,
+      "message_link": "https://t.me/IranintlTV/367488",
+      "text": "به گزارش سمیرا قرائی، خبرنگار ایران‌اینترنشنال از شنژن چین، قرار است روز پنجشنبه نشستی سه‌جانبه و بی‌سابقه با حضور پوتین، شی و ترامپ برگزار شود و تنش با جمهوری اسلامی یکی از محورهای اصلی آن خواهد بود. برخی تحلیلگران این نشست را با کنفرانس یالتا در فوریه ۱۹۴۵ مقایسه کرده‌اند؛ برخی دیگر این قیاس را نادرست می‌دانند و معتقدند جمهوری اسلامی نه سرزمینی از دست داده و نه از نظر نظامی در موقعیت آلمان نازی قرار دارد. به گفته این تحلیلگران، چین موضوع تایوان، روسیه موضوع اوکراین و ترامپ پرونده جمهوری اسلامی را در دست دارد و به همین دلیل برخی معتقدند ممکن است پشت پرده اتفاقاتی رخ دهد که شنژن را شبیه یالتا کند.\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:56:39",
-      "gregorian_utc": "2026-11-17T22:26:39+00:00",
+      "tehran_time": "02:13:10",
+      "gregorian_utc": "2026-11-17T22:43:10+00:00",
       "media_type": "video",
-      "media_size_bytes": 1385027,
-      "media_size_human": "1.32 MB",
+      "media_size_bytes": 1912750,
+      "media_size_human": "1.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367487_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367487_video.mp4",
+      "media_local_path": "media/IranintlTV_367488_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367488_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235317+00:00"
+      "archived_at": "2026-11-17T23:50:37.846145+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.703725+00:00"
+      "archived_at": "2026-11-17T23:50:38.160588+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_123376_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123376_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071407+00:00"
+      "archived_at": "2026-11-17T23:50:38.443659+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832261+00:00"
+      "archived_at": "2026-11-17T23:50:37.548438+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367486,
-      "message_link": "https://t.me/IranintlTV/367486",
-      "text": "ماتان کاهانا، عضو حزب یاشار، پس از شش ساعت بحث پارلمانی از سوی ائتلاف نتانیاهو در مخالفت با او، به ریاست کنست انتخاب شد.\n\nحزب لیکود، به رهبری نتانیاهو، چگونگی این انتخاب را «ننگی برای تمام دوران» خواند و نوشت: «امشب، رییس کنست با رای حامیان تروریسم و به‌صورت یک‌جانبه منصوب شد. این یکی از تاریک‌ترین نقاط تاریخ کنست است.»\n\nحزب لیکود اعلام کرد: «آیزنکوت، بنت و لیبرمن امروز ترجیح دادند به‌جای وحدت ملی، حامیان تروریسم را انتخاب کنند. تاریخ این اقدام را به یاد خواهد سپرد.»\nhttps://iranintl.com/202611176156",
+      "message_id": 367487,
+      "message_link": "https://t.me/IranintlTV/367487",
+      "text": "سرخط خبرهای چهارشنبه ۲۷ آبان\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:52:11",
-      "gregorian_utc": "2026-11-17T22:22:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 144590,
-      "media_size_human": "141.20 KB",
+      "tehran_time": "01:56:39",
+      "gregorian_utc": "2026-11-17T22:26:39+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1385027,
+      "media_size_human": "1.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367486_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367486_photo.jpg",
+      "media_local_path": "media/IranintlTV_367487_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367487_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235418+00:00"
+      "archived_at": "2026-11-17T23:50:37.846182+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:40.703795+00:00"
+      "archived_at": "2026-11-17T23:50:38.160666+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_123375_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123375_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071457+00:00"
+      "archived_at": "2026-11-17T23:50:38.443724+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832278+00:00"
+      "archived_at": "2026-11-17T23:50:37.548458+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367483,
-      "message_link": "https://t.me/IranintlTV/367483",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی\n@iranintlTV",
+      "message_id": 367486,
+      "message_link": "https://t.me/IranintlTV/367486",
+      "text": "ماتان کاهانا، عضو حزب یاشار، پس از شش ساعت بحث پارلمانی از سوی ائتلاف نتانیاهو در مخالفت با او، به ریاست کنست انتخاب شد.\n\nحزب لیکود، به رهبری نتانیاهو، چگونگی این انتخاب را «ننگی برای تمام دوران» خواند و نوشت: «امشب، رییس کنست با رای حامیان تروریسم و به‌صورت یک‌جانبه منصوب شد. این یکی از تاریک‌ترین نقاط تاریخ کنست است.»\n\nحزب لیکود اعلام کرد: «آیزنکوت، بنت و لیبرمن امروز ترجیح دادند به‌جای وحدت ملی، حامیان تروریسم را انتخاب کنند. تاریخ این اقدام را به یاد خواهد سپرد.»\nhttps://iranintl.com/202611176156",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:41:53",
-      "gregorian_utc": "2026-11-17T22:11:53+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 17362861,
-      "media_size_human": "16.56 MB",
+      "tehran_time": "01:52:11",
+      "gregorian_utc": "2026-11-17T22:22:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 144590,
+      "media_size_human": "141.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367483_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367483_audio.mp3",
+      "media_local_path": "media/IranintlTV_367486_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367486_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235464+00:00"
+      "archived_at": "2026-11-17T23:50:37.846258+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76789_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.703821+00:00"
+      "archived_at": "2026-11-17T23:50:38.160699+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_123374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071512+00:00"
+      "archived_at": "2026-11-17T23:50:38.443807+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832297+00:00"
+      "archived_at": "2026-11-17T23:50:37.548478+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367482,
-      "message_link": "https://t.me/IranintlTV/367482",
-      "text": "سیزده کارگر، بعد از پایان شیفت، به خانه برنگشتند. واژگونی اتوبوس کارکنان پتروپالایش دهلران، خانواده‌ها را داغدار کرد و مردم آبدانان را در سوگ و اعتراض به خیابان کشاند.\n\nچه کسی مسئول سالم برگشتن کارگر به خانه است؟\n\nبا پیام تسلیت نمی‌شود پاسخ خانواده‌ها را داد؛ کارگری هم که فردا دوباره سوار سرویس می‌شود، وسیله سالم می‌خواهد.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/PoPnz8uSS3U\n@iranintltv",
+      "message_id": 367483,
+      "message_link": "https://t.me/IranintlTV/367483",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: آبدانان برخاست؛ بازگشت اعتراضات خیابانی\n@iranintlTV",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:41:22",
-      "gregorian_utc": "2026-11-17T22:11:22+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6096016,
-      "media_size_human": "5.81 MB",
+      "tehran_time": "01:41:53",
+      "gregorian_utc": "2026-11-17T22:11:53+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 17362861,
+      "media_size_human": "16.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367482_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367482_video.mp4",
+      "media_local_path": "media/IranintlTV_367483_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367483_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235542+00:00"
+      "archived_at": "2026-11-17T23:50:37.846308+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76788_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76788_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.703844+00:00"
+      "archived_at": "2026-11-17T23:50:38.160727+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-17T23:40:41.071547+00:00"
+      "archived_at": "2026-11-17T23:50:38.443852+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832312+00:00"
+      "archived_at": "2026-11-17T23:50:37.548496+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367481,
-      "message_link": "https://t.me/IranintlTV/367481",
-      "text": "مهیار از ایلام: «عراقچی می‌گه فرانسه باید به معترضان احترام بذاره؛ پس آبدانان چی؟»\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/PoPnz8uSS3U\n@iranintltv",
+      "message_id": 367482,
+      "message_link": "https://t.me/IranintlTV/367482",
+      "text": "سیزده کارگر، بعد از پایان شیفت، به خانه برنگشتند. واژگونی اتوبوس کارکنان پتروپالایش دهلران، خانواده‌ها را داغدار کرد و مردم آبدانان را در سوگ و اعتراض به خیابان کشاند.\n\nچه کسی مسئول سالم برگشتن کارگر به خانه است؟\n\nبا پیام تسلیت نمی‌شود پاسخ خانواده‌ها را داد؛ کارگری هم که فردا دوباره سوار سرویس می‌شود، وسیله سالم می‌خواهد.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/PoPnz8uSS3U\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:39:57",
-      "gregorian_utc": "2026-11-17T22:09:57+00:00",
+      "tehran_time": "01:41:22",
+      "gregorian_utc": "2026-11-17T22:11:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 2894803,
-      "media_size_human": "2.76 MB",
+      "media_size_bytes": 6096016,
+      "media_size_human": "5.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367481_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367481_video.mp4",
+      "media_local_path": "media/IranintlTV_367482_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367482_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235588+00:00"
+      "archived_at": "2026-11-17T23:50:37.846391+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76787_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76787_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.704073+00:00"
+      "archived_at": "2026-11-17T23:50:38.160984+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_123372_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123372_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071581+00:00"
+      "archived_at": "2026-11-17T23:50:38.443897+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T23:40:39.832327+00:00"
+      "archived_at": "2026-11-17T23:50:37.548514+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367480,
-      "message_link": "https://t.me/IranintlTV/367480",
-      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | مسئول سالم برگشتن کارگر به خانه کیست؟\n@iranintlTV",
+      "message_id": 367481,
+      "message_link": "https://t.me/IranintlTV/367481",
+      "text": "مهیار از ایلام: «عراقچی می‌گه فرانسه باید به معترضان احترام بذاره؛ پس آبدانان چی؟»\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/PoPnz8uSS3U\n@iranintltv",
       "shamsi_date": "1405/08/27",
-      "tehran_time": "01:28:07",
-      "gregorian_utc": "2026-11-17T21:58:07+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 44766156,
-      "media_size_human": "42.69 MB",
+      "tehran_time": "01:39:57",
+      "gregorian_utc": "2026-11-17T22:09:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2894803,
+      "media_size_human": "2.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367480_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367480_audio.mp3",
+      "media_local_path": "media/IranintlTV_367481_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367481_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.235623+00:00"
+      "archived_at": "2026-11-17T23:50:37.846443+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76786_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76786_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:40.704118+00:00"
+      "archived_at": "2026-11-17T23:50:38.161040+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_123371_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123371_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T23:40:41.071603+00:00"
+      "archived_at": "2026-11-17T23:50:38.443930+00:00"
     }
   ]
 }
