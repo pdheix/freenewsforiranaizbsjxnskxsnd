@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T08:54:44.549052+00:00",
-  "shamsi_generated": "1405/08/26 08:54:44 تهران",
+  "generated_at": "2026-11-17T09:05:15.141887+00:00",
+  "shamsi_generated": "1405/08/26 09:05:15 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,38 +24,38 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15973,
-      "message_link": "https://t.me/zedTV/15973",
-      "text": "قدیری، تحلیل‌گر: ترور مجتبی خامنه‌ای نزدیک است.\nتمرکز بر حذف جانشین احتمالی رهبر جمهوری اسلامی شدت یافت.",
+      "message_id": 15976,
+      "message_link": "https://t.me/zedTV/15976",
+      "text": "صدور هشدار امنیتی در بحرین در پی حمله پهپادی سپاه به پایگاه هوایی شیخ عیسی؛\nفراخوان وزارت کشور بحرین از شهروندان برای پناه گرفتن در مکان‌های امن؛\nتأکید مارکو روبیو بر تعهد واشینگتن به تأمین امنیت متحدان در خلیج فارس.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:00:51",
-      "gregorian_utc": "2026-11-17T07:30:51+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672313+00:00"
+      "tehran_time": "12:28:15",
+      "gregorian_utc": "2026-11-17T08:58:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 121446,
+      "media_size_human": "118.60 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_15976_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15976_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-17T09:00:50.375074+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367358,
-      "message_link": "https://t.me/IranintlTV/367358",
-      "text": "سایت هرانا گزارش داد مبین حسینی، شهروند بهایی ساکن ساری، سه‌شنبه ۲۶ آبان پس از احضار و مراجعه به دادسرای عمومی و انقلاب ساری بازداشت شد. \n\nبنا بر گزارش هرانا، جلسه بازپرسی حسینی در همین روز برگزار شد و او در ارتباط با اتهام‌هایی از جمله «تبلیغ علیه نظام» از خود دفاع کرد، اما پس از پایان جلسه بازپرسی بازداشت شد. \n\nهرانا همچنین گزارش داد که این شهروند بهایی پیش‌تر، ۱۹ مهرماه از سوی ماموران اطلاعات سپاه در منزل خود بازداشت شده بود. \n\nبر اساس این گزارش، ماموران «بدون ارائه حکم قضایی» وارد منزل او شدند و ضمن توهین و ضرب و جرح مبین حسینی، تلفن همراهش را نیز توقیف کرده بودند.\n [iranintl.com/202611175295](https://t.co/0RF8ouZOD0)",
+      "message_id": 367360,
+      "message_link": "https://t.me/IranintlTV/367360",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد ایرانیان ساکن هامبورگ در آلمان دوشنبه ۲۵ آبان به یاد کیان پیرفلک تجمع کرده و شمع روشن کردند.\n﻿کیان، کودک ۹ ساله، ۲۵ آبان ۱۴۰۱ در جریان خیزش مهسا به دست ماموران جمهوری اسلامی کشته شد.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "12:19:54",
-      "gregorian_utc": "2026-11-17T08:49:54+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 124278,
-      "media_size_human": "121.37 KB",
+      "tehran_time": "12:30:35",
+      "gregorian_utc": "2026-11-17T09:00:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5802169,
+      "media_size_human": "5.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367358_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367358_photo.jpg",
+      "media_local_path": "media/IranintlTV_367360_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367360_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.938246+00:00"
+      "archived_at": "2026-11-17T09:00:50.747035+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.221746+00:00"
+      "archived_at": "2026-11-17T09:00:51.235186+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,43 +91,43 @@
       "media_local_path": "media/Mellig_123350_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123350_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.466595+00:00"
+      "archived_at": "2026-11-17T09:00:51.485211+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15972,
-      "message_link": "https://t.me/zedTV/15972",
-      "text": "سی‌ان‌ان: افشای طرح رژیم ایران برای حمله با بمب کثیف یا سلاح شیمیایی در واشینگتن.\nگزارش‌ها از هدف قرار گرفتن مقامات ارشد دولت ترامپ توسط عوامل جمهوری اسلامی حکایت دارد.\nآمادگی مقامات ایالات متحده برای مقابله با تهدیدات احتمالی و برنامه‌های تروریستی رژیم.",
+      "message_id": 15975,
+      "message_link": "https://t.me/zedTV/15975",
+      "text": "بازداشت مبین حسینی، شهروند بهایی در ساری با اتهام «تبلیغ علیه نظام» پس از احضار به دادسرا.\nهجوم پیشین ماموران اطلاعات سپاه به منزل این شهروند همراه با ضرب‌وشتم و بدون حکم قضایی.\nاستمرار فشارهای امنیتی و ضبط غیرقانونی لوازم شخصی توسط نهادهای سرکوبگر.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:00:51",
-      "gregorian_utc": "2026-11-17T07:30:51+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672362+00:00"
+      "tehran_time": "12:26:53",
+      "gregorian_utc": "2026-11-17T08:56:53+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 114575,
+      "media_size_human": "111.89 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_15975_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15975_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-17T09:00:50.375115+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367357,
-      "message_link": "https://t.me/IranintlTV/367357",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی، بی‌تابی خانواده سوگند صیادی، دانش‌آموز ۱۶ ساله را در مراسم خاکسپاری او در گیلانغرب در دوشنبه ۲۵ آبان نشان می‌دهد.\nسوگند، ۲۳ آبان به طرز مشکوکی در کرمانشاه جان باخت. گزارش‌های متعددی در خصوص خشونت خانوادگی علیه او و کوتاهی مسئولان مدرسه در توجه به وضعیتش منتشر شده است.",
+      "message_id": 367359,
+      "message_link": "https://t.me/IranintlTV/367359",
+      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، در گفت‌وگو با فاکس‌نیوز تاکید کرد دولت ترامپ اجازه نخواهد داد جنگ با جمهوری اسلامی برای سال‌ها ادامه پیدا کند. او گفت ترامپ برای مقابله با برنامه هسته‌ای ایران، گزینه‌های متعددی از جمله افزایش فشارهای نظامی و دیپلماتیک در اختیار دارد. \n@iranintltv",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "12:03:19",
-      "gregorian_utc": "2026-11-17T08:33:19+00:00",
+      "tehran_time": "12:30:13",
+      "gregorian_utc": "2026-11-17T09:00:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 11515152,
-      "media_size_human": "10.98 MB",
+      "media_size_bytes": 31216795,
+      "media_size_human": "29.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367357_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367357_video.mp4",
+      "media_local_path": "media/IranintlTV_367359_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367359_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.938305+00:00"
+      "archived_at": "2026-11-17T09:00:50.747124+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76798_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.221878+00:00"
+      "archived_at": "2026-11-17T09:00:51.235277+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,43 +163,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.466633+00:00"
+      "archived_at": "2026-11-17T09:00:51.485234+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15971,
-      "message_link": "https://t.me/zedTV/15971",
-      "text": "قیمت نان در سراسر کشور دو برابر شد؛ کوچک‌تر شدن سفره‌های مردم در پی بحران اقتصادی. ناتوانی رژیم در کنترل تورم و تامین نیازهای اولیه شهروندان. سقوط شدید قدرت خرید و تشدید فشارهای معیشتی بر توده‌های مردم.",
+      "message_id": 15974,
+      "message_link": "https://t.me/zedTV/15974",
+      "text": "افشای بهره‌کشی سیستماتیک و سرکوب زندانیان معترض در کارگاه‌های زندان.\nانتقال‌های اجباری و تنبیهی به دستور مقامات در پاسخ به اعتراض علیه بهره‌کشی.\nفقدان هرگونه سازوکار حمایتی برای مقابله با زورگویی مسئولان زندان.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "09:42:07",
-      "gregorian_utc": "2026-11-17T06:12:07+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672396+00:00"
+      "tehran_time": "12:26:09",
+      "gregorian_utc": "2026-11-17T08:56:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 160526,
+      "media_size_human": "156.76 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_15974_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_15974_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-17T09:00:50.375141+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367355,
-      "message_link": "https://t.me/IranintlTV/367355",
-      "text": "هم‌خوانی گروهی از زنان و مردان با ترانه «قصه عشق» ابی در تیزر برنامه موسیقایی «صحنه»، واکنش و انتقاد رسانه‌های حکومتی را برانگیخت. خبرگزاری تسنیم، وابسته به سپاه پاسداران، مدعی شد این برنامه مجوز انتشار ندارد و ضوابط تولید را رعایت نکرده است. ادعایی که تاکنون از سوی ساترا یا پلتفرم فیلیمو به‌طور رسمی تایید نشده است. فیلیمو اعلام کرده این برنامه قرار است از ۹ آذر منتشر شود.\n@iranintltv",
+      "message_id": 367358,
+      "message_link": "https://t.me/IranintlTV/367358",
+      "text": "سایت هرانا گزارش داد مبین حسینی، شهروند بهایی ساکن ساری، سه‌شنبه ۲۶ آبان پس از احضار و مراجعه به دادسرای عمومی و انقلاب ساری بازداشت شد. \n\nبنا بر گزارش هرانا، جلسه بازپرسی حسینی در همین روز برگزار شد و او در ارتباط با اتهام‌هایی از جمله «تبلیغ علیه نظام» از خود دفاع کرد، اما پس از پایان جلسه بازپرسی بازداشت شد. \n\nهرانا همچنین گزارش داد که این شهروند بهایی پیش‌تر، ۱۹ مهرماه از سوی ماموران اطلاعات سپاه در منزل خود بازداشت شده بود. \n\nبر اساس این گزارش، ماموران «بدون ارائه حکم قضایی» وارد منزل او شدند و ضمن توهین و ضرب و جرح مبین حسینی، تلفن همراهش را نیز توقیف کرده بودند.\n [iranintl.com/202611175295](https://t.co/0RF8ouZOD0)",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "12:00:29",
-      "gregorian_utc": "2026-11-17T08:30:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1314252,
-      "media_size_human": "1.25 MB",
+      "tehran_time": "12:19:54",
+      "gregorian_utc": "2026-11-17T08:49:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124278,
+      "media_size_human": "121.37 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367355_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367355_video.mp4",
+      "media_local_path": "media/IranintlTV_367358_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.938392+00:00"
+      "archived_at": "2026-11-17T09:00:50.747205+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76797_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76797_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.221946+00:00"
+      "archived_at": "2026-11-17T09:00:51.235310+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 143.33 MB)",
-      "archived_at": "2026-11-17T08:50:37.466714+00:00"
+      "archived_at": "2026-11-17T09:00:51.485269+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15970,
-      "message_link": "https://t.me/zedTV/15970",
-      "text": "گزارش آی۲۴ نیوز از افزایش چشمگیر حضور نظامی آمریکا در منطقه.\n۵۳ هزار نیروی ایالات متحده در انتظار دستور دونالد ترامپ علیه رژیم ایران.\nآماده‌باش کامل قوای نظامی آمریکا در خاورمیانه.",
+      "message_id": 15973,
+      "message_link": "https://t.me/zedTV/15973",
+      "text": "قدیری، تحلیل‌گر: ترور مجتبی خامنه‌ای نزدیک است.\nتمرکز بر حذف جانشین احتمالی رهبر جمهوری اسلامی شدت یافت.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "01:10:46",
-      "gregorian_utc": "2026-11-16T21:40:46+00:00",
+      "tehran_time": "11:00:51",
+      "gregorian_utc": "2026-11-17T07:30:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672432+00:00"
+      "archived_at": "2026-11-17T09:00:50.375161+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367354,
-      "message_link": "https://t.me/IranintlTV/367354",
-      "text": "🔻صورت‌های مالی باشگاه پرسپولیس نشان می‌دهد زیان خالص این باشگاه در سال مالی منتهی به ۳۱ خرداد ۱۴۰۵، با افزایش ۸۱ درصدی نسبت به سال گذشته، به بیش از هزار و ۱۱۳ میلیارد تومان رسیده است.\n\n🔹این زیان عمدتا ناشی از بیشتر بودن هزینه‌های عملیاتی باشگاه نسبت به درآمدها، افزایش هزینه‌های اداری و مالی و کاهش شدید سایر درآمدها بوده است.\n\n🔹بر اساس گزارش خبرگزاری آنا، درآمد عملیاتی پرسپولیس با رشد ۶۱ درصدی به حدود ۹۱۵ میلیارد تومان رسیده، اما هزینه‌های مستقیم مرتبط با فعالیت‌های باشگاه بیش از هزار و ۵۲۶ میلیارد تومان بوده است. یعنی هزینه‌های عملیاتی به‌تنهایی حدود ۶۱۱ میلیارد تومان از درآمدهای عملیاتی بیشتر بوده‌اند.\n\n🔹همچنین هزینه‌های اداری و عمومی با افزایش ۹۷ درصدی به ۲۲۰ میلیارد تومان و هزینه‌های مالی با رشد ۸۶ درصدی به ۵۹ میلیارد تومان رسیده است. سایر درآمدهای باشگاه نیز بیش از ۹۰ درصد کاهش یافته است.\n\n🔹در مجموع، زیان عملیاتی پرسپولیس به ۸۸۰ میلیارد تومان و زیان خالص آن به هزار و ۱۱۳ میلیارد تومان رسیده است. رقمی که نسبت به سال مالی گذشته نزدیک به ۵۰۰ میلیارد تومان افزایش نشان می‌دهد.\n\n@iranintltvsport",
+      "message_id": 367357,
+      "message_link": "https://t.me/IranintlTV/367357",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی، بی‌تابی خانواده سوگند صیادی، دانش‌آموز ۱۶ ساله را در مراسم خاکسپاری او در گیلانغرب در دوشنبه ۲۵ آبان نشان می‌دهد.\nسوگند، ۲۳ آبان به طرز مشکوکی در کرمانشاه جان باخت. گزارش‌های متعددی در خصوص خشونت خانوادگی علیه او و کوتاهی مسئولان مدرسه در توجه به وضعیتش منتشر شده است.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:59:12",
-      "gregorian_utc": "2026-11-17T08:29:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 280095,
-      "media_size_human": "273.53 KB",
+      "tehran_time": "12:03:19",
+      "gregorian_utc": "2026-11-17T08:33:19+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11515152,
+      "media_size_human": "10.98 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367354_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367354_photo.jpg",
+      "media_local_path": "media/IranintlTV_367357_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367357_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.948434+00:00"
+      "archived_at": "2026-11-17T09:00:50.747226+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76796_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76796_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.222002+00:00"
+      "archived_at": "2026-11-17T09:00:51.235337+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-17T08:50:37.466781+00:00"
+      "archived_at": "2026-11-17T09:00:51.485309+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15969,
-      "message_link": "https://t.me/zedTV/15969",
-      "text": "وقوع حریق در چهارمین نفتکش در شرق تنگه هرمز طی شبانه‌روز گذشته؛\nتداوم ناامنی در مسیرهای دریانوردی و شریان‌های اقتصادی منطقه؛\nگزارش ارتش جمهوری اسلامی از آتش‌سوزی در چهارمین شناور متخلف.",
+      "message_id": 15972,
+      "message_link": "https://t.me/zedTV/15972",
+      "text": "سی‌ان‌ان: افشای طرح رژیم ایران برای حمله با بمب کثیف یا سلاح شیمیایی در واشینگتن.\nگزارش‌ها از هدف قرار گرفتن مقامات ارشد دولت ترامپ توسط عوامل جمهوری اسلامی حکایت دارد.\nآمادگی مقامات ایالات متحده برای مقابله با تهدیدات احتمالی و برنامه‌های تروریستی رژیم.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "01:10:46",
-      "gregorian_utc": "2026-11-16T21:40:46+00:00",
+      "tehran_time": "11:00:51",
+      "gregorian_utc": "2026-11-17T07:30:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672462+00:00"
+      "archived_at": "2026-11-17T09:00:50.375176+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367353,
-      "message_link": "https://t.me/IranintlTV/367353",
-      "text": "محمد درویش، کارشناس محیط‌زیست، با انتقاد از بی‌توجهی مسئولان به حل معضل آلودگی هوا، کمبود بودجه را بهانه دانست و به سایت خبری جماران گفت: «ای‌کاش آقایان همان‌قدر که برای فرستادن میمون به فضا، تولید کیک زرد و ساخت موشک بالستیک عزم دارند، برای حل مشکلات شهری هم عزم داشتند.»\n\nدرویش سه‌شنبه ۲۶ آبان افزود: «معلوم می‌شود مسئولان ما اصلا نمی‌خواهند کاری در این زمینه انجام دهند و ظاهرا ارسال یک میمون به فضا، اولویت بیشتری برای آنان دارد تا حل مشکل آلودگی هوا.»\n\nاین کارشناس محیط‌زیست همچنین با اشاره به تداوم مازوت‌سوزی در نیروگاه‌ها، گفت: «اگرچه شش هزار مگاوات برق خورشیدی به مدار اضافه شده، اما همچنان بسیاری از نیروگاه‌ها از مازوت استفاده می‌کنند و حتما تا آخر زمستان، میزان مازوت‌سوزی بیشتر خواهد شد.»\nhttps://iranintl.com/202611177673",
+      "message_id": 367355,
+      "message_link": "https://t.me/IranintlTV/367355",
+      "text": "هم‌خوانی گروهی از زنان و مردان با ترانه «قصه عشق» ابی در تیزر برنامه موسیقایی «صحنه»، واکنش و انتقاد رسانه‌های حکومتی را برانگیخت. خبرگزاری تسنیم، وابسته به سپاه پاسداران، مدعی شد این برنامه مجوز انتشار ندارد و ضوابط تولید را رعایت نکرده است. ادعایی که تاکنون از سوی ساترا یا پلتفرم فیلیمو به‌طور رسمی تایید نشده است. فیلیمو اعلام کرده این برنامه قرار است از ۹ آذر منتشر شود.\n@iranintltv",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:51:34",
-      "gregorian_utc": "2026-11-17T08:21:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 208272,
-      "media_size_human": "203.39 KB",
+      "tehran_time": "12:00:29",
+      "gregorian_utc": "2026-11-17T08:30:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1314252,
+      "media_size_human": "1.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367353_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367353_photo.jpg",
+      "media_local_path": "media/IranintlTV_367355_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367355_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.948618+00:00"
+      "archived_at": "2026-11-17T09:00:50.747272+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.222363+00:00"
+      "archived_at": "2026-11-17T09:00:51.235531+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.466841+00:00"
+      "archived_at": "2026-11-17T09:00:51.485340+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15968,
-      "message_link": "https://t.me/zedTV/15968",
-      "text": "اقتصاد ۳۵۰ میلیارد دلاری ایران دهه‌ها از رقبای منطقه‌ای عقب ماند.\nرسیدن به سطح ترکیه نیازمند ۴۴ سال رشد اقتصادی بی‌سابقه و ناممکن است.\nخطر جدی سقوط معیشت شهروندان به وضعیت بحرانی ونزوئلا و سودان.",
+      "message_id": 15971,
+      "message_link": "https://t.me/zedTV/15971",
+      "text": "قیمت نان در سراسر کشور دو برابر شد؛ کوچک‌تر شدن سفره‌های مردم در پی بحران اقتصادی. ناتوانی رژیم در کنترل تورم و تامین نیازهای اولیه شهروندان. سقوط شدید قدرت خرید و تشدید فشارهای معیشتی بر توده‌های مردم.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "01:10:46",
-      "gregorian_utc": "2026-11-16T21:40:46+00:00",
+      "tehran_time": "09:42:07",
+      "gregorian_utc": "2026-11-17T06:12:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672501+00:00"
+      "archived_at": "2026-11-17T09:00:50.375194+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367352,
-      "message_link": "https://t.me/IranintlTV/367352",
-      "text": "پارلمان اسرائیل درباره انتخاب متان کهانا، نماینده حزب یاشار، به‌عنوان رئیس جدید کنست رای‌گیری می‌کند. پیش‌بینی می‌شود او با حمایت ائتلاف گادی آیزنکوت و احزاب عربی اکثریت آرا را کسب کند.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 367354,
+      "message_link": "https://t.me/IranintlTV/367354",
+      "text": "🔻صورت‌های مالی باشگاه پرسپولیس نشان می‌دهد زیان خالص این باشگاه در سال مالی منتهی به ۳۱ خرداد ۱۴۰۵، با افزایش ۸۱ درصدی نسبت به سال گذشته، به بیش از هزار و ۱۱۳ میلیارد تومان رسیده است.\n\n🔹این زیان عمدتا ناشی از بیشتر بودن هزینه‌های عملیاتی باشگاه نسبت به درآمدها، افزایش هزینه‌های اداری و مالی و کاهش شدید سایر درآمدها بوده است.\n\n🔹بر اساس گزارش خبرگزاری آنا، درآمد عملیاتی پرسپولیس با رشد ۶۱ درصدی به حدود ۹۱۵ میلیارد تومان رسیده، اما هزینه‌های مستقیم مرتبط با فعالیت‌های باشگاه بیش از هزار و ۵۲۶ میلیارد تومان بوده است. یعنی هزینه‌های عملیاتی به‌تنهایی حدود ۶۱۱ میلیارد تومان از درآمدهای عملیاتی بیشتر بوده‌اند.\n\n🔹همچنین هزینه‌های اداری و عمومی با افزایش ۹۷ درصدی به ۲۲۰ میلیارد تومان و هزینه‌های مالی با رشد ۸۶ درصدی به ۵۹ میلیارد تومان رسیده است. سایر درآمدهای باشگاه نیز بیش از ۹۰ درصد کاهش یافته است.\n\n🔹در مجموع، زیان عملیاتی پرسپولیس به ۸۸۰ میلیارد تومان و زیان خالص آن به هزار و ۱۱۳ میلیارد تومان رسیده است. رقمی که نسبت به سال مالی گذشته نزدیک به ۵۰۰ میلیارد تومان افزایش نشان می‌دهد.\n\n@iranintltvsport",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:36:55",
-      "gregorian_utc": "2026-11-17T08:06:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2365593,
-      "media_size_human": "2.26 MB",
+      "tehran_time": "11:59:12",
+      "gregorian_utc": "2026-11-17T08:29:12+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 280095,
+      "media_size_human": "273.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367352_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367352_video.mp4",
+      "media_local_path": "media/IranintlTV_367354_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367354_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.948772+00:00"
+      "archived_at": "2026-11-17T09:00:50.757662+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.222414+00:00"
+      "archived_at": "2026-11-17T09:00:51.235555+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_123345_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123345_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.466884+00:00"
+      "archived_at": "2026-11-17T09:00:51.485360+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15967,
-      "message_link": "https://t.me/zedTV/15967",
-      "text": "تحول روانی در جامعه؛ صدای انفجار و جنگنده‌ها مایه تسکین و امید شهروندان شده است. گزارش‌ها از تمایل عمومی به شنیدن صدای حملات علیه مواضع نظامی رژیم حکایت دارد. این وضعیت نشانه‌ای از بیزاری گسترده مردم از دهه‌ها سرکوب و استبداد ارزیابی می‌شود.",
+      "message_id": 15970,
+      "message_link": "https://t.me/zedTV/15970",
+      "text": "گزارش آی۲۴ نیوز از افزایش چشمگیر حضور نظامی آمریکا در منطقه.\n۵۳ هزار نیروی ایالات متحده در انتظار دستور دونالد ترامپ علیه رژیم ایران.\nآماده‌باش کامل قوای نظامی آمریکا در خاورمیانه.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:53:36",
-      "gregorian_utc": "2026-11-16T21:23:36+00:00",
+      "tehran_time": "01:10:46",
+      "gregorian_utc": "2026-11-16T21:40:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672531+00:00"
+      "archived_at": "2026-11-17T09:00:50.375209+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367351,
-      "message_link": "https://t.me/IranintlTV/367351",
-      "text": "ویدیوهای منتشرشده در رسانه‌های اجتماعی، مراسم خاکسپاری سوگند صیادی، دانش‌آموز ۱۶ ساله را در گیلانغرب در دوشنبه ۲۵ آبان نشان می‌دهد.\n﻿سوگند، ۲۳ آبان به طرز مشکوکی در کرمانشاه جان باخت. گزارش‌های متعددی در خصوص خشونت خانوادگی علیه او و کوتاهی مسئولان مدرسه در توجه به وضعیتش منتشر شده است.",
+      "message_id": 367353,
+      "message_link": "https://t.me/IranintlTV/367353",
+      "text": "محمد درویش، کارشناس محیط‌زیست، با انتقاد از بی‌توجهی مسئولان به حل معضل آلودگی هوا، کمبود بودجه را بهانه دانست و به سایت خبری جماران گفت: «ای‌کاش آقایان همان‌قدر که برای فرستادن میمون به فضا، تولید کیک زرد و ساخت موشک بالستیک عزم دارند، برای حل مشکلات شهری هم عزم داشتند.»\n\nدرویش سه‌شنبه ۲۶ آبان افزود: «معلوم می‌شود مسئولان ما اصلا نمی‌خواهند کاری در این زمینه انجام دهند و ظاهرا ارسال یک میمون به فضا، اولویت بیشتری برای آنان دارد تا حل مشکل آلودگی هوا.»\n\nاین کارشناس محیط‌زیست همچنین با اشاره به تداوم مازوت‌سوزی در نیروگاه‌ها، گفت: «اگرچه شش هزار مگاوات برق خورشیدی به مدار اضافه شده، اما همچنان بسیاری از نیروگاه‌ها از مازوت استفاده می‌کنند و حتما تا آخر زمستان، میزان مازوت‌سوزی بیشتر خواهد شد.»\nhttps://iranintl.com/202611177673",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:33:39",
-      "gregorian_utc": "2026-11-17T08:03:39+00:00",
-      "media_type": "video",
-      "media_size_bytes": 22605591,
-      "media_size_human": "21.56 MB",
+      "tehran_time": "11:51:34",
+      "gregorian_utc": "2026-11-17T08:21:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 208272,
+      "media_size_human": "203.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367351_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367351_video.mp4",
+      "media_local_path": "media/IranintlTV_367353_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.948829+00:00"
+      "archived_at": "2026-11-17T09:00:50.757770+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.222758+00:00"
+      "archived_at": "2026-11-17T09:00:51.235733+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_123344_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123344_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.466925+00:00"
+      "archived_at": "2026-11-17T09:00:51.485385+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15966,
-      "message_link": "https://t.me/zedTV/15966",
-      "text": "لغو زنگ تفریح در تمامی مدارس تهران به دلیل آلودگی شدید هوا؛ حبس دانش‌آموزان در کلاس‌های درس.\nاجرای طرح ترافیک زوج و فرد از درب منازل؛ تشدید محدودیت‌های تردد در پایتخت.\nتداوم روند صعودی آلاینده‌ها؛ ناکارآمدی طرح‌های اضطراری در مقابله با بحران آلودگی هوا.",
+      "message_id": 15969,
+      "message_link": "https://t.me/zedTV/15969",
+      "text": "وقوع حریق در چهارمین نفتکش در شرق تنگه هرمز طی شبانه‌روز گذشته؛\nتداوم ناامنی در مسیرهای دریانوردی و شریان‌های اقتصادی منطقه؛\nگزارش ارتش جمهوری اسلامی از آتش‌سوزی در چهارمین شناور متخلف.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:53:22",
-      "gregorian_utc": "2026-11-16T21:23:22+00:00",
+      "tehran_time": "01:10:46",
+      "gregorian_utc": "2026-11-16T21:40:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672573+00:00"
+      "archived_at": "2026-11-17T09:00:50.375234+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367350,
-      "message_link": "https://t.me/IranintlTV/367350",
-      "text": "🔻یوفا دوشنبه، ۲۵ آبان، در اقدامی کاملا غیرمنتظره، فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، را به‌عنوان رقیب جیانی اینفانتینو در انتخابات ریاست فیفا که قرار است ۱۸ مارس ۲۰۲۷ در رباط برگزار شود، معرفی کرد.\n\n🔹یوفا اعلام کرد: «در نشستی که به ریاست الکساندر چفرین، رییس یوفا، برگزار شد، اعضای کمیته اجرایی یوفا و شورای فیفا از فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، دعوت کردند تا به‌عنوان نامزد انتخابات ریاست فیفا در مارس ۲۰۲۷ وارد میدان شود و به اتفاق آرا حمایت کامل خود را از او اعلام کردند.»\n\n🔹یوفا که از زمان افشای پروژه تجاری نافرجام موسوم به «فیفا فوروارد انترپرایز» که برای جذب سرمایه‌گذاران خصوصی طراحی شده بود، در خط مقدم مخالفان جیانی اینفانتینو قرار دارد، به دنبال نامزدی معتبر برای رقابت با این مدیر ایتالیایی-سوییسی بود که از سال ۲۰۱۶ در این سمت حضور دارد.\n\n🔹پس از دریافت پاسخ‌های منفی پی‌درپی از سوی چهره‌هایی چون ویکتور مونتاگلیانی، رییس کنکاکاف، ناصر الخلیفی، رییس پاری‌سن‌ژرمن، و آرسن ونگر، سرمربی پیشین آرسنال، کنفدراسیون فوتبال اروپا در نهایت فیلیپ دیالوی ۶۳ ساله را برگزید.\n**\n**[**جزییات بیشتر**](https://www.iranintl.com/202611173979)\n\n@iranintltvsport",
+      "message_id": 367352,
+      "message_link": "https://t.me/IranintlTV/367352",
+      "text": "پارلمان اسرائیل درباره انتخاب متان کهانا، نماینده حزب یاشار، به‌عنوان رئیس جدید کنست رای‌گیری می‌کند. پیش‌بینی می‌شود او با حمایت ائتلاف گادی آیزنکوت و احزاب عربی اکثریت آرا را کسب کند.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:32:49",
-      "gregorian_utc": "2026-11-17T08:02:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 153999,
-      "media_size_human": "150.39 KB",
+      "tehran_time": "11:36:55",
+      "gregorian_utc": "2026-11-17T08:06:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2365593,
+      "media_size_human": "2.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367350_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367350_photo.jpg",
+      "media_local_path": "media/IranintlTV_367352_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367352_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949014+00:00"
+      "archived_at": "2026-11-17T09:00:50.757811+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76792_document.pdf",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76792_document.pdf",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.223299+00:00"
+      "archived_at": "2026-11-17T09:00:51.236057+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_123343_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123343_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.467011+00:00"
+      "archived_at": "2026-11-17T09:00:51.485426+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15965,
-      "message_link": "https://t.me/zedTV/15965",
-      "text": "تبعیض فاحش در دستگاه قضایی رژیم؛ اعدام برای اعتراض و مصونیت برای قتل فرزند.\nاولویت‌بندی اعدام‌ها برای سرکوب معترضان به جای برخورد با جنایات واقعی.\nتجربه تلخ زندگی شهروندان ایرانی در سایه قوانین ناعادلانه و ضدانسانی.",
+      "message_id": 15968,
+      "message_link": "https://t.me/zedTV/15968",
+      "text": "اقتصاد ۳۵۰ میلیارد دلاری ایران دهه‌ها از رقبای منطقه‌ای عقب ماند.\nرسیدن به سطح ترکیه نیازمند ۴۴ سال رشد اقتصادی بی‌سابقه و ناممکن است.\nخطر جدی سقوط معیشت شهروندان به وضعیت بحرانی ونزوئلا و سودان.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:11:36",
-      "gregorian_utc": "2026-11-16T20:41:36+00:00",
+      "tehran_time": "01:10:46",
+      "gregorian_utc": "2026-11-16T21:40:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672601+00:00"
+      "archived_at": "2026-11-17T09:00:50.375249+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367349,
-      "message_link": "https://t.me/IranintlTV/367349",
-      "text": "علی عبداللهی، رییس ستاد کل نیروهای مسلح، سه‌شنبه ۲۶ آبان اعلام کرد که جمهوری اسلامی «آمریکایی‌ها را تا قطب جنوب عقب خواهد راند».\n\nرییس ستاد کل نیروهای مسلح گفت: «ما در پهنه دریا توانستیم آمریکایی‌ها را عقب برانیم و آمریکایی‌ها را تا قطب جنوب عقب خواهیم راند؛ آمریکایی‌ها منتظر این اقدام ما باشند.»\n\nعبداللهی همچنین افزود که «به صراحت و با جرات اعلام می‌کنم ما امروز توانستیم در مقابل دو قدرن بزرگ دنیا مقاومت کنیم».\n\nاو گفت: «این مسیر باید تا زمانی که دشمن از اقدامات خود پشیمان شود، ادامه یابد.»\n\nرییس ستاد کل نیروهای مسلح همچنین افزود که «انتقام خون» علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، پیگیری خواهد شد.\nhttps://iranintl.com/202611179876",
+      "message_id": 367351,
+      "message_link": "https://t.me/IranintlTV/367351",
+      "text": "ویدیوهای منتشرشده در رسانه‌های اجتماعی، مراسم خاکسپاری سوگند صیادی، دانش‌آموز ۱۶ ساله را در گیلانغرب در دوشنبه ۲۵ آبان نشان می‌دهد.\n﻿سوگند، ۲۳ آبان به طرز مشکوکی در کرمانشاه جان باخت. گزارش‌های متعددی در خصوص خشونت خانوادگی علیه او و کوتاهی مسئولان مدرسه در توجه به وضعیتش منتشر شده است.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:30:43",
-      "gregorian_utc": "2026-11-17T08:00:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 111461,
-      "media_size_human": "108.85 KB",
+      "tehran_time": "11:33:39",
+      "gregorian_utc": "2026-11-17T08:03:39+00:00",
+      "media_type": "video",
+      "media_size_bytes": 22605591,
+      "media_size_human": "21.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367349_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367349_photo.jpg",
+      "media_local_path": "media/IranintlTV_367351_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367351_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949126+00:00"
+      "archived_at": "2026-11-17T09:00:50.757831+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.223604+00:00"
+      "archived_at": "2026-11-17T09:00:51.236213+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.467042+00:00"
+      "archived_at": "2026-11-17T09:00:51.485438+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15964,
-      "message_link": "https://t.me/zedTV/15964",
-      "text": "اعزام ۲۰ فروند شناور رزمی برای مقابله با جمهوری اسلامی.\nتنش‌های جاری با بحران موشکی کوبا مقایسه می‌شود.\nهشدار نسبت به پایان غیرمسالمت‌آمیز بزرگترین لشکرکشی دهه‌های اخیر.",
+      "message_id": 15967,
+      "message_link": "https://t.me/zedTV/15967",
+      "text": "تحول روانی در جامعه؛ صدای انفجار و جنگنده‌ها مایه تسکین و امید شهروندان شده است. گزارش‌ها از تمایل عمومی به شنیدن صدای حملات علیه مواضع نظامی رژیم حکایت دارد. این وضعیت نشانه‌ای از بیزاری گسترده مردم از دهه‌ها سرکوب و استبداد ارزیابی می‌شود.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:11:31",
-      "gregorian_utc": "2026-11-16T20:41:31+00:00",
+      "tehran_time": "00:53:36",
+      "gregorian_utc": "2026-11-16T21:23:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672628+00:00"
+      "archived_at": "2026-11-17T09:00:50.375263+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367348,
-      "message_link": "https://t.me/IranintlTV/367348",
-      "text": "حسین علیزاده، تحلیلگر مسائل بین‌الملل، با اشاره به سفر عباس عراقچی به عمان گفت پس از ناکامی تلاش‌های میانجیگرانه قطر، ترکیه و پاکستان، ممکن است مسقط در حال آزمودن مسیر تازه‌ای برای گفت‌وگو میان تهران و واشینگتن باشد.\n\nاو مدیریت تنش در خلیج فارس و تنگه هرمز را از اهداف احتمالی این رایزنی‌ها دانست. علیزاده همچنین با اشاره به اختلاف دیدگاه میان جی‌دی ونس و چهره‌هایی چون مارکو روبیو در دولت ترامپ، گفت مسئله جنگ با جمهوری اسلامی برای آمریکا هنوز ناتمام است.\n\n@iranintltv",
+      "message_id": 367350,
+      "message_link": "https://t.me/IranintlTV/367350",
+      "text": "🔻یوفا دوشنبه، ۲۵ آبان، در اقدامی کاملا غیرمنتظره، فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، را به‌عنوان رقیب جیانی اینفانتینو در انتخابات ریاست فیفا که قرار است ۱۸ مارس ۲۰۲۷ در رباط برگزار شود، معرفی کرد.\n\n🔹یوفا اعلام کرد: «در نشستی که به ریاست الکساندر چفرین، رییس یوفا، برگزار شد، اعضای کمیته اجرایی یوفا و شورای فیفا از فیلیپ دیالو، رییس فدراسیون فوتبال فرانسه، دعوت کردند تا به‌عنوان نامزد انتخابات ریاست فیفا در مارس ۲۰۲۷ وارد میدان شود و به اتفاق آرا حمایت کامل خود را از او اعلام کردند.»\n\n🔹یوفا که از زمان افشای پروژه تجاری نافرجام موسوم به «فیفا فوروارد انترپرایز» که برای جذب سرمایه‌گذاران خصوصی طراحی شده بود، در خط مقدم مخالفان جیانی اینفانتینو قرار دارد، به دنبال نامزدی معتبر برای رقابت با این مدیر ایتالیایی-سوییسی بود که از سال ۲۰۱۶ در این سمت حضور دارد.\n\n🔹پس از دریافت پاسخ‌های منفی پی‌درپی از سوی چهره‌هایی چون ویکتور مونتاگلیانی، رییس کنکاکاف، ناصر الخلیفی، رییس پاری‌سن‌ژرمن، و آرسن ونگر، سرمربی پیشین آرسنال، کنفدراسیون فوتبال اروپا در نهایت فیلیپ دیالوی ۶۳ ساله را برگزید.\n**\n**[**جزییات بیشتر**](https://www.iranintl.com/202611173979)\n\n@iranintltvsport",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:27:30",
-      "gregorian_utc": "2026-11-17T07:57:30+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3506506,
-      "media_size_human": "3.34 MB",
+      "tehran_time": "11:32:49",
+      "gregorian_utc": "2026-11-17T08:02:49+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 153999,
+      "media_size_human": "150.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367348_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367348_video.mp4",
+      "media_local_path": "media/IranintlTV_367350_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367350_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949216+00:00"
+      "archived_at": "2026-11-17T09:00:50.757920+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.223721+00:00"
+      "archived_at": "2026-11-17T09:00:51.236263+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.467090+00:00"
+      "archived_at": "2026-11-17T09:00:51.485460+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15963,
-      "message_link": "https://t.me/zedTV/15963",
-      "text": "خطر اعدام دانیال نیازی، جوان ۱۹ ساله اهل شیروان، در پی اتهامات ساختگی و شکنجه جسمی.\nگزارش‌ها از اخذ اعترافات اجباری و محرومیت این زندانی از دسترسی به وکیل حکایت دارد.\nتداوم بلاتکلیفی قضایی و نگرانی خانواده از صدور حکم مرگ برای این نوجوان.",
+      "message_id": 15966,
+      "message_link": "https://t.me/zedTV/15966",
+      "text": "لغو زنگ تفریح در تمامی مدارس تهران به دلیل آلودگی شدید هوا؛ حبس دانش‌آموزان در کلاس‌های درس.\nاجرای طرح ترافیک زوج و فرد از درب منازل؛ تشدید محدودیت‌های تردد در پایتخت.\nتداوم روند صعودی آلاینده‌ها؛ ناکارآمدی طرح‌های اضطراری در مقابله با بحران آلودگی هوا.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:11:31",
-      "gregorian_utc": "2026-11-16T20:41:31+00:00",
+      "tehran_time": "00:53:22",
+      "gregorian_utc": "2026-11-16T21:23:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672652+00:00"
+      "archived_at": "2026-11-17T09:00:50.375277+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367347,
-      "message_link": "https://t.me/IranintlTV/367347",
-      "text": "وزیر خارجه پاکستان، پس از دیدار با عباس عراقچی اعلام کرد اسلام‌آباد تلاش‌های خود برای ازسرگیری مذاکرات تهران و واشینگتن را متوقف نکرده است. او یادداشت تفاهم اسلام‌آباد را تنها مسیر حل درگیری میان جمهوری اسلامی و آمریکا دانست.\n\nگزارش جواد همدانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 367349,
+      "message_link": "https://t.me/IranintlTV/367349",
+      "text": "علی عبداللهی، رییس ستاد کل نیروهای مسلح، سه‌شنبه ۲۶ آبان اعلام کرد که جمهوری اسلامی «آمریکایی‌ها را تا قطب جنوب عقب خواهد راند».\n\nرییس ستاد کل نیروهای مسلح گفت: «ما در پهنه دریا توانستیم آمریکایی‌ها را عقب برانیم و آمریکایی‌ها را تا قطب جنوب عقب خواهیم راند؛ آمریکایی‌ها منتظر این اقدام ما باشند.»\n\nعبداللهی همچنین افزود که «به صراحت و با جرات اعلام می‌کنم ما امروز توانستیم در مقابل دو قدرن بزرگ دنیا مقاومت کنیم».\n\nاو گفت: «این مسیر باید تا زمانی که دشمن از اقدامات خود پشیمان شود، ادامه یابد.»\n\nرییس ستاد کل نیروهای مسلح همچنین افزود که «انتقام خون» علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، پیگیری خواهد شد.\nhttps://iranintl.com/202611179876",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:23:53",
-      "gregorian_utc": "2026-11-17T07:53:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2458541,
-      "media_size_human": "2.34 MB",
+      "tehran_time": "11:30:43",
+      "gregorian_utc": "2026-11-17T08:00:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 111461,
+      "media_size_human": "108.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367347_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367347_video.mp4",
+      "media_local_path": "media/IranintlTV_367349_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367349_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949290+00:00"
+      "archived_at": "2026-11-17T09:00:50.757971+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76789_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.223769+00:00"
+      "archived_at": "2026-11-17T09:00:51.236284+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.467137+00:00"
+      "archived_at": "2026-11-17T09:00:51.485480+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15962,
-      "message_link": "https://t.me/zedTV/15962",
-      "text": "کانال ۱۵ اسرائیل: تدارک حمله مشترک آمریکا و اسرائیل به مواضع جمهوری اسلامی و حزب‌الله.\nواکنش واشینگتن به حملات رژیم ایران به بحرین و تهدید علیه پایگاه‌های آمریکا در اروپا.\nافزایش آمادگی نظامی برای مقابله با اقدامات بی‌ثبات‌کننده جمهوری اسلامی در منطقه.",
+      "message_id": 15965,
+      "message_link": "https://t.me/zedTV/15965",
+      "text": "تبعیض فاحش در دستگاه قضایی رژیم؛ اعدام برای اعتراض و مصونیت برای قتل فرزند.\nاولویت‌بندی اعدام‌ها برای سرکوب معترضان به جای برخورد با جنایات واقعی.\nتجربه تلخ زندگی شهروندان ایرانی در سایه قوانین ناعادلانه و ضدانسانی.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:11:28",
-      "gregorian_utc": "2026-11-16T20:41:28+00:00",
+      "tehran_time": "00:11:36",
+      "gregorian_utc": "2026-11-16T20:41:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672677+00:00"
+      "archived_at": "2026-11-17T09:00:50.375290+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367346,
-      "message_link": "https://t.me/IranintlTV/367346",
-      "text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۲۶ آبان\n@iranintlTV",
+      "message_id": 367348,
+      "message_link": "https://t.me/IranintlTV/367348",
+      "text": "حسین علیزاده، تحلیلگر مسائل بین‌الملل، با اشاره به سفر عباس عراقچی به عمان گفت پس از ناکامی تلاش‌های میانجیگرانه قطر، ترکیه و پاکستان، ممکن است مسقط در حال آزمودن مسیر تازه‌ای برای گفت‌وگو میان تهران و واشینگتن باشد.\n\nاو مدیریت تنش در خلیج فارس و تنگه هرمز را از اهداف احتمالی این رایزنی‌ها دانست. علیزاده همچنین با اشاره به اختلاف دیدگاه میان جی‌دی ونس و چهره‌هایی چون مارکو روبیو در دولت ترامپ، گفت مسئله جنگ با جمهوری اسلامی برای آمریکا هنوز ناتمام است.\n\n@iranintltv",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:13:06",
-      "gregorian_utc": "2026-11-17T07:43:06+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30237184,
-      "media_size_human": "28.84 MB",
+      "tehran_time": "11:27:30",
+      "gregorian_utc": "2026-11-17T07:57:30+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3506506,
+      "media_size_human": "3.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367346_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367346_audio.mp3",
+      "media_local_path": "media/IranintlTV_367348_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367348_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949346+00:00"
+      "archived_at": "2026-11-17T09:00:50.758012+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76788_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76788_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.223809+00:00"
+      "archived_at": "2026-11-17T09:00:51.236301+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": "media/Mellig_123339_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123339_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.467197+00:00"
+      "archived_at": "2026-11-17T09:00:51.485507+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15961,
-      "message_link": "https://t.me/zedTV/15961",
-      "text": "سقوط ارزش دارایی‌ها: جهش قیمت کامیون از ۷ به ۱۸ میلیارد تومان در چهار ماه. بحران معیشت در لرستان؛ تلاش شهروندان برای جلوگیری از نابودی سرمایه‌ها. گسترش بی‌ثباتی اقتصادی و عقب‌ماندن مردم از تورم افسارگسیخته.",
+      "message_id": 15964,
+      "message_link": "https://t.me/zedTV/15964",
+      "text": "اعزام ۲۰ فروند شناور رزمی برای مقابله با جمهوری اسلامی.\nتنش‌های جاری با بحران موشکی کوبا مقایسه می‌شود.\nهشدار نسبت به پایان غیرمسالمت‌آمیز بزرگترین لشکرکشی دهه‌های اخیر.",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "00:11:23",
-      "gregorian_utc": "2026-11-16T20:41:23+00:00",
+      "tehran_time": "00:11:31",
+      "gregorian_utc": "2026-11-16T20:41:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672729+00:00"
+      "archived_at": "2026-11-17T09:00:50.375303+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367345,
-      "message_link": "https://t.me/IranintlTV/367345",
-      "text": "الحدث به نقل از تلویزیون بحرین خبر داد که سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات هوایی جمهوری اسلامی هستند.\n\nهمزمان روابط عمومی سپاه پاسداران با انتشار بیانیه‌ای اعلام کرد «پهپادهای رزمی سپاه»، بامداد سه‌شنبه ۲۶ آبان، «یک سامانه راداری متعلق به آمریکا در پایگاه شیخ عیسی بحرین» را هدف قرار داده‌اند. \n\nسپاه پاسداران در بیانیه خود نوشت این اقدام، «در پاسخ به تداوم نقض حریم هوایی جمهوری اسلامی از سوی پهپادهای ارتش آمریکا» صورت گرفته است.\nhttps://iranintl.com/202611176453",
+      "message_id": 367347,
+      "message_link": "https://t.me/IranintlTV/367347",
+      "text": "وزیر خارجه پاکستان، پس از دیدار با عباس عراقچی اعلام کرد اسلام‌آباد تلاش‌های خود برای ازسرگیری مذاکرات تهران و واشینگتن را متوقف نکرده است. او یادداشت تفاهم اسلام‌آباد را تنها مسیر حل درگیری میان جمهوری اسلامی و آمریکا دانست.\n\nگزارش جواد همدانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:09:30",
-      "gregorian_utc": "2026-11-17T07:39:30+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 69658,
-      "media_size_human": "68.03 KB",
+      "tehran_time": "11:23:53",
+      "gregorian_utc": "2026-11-17T07:53:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2458541,
+      "media_size_human": "2.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367345_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367345_photo.jpg",
+      "media_local_path": "media/IranintlTV_367347_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367347_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949436+00:00"
+      "archived_at": "2026-11-17T09:00:50.758044+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76787_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76787_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.224104+00:00"
+      "archived_at": "2026-11-17T09:00:51.236451+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-17T08:50:37.467252+00:00"
+      "archived_at": "2026-11-17T09:00:51.485531+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15960,
-      "message_link": "https://t.me/zedTV/15960",
-      "text": "روسیه: هیچ نشانه‌ای از کاهش تنش‌ها پیرامون جمهوری اسلامی دیده نمی‌شود.\nمعاون وزیر خارجه روسیه از تداوم وضعیت بحرانی خبر داد.",
-      "shamsi_date": "1405/08/25",
-      "tehran_time": "23:56:28",
-      "gregorian_utc": "2026-11-16T20:26:28+00:00",
+      "message_id": 15963,
+      "message_link": "https://t.me/zedTV/15963",
+      "text": "خطر اعدام دانیال نیازی، جوان ۱۹ ساله اهل شیروان، در پی اتهامات ساختگی و شکنجه جسمی.\nگزارش‌ها از اخذ اعترافات اجباری و محرومیت این زندانی از دسترسی به وکیل حکایت دارد.\nتداوم بلاتکلیفی قضایی و نگرانی خانواده از صدور حکم مرگ برای این نوجوان.",
+      "shamsi_date": "1405/08/26",
+      "tehran_time": "00:11:31",
+      "gregorian_utc": "2026-11-16T20:41:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672757+00:00"
+      "archived_at": "2026-11-17T09:00:50.375315+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367344,
-      "message_link": "https://t.me/IranintlTV/367344",
-      "text": "🔻پیمان حدادی، مدیرعامل پرسپولیس، اعلام کرد که این باشگاه شکایت خود درباره وضعیت یاسر آسانی، بازیکن استقلال، را به دادگاه حکمیت ورزش (CAS) برده و قصد دارد این پرونده را تا انتها پیگیری کند.\n\n🔹حدادی در یک گفتگوی تلویزیونی گفت: «پرونده آقای آسانی را به CAS برده‌ایم و تا انتها ادامه خواهیم داد. اگر هم هر بازیکنی از تیم ما غیرمجاز باشد، هر تیمی می‌تواند شکایت کند.»\n\n🔹او در واکنش به این پرسش که آیا حتی در صورت تایید وضعیت آسانی از سوی جیانی اینفانتینو، رییس فیفا، نیز شکایت را ادامه خواهد داد، بر پیگیری پرونده تاکید کرد.\n\n🔹مدیرعامل پرسپولیس در پاسخ به پرسشی درباره ثبت رسمی شکایت در دادگاه CAS گفت: «بله، چون این مصوبه هیات‌مدیره بوده است.»\n\n@iranintltvsport",
+      "message_id": 367346,
+      "message_link": "https://t.me/IranintlTV/367346",
+      "text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۲۶ آبان\n@iranintlTV",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:09:26",
-      "gregorian_utc": "2026-11-17T07:39:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 178251,
-      "media_size_human": "174.07 KB",
+      "tehran_time": "11:13:06",
+      "gregorian_utc": "2026-11-17T07:43:06+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30237184,
+      "media_size_human": "28.84 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367344_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367344_photo.jpg",
+      "media_local_path": "media/IranintlTV_367346_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367346_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949550+00:00"
+      "archived_at": "2026-11-17T09:00:50.758067+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76786_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76786_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.224170+00:00"
+      "archived_at": "2026-11-17T09:00:51.236481+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": "media/Mellig_123337_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123337_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:37.467292+00:00"
+      "archived_at": "2026-11-17T09:00:51.485548+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 15959,
-      "message_link": "https://t.me/zedTV/15959",
-      "text": "فروپاشی اعتماد اجتماعی؛ غارت سرمایه‌های مردم توسط شرکت‌های کلاهبردار در سایه خلأ نظارتی و بی‌کفایتی رژیم.\nگسترش فقر و ناامیدی در پی نابودی دارایی‌های زندگی شهروندان با وعده‌های توخالی اقتصادی.\nبحران عمیق مشروعیت؛ وقتی امنیت مالی و روانی جامعه فدای فساد ساختاری می‌شود.",
-      "shamsi_date": "1405/08/25",
-      "tehran_time": "23:56:23",
-      "gregorian_utc": "2026-11-16T20:26:23+00:00",
+      "message_id": 15962,
+      "message_link": "https://t.me/zedTV/15962",
+      "text": "کانال ۱۵ اسرائیل: تدارک حمله مشترک آمریکا و اسرائیل به مواضع جمهوری اسلامی و حزب‌الله.\nواکنش واشینگتن به حملات رژیم ایران به بحرین و تهدید علیه پایگاه‌های آمریکا در اروپا.\nافزایش آمادگی نظامی برای مقابله با اقدامات بی‌ثبات‌کننده جمهوری اسلامی در منطقه.",
+      "shamsi_date": "1405/08/26",
+      "tehran_time": "00:11:28",
+      "gregorian_utc": "2026-11-16T20:41:28+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:36.672781+00:00"
+      "archived_at": "2026-11-17T09:00:50.375325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 367343,
-      "message_link": "https://t.me/IranintlTV/367343",
-      "text": "یک شهروند با ارسال ویدویی به ایران‌اینترنشنال، صف طولانی تریلی‌ها را در گذرگاه مرزی سرو (مرز ایران و ترکیه) در دوشنبه ۲۵ آبان نشان می‌دهد.",
+      "message_id": 367345,
+      "message_link": "https://t.me/IranintlTV/367345",
+      "text": "الحدث به نقل از تلویزیون بحرین خبر داد که سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات هوایی جمهوری اسلامی هستند.\n\nهمزمان روابط عمومی سپاه پاسداران با انتشار بیانیه‌ای اعلام کرد «پهپادهای رزمی سپاه»، بامداد سه‌شنبه ۲۶ آبان، «یک سامانه راداری متعلق به آمریکا در پایگاه شیخ عیسی بحرین» را هدف قرار داده‌اند. \n\nسپاه پاسداران در بیانیه خود نوشت این اقدام، «در پاسخ به تداوم نقض حریم هوایی جمهوری اسلامی از سوی پهپادهای ارتش آمریکا» صورت گرفته است.\nhttps://iranintl.com/202611176453",
       "shamsi_date": "1405/08/26",
-      "tehran_time": "11:08:38",
-      "gregorian_utc": "2026-11-17T07:38:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 15922263,
-      "media_size_human": "15.18 MB",
+      "tehran_time": "11:09:30",
+      "gregorian_utc": "2026-11-17T07:39:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 69658,
+      "media_size_human": "68.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_367343_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367343_video.mp4",
+      "media_local_path": "media/IranintlTV_367345_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_367345_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-17T08:50:36.949591+00:00"
+      "archived_at": "2026-11-17T09:00:50.758108+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.224330+00:00"
+      "archived_at": "2026-11-17T09:00:51.236559+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-17T08:50:37.467339+00:00"
+      "archived_at": "2026-11-17T09:00:51.485571+00:00"
     }
   ]
 }
