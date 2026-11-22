@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T13:23:12.235106+00:00",
-  "shamsi_generated": "1405/09/01 13:23:12 تهران",
+  "generated_at": "2026-11-22T13:33:53.082886+00:00",
+  "shamsi_generated": "1405/09/01 13:33:53 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,38 +24,38 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16070,
-      "message_link": "https://t.me/zedTV/16070",
-      "text": "جهش ۱۰۰ درصدی قیمت پاستا و افزایش یک میلیاردی خودرو؛ سهمیه‌بندی نان آغاز شد.\nگرانی ۳۰ درصدی لاستیک و افزایش هزینه‌های حمل‌ونقل با تایید رسمی دولت.\nبحران معیشت در سراسر کشور؛ استیصال کسبه و بازنشستگان در برابر تورم افسارگسیخته.",
+      "message_id": 16071,
+      "message_link": "https://t.me/zedTV/16071",
+      "text": "تعطیلی جلسه علنی مجلس در پی آشوب و درگیری فیزیکی نمایندگان در صحن.\nتنش بر سر سیستم رأی‌دهی حمید رسایی؛ ناتوانی در مدیریت داخلی پارلمان.\nتداوم بحران و شکاف در بدنه حاکمیت همزمان با فشارهای معیشتی بر مردم.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:46:33",
-      "gregorian_utc": "2026-11-22T13:16:33+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830399+00:00"
+      "tehran_time": "16:57:29",
+      "gregorian_utc": "2026-11-22T13:27:29+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142789,
+      "media_size_human": "139.44 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_16071_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16071_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-22T13:30:41.722038+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368163,
-      "message_link": "https://t.me/IranintlTV/368163",
-      "text": "رییس گروه مدیریت سرطان وزارت بهداشت اعلام کرد که سالانه حدود ۱۴۲ هزار مورد جدید ابتلا به سرطان در ایران ثبت می‌شود که مردان بیش از نیمی از این موارد را تشکیل می‌دهند. بهشتیان دخانیات، تغذیه ناسالم و کم‌تحرکی را از عوامل خطر خواند و بر غربالگری زودهنگام در صورت وجود سابقه خانوادگی تاکید کرد.\n\nگفت‌وگو با بابک خطی، پزشک و متخصص کودکان\n@iranintltv",
+      "message_id": 368165,
+      "message_link": "https://t.me/IranintlTV/368165",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | یکشنبه ۱ آذر\n@iranintlTV",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:48:05",
-      "gregorian_utc": "2026-11-22T13:18:05+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2950283,
-      "media_size_human": "2.81 MB",
+      "tehran_time": "16:57:32",
+      "gregorian_utc": "2026-11-22T13:27:32+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30275113,
+      "media_size_human": "28.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368163_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368163_video.mp4",
+      "media_local_path": "media/IranintlTV_368165_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368165_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.089551+00:00"
+      "archived_at": "2026-11-22T13:30:42.125941+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76830_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76830_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.448951+00:00"
+      "archived_at": "2026-11-22T13:30:42.395820+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_123506_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123506_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704497+00:00"
+      "archived_at": "2026-11-22T13:30:42.647745+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16069,
-      "message_link": "https://t.me/zedTV/16069",
-      "text": "آغاز خاموشی‌های دو ساعته در رودسر؛ قطع برق از ساعت ۱۰ صبح تا ۱۲ ظهر.\nتداوم بحران زیرساختی و بازگشت شرایط تابستانی به شبکه توزیع انرژی گیلان.\nگزارش‌های مردمی از ناتوانی در مدیریت انرژی و فشار مضاعف بر زندگی شهروندان.",
+      "message_id": 16070,
+      "message_link": "https://t.me/zedTV/16070",
+      "text": "جهش ۱۰۰ درصدی قیمت پاستا و افزایش یک میلیاردی خودرو؛ سهمیه‌بندی نان آغاز شد.\nگرانی ۳۰ درصدی لاستیک و افزایش هزینه‌های حمل‌ونقل با تایید رسمی دولت.\nبحران معیشت در سراسر کشور؛ استیصال کسبه و بازنشستگان در برابر تورم افسارگسیخته.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:09:49",
-      "gregorian_utc": "2026-11-22T11:39:49+00:00",
+      "tehran_time": "16:46:33",
+      "gregorian_utc": "2026-11-22T13:16:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830449+00:00"
+      "archived_at": "2026-11-22T13:30:41.722075+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368162,
-      "message_link": "https://t.me/IranintlTV/368162",
-      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از دانش‌آموزان در محله متخصصین شهر کرمانشاه، شنبه ۳۰ آبان به خیابان‌ها آمده و فریاد «سوگند صیادی» سردادند.\nبر اساس گزارش‌ها، نیروهای حکومتی آنها را مورد ضرب و شتم قرار داده‌اند.",
+      "message_id": 368164,
+      "message_link": "https://t.me/IranintlTV/368164",
+      "text": "زلنسکی از آمریکا خواست مجوز انتقال موشک‌های رهگیر سامانه پاتریوت را که هزینه آن‌ها پیش‌تر از سوی متحدان اوکراین پرداخت شده است، صادر کند. این درخواست پس از حمله پهپادی روسیه به یک ساختمان مسکونی پنج‌طبقه در شهر دیمر مطرح شد.\n\nلی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:45:11",
-      "gregorian_utc": "2026-11-22T13:15:11+00:00",
+      "tehran_time": "16:51:39",
+      "gregorian_utc": "2026-11-22T13:21:39+00:00",
       "media_type": "video",
-      "media_size_bytes": 1945574,
-      "media_size_human": "1.86 MB",
+      "media_size_bytes": 2124356,
+      "media_size_human": "2.03 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368162_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368162_video.mp4",
+      "media_local_path": "media/IranintlTV_368164_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368164_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.089606+00:00"
+      "archived_at": "2026-11-22T13:30:42.126091+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76829_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76829_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.449037+00:00"
+      "archived_at": "2026-11-22T13:30:42.395883+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": "media/Mellig_123505_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123505_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704554+00:00"
+      "archived_at": "2026-11-22T13:30:42.647782+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16068,
-      "message_link": "https://t.me/zedTV/16068",
-      "text": "افشای دروغ رژیم؛ استخراج گسترده بیت‌کوین توسط سپاه در شرکت‌های ماموت و میهن عامل اصلی قطعی برق است.\nتداوم ارسال رایگان برق به عراق در میانه بحران انرژی و غارت ثروت ملی توسط نهادهای نظامی.\nخشم عمومی از اولویت دادن به ماینرهای سپاه و تامین برق کربلا و نجف نسبت به نیازهای داخلی.",
+      "message_id": 16069,
+      "message_link": "https://t.me/zedTV/16069",
+      "text": "آغاز خاموشی‌های دو ساعته در رودسر؛ قطع برق از ساعت ۱۰ صبح تا ۱۲ ظهر.\nتداوم بحران زیرساختی و بازگشت شرایط تابستانی به شبکه توزیع انرژی گیلان.\nگزارش‌های مردمی از ناتوانی در مدیریت انرژی و فشار مضاعف بر زندگی شهروندان.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:09:48",
-      "gregorian_utc": "2026-11-22T11:39:48+00:00",
+      "tehran_time": "15:09:49",
+      "gregorian_utc": "2026-11-22T11:39:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830485+00:00"
+      "archived_at": "2026-11-22T13:30:41.722100+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368161,
-      "message_link": "https://t.me/IranintlTV/368161",
-      "text": "**🗣روایت شما: وضعیت معیشت در سایه بحران اقتصادی و تورم - یکشنبه یکم آذر**\n\n🔹بی‌خیال ترامپ، یکی جلو حملات دولت پزشکیان رو بگیره. در کمتر از ۴۸ ساعت، علاوه بر خبر ترسناک سهمیه‌بندی نان، قیمت ماکارونی ۱۰۰ درصد، محصولات ایران‌خودرو تا یک میلیارد تومان، لاستیک ۳۰ درصد، لبنیات ۱۵ درصد و هزینه حمل‌ونقل ۲۲ درصد با مصوبه دولت افزایش پیدا کرده.\n\n🔹از مازندران: آیا به نظرتون برای با کاپشن خوابیدن، نون گرون خریدن، بی‌برقی، بدون گاز بودن، لرزیدن در سرمای زمستون، عرق ریختن در گرمای تابستون و غارنشینی، نیاز به رئیس‌جمهور، وزیر و نماینده مجلس با حقوق نجومی داریم؟\n\n🔹از رشت: مغازه فست‌فود دارم. نوشابه رو جعبه‌ای ۴۵۰ هزار تومان می‌خریدم، یکم آذرماه خریدم جعبه‌ای ۵۸۰ هزار تومان. آخه من چطوری به مشتری بگم نوشابه رو باید ۵۰ هزار تومان بخره؟ شل آب‌معدنی شده ۱۷۵ هزار تومان. من روسیاهم در برابر مردم، به خدا قیمت دست ما نیست.\n\n🔹از گیلان: آخه چه وضعشه؟ من مغازه فست‌فود دارم، یه روز نون گرون می‌شه، یه روز گوشت، یه روز مرغ و روز دیگه رب و روغن. آخه چقدر قیمت غذاها رو تغییر بدم؟ بعد انتظار دارن تاب بیاریم.\n\n🔹از اصفهان هستم: یه بازنشسته و اجاره‌نشین هستم. حقوقم هم با ۳۰ سال کار کردن، ۲۰ میلیون تومانه. کالابرگ و یارانه‌ام رو قطع کردن.",
+      "message_id": 368163,
+      "message_link": "https://t.me/IranintlTV/368163",
+      "text": "رییس گروه مدیریت سرطان وزارت بهداشت اعلام کرد که سالانه حدود ۱۴۲ هزار مورد جدید ابتلا به سرطان در ایران ثبت می‌شود که مردان بیش از نیمی از این موارد را تشکیل می‌دهند. بهشتیان دخانیات، تغذیه ناسالم و کم‌تحرکی را از عوامل خطر خواند و بر غربالگری زودهنگام در صورت وجود سابقه خانوادگی تاکید کرد.\n\nگفت‌وگو با بابک خطی، پزشک و متخصص کودکان\n@iranintltv",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:42:42",
-      "gregorian_utc": "2026-11-22T13:12:42+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.119408+00:00"
+      "tehran_time": "16:48:05",
+      "gregorian_utc": "2026-11-22T13:18:05+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2950283,
+      "media_size_human": "2.81 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_368163_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368163_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-22T13:30:42.126162+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76828_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76828_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.449151+00:00"
+      "archived_at": "2026-11-22T13:30:42.395969+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,43 +235,43 @@
       "media_local_path": "media/Mellig_123504_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123504_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704612+00:00"
+      "archived_at": "2026-11-22T13:30:42.647826+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16067,
-      "message_link": "https://t.me/zedTV/16067",
-      "text": "بازداشت ماهر ثعلبی توسط نیروهای اطلاعاتی در اهواز؛ تداوم بی‌خبری از سرنوشت این شهروند ۲۸ ساله.\nهجوم ماموران به منزل پدری و ضبط لوازم شخصی؛ بی‌نتیجه ماندن پیگیری‌های خانواده.\nتشدید بازداشت‌های خودسرانه و یورش به منازل شهروندان عرب در خوزستان.",
+      "message_id": 16068,
+      "message_link": "https://t.me/zedTV/16068",
+      "text": "افشای دروغ رژیم؛ استخراج گسترده بیت‌کوین توسط سپاه در شرکت‌های ماموت و میهن عامل اصلی قطعی برق است.\nتداوم ارسال رایگان برق به عراق در میانه بحران انرژی و غارت ثروت ملی توسط نهادهای نظامی.\nخشم عمومی از اولویت دادن به ماینرهای سپاه و تامین برق کربلا و نجف نسبت به نیازهای داخلی.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:02:50",
-      "gregorian_utc": "2026-11-22T11:32:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 125766,
-      "media_size_human": "122.82 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_16067_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16067_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830566+00:00"
+      "tehran_time": "15:09:48",
+      "gregorian_utc": "2026-11-22T11:39:48+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-22T13:30:41.722124+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368160,
-      "message_link": "https://t.me/IranintlTV/368160",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانش‌آموزان در محله متخصصین شهر کرمانشاه، شنبه ۳۰ آبان به خیابان‌ها آمده و فریاد «سوگند صیادی» سردادند.\nبر اساس گزارش‌ها، نیروهای حکومتی آنها را مورد ضرب و شتم قرار داده‌اند.",
+      "message_id": 368162,
+      "message_link": "https://t.me/IranintlTV/368162",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از دانش‌آموزان در محله متخصصین شهر کرمانشاه، شنبه ۳۰ آبان به خیابان‌ها آمده و فریاد «سوگند صیادی» سردادند.\nبر اساس گزارش‌ها، نیروهای حکومتی آنها را مورد ضرب و شتم قرار داده‌اند.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:19:04",
-      "gregorian_utc": "2026-11-22T12:49:04+00:00",
+      "tehran_time": "16:45:11",
+      "gregorian_utc": "2026-11-22T13:15:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 4003434,
-      "media_size_human": "3.82 MB",
+      "media_size_bytes": 1945574,
+      "media_size_human": "1.86 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368160_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368160_video.mp4",
+      "media_local_path": "media/IranintlTV_368162_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368162_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119482+00:00"
+      "archived_at": "2026-11-22T13:30:42.126194+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76827_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76827_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.449234+00:00"
+      "archived_at": "2026-11-22T13:30:42.396013+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,43 +307,43 @@
       "media_local_path": "media/Mellig_123503_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123503_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704680+00:00"
+      "archived_at": "2026-11-22T13:30:42.647876+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16066,
-      "message_link": "https://t.me/zedTV/16066",
-      "text": "انور قرقاش: رقابت ژئوپلیتیک خطرناکی همزمان با جنگ علیه جمهوری اسلامی در منطقه شکل گرفته است.\nهشدار درباره تغییر توازن قدرت و استفاده از ابزارهای رسانه‌ای و مالی برای نفوذ.\nتاکید بر ضرورت انسجام کشورهای حوزه خلیج فارس در برابر خطرات و چالش‌های پیش رو.",
+      "message_id": 16067,
+      "message_link": "https://t.me/zedTV/16067",
+      "text": "بازداشت ماهر ثعلبی توسط نیروهای اطلاعاتی در اهواز؛ تداوم بی‌خبری از سرنوشت این شهروند ۲۸ ساله.\nهجوم ماموران به منزل پدری و ضبط لوازم شخصی؛ بی‌نتیجه ماندن پیگیری‌های خانواده.\nتشدید بازداشت‌های خودسرانه و یورش به منازل شهروندان عرب در خوزستان.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:02:17",
-      "gregorian_utc": "2026-11-22T11:32:17+00:00",
+      "tehran_time": "15:02:50",
+      "gregorian_utc": "2026-11-22T11:32:50+00:00",
       "media_type": "photo",
-      "media_size_bytes": 90079,
-      "media_size_human": "87.97 KB",
+      "media_size_bytes": 125766,
+      "media_size_human": "122.82 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16066_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16066_photo.jpg",
+      "media_local_path": "media/zedTV_16067_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16067_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830625+00:00"
+      "archived_at": "2026-11-22T13:30:41.722162+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368159,
-      "message_link": "https://t.me/IranintlTV/368159",
-      "text": "🔻یکشنبه اول آذر، سالروز تولد ۱۹ سالگی جاویدنام محمدرضا خانی، عضو پیشین تیم ملی هنرهای رزمی ترکیبی جوانان ایران، است؛ جوانی که دی‌ماه ۱۴۰۴ در محله کیانمهر کرج هدف شلیک گلوله جنگی نیروهای سرکوبگر جمهوری اسلامی قرار گرفت و جان باخت.\n\n🔹گزارشی از آیدین مقیمی، ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 368161,
+      "message_link": "https://t.me/IranintlTV/368161",
+      "text": "**🗣روایت شما: وضعیت معیشت در سایه بحران اقتصادی و تورم - یکشنبه یکم آذر**\n\n🔹بی‌خیال ترامپ، یکی جلو حملات دولت پزشکیان رو بگیره. در کمتر از ۴۸ ساعت، علاوه بر خبر ترسناک سهمیه‌بندی نان، قیمت ماکارونی ۱۰۰ درصد، محصولات ایران‌خودرو تا یک میلیارد تومان، لاستیک ۳۰ درصد، لبنیات ۱۵ درصد و هزینه حمل‌ونقل ۲۲ درصد با مصوبه دولت افزایش پیدا کرده.\n\n🔹از مازندران: آیا به نظرتون برای با کاپشن خوابیدن، نون گرون خریدن، بی‌برقی، بدون گاز بودن، لرزیدن در سرمای زمستون، عرق ریختن در گرمای تابستون و غارنشینی، نیاز به رئیس‌جمهور، وزیر و نماینده مجلس با حقوق نجومی داریم؟\n\n🔹از رشت: مغازه فست‌فود دارم. نوشابه رو جعبه‌ای ۴۵۰ هزار تومان می‌خریدم، یکم آذرماه خریدم جعبه‌ای ۵۸۰ هزار تومان. آخه من چطوری به مشتری بگم نوشابه رو باید ۵۰ هزار تومان بخره؟ شل آب‌معدنی شده ۱۷۵ هزار تومان. من روسیاهم در برابر مردم، به خدا قیمت دست ما نیست.\n\n🔹از گیلان: آخه چه وضعشه؟ من مغازه فست‌فود دارم، یه روز نون گرون می‌شه، یه روز گوشت، یه روز مرغ و روز دیگه رب و روغن. آخه چقدر قیمت غذاها رو تغییر بدم؟ بعد انتظار دارن تاب بیاریم.\n\n🔹از اصفهان هستم: یه بازنشسته و اجاره‌نشین هستم. حقوقم هم با ۳۰ سال کار کردن، ۲۰ میلیون تومانه. کالابرگ و یارانه‌ام رو قطع کردن.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "16:16:11",
-      "gregorian_utc": "2026-11-22T12:46:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1868141,
-      "media_size_human": "1.78 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368159_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368159_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119580+00:00"
+      "tehran_time": "16:42:42",
+      "gregorian_utc": "2026-11-22T13:12:42+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-22T13:30:42.126349+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.449317+00:00"
+      "archived_at": "2026-11-22T13:30:42.396074+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,43 +379,43 @@
       "media_local_path": "media/Mellig_123502_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123502_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704724+00:00"
+      "archived_at": "2026-11-22T13:30:42.647905+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16065,
-      "message_link": "https://t.me/zedTV/16065",
-      "text": "سنتکام: ۱۳۰ روز محاصره دریایی و جلوگیری از صادرات میلیاردها دلار نفت سپاه.\nپیش‌بینی صفر شدن درآمدهای نفتی رژیم با خسارت روزانه تا ۲۵۰ میلیون دلار.\nتوقف کامل بارگیری تمامی محموله‌های نفت خام و میعانات گازی.",
+      "message_id": 16066,
+      "message_link": "https://t.me/zedTV/16066",
+      "text": "انور قرقاش: رقابت ژئوپلیتیک خطرناکی همزمان با جنگ علیه جمهوری اسلامی در منطقه شکل گرفته است.\nهشدار درباره تغییر توازن قدرت و استفاده از ابزارهای رسانه‌ای و مالی برای نفوذ.\nتاکید بر ضرورت انسجام کشورهای حوزه خلیج فارس در برابر خطرات و چالش‌های پیش رو.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:00:04",
-      "gregorian_utc": "2026-11-22T11:30:04+00:00",
+      "tehran_time": "15:02:17",
+      "gregorian_utc": "2026-11-22T11:32:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 60622,
-      "media_size_human": "59.20 KB",
+      "media_size_bytes": 90079,
+      "media_size_human": "87.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16065_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16065_photo.jpg",
+      "media_local_path": "media/zedTV_16066_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16066_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830678+00:00"
+      "archived_at": "2026-11-22T13:30:41.722196+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368157,
-      "message_link": "https://t.me/IranintlTV/368157",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال  از شامگاه شنبه ۳۰ آبان، صف طولانی خودروها را در آزادشهر استان گلستان برای دریافت بنزین مقابل یک جایگاه سوخت نشان می‌دهد.",
+      "message_id": 368160,
+      "message_link": "https://t.me/IranintlTV/368160",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از دانش‌آموزان در محله متخصصین شهر کرمانشاه، شنبه ۳۰ آبان به خیابان‌ها آمده و فریاد «سوگند صیادی» سردادند.\nبر اساس گزارش‌ها، نیروهای حکومتی آنها را مورد ضرب و شتم قرار داده‌اند.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:30:56",
-      "gregorian_utc": "2026-11-22T12:00:56+00:00",
+      "tehran_time": "16:19:04",
+      "gregorian_utc": "2026-11-22T12:49:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 3317320,
-      "media_size_human": "3.16 MB",
+      "media_size_bytes": 4003434,
+      "media_size_human": "3.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368157_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368157_video.mp4",
+      "media_local_path": "media/IranintlTV_368160_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368160_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119626+00:00"
+      "archived_at": "2026-11-22T13:30:42.126380+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 214.45 MB)",
-      "archived_at": "2026-11-22T13:20:37.449419+00:00"
+      "archived_at": "2026-11-22T13:30:42.396149+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,43 +451,43 @@
       "media_local_path": "media/Mellig_123501_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123501_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.704763+00:00"
+      "archived_at": "2026-11-22T13:30:42.647929+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16064,
-      "message_link": "https://t.me/zedTV/16064",
-      "text": "شورای نگهبان ستاد فضای مجازی را خلاف شرع دانست؛ خبرگزاری فارس از انحلال این نهاد خبر داد.\nاین ستاد پیش‌تر دستور بازگشت اینترنت بین‌الملل را صادر کرده بود.\nبا انحلال این مرکز توسط نهادهای حکومتی، رفع محدودیت‌های اینترنتی بار دیگر متوقف شد.",
+      "message_id": 16065,
+      "message_link": "https://t.me/zedTV/16065",
+      "text": "سنتکام: ۱۳۰ روز محاصره دریایی و جلوگیری از صادرات میلیاردها دلار نفت سپاه.\nپیش‌بینی صفر شدن درآمدهای نفتی رژیم با خسارت روزانه تا ۲۵۰ میلیون دلار.\nتوقف کامل بارگیری تمامی محموله‌های نفت خام و میعانات گازی.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:55:36",
-      "gregorian_utc": "2026-11-22T11:25:36+00:00",
+      "tehran_time": "15:00:04",
+      "gregorian_utc": "2026-11-22T11:30:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 106747,
-      "media_size_human": "104.25 KB",
+      "media_size_bytes": 60622,
+      "media_size_human": "59.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16064_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16064_photo.jpg",
+      "media_local_path": "media/zedTV_16065_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16065_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830724+00:00"
+      "archived_at": "2026-11-22T13:30:41.722225+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368156,
-      "message_link": "https://t.me/IranintlTV/368156",
-      "text": "علی مطهری، نماینده پیشین مجلس شورای اسلامی، با دفاع از نظارت حکومت بر پوشش شهروندان و فعالیت کافه‌ها گفت: «تا زمانی که این مکان‌ها صرفا محل حضور و دورهمی جوانان باشند، مشکلی وجود ندارد.» او افزود که اگر کافه‌ها به مکان‌هایی مشابه شهر نو تبدیل شوند و محلی برای «فحشا» و فعالیت «زنان خیابانی» باشند، حکومت باید در این زمینه دخالت کند. مطهری همچنین گفت که عادی‌سازی «ناهنجاری‌های اجتماعی» و «بی‌بندوباری»، می‌تواند انقلاب اسلامی را از مسیر خود منحرف کند.\n@iranintltv",
+      "message_id": 368159,
+      "message_link": "https://t.me/IranintlTV/368159",
+      "text": "🔻یکشنبه اول آذر، سالروز تولد ۱۹ سالگی جاویدنام محمدرضا خانی، عضو پیشین تیم ملی هنرهای رزمی ترکیبی جوانان ایران، است؛ جوانی که دی‌ماه ۱۴۰۴ در محله کیانمهر کرج هدف شلیک گلوله جنگی نیروهای سرکوبگر جمهوری اسلامی قرار گرفت و جان باخت.\n\n🔹گزارشی از آیدین مقیمی، ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:27:20",
-      "gregorian_utc": "2026-11-22T11:57:20+00:00",
+      "tehran_time": "16:16:11",
+      "gregorian_utc": "2026-11-22T12:46:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 900931,
-      "media_size_human": "879.82 KB",
+      "media_size_bytes": 1868141,
+      "media_size_human": "1.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368156_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368156_video.mp4",
+      "media_local_path": "media/IranintlTV_368159_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368159_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119718+00:00"
+      "archived_at": "2026-11-22T13:30:42.126436+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76824_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76824_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.449507+00:00"
+      "archived_at": "2026-11-22T13:30:42.396211+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,43 +523,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.704832+00:00"
+      "archived_at": "2026-11-22T13:30:42.647977+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16063,
-      "message_link": "https://t.me/zedTV/16063",
-      "text": "بحران داروهای شیمی‌درمانی؛ هزینه ماهانه برخی بیماران به ۷۵۰ میلیون ریال رسید.\nنایاب شدن اقلام دارویی ضروری و ناتوانی شهروندان در پرداخت هزینه‌های سرسام‌آور درمانی.\nتداوم بن‌بست در تامین مواد اولیه دارویی و تشدید فروپاشی نظام سلامت.",
+      "message_id": 16064,
+      "message_link": "https://t.me/zedTV/16064",
+      "text": "شورای نگهبان ستاد فضای مجازی را خلاف شرع دانست؛ خبرگزاری فارس از انحلال این نهاد خبر داد.\nاین ستاد پیش‌تر دستور بازگشت اینترنت بین‌الملل را صادر کرده بود.\nبا انحلال این مرکز توسط نهادهای حکومتی، رفع محدودیت‌های اینترنتی بار دیگر متوقف شد.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "11:45:19",
-      "gregorian_utc": "2026-11-22T08:15:19+00:00",
+      "tehran_time": "14:55:36",
+      "gregorian_utc": "2026-11-22T11:25:36+00:00",
       "media_type": "photo",
-      "media_size_bytes": 207957,
-      "media_size_human": "203.08 KB",
+      "media_size_bytes": 106747,
+      "media_size_human": "104.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16063_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16063_photo.jpg",
+      "media_local_path": "media/zedTV_16064_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16064_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830787+00:00"
+      "archived_at": "2026-11-22T13:30:41.722270+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368155,
-      "message_link": "https://t.me/IranintlTV/368155",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال از شامگاه شنبه ۳۰ آبان، صف طولانی خودروها را در اصفهان برای دریافت بنزین مقابل یک جایگاه سوخت نشان می‌دهد.",
+      "message_id": 368157,
+      "message_link": "https://t.me/IranintlTV/368157",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال  از شامگاه شنبه ۳۰ آبان، صف طولانی خودروها را در آزادشهر استان گلستان برای دریافت بنزین مقابل یک جایگاه سوخت نشان می‌دهد.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "15:03:00",
-      "gregorian_utc": "2026-11-22T11:33:00+00:00",
+      "tehran_time": "15:30:56",
+      "gregorian_utc": "2026-11-22T12:00:56+00:00",
       "media_type": "video",
-      "media_size_bytes": 8491491,
-      "media_size_human": "8.10 MB",
+      "media_size_bytes": 3317320,
+      "media_size_human": "3.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368155_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368155_video.mp4",
+      "media_local_path": "media/IranintlTV_368157_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368157_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119758+00:00"
+      "archived_at": "2026-11-22T13:30:42.126461+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.449759+00:00"
+      "archived_at": "2026-11-22T13:30:42.396409+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,43 +595,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 153.78 MB)",
-      "archived_at": "2026-11-22T13:20:37.704902+00:00"
+      "archived_at": "2026-11-22T13:30:42.648024+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16062,
-      "message_link": "https://t.me/zedTV/16062",
-      "text": "وال‌استریت‌ژورنال: کنترل ترانزیت نفت در تنگه هرمز توسط امارات با حمایت نظامی ایالات متحده.\nتخفیف ۲۵ دلاری عراق برای انتقال محموله‌ها؛ افزایش صادرات نفت امارات به فراتر از سطح پیش از جنگ.\nهمکاری راهبردی ابوظبی و واشینگتن برای تضمین جریان انرژی در میانه تنش‌های منطقه‌ای.",
+      "message_id": 16063,
+      "message_link": "https://t.me/zedTV/16063",
+      "text": "بحران داروهای شیمی‌درمانی؛ هزینه ماهانه برخی بیماران به ۷۵۰ میلیون ریال رسید.\nنایاب شدن اقلام دارویی ضروری و ناتوانی شهروندان در پرداخت هزینه‌های سرسام‌آور درمانی.\nتداوم بن‌بست در تامین مواد اولیه دارویی و تشدید فروپاشی نظام سلامت.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "11:43:23",
-      "gregorian_utc": "2026-11-22T08:13:23+00:00",
+      "tehran_time": "11:45:19",
+      "gregorian_utc": "2026-11-22T08:15:19+00:00",
       "media_type": "photo",
-      "media_size_bytes": 178423,
-      "media_size_human": "174.24 KB",
+      "media_size_bytes": 207957,
+      "media_size_human": "203.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16062_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16062_photo.jpg",
+      "media_local_path": "media/zedTV_16063_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16063_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830834+00:00"
+      "archived_at": "2026-11-22T13:30:41.722297+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368154,
-      "message_link": "https://t.me/IranintlTV/368154",
-      "text": "مروری بر روزنامه‌های ایران یکشنبه اول آذر، با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 368156,
+      "message_link": "https://t.me/IranintlTV/368156",
+      "text": "علی مطهری، نماینده پیشین مجلس شورای اسلامی، با دفاع از نظارت حکومت بر پوشش شهروندان و فعالیت کافه‌ها گفت: «تا زمانی که این مکان‌ها صرفا محل حضور و دورهمی جوانان باشند، مشکلی وجود ندارد.» او افزود که اگر کافه‌ها به مکان‌هایی مشابه شهر نو تبدیل شوند و محلی برای «فحشا» و فعالیت «زنان خیابانی» باشند، حکومت باید در این زمینه دخالت کند. مطهری همچنین گفت که عادی‌سازی «ناهنجاری‌های اجتماعی» و «بی‌بندوباری»، می‌تواند انقلاب اسلامی را از مسیر خود منحرف کند.\n@iranintltv",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:59:59",
-      "gregorian_utc": "2026-11-22T11:29:59+00:00",
+      "tehran_time": "15:27:20",
+      "gregorian_utc": "2026-11-22T11:57:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 3403682,
-      "media_size_human": "3.25 MB",
+      "media_size_bytes": 900931,
+      "media_size_human": "879.82 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368154_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368154_video.mp4",
+      "media_local_path": "media/IranintlTV_368156_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368156_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.119831+00:00"
+      "archived_at": "2026-11-22T13:30:42.126564+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.449868+00:00"
+      "archived_at": "2026-11-22T13:30:42.396502+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,43 +667,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.704955+00:00"
+      "archived_at": "2026-11-22T13:30:42.648057+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16061,
-      "message_link": "https://t.me/zedTV/16061",
-      "text": "گزارش‌ها از حذف جواد خجسته باقرزاده، دایی مجتبی خامنه‌ای حکایت دارد.\nتداوم بحران عمیق در ساختار قدرت و حلقه نزدیکان بیت رهبری.\nافزایش ابهامات درباره سرنوشت مهره‌های کلیدی رژیم در پی وقایع اخیر.",
+      "message_id": 16062,
+      "message_link": "https://t.me/zedTV/16062",
+      "text": "وال‌استریت‌ژورنال: کنترل ترانزیت نفت در تنگه هرمز توسط امارات با حمایت نظامی ایالات متحده.\nتخفیف ۲۵ دلاری عراق برای انتقال محموله‌ها؛ افزایش صادرات نفت امارات به فراتر از سطح پیش از جنگ.\nهمکاری راهبردی ابوظبی و واشینگتن برای تضمین جریان انرژی در میانه تنش‌های منطقه‌ای.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "11:41:31",
-      "gregorian_utc": "2026-11-22T08:11:31+00:00",
+      "tehran_time": "11:43:23",
+      "gregorian_utc": "2026-11-22T08:13:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 87427,
-      "media_size_human": "85.38 KB",
+      "media_size_bytes": 178423,
+      "media_size_human": "174.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_16061_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16061_photo.jpg",
+      "media_local_path": "media/zedTV_16062_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16062_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:36.830874+00:00"
+      "archived_at": "2026-11-22T13:30:41.722324+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368153,
-      "message_link": "https://t.me/IranintlTV/368153",
-      "text": "🔻روزبه سینکی، دروازه‌بان پیشین تیم‌های گل‌گهر سیرجان و پارس جنوبی جم، با انتشار دو استوری در صفحه اینستاگرام خود، به وضعیت اقتصادی و سیاسی ایران واکنش نشان داد و تصاویری از رضاشاه پهلوی منتشر کرد.\n\n🔹سینکی در نخستین استوری، با کنایه به مسعود پزشکیان، رییس دولت جمهوری اسلامی، که گفته بود شب‌ها با کاپشن می‌خوابد، نوشته‌ای را بازنشر کرد که در آن آمده است: «آیا برای با کاپشن خوابیدن و نان کوپنی خریدن، بی‌برقی، لرزیدن در سرمای زمستان و عرق ریختن در گرمای تابستان، نیازی به رییس‌جمهور، وزیر و وکیل با حقوق‌های نجومی داریم؟»\n\n🔹این دروازه‌بان پیشین فوتبال ایران در استوری دیگری، دو تصویر تاریخی از رضاشاه هنگام افتتاح راه‌آهن سراسری و بازدید از پل ورسک منتشر کرد.\n\n🔹سینکی پیش‌تر نیز به دلیل مواضع سیاسی و حمایت از اعتراضات مردمی خبرساز شده بود. او در جریان اعتراضات سال ۱۴۰۱، نام مهسا امینی، نیکا شاکرمی و حدیث نجفی را روی بازوبند کاپیتانی خود نوشته و با آن وارد زمین مسابقه شده بود.\n\n🔹این دروازه‌بان که سابقه بازی برای استقلال اهواز، گل‌گهر سیرجان و پارس جنوبی جم را دارد، پس از موضع‌گیری‌های خود در سال ۱۴۰۱ با مشکلاتی در ادامه فعالیت حرفه‌ای روبه‌رو شد. همچنین گزارش شده بود که او تحت فشارهای امنیتی از پارس جنوبی جم جدا شد و به تیم بعث کرمانشاه در لیگ دسته دوم رفت.\n\n@iranintltvsport",
+      "message_id": 368155,
+      "message_link": "https://t.me/IranintlTV/368155",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال از شامگاه شنبه ۳۰ آبان، صف طولانی خودروها را در اصفهان برای دریافت بنزین مقابل یک جایگاه سوخت نشان می‌دهد.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:57:18",
-      "gregorian_utc": "2026-11-22T11:27:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 204454,
-      "media_size_human": "199.66 KB",
+      "tehran_time": "15:03:00",
+      "gregorian_utc": "2026-11-22T11:33:00+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8491491,
+      "media_size_human": "8.10 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368153_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368153_photo.jpg",
+      "media_local_path": "media/IranintlTV_368155_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368155_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120025+00:00"
+      "archived_at": "2026-11-22T13:30:42.126595+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.450203+00:00"
+      "archived_at": "2026-11-22T13:30:42.396760+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,43 +739,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.704984+00:00"
+      "archived_at": "2026-11-22T13:30:42.648075+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16060,
-      "message_link": "https://t.me/zedTV/16060",
-      "text": "اعتراف مقامات به ناتوانی در تأمین انرژی؛ پاسخ دولت به بحران: «ما هم در تاریکی و سرما هستیم».\nبحران تورم سه‌رقمی مواد غذایی و سقوط سطح زندگی شهروندان به دوران غارنشینی.\nتداوم سوءمدیریت و شکست شعارهای تبلیغاتی در برابر فروپاشی زیرساخت‌ها.",
+      "message_id": 16061,
+      "message_link": "https://t.me/zedTV/16061",
+      "text": "گزارش‌ها از حذف جواد خجسته باقرزاده، دایی مجتبی خامنه‌ای حکایت دارد.\nتداوم بحران عمیق در ساختار قدرت و حلقه نزدیکان بیت رهبری.\nافزایش ابهامات درباره سرنوشت مهره‌های کلیدی رژیم در پی وقایع اخیر.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "11:21:55",
-      "gregorian_utc": "2026-11-22T07:51:55+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830901+00:00"
+      "tehran_time": "11:41:31",
+      "gregorian_utc": "2026-11-22T08:11:31+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 87427,
+      "media_size_human": "85.38 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_16061_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16061_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-11-22T13:30:41.722351+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368152,
-      "message_link": "https://t.me/IranintlTV/368152",
-      "text": "🔻علیرضا دبیر، رییس فدراسیون کشتی درباره ناراحتی سهراب بختیاری‌زاده از مدیریت باشگاه استقلال از تیمداری در رشته کشتی گفت: «این مساله درون باشگاهی است و به من ربطی ندارد اما وقتی یک تیم اسم خودش را فرهنگی ورزشی می‌گذارد، فقط فوتبال نیست. بعد باید ببینیم اساسنامه آن باشگاه چه می‌گوید. باعث افتخار ماست که تیم‌هایی مثل استقلال، پرسپولیس و سپاهان بیایند و در کشتی سرمایه‌گذاری کنند. همه قرار نیست وارد کشتی و فوتبال بیایند اما هدفمند سرمایه‌گذاری کنند و هزینه الکی نکنند.»\n\n@iranintltvsport",
+      "message_id": 368154,
+      "message_link": "https://t.me/IranintlTV/368154",
+      "text": "مروری بر روزنامه‌های ایران یکشنبه اول آذر، با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:46:06",
-      "gregorian_utc": "2026-11-22T11:16:06+00:00",
+      "tehran_time": "14:59:59",
+      "gregorian_utc": "2026-11-22T11:29:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 45813035,
-      "media_size_human": "43.69 MB",
+      "media_size_bytes": 3403682,
+      "media_size_human": "3.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368152_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368152_video.mp4",
+      "media_local_path": "media/IranintlTV_368154_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368154_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120127+00:00"
+      "archived_at": "2026-11-22T13:30:42.126629+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76819_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76819_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.450251+00:00"
+      "archived_at": "2026-11-22T13:30:42.396787+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_123495_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123495_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.705024+00:00"
+      "archived_at": "2026-11-22T13:30:42.648098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16059,
-      "message_link": "https://t.me/zedTV/16059",
-      "text": "اعتراف رسانه حکومتی به احتمال نابودی و غرق شدن نفتکش‌های ایرانی.\nناوگان نفتی رژیم در آستانه سفرهای بی‌بازگشت در آب‌های بین‌المللی.\nتزلزل در امنیت صادرات انرژی و فلج شدن شریان‌های مالی جمهوری اسلامی.",
+      "message_id": 16060,
+      "message_link": "https://t.me/zedTV/16060",
+      "text": "اعتراف مقامات به ناتوانی در تأمین انرژی؛ پاسخ دولت به بحران: «ما هم در تاریکی و سرما هستیم».\nبحران تورم سه‌رقمی مواد غذایی و سقوط سطح زندگی شهروندان به دوران غارنشینی.\nتداوم سوءمدیریت و شکست شعارهای تبلیغاتی در برابر فروپاشی زیرساخت‌ها.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "09:34:56",
-      "gregorian_utc": "2026-11-22T06:04:56+00:00",
+      "tehran_time": "11:21:55",
+      "gregorian_utc": "2026-11-22T07:51:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830927+00:00"
+      "archived_at": "2026-11-22T13:30:41.722368+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368151,
-      "message_link": "https://t.me/IranintlTV/368151",
-      "text": "🔻خبرگزاری فارس گزارش داد که زهرا اینچه‌درگاهی، رییس پیشین فدراسیون ژیمناستیک، در پرونده اختلاس ارزی به دو سال حبس تعزیری و انفصال دایم از خدمات دولتی محکوم شده است.\n\n🔹بر اساس این گزارش، شعبه اول دادگاه تجدیدنظر استان تهران، اینچه‌درگاهی را علاوه بر حبس و انفصال دایم، به رد مال به مبلغ ۲۱ هزار و ۱۱۷ یورو و پرداخت جزای نقدی محکوم کرده است.\n\n🔹طبق جزییات این پرونده، اینچه‌درگاهی در دوران ریاست خود بر فدراسیون ژیمناستیک، برای تسویه بدهی این فدراسیون به فدراسیون جهانی، درخواست تامین ۴۷ هزار و ۸۰۰ دلار ارز کرده بود. پس از موافقت وزارت ورزش، مبلغ ۲۵ هزار و ۲۱۷ یورو در اردیبهشت ۱۳۹۷ در اختیار او قرار گرفت.\n\n🔹اینچه‌درگاهی پس از بازگشت از اجلاس فدراسیون جهانی ژیمناستیک در کانادا مدعی شد که ۴ هزار و ۱۰۰ یورو را بابت هزینه‌های سفر و ۲۲ هزار یورو را به‌صورت دستی برای تسویه بدهی به فدراسیون جهانی پرداخت کرده است.\n\n🔹جزییات بیشتر را در [**سایت**](https://iranintl.com/202611227715) بخوانید\n\n@iranintltvsport",
+      "message_id": 368153,
+      "message_link": "https://t.me/IranintlTV/368153",
+      "text": "🔻روزبه سینکی، دروازه‌بان پیشین تیم‌های گل‌گهر سیرجان و پارس جنوبی جم، با انتشار دو استوری در صفحه اینستاگرام خود، به وضعیت اقتصادی و سیاسی ایران واکنش نشان داد و تصاویری از رضاشاه پهلوی منتشر کرد.\n\n🔹سینکی در نخستین استوری، با کنایه به مسعود پزشکیان، رییس دولت جمهوری اسلامی، که گفته بود شب‌ها با کاپشن می‌خوابد، نوشته‌ای را بازنشر کرد که در آن آمده است: «آیا برای با کاپشن خوابیدن و نان کوپنی خریدن، بی‌برقی، لرزیدن در سرمای زمستان و عرق ریختن در گرمای تابستان، نیازی به رییس‌جمهور، وزیر و وکیل با حقوق‌های نجومی داریم؟»\n\n🔹این دروازه‌بان پیشین فوتبال ایران در استوری دیگری، دو تصویر تاریخی از رضاشاه هنگام افتتاح راه‌آهن سراسری و بازدید از پل ورسک منتشر کرد.\n\n🔹سینکی پیش‌تر نیز به دلیل مواضع سیاسی و حمایت از اعتراضات مردمی خبرساز شده بود. او در جریان اعتراضات سال ۱۴۰۱، نام مهسا امینی، نیکا شاکرمی و حدیث نجفی را روی بازوبند کاپیتانی خود نوشته و با آن وارد زمین مسابقه شده بود.\n\n🔹این دروازه‌بان که سابقه بازی برای استقلال اهواز، گل‌گهر سیرجان و پارس جنوبی جم را دارد، پس از موضع‌گیری‌های خود در سال ۱۴۰۱ با مشکلاتی در ادامه فعالیت حرفه‌ای روبه‌رو شد. همچنین گزارش شده بود که او تحت فشارهای امنیتی از پارس جنوبی جم جدا شد و به تیم بعث کرمانشاه در لیگ دسته دوم رفت.\n\n@iranintltvsport",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:46:06",
-      "gregorian_utc": "2026-11-22T11:16:06+00:00",
+      "tehran_time": "14:57:18",
+      "gregorian_utc": "2026-11-22T11:27:18+00:00",
       "media_type": "photo",
-      "media_size_bytes": 136550,
-      "media_size_human": "133.35 KB",
+      "media_size_bytes": 204454,
+      "media_size_human": "199.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368151_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368151_photo.jpg",
+      "media_local_path": "media/IranintlTV_368153_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368153_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120311+00:00"
+      "archived_at": "2026-11-22T13:30:42.126768+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76818_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76818_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.450386+00:00"
+      "archived_at": "2026-11-22T13:30:42.396879+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": "media/Mellig_123494_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123494_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.705079+00:00"
+      "archived_at": "2026-11-22T13:30:42.648131+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16058,
-      "message_link": "https://t.me/zedTV/16058",
-      "text": "بن‌بست کامل در مذاکرات تهران و واشینگتن؛ آمریکا خواستار توقف دائم غنی‌سازی شد.\nمخالفت رژیم با خروج اورانیوم از کشور و پافشاری طرفین بر مواضع خود.\nافزایش سایه جنگ و احتمال وقوع درگیری نظامی در پی شکست دیپلماسی.",
-      "shamsi_date": "1405/08/30",
-      "tehran_time": "21:10:12",
-      "gregorian_utc": "2026-11-21T17:40:12+00:00",
+      "message_id": 16059,
+      "message_link": "https://t.me/zedTV/16059",
+      "text": "اعتراف رسانه حکومتی به احتمال نابودی و غرق شدن نفتکش‌های ایرانی.\nناوگان نفتی رژیم در آستانه سفرهای بی‌بازگشت در آب‌های بین‌المللی.\nتزلزل در امنیت صادرات انرژی و فلج شدن شریان‌های مالی جمهوری اسلامی.",
+      "shamsi_date": "1405/09/01",
+      "tehran_time": "09:34:56",
+      "gregorian_utc": "2026-11-22T06:04:56+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830952+00:00"
+      "archived_at": "2026-11-22T13:30:41.722384+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368150,
-      "message_link": "https://t.me/IranintlTV/368150",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند شنبه ۳۰ آبان گروهی از دانش‌آموزان در کرمانشاه به خیابان‌ها آمده و فریاد زدند: «سوگند جان روحت شاد.»\n﻿ویدیوی منتشرشده در «هەنگاو» هم نشان می‌دهد آنها در محله متخصصین شهر کرمانشاه فریاد «سوگند صیادی» سرداده‌اند.\nبر اساس گزارش‌ها، نیروهای حکومتی تعدادی از این دانش‌آموزان را مورد ضرب و شتم قرار داده‌اند.",
+      "message_id": 368152,
+      "message_link": "https://t.me/IranintlTV/368152",
+      "text": "🔻علیرضا دبیر، رییس فدراسیون کشتی درباره ناراحتی سهراب بختیاری‌زاده از مدیریت باشگاه استقلال از تیمداری در رشته کشتی گفت: «این مساله درون باشگاهی است و به من ربطی ندارد اما وقتی یک تیم اسم خودش را فرهنگی ورزشی می‌گذارد، فقط فوتبال نیست. بعد باید ببینیم اساسنامه آن باشگاه چه می‌گوید. باعث افتخار ماست که تیم‌هایی مثل استقلال، پرسپولیس و سپاهان بیایند و در کشتی سرمایه‌گذاری کنند. همه قرار نیست وارد کشتی و فوتبال بیایند اما هدفمند سرمایه‌گذاری کنند و هزینه الکی نکنند.»\n\n@iranintltvsport",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:45:54",
-      "gregorian_utc": "2026-11-22T11:15:54+00:00",
+      "tehran_time": "14:46:06",
+      "gregorian_utc": "2026-11-22T11:16:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 3460038,
-      "media_size_human": "3.30 MB",
+      "media_size_bytes": 45813035,
+      "media_size_human": "43.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368150_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368150_video.mp4",
+      "media_local_path": "media/IranintlTV_368152_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368152_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120355+00:00"
+      "archived_at": "2026-11-22T13:30:42.126837+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.450592+00:00"
+      "archived_at": "2026-11-22T13:30:42.397039+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_123493_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123493_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.705120+00:00"
+      "archived_at": "2026-11-22T13:30:42.648154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16057,
-      "message_link": "https://t.me/zedTV/16057",
-      "text": "مدیرعامل توانیر: آغاز خاموشی‌های سراسری در پی بحران تأمین سوخت.\nقطعی دو ساعته برق برای بخش‌های خانگی و تجاری در سراسر کشور.\nتداوم ناتوانی در مدیریت زیرساخت‌های انرژی و فشار مضاعف بر شهروندان.",
+      "message_id": 16058,
+      "message_link": "https://t.me/zedTV/16058",
+      "text": "بن‌بست کامل در مذاکرات تهران و واشینگتن؛ آمریکا خواستار توقف دائم غنی‌سازی شد.\nمخالفت رژیم با خروج اورانیوم از کشور و پافشاری طرفین بر مواضع خود.\nافزایش سایه جنگ و احتمال وقوع درگیری نظامی در پی شکست دیپلماسی.",
       "shamsi_date": "1405/08/30",
-      "tehran_time": "20:55:30",
-      "gregorian_utc": "2026-11-21T17:25:30+00:00",
+      "tehran_time": "21:10:12",
+      "gregorian_utc": "2026-11-21T17:40:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.830979+00:00"
+      "archived_at": "2026-11-22T13:30:41.722399+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368149,
-      "message_link": "https://t.me/IranintlTV/368149",
-      "text": "محمدباقر قالیباف، رییس مجلس، یک‌شنبه اول آذر گفت: «اصلاح مصرف انرژی فوری‌ترین و مهم‌ترین مسئله کشور است و باید این اصلاحات از بخش گاز آغاز شود، نه بنزین.» او توضیح داد که بنزین تنها ۹ درصد از سبد انرژی کشور را تشکیل می‌دهد، در حالی که سهم گاز به ۷۳ درصد می‌رسد؛ به همین دلیل، اصلاح مصرف بنزین باید در آخرین اولویت قرار گیرد. قالیباف با تاکید بر ضرورت مدیریت مصرف گاز گفت: «این اقدام می‌تواند به کاهش مشکلات مردم و دولت، تقویت امنیت اقتصادی و افزایش تاب‌آوری اجتماعی کشور کمک کند.»\n@iranintltv",
+      "message_id": 368151,
+      "message_link": "https://t.me/IranintlTV/368151",
+      "text": "🔻خبرگزاری فارس گزارش داد که زهرا اینچه‌درگاهی، رییس پیشین فدراسیون ژیمناستیک، در پرونده اختلاس ارزی به دو سال حبس تعزیری و انفصال دایم از خدمات دولتی محکوم شده است.\n\n🔹بر اساس این گزارش، شعبه اول دادگاه تجدیدنظر استان تهران، اینچه‌درگاهی را علاوه بر حبس و انفصال دایم، به رد مال به مبلغ ۲۱ هزار و ۱۱۷ یورو و پرداخت جزای نقدی محکوم کرده است.\n\n🔹طبق جزییات این پرونده، اینچه‌درگاهی در دوران ریاست خود بر فدراسیون ژیمناستیک، برای تسویه بدهی این فدراسیون به فدراسیون جهانی، درخواست تامین ۴۷ هزار و ۸۰۰ دلار ارز کرده بود. پس از موافقت وزارت ورزش، مبلغ ۲۵ هزار و ۲۱۷ یورو در اردیبهشت ۱۳۹۷ در اختیار او قرار گرفت.\n\n🔹اینچه‌درگاهی پس از بازگشت از اجلاس فدراسیون جهانی ژیمناستیک در کانادا مدعی شد که ۴ هزار و ۱۰۰ یورو را بابت هزینه‌های سفر و ۲۲ هزار یورو را به‌صورت دستی برای تسویه بدهی به فدراسیون جهانی پرداخت کرده است.\n\n🔹جزییات بیشتر را در [**سایت**](https://iranintl.com/202611227715) بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:34:07",
-      "gregorian_utc": "2026-11-22T11:04:07+00:00",
-      "media_type": "video",
-      "media_size_bytes": 534568,
-      "media_size_human": "522.04 KB",
+      "tehran_time": "14:46:06",
+      "gregorian_utc": "2026-11-22T11:16:06+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 136550,
+      "media_size_human": "133.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368149_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368149_video.mp4",
+      "media_local_path": "media/IranintlTV_368151_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368151_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120440+00:00"
+      "archived_at": "2026-11-22T13:30:42.126951+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:37.450841+00:00"
+      "archived_at": "2026-11-22T13:30:42.397250+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-22T13:20:37.705193+00:00"
+      "archived_at": "2026-11-22T13:30:42.648188+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 16056,
-      "message_link": "https://t.me/zedTV/16056",
-      "text": "بحران سوخت و هزینه‌های نجومی تعمیرات؛ فشار مضاعف بر معیشت و ناتوانی در تأمین نیازهای اولیه.\nافسردگی و انزوای جوانان در پی فقر فزاینده؛ بن‌بست اقتصادی مانع از فعالیت‌های اجتماعی شده است.\nنگرانی عمیق خانواده‌ها از آینده؛ دشواری در تأمین سوخت آزاد و هزینه‌های سرسام‌آور زندگی.",
+      "message_id": 16057,
+      "message_link": "https://t.me/zedTV/16057",
+      "text": "مدیرعامل توانیر: آغاز خاموشی‌های سراسری در پی بحران تأمین سوخت.\nقطعی دو ساعته برق برای بخش‌های خانگی و تجاری در سراسر کشور.\nتداوم ناتوانی در مدیریت زیرساخت‌های انرژی و فشار مضاعف بر شهروندان.",
       "shamsi_date": "1405/08/30",
-      "tehran_time": "20:40:45",
-      "gregorian_utc": "2026-11-21T17:10:45+00:00",
+      "tehran_time": "20:55:30",
+      "gregorian_utc": "2026-11-21T17:25:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-22T13:20:36.831003+00:00"
+      "archived_at": "2026-11-22T13:30:41.722414+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368148,
-      "message_link": "https://t.me/IranintlTV/368148",
-      "text": "ناصر کرمی، اقلیم‌شناس و کارشناس محیط زیست، با اشاره به کاهش ۴۰ درصدی مصرف گاز طبیعی و گازوئیل در پالایشگاه‌ها و جایگزینی آن با مازوت‌سوزی، گفت بحران انرژی جمهوری اسلامی به تشدید آلودگی هوا دامن زده است.\n\nاو فرسودگی پالایشگاه‌ها، نبود سرمایه‌گذاری در نوسازی زیرساخت‌های نفتی و هزینه‌کرد منابع کشور در پروژه‌های نظامی و منطقه‌ای را از دلایل ناتوانی در تامین سوخت نیروگاه‌ها دانست و گفت حکومت مردم را میان آلودگی هوا و قطع طولانی‌تر برق قرار داده است.\n@iranintltv",
+      "message_id": 368150,
+      "message_link": "https://t.me/IranintlTV/368150",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند شنبه ۳۰ آبان گروهی از دانش‌آموزان در کرمانشاه به خیابان‌ها آمده و فریاد زدند: «سوگند جان روحت شاد.»\n﻿ویدیوی منتشرشده در «هەنگاو» هم نشان می‌دهد آنها در محله متخصصین شهر کرمانشاه فریاد «سوگند صیادی» سرداده‌اند.\nبر اساس گزارش‌ها، نیروهای حکومتی تعدادی از این دانش‌آموزان را مورد ضرب و شتم قرار داده‌اند.",
       "shamsi_date": "1405/09/01",
-      "tehran_time": "14:29:23",
-      "gregorian_utc": "2026-11-22T10:59:23+00:00",
+      "tehran_time": "14:45:54",
+      "gregorian_utc": "2026-11-22T11:15:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 3522289,
-      "media_size_human": "3.36 MB",
+      "media_size_bytes": 3460038,
+      "media_size_human": "3.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368148_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368148_video.mp4",
+      "media_local_path": "media/IranintlTV_368150_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368150_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.120522+00:00"
+      "archived_at": "2026-11-22T13:30:42.126975+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76815_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76815_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.451068+00:00"
+      "archived_at": "2026-11-22T13:30:42.397425+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_123491_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123491_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-22T13:20:37.705262+00:00"
+      "archived_at": "2026-11-22T13:30:42.648220+00:00"
     }
   ]
 }
