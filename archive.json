@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T10:25:28.954090+00:00",
-  "shamsi_generated": "1405/09/04 10:25:28 تهران",
+  "generated_at": "2026-11-25T10:36:04.296851+00:00",
+  "shamsi_generated": "1405/09/04 10:36:04 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555413+00:00"
+      "archived_at": "2026-11-25T10:30:54.782932+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368624,
-      "message_link": "https://t.me/IranintlTV/368624",
-      "text": "🔻محمد دادکان، رییس پیشین فدراسیون فوتبال در گفتگو با رسول بهروش در برنامه اینترنتی «تک به تک» درباره صداوسیما گفت: «زمان جام جهانی بارها به من گفتند به صداوسیما بیا اما گفتم اصلا پایم را به صداوسیما نمی‌گذارم. بزرگترین مرکز دروغ صداوسیماست. اشاعه دهنده دروغ در کشور ما صداوسیماست. شما که دم از دین می‌زنید، کدام‌تان نبردید و نخوردید؟ از حجاب و یک تار مو حرف می‌زنید، بچه‌های شما آن‌ور آب هستند و دارند لذت می‌برند. اگر من بگویم، ضد دین و ضدانقلاب هستم؟»\n\n@iranintltvsport",
+      "message_id": 368627,
+      "message_link": "https://t.me/IranintlTV/368627",
+      "text": "یک کارگر با ارسال ویدیویی به ایران‌اینترنشنال از قطعی گاز در کوره آجرپزی خبر داد و گفت نبود گاز در سرمای هوا کار را مختل کرده است. او با باز کردن شیر اجاق بدون شعله گفت: «ما کارگر فصلی هستیم، آمدیم اینجا اما گاز نیست که در این سرما کار کنیم.»",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:44:51",
-      "gregorian_utc": "2026-11-25T10:14:51+00:00",
+      "tehran_time": "13:59:58",
+      "gregorian_utc": "2026-11-25T10:29:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 75703240,
-      "media_size_human": "72.20 MB",
+      "media_size_bytes": 6868538,
+      "media_size_human": "6.55 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368624_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368624_video.mp4",
+      "media_local_path": "media/IranintlTV_368627_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368627_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991242+00:00"
+      "archived_at": "2026-11-25T10:30:55.252352+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76841_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373130+00:00"
+      "archived_at": "2026-11-25T10:30:55.707103+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.723773+00:00"
+      "archived_at": "2026-11-25T10:30:56.122463+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": "media/zedTV_16150_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16150_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.555508+00:00"
+      "archived_at": "2026-11-25T10:30:54.783030+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368623,
-      "message_link": "https://t.me/IranintlTV/368623",
-      "text": "نشریه اکونومیست از گسترش همکاری‌های اقتصادی و نظامی چین، روسیه، جمهوری اسلامی و کره شمالی در قالب آنچه «محور چهارگانه شرارت» خوانده، خبر داد.\n\nبر اساس این گزارش، چین خریدار نفت ایران و روسیه است، جمهوری اسلامی به روسیه پهپاد و موشک می‌دهد و کره شمالی نیز مهمات و تجهیزات نظامی در اختیار مسکو قرار می‌دهد.\n\nدر مقابل، روسیه فناوری و تجربه نظامی خود را با این کشورها به اشتراک می‌گذارد.\n\nجزییات بیشتر با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 368626,
+      "message_link": "https://t.me/IranintlTV/368626",
+      "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس، در برنامه‌ای در صداوسیما اعلام کرد که جمهوری اسلامی «همچنان در شرایط جنگی قرار دارد و درگیری‌ها ادامه دارد.» \n\nقشقاوی گفت: «چه کسی گفته است که در وضعیت نه جنگ و نه صلح قرار داریم؟ ما همچنان در شرایط جنگی هستیم، درگیری‌ها ادامه دارد و رزمندگان ما کشته می‌شوند.» \n\nاو همچنین گفت که در ساختار جمهوری اسلامی «تندرو و کندرو» وجود ندارد و تصمیم نهایی را مجتبی خامنه‌ای، رهبر جمهوری اسلامی، می‌گیرد.\n [iranintl.com/202611252231](https://t.co/Hq5g7ft39U)",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:35:13",
-      "gregorian_utc": "2026-11-25T10:05:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3278014,
-      "media_size_human": "3.13 MB",
+      "tehran_time": "13:56:48",
+      "gregorian_utc": "2026-11-25T10:26:48+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 140484,
+      "media_size_human": "137.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368623_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368623_video.mp4",
+      "media_local_path": "media/IranintlTV_368626_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368626_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991365+00:00"
+      "archived_at": "2026-11-25T10:30:55.252504+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.373190+00:00"
+      "archived_at": "2026-11-25T10:30:55.707145+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123608_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123608_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.723842+00:00"
+      "archived_at": "2026-11-25T10:30:56.122552+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": "media/zedTV_16149_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16149_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.555568+00:00"
+      "archived_at": "2026-11-25T10:30:54.783091+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368622,
-      "message_link": "https://t.me/IranintlTV/368622",
-      "text": "نشریه اکونومیست از همکاری بی‌سابقه چین، روسیه، جمهوری اسلامی و کره شمالی در قالب یک محور چهارگانه شرارت گزارش داده است.\n\nرد پای این همکاری را می‌توان در پهپاد انتحاری گران-۴ دید؛ سلاحی با طرح اولیه ایرانی، تجهیزات چینی و تراشه‌های غربی که روسیه آن را توسعه داده و علیه اوکراین به کار گرفته است.\n\nاعضای این محور با انتقال تسلیحات، تبادل فناوری نظامی و ایجاد شبکه‌هایی برای دور زدن تحریم‌ها، یکدیگر را تقویت می‌کنند و جبهه‌ای در برابر آمریکا و متحدان غربی آن شکل داده‌اند.\n@iranintltv",
+      "message_id": 368625,
+      "message_link": "https://t.me/IranintlTV/368625",
+      "text": "وزارت علوم جمهوری اسلامی در توضیح اظهارات مسعود پزشکیان درباره دانشجویان معترض اسفند ۱۴۰۴ اعلام کرد که دانشجویانی که «با برنامه‌ریزی قبلی اقدام به آشوب» کرده‌اند، اجازه بازگشت به دانشگاه را نخواهند داشت. \n\nمسعود پزشکیان سوم آذر در مشهد و در نشستی با «پیشکسوتان و فعالان سیاسی» اعلام کرد که «مانع از تصمیم برای عدم ورود دو هزار دانشجو به دانشگاه‌ها» شده است. \n\nدر بیانیه وزارت علوم آمده است که پرچم جمهوری اسلامی و علی خامنه‌ای از خطوط قرمز «قطعی و خدشه‌ناپذیر» این وزارتخانه هستند. \n\nاین وزارتخانه همچنین نوشت: «برخورد تربیتی با دانشجویانی که از رفتار خود پشیمان شده‌اند، به معنای چشم‌پوشی از برخورد قانونی با حرمت‌شکنان نیست.»\n [iranintl.com/202611256171](https://t.co/BSuNZXj7ac)",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:32:15",
-      "gregorian_utc": "2026-11-25T10:02:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3047473,
-      "media_size_human": "2.91 MB",
+      "tehran_time": "13:55:30",
+      "gregorian_utc": "2026-11-25T10:25:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 129596,
+      "media_size_human": "126.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368622_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368622_video.mp4",
+      "media_local_path": "media/IranintlTV_368625_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368625_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991461+00:00"
+      "archived_at": "2026-11-25T10:30:55.252655+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76839_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76839_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373291+00:00"
+      "archived_at": "2026-11-25T10:30:55.707244+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.723873+00:00"
+      "archived_at": "2026-11-25T10:30:56.122587+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": "media/zedTV_16148_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16148_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.555625+00:00"
+      "archived_at": "2026-11-25T10:30:54.783145+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368621,
-      "message_link": "https://t.me/IranintlTV/368621",
-      "text": "ارم‌نیوز، به نقل از منابع آگاه در کاخ سفید و نزدیک به مقام‌های سازمان اطلاعات مرکزی آمریکا، سیا، گزارش داد که جمهوری اسلامی برای توسعه سکوهای پرتاب در شهرهای موشکی زیرزمینی خود از تخصص کره شمالی کمک گرفته است. \n\nبه گفته این منابع، متخصصان کره شمالی از راه دور با کارشناسان جمهوری اسلای برای توسعه برخی مدل‌های سکوهای پرتاب همکاری کرده‌اند، اما «تحریم‌های آمریکا و اروپا و کمبود قطعات پیشرفته»، مانع دستیابی تهران به اهداف تعیین‌شده برای بازسازی توان موشکی شده است. \n\nیک منبع آمریکایی به ارم‌نیوز گفت که برآوردهای اطلاعاتی نشان می‌دهد جمهوری اسلامی در جنگ گذشته تا ۸۰ درصد سکوهای پرتاب موشک خود را از دست داده و تاکنون تنها توانسته است «ظرفیت‌هایی معادل حدود ۴۰ درصد» توان پیش از جنگ اخیر را بازیابی کند. \n\nاین گزارش در حالی منتشر شده است که سپاه پاسداران از سکوی جدیدی با قابلیت شلیک هم‌زمان دو موشک سوخت مایع رونمایی کرده و حدود دو هفته پیش نیز یک شهر موشکی جدید را افتتاح کرده است.\nhttps://iranintl.com/202611258839",
+      "message_id": 368624,
+      "message_link": "https://t.me/IranintlTV/368624",
+      "text": "🔻محمد دادکان، رییس پیشین فدراسیون فوتبال در گفتگو با رسول بهروش در برنامه اینترنتی «تک به تک» درباره صداوسیما گفت: «زمان جام جهانی بارها به من گفتند به صداوسیما بیا اما گفتم اصلا پایم را به صداوسیما نمی‌گذارم. بزرگترین مرکز دروغ صداوسیماست. اشاعه دهنده دروغ در کشور ما صداوسیماست. شما که دم از دین می‌زنید، کدام‌تان نبردید و نخوردید؟ از حجاب و یک تار مو حرف می‌زنید، بچه‌های شما آن‌ور آب هستند و دارند لذت می‌برند. اگر من بگویم، ضد دین و ضدانقلاب هستم؟»\n\n@iranintltvsport",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:31:34",
-      "gregorian_utc": "2026-11-25T10:01:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 255149,
-      "media_size_human": "249.17 KB",
+      "tehran_time": "13:44:51",
+      "gregorian_utc": "2026-11-25T10:14:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 75703240,
+      "media_size_human": "72.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368621_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368621_photo.jpg",
+      "media_local_path": "media/IranintlTV_368624_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368624_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991617+00:00"
+      "archived_at": "2026-11-25T10:30:55.265647+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76838_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373352+00:00"
+      "archived_at": "2026-11-25T10:30:55.707304+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.723899+00:00"
+      "archived_at": "2026-11-25T10:30:56.122615+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": "media/zedTV_16147_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_16147_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.555675+00:00"
+      "archived_at": "2026-11-25T10:30:54.783196+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368620,
-      "message_link": "https://t.me/IranintlTV/368620",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد شماری از شهروندان، از جمله خانواده‌های نوید نجاران و میلاد آرمون، دو زندانی سیاسی در خطر اعدام، شبانه مقابل زندان قزل‌حصار تجمع کردند و خواستار توقف اجرای حکم آنان شدند.",
+      "message_id": 368623,
+      "message_link": "https://t.me/IranintlTV/368623",
+      "text": "نشریه اکونومیست از گسترش همکاری‌های اقتصادی و نظامی چین، روسیه، جمهوری اسلامی و کره شمالی در قالب آنچه «محور چهارگانه شرارت» خوانده، خبر داد.\n\nبر اساس این گزارش، چین خریدار نفت ایران و روسیه است، جمهوری اسلامی به روسیه پهپاد و موشک می‌دهد و کره شمالی نیز مهمات و تجهیزات نظامی در اختیار مسکو قرار می‌دهد.\n\nدر مقابل، روسیه فناوری و تجربه نظامی خود را با این کشورها به اشتراک می‌گذارد.\n\nجزییات بیشتر با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:29:58",
-      "gregorian_utc": "2026-11-25T09:59:58+00:00",
+      "tehran_time": "13:35:13",
+      "gregorian_utc": "2026-11-25T10:05:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 5634838,
-      "media_size_human": "5.37 MB",
+      "media_size_bytes": 3278014,
+      "media_size_human": "3.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368620_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368620_video.mp4",
+      "media_local_path": "media/IranintlTV_368623_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368623_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991660+00:00"
+      "archived_at": "2026-11-25T10:30:55.265800+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76837_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76837_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373407+00:00"
+      "archived_at": "2026-11-25T10:30:55.707357+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.723967+00:00"
+      "archived_at": "2026-11-25T10:30:56.122677+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555710+00:00"
+      "archived_at": "2026-11-25T10:30:54.783233+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368619,
-      "message_link": "https://t.me/IranintlTV/368619",
-      "text": "🗣**واکنش‌ها به توصیه مجتبی خامنه‌ای به فرزندآوری- چهارشنبه چهار آذر:**\n\n🔹مجتبی خامنه‌ای می‌گه بچه بیارید! مجتبی، کجای کاری، نه‌تنها نمی‌تونیم کسی رو به دنیا بیاریم، بلکه خودمونم داریم از این دنیا می‌ریم!\n\n🔹از اهواز: منظور موشقوا از فرزندآوری برای مردم ایران نیست، برای عرزشی‌ها و آخوندهاست که حقوق بگیر حکومت هستند تا زیاد بشند و مردم ایران رو سرکوب کنند.\n\n🔹بچه‌دار شدن نیاز به داشتن حداقل امکانات زندگی داره. هزینه یک بسته پوشک بچه یک میلیون تومانه. تو این شرایط و با حقوق پایین چگونه می‌توان بچه‌دار شد.\n\n🔹مقوا، ما به دستور شما بچه‌دار نمی‌شیم و نخواهیم شد، آخه مگه این بچه‌ها چه گناهی کردن که در فقر و گرانی که برامون درست کردی به دنیا بیان؟\n\n🔹از گیلان: آینده خودمون مشخص نیست اون‌وقت این سرنگون‌شده‌ها ازمون افزایش جمعیت می‌خوان!\n\n🔹از کرج: فرزندآوری تبلیغات نمی‌خواد، وضعیت عادی در جامعه می‌خواد که این حکومت آدم این‌کار نیست.\n\n🔹از مشهد: جوان‌های ما زیر فقر و گرونی دارن له می‌شن، می‌ترسن ازدواج کنن، بعد این ابله میاد می‌گه بچه‌دار شین.\n\n🔹اینا منظورشون از «مردم» فقط طرفدارای خودشون هستن. مثلا اگه برای بچه‌دار شدن مردم رو خطاب قرار می‌دن منظورشون فقط بسیجی و سپاهی و  آخونده. اگه غیر از این سه قشر هستین هیچ ارزشی براشون ندارید.",
+      "message_id": 368622,
+      "message_link": "https://t.me/IranintlTV/368622",
+      "text": "نشریه اکونومیست از همکاری بی‌سابقه چین، روسیه، جمهوری اسلامی و کره شمالی در قالب یک محور چهارگانه شرارت گزارش داده است.\n\nرد پای این همکاری را می‌توان در پهپاد انتحاری گران-۴ دید؛ سلاحی با طرح اولیه ایرانی، تجهیزات چینی و تراشه‌های غربی که روسیه آن را توسعه داده و علیه اوکراین به کار گرفته است.\n\nاعضای این محور با انتقال تسلیحات، تبادل فناوری نظامی و ایجاد شبکه‌هایی برای دور زدن تحریم‌ها، یکدیگر را تقویت می‌کنند و جبهه‌ای در برابر آمریکا و متحدان غربی آن شکل داده‌اند.\n@iranintltv",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:29:51",
-      "gregorian_utc": "2026-11-25T09:59:51+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.991836+00:00"
+      "tehran_time": "13:32:15",
+      "gregorian_utc": "2026-11-25T10:02:15+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3047473,
+      "media_size_human": "2.91 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_368622_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368622_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-11-25T10:30:55.265906+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76836_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76836_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373447+00:00"
+      "archived_at": "2026-11-25T10:30:55.707398+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.724022+00:00"
+      "archived_at": "2026-11-25T10:30:56.122731+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555740+00:00"
+      "archived_at": "2026-11-25T10:30:54.783262+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368618,
-      "message_link": "https://t.me/IranintlTV/368618",
-      "text": "حسین صمصامی، نماینده تهران در مجلس، در جلسه مجازی مجلس در چهارشنبه ۴ آذر گفت: «هم بانک مرکزی و هم دولت دقیقا در زمین دشمن بازی می‌کنند؛ به این معنا که بانک مرکزی هر روز نرخ ارز را که ابزار اصلی دشمن در جنگ اقتصادی است، افزایش می‌دهد و شاهد گران‌تر شدن روزانه ارز در بازار هستیم.»\n\nاین نماینده مجلس ادامه داد: «از یک سو نرخ ارز افزایش پیدا می‌کند و از سوی دیگر، واردات کالاها و قیمت‌گذاری آن‌ها را به بازار آزاد واگذار می‌کنیم و به این ترتیب تقاضا برای ارز در بازار ایجاد می‌شود.»\nhttps://iranintl.com/202611250354",
+      "message_id": 368621,
+      "message_link": "https://t.me/IranintlTV/368621",
+      "text": "ارم‌نیوز، به نقل از منابع آگاه در کاخ سفید و نزدیک به مقام‌های سازمان اطلاعات مرکزی آمریکا، سیا، گزارش داد که جمهوری اسلامی برای توسعه سکوهای پرتاب در شهرهای موشکی زیرزمینی خود از تخصص کره شمالی کمک گرفته است. \n\nبه گفته این منابع، متخصصان کره شمالی از راه دور با کارشناسان جمهوری اسلای برای توسعه برخی مدل‌های سکوهای پرتاب همکاری کرده‌اند، اما «تحریم‌های آمریکا و اروپا و کمبود قطعات پیشرفته»، مانع دستیابی تهران به اهداف تعیین‌شده برای بازسازی توان موشکی شده است. \n\nیک منبع آمریکایی به ارم‌نیوز گفت که برآوردهای اطلاعاتی نشان می‌دهد جمهوری اسلامی در جنگ گذشته تا ۸۰ درصد سکوهای پرتاب موشک خود را از دست داده و تاکنون تنها توانسته است «ظرفیت‌هایی معادل حدود ۴۰ درصد» توان پیش از جنگ اخیر را بازیابی کند. \n\nاین گزارش در حالی منتشر شده است که سپاه پاسداران از سکوی جدیدی با قابلیت شلیک هم‌زمان دو موشک سوخت مایع رونمایی کرده و حدود دو هفته پیش نیز یک شهر موشکی جدید را افتتاح کرده است.\nhttps://iranintl.com/202611258839",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:23:30",
-      "gregorian_utc": "2026-11-25T09:53:30+00:00",
+      "tehran_time": "13:31:34",
+      "gregorian_utc": "2026-11-25T10:01:34+00:00",
       "media_type": "photo",
-      "media_size_bytes": 147427,
-      "media_size_human": "143.97 KB",
+      "media_size_bytes": 255149,
+      "media_size_human": "249.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368618_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368618_photo.jpg",
+      "media_local_path": "media/IranintlTV_368621_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368621_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.991934+00:00"
+      "archived_at": "2026-11-25T10:30:55.266078+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76835_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76835_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373484+00:00"
+      "archived_at": "2026-11-25T10:30:55.707435+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.724052+00:00"
+      "archived_at": "2026-11-25T10:30:56.122761+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555785+00:00"
+      "archived_at": "2026-11-25T10:30:54.783307+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368617,
-      "message_link": "https://t.me/IranintlTV/368617",
-      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دونالد ترامپ بر تامین بودجه جنگ با جمهوری اسلامی برای یک ماه و اظهارات او درباره خواست اسرائیل برای تغییر رژیم در ایران، گفت ترامپ هم‌زمان با تشدید فشار اقتصادی و حفظ تهدید نظامی، در پی گرفتن حداکثر امتیاز از جمهوری اسلامی با حداقل هزینه است.\n\nاو همچنین اظهارات مقام‌های نظامی جمهوری اسلامی درباره شکستن محاصره دریایی آمریکا را بیشتر در حد رجزخوانی دانست و گفت تهران در شرایط کنونی به دنبال عبور از فشارهای اقتصادی است، نه ورود به یک رویارویی نظامی گسترده با آمریکا.\n@iranintltv",
+      "message_id": 368620,
+      "message_link": "https://t.me/IranintlTV/368620",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی نشان می‌دهد شماری از شهروندان، از جمله خانواده‌های نوید نجاران و میلاد آرمون، دو زندانی سیاسی در خطر اعدام، شبانه مقابل زندان قزل‌حصار تجمع کردند و خواستار توقف اجرای حکم آنان شدند.",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:19:15",
-      "gregorian_utc": "2026-11-25T09:49:15+00:00",
+      "tehran_time": "13:29:58",
+      "gregorian_utc": "2026-11-25T09:59:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 4334487,
-      "media_size_human": "4.13 MB",
+      "media_size_bytes": 5634838,
+      "media_size_human": "5.37 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368617_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368617_video.mp4",
+      "media_local_path": "media/IranintlTV_368620_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368620_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992028+00:00"
+      "archived_at": "2026-11-25T10:30:55.266121+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76834_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76834_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373536+00:00"
+      "archived_at": "2026-11-25T10:30:55.707486+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.724078+00:00"
+      "archived_at": "2026-11-25T10:30:56.122790+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555816+00:00"
+      "archived_at": "2026-11-25T10:30:54.783340+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368616,
-      "message_link": "https://t.me/IranintlTV/368616",
-      "text": "محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، چهارشنبه چهارم آذر در جمع فرماندهان و کارکنان نیروی هوایی ارتش اعلام کرد که شناورها برای عبور امن از تنگه هرمز «باید با نیروهای مسلح جمهوری اسلامی هماهنگ کنند.» \n\nسخنگوی ارتش جمهوری اسلامی گفت: «با استقرار سامانه‌های جدید و ارتقای سامانه‌های پیشین، سطح مراقبت از این آبراه افزایش یافته است.» \n\nاو افزود که آمادگی ارتش نسبت به گذشته «افزایش یافته» و در حال حاضر، بنا بر دستور فرمانده کل ارتش جمهوری اسلامی، «کنترل و مراقبت شدیدتری بر تنگه هرمز اعمال می‌شود.» \n\nاکرمی‌نیا همچنین اعلام کرد که در هفته‌های اخیر، با توجه به شرایط منطقه و «ترددهای غیرمجاز»، شناورهایی که «بدون هماهنگی» با نیروهای مسلح جمهوری اسلامی از تنگه هرمز عبور می‌کردند، «با مخاطرات بیشتری مواجه شده و با مین برخورد کرده‌اند.»\n [iranintl.com/202611255664](https://t.co/IFSkJ5bluo)",
+      "message_id": 368619,
+      "message_link": "https://t.me/IranintlTV/368619",
+      "text": "🗣**واکنش‌ها به توصیه مجتبی خامنه‌ای به فرزندآوری- چهارشنبه چهار آذر:**\n\n🔹مجتبی خامنه‌ای می‌گه بچه بیارید! مجتبی، کجای کاری، نه‌تنها نمی‌تونیم کسی رو به دنیا بیاریم، بلکه خودمونم داریم از این دنیا می‌ریم!\n\n🔹از اهواز: منظور موشقوا از فرزندآوری برای مردم ایران نیست، برای عرزشی‌ها و آخوندهاست که حقوق بگیر حکومت هستند تا زیاد بشند و مردم ایران رو سرکوب کنند.\n\n🔹بچه‌دار شدن نیاز به داشتن حداقل امکانات زندگی داره. هزینه یک بسته پوشک بچه یک میلیون تومانه. تو این شرایط و با حقوق پایین چگونه می‌توان بچه‌دار شد.\n\n🔹مقوا، ما به دستور شما بچه‌دار نمی‌شیم و نخواهیم شد، آخه مگه این بچه‌ها چه گناهی کردن که در فقر و گرانی که برامون درست کردی به دنیا بیان؟\n\n🔹از گیلان: آینده خودمون مشخص نیست اون‌وقت این سرنگون‌شده‌ها ازمون افزایش جمعیت می‌خوان!\n\n🔹از کرج: فرزندآوری تبلیغات نمی‌خواد، وضعیت عادی در جامعه می‌خواد که این حکومت آدم این‌کار نیست.\n\n🔹از مشهد: جوان‌های ما زیر فقر و گرونی دارن له می‌شن، می‌ترسن ازدواج کنن، بعد این ابله میاد می‌گه بچه‌دار شین.\n\n🔹اینا منظورشون از «مردم» فقط طرفدارای خودشون هستن. مثلا اگه برای بچه‌دار شدن مردم رو خطاب قرار می‌دن منظورشون فقط بسیجی و سپاهی و  آخونده. اگه غیر از این سه قشر هستین هیچ ارزشی براشون ندارید.",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:12:55",
-      "gregorian_utc": "2026-11-25T09:42:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 149871,
-      "media_size_human": "146.36 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368616_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368616_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992170+00:00"
+      "tehran_time": "13:29:51",
+      "gregorian_utc": "2026-11-25T09:59:51+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-11-25T10:30:55.266316+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76833_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76833_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373596+00:00"
+      "archived_at": "2026-11-25T10:30:55.707564+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": "media/Mellig_123601_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123601_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.724120+00:00"
+      "archived_at": "2026-11-25T10:30:56.122832+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555853+00:00"
+      "archived_at": "2026-11-25T10:30:54.783368+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368615,
-      "message_link": "https://t.me/IranintlTV/368615",
-      "text": "امیرحسین بانکی‌پور، عضو کمیسیون فرهنگی مجلس، با اشاره به فاصله میان بلوغ جنسی و امکان تشکیل زندگی مشترک در میان جوانان، سه راهکار ازدواج، عفت و حیا و عقد طولانی‌مدت را برای پاسخ به نیاز جنسی آنان مطرح کرد. \n\nبانکی‌پور با اشاره به اینکه تنها یک درصد پسران و ۲۰ درصد دختران زیر ۲۰ سال ازدواج می‌کنند، گفت: «جوانان در این دوره با اوج نیازهای جنسی مواجهند و در کنار آن، با حجم گسترده‌ای از تحریکات در فضای مجازی نیز روبه‌رو هستند.» \n\nاو افزود: «راهکار نخست ما ازدواج است و اگر امکان آن فراهم نشد، راهکار دوم عفت و حیاست؛ اما اگر این راهکارها نیز به‌تنهایی پاسخگو نباشند، نباید صورت مساله را نادیده بگیریم و باید راهکارهای دیگری را نیز بررسی کنیم.» \n\nاو راهکار سوم را «عقد طولانی‌مدت» عنوان کرد و گفت: «دختر و پسری که توانایی اداره زندگی و تشکیل خانواده زیر یک سقف را ندارند، به دلیل نداشتن شغل، مسکن یا امکانات اقتصادی، می‌توانند برای چند سال در عقد باقی بمانند؛ برای مثال، چهار یا پنج سال عقد باشند، هر کدام به تحصیل و فعالیت‌های خود ادامه دهند و پس از فراهم شدن شرایط، زندگی مشترک خود را آغاز کنند.»\n [iranintl.com/202611255489](https://t.co/HmGwdlDgSJ)",
+      "message_id": 368618,
+      "message_link": "https://t.me/IranintlTV/368618",
+      "text": "حسین صمصامی، نماینده تهران در مجلس، در جلسه مجازی مجلس در چهارشنبه ۴ آذر گفت: «هم بانک مرکزی و هم دولت دقیقا در زمین دشمن بازی می‌کنند؛ به این معنا که بانک مرکزی هر روز نرخ ارز را که ابزار اصلی دشمن در جنگ اقتصادی است، افزایش می‌دهد و شاهد گران‌تر شدن روزانه ارز در بازار هستیم.»\n\nاین نماینده مجلس ادامه داد: «از یک سو نرخ ارز افزایش پیدا می‌کند و از سوی دیگر، واردات کالاها و قیمت‌گذاری آن‌ها را به بازار آزاد واگذار می‌کنیم و به این ترتیب تقاضا برای ارز در بازار ایجاد می‌شود.»\nhttps://iranintl.com/202611250354",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:11:50",
-      "gregorian_utc": "2026-11-25T09:41:50+00:00",
+      "tehran_time": "13:23:30",
+      "gregorian_utc": "2026-11-25T09:53:30+00:00",
       "media_type": "photo",
-      "media_size_bytes": 141449,
-      "media_size_human": "138.13 KB",
+      "media_size_bytes": 147427,
+      "media_size_human": "143.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368615_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368615_photo.jpg",
+      "media_local_path": "media/IranintlTV_368618_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368618_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992320+00:00"
+      "archived_at": "2026-11-25T10:30:55.266426+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76832_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76832_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373654+00:00"
+      "archived_at": "2026-11-25T10:30:55.707628+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": "media/Mellig_123600_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123600_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.724181+00:00"
+      "archived_at": "2026-11-25T10:30:56.122872+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555880+00:00"
+      "archived_at": "2026-11-25T10:30:54.783394+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368614,
-      "message_link": "https://t.me/IranintlTV/368614",
-      "text": "سرخط خبرهای چهارشنبه ۴ آذر\n@iranintltv",
+      "message_id": 368617,
+      "message_link": "https://t.me/IranintlTV/368617",
+      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به تاکید دونالد ترامپ بر تامین بودجه جنگ با جمهوری اسلامی برای یک ماه و اظهارات او درباره خواست اسرائیل برای تغییر رژیم در ایران، گفت ترامپ هم‌زمان با تشدید فشار اقتصادی و حفظ تهدید نظامی، در پی گرفتن حداکثر امتیاز از جمهوری اسلامی با حداقل هزینه است.\n\nاو همچنین اظهارات مقام‌های نظامی جمهوری اسلامی درباره شکستن محاصره دریایی آمریکا را بیشتر در حد رجزخوانی دانست و گفت تهران در شرایط کنونی به دنبال عبور از فشارهای اقتصادی است، نه ورود به یک رویارویی نظامی گسترده با آمریکا.\n@iranintltv",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:06:51",
-      "gregorian_utc": "2026-11-25T09:36:51+00:00",
+      "tehran_time": "13:19:15",
+      "gregorian_utc": "2026-11-25T09:49:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 913505,
-      "media_size_human": "892.09 KB",
+      "media_size_bytes": 4334487,
+      "media_size_human": "4.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368614_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368614_video.mp4",
+      "media_local_path": "media/IranintlTV_368617_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368617_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992369+00:00"
+      "archived_at": "2026-11-25T10:30:55.266569+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76830_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76830_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373847+00:00"
+      "archived_at": "2026-11-25T10:30:55.707817+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.724238+00:00"
+      "archived_at": "2026-11-25T10:30:56.122928+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555905+00:00"
+      "archived_at": "2026-11-25T10:30:54.783420+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368613,
-      "message_link": "https://t.me/IranintlTV/368613",
-      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت: «دوباره قطعی برق و آب شروع شد. نمی‌دانند چطور مردم را اذیت کنند. داریم برمی‌گردیم به عصر حجر. جوانی ما حرام شد.»",
+      "message_id": 368616,
+      "message_link": "https://t.me/IranintlTV/368616",
+      "text": "محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، چهارشنبه چهارم آذر در جمع فرماندهان و کارکنان نیروی هوایی ارتش اعلام کرد که شناورها برای عبور امن از تنگه هرمز «باید با نیروهای مسلح جمهوری اسلامی هماهنگ کنند.» \n\nسخنگوی ارتش جمهوری اسلامی گفت: «با استقرار سامانه‌های جدید و ارتقای سامانه‌های پیشین، سطح مراقبت از این آبراه افزایش یافته است.» \n\nاو افزود که آمادگی ارتش نسبت به گذشته «افزایش یافته» و در حال حاضر، بنا بر دستور فرمانده کل ارتش جمهوری اسلامی، «کنترل و مراقبت شدیدتری بر تنگه هرمز اعمال می‌شود.» \n\nاکرمی‌نیا همچنین اعلام کرد که در هفته‌های اخیر، با توجه به شرایط منطقه و «ترددهای غیرمجاز»، شناورهایی که «بدون هماهنگی» با نیروهای مسلح جمهوری اسلامی از تنگه هرمز عبور می‌کردند، «با مخاطرات بیشتری مواجه شده و با مین برخورد کرده‌اند.»\n [iranintl.com/202611255664](https://t.co/IFSkJ5bluo)",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:03:44",
-      "gregorian_utc": "2026-11-25T09:33:44+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7142487,
-      "media_size_human": "6.81 MB",
+      "tehran_time": "13:12:55",
+      "gregorian_utc": "2026-11-25T09:42:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 149871,
+      "media_size_human": "146.36 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368613_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368613_video.mp4",
+      "media_local_path": "media/IranintlTV_368616_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368616_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992406+00:00"
+      "archived_at": "2026-11-25T10:30:55.266716+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76829_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76829_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.373927+00:00"
+      "archived_at": "2026-11-25T10:30:55.707888+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_123598_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123598_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.724305+00:00"
+      "archived_at": "2026-11-25T10:30:56.122995+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555934+00:00"
+      "archived_at": "2026-11-25T10:30:54.783449+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368612,
-      "message_link": "https://t.me/IranintlTV/368612",
-      "text": "هم‌زمان با روز جهانی منع خشونت علیه زنان، مقابله با خشونت جنسیتی به یکی از موضوعات مهم رقابت‌های انتخاباتی و بحث‌های سیاسی در اسپانیا تبدیل شده است.\n\nحزب سوسیالیست، حزب مردمی، حزب راست‌گرای ووکس و جبهه گسترده، برنامه‌های متفاوتی برای حمایت از قربانیان، تشدید مجازات متجاوزان، نظارت الکترونیکی بر افراد خشونت‌گر و مقابله با خشونت دیجیتال مطرح کرده‌اند.\n\nصدف باغبانی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+      "message_id": 368615,
+      "message_link": "https://t.me/IranintlTV/368615",
+      "text": "امیرحسین بانکی‌پور، عضو کمیسیون فرهنگی مجلس، با اشاره به فاصله میان بلوغ جنسی و امکان تشکیل زندگی مشترک در میان جوانان، سه راهکار ازدواج، عفت و حیا و عقد طولانی‌مدت را برای پاسخ به نیاز جنسی آنان مطرح کرد. \n\nبانکی‌پور با اشاره به اینکه تنها یک درصد پسران و ۲۰ درصد دختران زیر ۲۰ سال ازدواج می‌کنند، گفت: «جوانان در این دوره با اوج نیازهای جنسی مواجهند و در کنار آن، با حجم گسترده‌ای از تحریکات در فضای مجازی نیز روبه‌رو هستند.» \n\nاو افزود: «راهکار نخست ما ازدواج است و اگر امکان آن فراهم نشد، راهکار دوم عفت و حیاست؛ اما اگر این راهکارها نیز به‌تنهایی پاسخگو نباشند، نباید صورت مساله را نادیده بگیریم و باید راهکارهای دیگری را نیز بررسی کنیم.» \n\nاو راهکار سوم را «عقد طولانی‌مدت» عنوان کرد و گفت: «دختر و پسری که توانایی اداره زندگی و تشکیل خانواده زیر یک سقف را ندارند، به دلیل نداشتن شغل، مسکن یا امکانات اقتصادی، می‌توانند برای چند سال در عقد باقی بمانند؛ برای مثال، چهار یا پنج سال عقد باشند، هر کدام به تحصیل و فعالیت‌های خود ادامه دهند و پس از فراهم شدن شرایط، زندگی مشترک خود را آغاز کنند.»\n [iranintl.com/202611255489](https://t.co/HmGwdlDgSJ)",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:02:32",
-      "gregorian_utc": "2026-11-25T09:32:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2487757,
-      "media_size_human": "2.37 MB",
+      "tehran_time": "13:11:50",
+      "gregorian_utc": "2026-11-25T09:41:50+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 141449,
+      "media_size_human": "138.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368612_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368612_video.mp4",
+      "media_local_path": "media/IranintlTV_368615_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368615_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992492+00:00"
+      "archived_at": "2026-11-25T10:30:55.266887+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76828_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76828_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.374031+00:00"
+      "archived_at": "2026-11-25T10:30:55.707992+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_123597_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123597_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.724360+00:00"
+      "archived_at": "2026-11-25T10:30:56.123052+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555961+00:00"
+      "archived_at": "2026-11-25T10:30:54.783475+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368611,
-      "message_link": "https://t.me/IranintlTV/368611",
-      "text": "آسیه امینی، تحلیلگر مسائل اجتماعی، با اشاره به ناکارآمدی قوانین و نهادهای حمایتی در مقابله با زن‌کشی و خشونت علیه زنان در ایران گفت خشونت علیه زنان در ایران ریشه‌های اجتماعی و سیاسی دارد و ساختار حکومت به تداوم آن دامن می‌زند.\n\nاو با اشاره به کاهش شمار خانه‌های امن از ۱۵ مرکز به پنج مرکز تاکید کرد در شرایط کنونی، حمایت خانواده‌ها، افزایش آگاهی عمومی و نقش‌آفرینی رسانه‌ها اهمیت بیشتری پیدا کرده است.\n@iranintltv",
+      "message_id": 368614,
+      "message_link": "https://t.me/IranintlTV/368614",
+      "text": "سرخط خبرهای چهارشنبه ۴ آذر\n@iranintltv",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "13:01:49",
-      "gregorian_utc": "2026-11-25T09:31:49+00:00",
+      "tehran_time": "13:06:51",
+      "gregorian_utc": "2026-11-25T09:36:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 4580320,
-      "media_size_human": "4.37 MB",
+      "media_size_bytes": 913505,
+      "media_size_human": "892.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368611_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368611_video.mp4",
+      "media_local_path": "media/IranintlTV_368614_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368614_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992571+00:00"
+      "archived_at": "2026-11-25T10:30:55.266939+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76827_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76827_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.374085+00:00"
+      "archived_at": "2026-11-25T10:30:55.708046+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_123596_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123596_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:41.724399+00:00"
+      "archived_at": "2026-11-25T10:30:56.123091+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:40.555987+00:00"
+      "archived_at": "2026-11-25T10:30:54.783499+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368610,
-      "message_link": "https://t.me/IranintlTV/368610",
-      "text": "ویدیوهای ارسالی به ایران‌اینترنشنال نشان می‌دهد که شماری از ایرانیان در هانوفر، کپنهاگ و تورنتو با برگزاری تجمع‌هایی خواستار جلوگیری از اعدام نوید نجاران و میلاد آرمون شدند.",
+      "message_id": 368613,
+      "message_link": "https://t.me/IranintlTV/368613",
+      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت: «دوباره قطعی برق و آب شروع شد. نمی‌دانند چطور مردم را اذیت کنند. داریم برمی‌گردیم به عصر حجر. جوانی ما حرام شد.»",
       "shamsi_date": "1405/09/04",
-      "tehran_time": "12:58:56",
-      "gregorian_utc": "2026-11-25T09:28:56+00:00",
+      "tehran_time": "13:03:44",
+      "gregorian_utc": "2026-11-25T09:33:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 8480569,
-      "media_size_human": "8.09 MB",
+      "media_size_bytes": 7142487,
+      "media_size_human": "6.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368610_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368610_video.mp4",
+      "media_local_path": "media/IranintlTV_368613_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368613_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-25T10:20:40.992607+00:00"
+      "archived_at": "2026-11-25T10:30:55.266979+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.374183+00:00"
+      "archived_at": "2026-11-25T10:30:55.708126+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-25T10:20:41.724466+00:00"
+      "archived_at": "2026-11-25T10:30:56.123158+00:00"
     }
   ]
 }
