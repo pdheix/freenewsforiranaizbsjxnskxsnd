@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T17:16:20.748892+00:00",
-  "shamsi_generated": "1405/09/06 17:16:20 تهران",
+  "generated_at": "2026-11-27T17:26:10.782142+00:00",
+  "shamsi_generated": "1405/09/06 17:26:10 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533657+00:00"
+      "archived_at": "2026-11-27T17:20:43.579078+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368973,
-      "message_link": "https://t.me/IranintlTV/368973",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، فاکتور ۲۳ میلیون تومانی تعمیر تلویزیون خود را نشان داد و از افزایش هزینه تعمیر لوازم خانگی انتقاد کرد. او گفت این تلویزیون را حدود یک سال و نیم پیش ۳۵ میلیون تومان خریده و اکنون تنها برای تعویض لامپ‌های ۲۳ میلیون تومان پرداخته است.",
+      "message_id": 368974,
+      "message_link": "https://t.me/IranintlTV/368974",
+      "text": "سامانه توزیع اطلاعات تصویری وزارت جنگ آمریکا، جمعه ششم آذر اعلام کرد که یک هواپیمای نظامی این کشور، کشتی باری «پاسیفیک آرچر» را که پس از خروج از بندرعباس تلاش کرده بود محاصره دریایی ایران را نقض کند، هدف قرار داده و از حرکت بازداشته است.\n\nبر اساس این گزارش، این کشتی که با پرچم پالائو تردد می‌کرد، پنج‌شنبه پنجم آذر پس از بی‌توجهی به هشدارهای مکرر نیروهای آمریکایی، در دریای عمان از ناحیه انتهایی با مهمات هدایت‌شونده دقیق هدف قرار گرفت.\n\nدر پی این حمله، سامانه پیشران کشتی از کار افتاد، اما هیچ‌یک از خدمه غیرنظامی آن آسیب ندیدند.\n\nارتش آمریکا همچنین اعلام کرد که تاکنون مسیر ۱۵۸ کشتی تجاری را که از دستورهای این کشور پیروی کرده‌اند، تغییر داده و شش کشتی دیگر را که از اجرای این دستورها خودداری کرده‌اند، از حرکت بازداشته است.\n\nارتش آمریکا به کشتی‌هایی که به تنگه هرمز نزدیک می‌شوند هشدار داد که دستورهای مربوط به محاصره دریایی ایران را رعایت کنند.\nhttps://iranintl.com/202611278793",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "20:35:09",
-      "gregorian_utc": "2026-11-27T17:05:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10956753,
-      "media_size_human": "10.45 MB",
+      "tehran_time": "20:45:56",
+      "gregorian_utc": "2026-11-27T17:15:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 100043,
+      "media_size_human": "97.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368973_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368973_video.mp4",
+      "media_local_path": "media/IranintlTV_368974_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368974_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.928154+00:00"
+      "archived_at": "2026-11-27T17:20:43.966309+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76846_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332375+00:00"
+      "archived_at": "2026-11-27T17:20:44.390119+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.723710+00:00"
+      "archived_at": "2026-11-27T17:20:44.795438+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533705+00:00"
+      "archived_at": "2026-11-27T17:20:43.579114+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368972,
-      "message_link": "https://t.me/IranintlTV/368972",
-      "text": "🔻مازیار زارع، سرمربی ملوان بندر انزلی، پس از شکست تیمش مقابل استقلال خوزستان بار دیگر از سمت خود استعفا کرد.\n\n🔹️زارع پس از این مسابقه در جمع خبرنگاران حاضر شد و درباره تصمیم خود گفت: «سه روز پیش با مالک باشگاه جلسه داشتم و در آن تاکید کردم که پس از بازی با استقلال خوزستان، با هر نتیجه‌ای، چه برد، چه تساوی و چه شکست، از سمت خود استعفا خواهم کرد.»\n\n🔹️سرمربی ملوان در هفته‌های گذشته نیز استعفا کرده بود، اما مسئولان باشگاه با این تصمیم مخالفت کردند و او بار دیگر به تیم بازگشت.\n\n@iranintltvsport",
+      "message_id": 368973,
+      "message_link": "https://t.me/IranintlTV/368973",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، فاکتور ۲۳ میلیون تومانی تعمیر تلویزیون خود را نشان داد و از افزایش هزینه تعمیر لوازم خانگی انتقاد کرد. او گفت این تلویزیون را حدود یک سال و نیم پیش ۳۵ میلیون تومان خریده و اکنون تنها برای تعویض لامپ‌های ۲۳ میلیون تومان پرداخته است.",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "20:30:17",
-      "gregorian_utc": "2026-11-27T17:00:17+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 126080,
-      "media_size_human": "123.12 KB",
+      "tehran_time": "20:35:09",
+      "gregorian_utc": "2026-11-27T17:05:09+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10956753,
+      "media_size_human": "10.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368972_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368972_photo.jpg",
+      "media_local_path": "media/IranintlTV_368973_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368973_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939061+00:00"
+      "archived_at": "2026-11-27T17:20:43.966357+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76841_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332524+00:00"
+      "archived_at": "2026-11-27T17:20:44.390238+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_123666_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123666_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.723767+00:00"
+      "archived_at": "2026-11-27T17:20:44.795492+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533740+00:00"
+      "archived_at": "2026-11-27T17:20:43.579138+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368971,
-      "message_link": "https://t.me/IranintlTV/368971",
-      "text": "🔻مهدی تارتار، سرمربی پرسپولیس، در نشست خبری پس از مسابقه گفت: «بازی بدی نبود و مالکیت در اختیار ما بود. حریف هم با برنامه و منسجم کارهای دفاعی را انجام داد و روی ضربات ایستگاهی و اوت برنامه داشت و ما را اذیت کرد. به دلیل عدم تمرکز در زمانی که یک بر صفر جلو بودیم، حریف صاحب پنالتی شد. تیم برتر زمین بودیم، اما آلومینیوم با دفاع فشرده فضاها را از ما گرفته بود. این بازی برای ما تمام شد و باید روی مسابقه بعد تمرکز کنیم.»\n\n🔹او درباره اعتراض هواداران گفت: «هواداران برای ما عزیز هستند. در این شرایط سخت به ورزشگاه می‌آیند و انتظار دارند تیم به پیروزی برسد. ما پرسپولیس هستیم و انصافا تلاشمان را انجام دادیم. بازیکنان هم خیلی زحمت کشیدند، اما این یکی از بازی‌های سخت ما بود. آلومینیوم هر سال برای تیم‌های مدعی در اینجا دردسرساز شده است.»\n\n🔹سرمربی پرسپولیس ادامه داد: «من برای رسیدن به این تیم خیلی زحمت کشیدم و تا روزی که بتوانم کمک کنم، با قدرت کارم را انجام می‌دهم.»\n\n🔹تارتار در واکنش به ادامه ناکامی پرسپولیس مقابل تیم‌های نیمه بالای جدول گفت: «مهم کیفیت بازی است. اگر تیمم بد بازی می‌کرد، این حرف را قبول داشتم.»\n\n[**جزییات بیشتر**](https://www.iranintl.com/202611279255)\n\n@iranintltvsport",
+      "message_id": 368972,
+      "message_link": "https://t.me/IranintlTV/368972",
+      "text": "🔻مازیار زارع، سرمربی ملوان بندر انزلی، پس از شکست تیمش مقابل استقلال خوزستان بار دیگر از سمت خود استعفا کرد.\n\n🔹️زارع پس از این مسابقه در جمع خبرنگاران حاضر شد و درباره تصمیم خود گفت: «سه روز پیش با مالک باشگاه جلسه داشتم و در آن تاکید کردم که پس از بازی با استقلال خوزستان، با هر نتیجه‌ای، چه برد، چه تساوی و چه شکست، از سمت خود استعفا خواهم کرد.»\n\n🔹️سرمربی ملوان در هفته‌های گذشته نیز استعفا کرده بود، اما مسئولان باشگاه با این تصمیم مخالفت کردند و او بار دیگر به تیم بازگشت.\n\n@iranintltvsport",
       "shamsi_date": "1405/09/06",
       "tehran_time": "20:30:17",
       "gregorian_utc": "2026-11-27T17:00:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152100,
-      "media_size_human": "148.54 KB",
+      "media_size_bytes": 126080,
+      "media_size_human": "123.12 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368971_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368971_photo.jpg",
+      "media_local_path": "media/IranintlTV_368972_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368972_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939279+00:00"
+      "archived_at": "2026-11-27T17:20:43.975391+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.332560+00:00"
+      "archived_at": "2026-11-27T17:20:44.390260+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.723823+00:00"
+      "archived_at": "2026-11-27T17:20:44.795532+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533779+00:00"
+      "archived_at": "2026-11-27T17:20:43.579169+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368970,
-      "message_link": "https://t.me/IranintlTV/368970",
-      "text": "گزارش جدید موسسه مشاوره خودرویی «دِروژیِه» نشان می‌دهد سهم آمریکا از ارزش دلاری واردات خودروهای سبک به کانادا در سال ۲۰۲۶، ۴۰ درصد کاهش داشته است، رقمی که نسبت به سهم سال ۲۰۲۴ افت چشمگیری دارد. در حالی که واردات خودرو از چین نیز از ۲٫۹ به ۲٫۶ درصد کاهش یافته، خودروسازان برای فرار از تعرفه‌های متقابل ۲۵ درصدی و جلوگیری از افزایش قیمت‌ها، به‌سرعت به سمت بازارهای جایگزین رفته‌اند.\n\nگفت‌وگو با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 368971,
+      "message_link": "https://t.me/IranintlTV/368971",
+      "text": "🔻مهدی تارتار، سرمربی پرسپولیس، در نشست خبری پس از مسابقه گفت: «بازی بدی نبود و مالکیت در اختیار ما بود. حریف هم با برنامه و منسجم کارهای دفاعی را انجام داد و روی ضربات ایستگاهی و اوت برنامه داشت و ما را اذیت کرد. به دلیل عدم تمرکز در زمانی که یک بر صفر جلو بودیم، حریف صاحب پنالتی شد. تیم برتر زمین بودیم، اما آلومینیوم با دفاع فشرده فضاها را از ما گرفته بود. این بازی برای ما تمام شد و باید روی مسابقه بعد تمرکز کنیم.»\n\n🔹او درباره اعتراض هواداران گفت: «هواداران برای ما عزیز هستند. در این شرایط سخت به ورزشگاه می‌آیند و انتظار دارند تیم به پیروزی برسد. ما پرسپولیس هستیم و انصافا تلاشمان را انجام دادیم. بازیکنان هم خیلی زحمت کشیدند، اما این یکی از بازی‌های سخت ما بود. آلومینیوم هر سال برای تیم‌های مدعی در اینجا دردسرساز شده است.»\n\n🔹سرمربی پرسپولیس ادامه داد: «من برای رسیدن به این تیم خیلی زحمت کشیدم و تا روزی که بتوانم کمک کنم، با قدرت کارم را انجام می‌دهم.»\n\n🔹تارتار در واکنش به ادامه ناکامی پرسپولیس مقابل تیم‌های نیمه بالای جدول گفت: «مهم کیفیت بازی است. اگر تیمم بد بازی می‌کرد، این حرف را قبول داشتم.»\n\n[**جزییات بیشتر**](https://www.iranintl.com/202611279255)\n\n@iranintltvsport",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "20:02:32",
-      "gregorian_utc": "2026-11-27T16:32:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2946931,
-      "media_size_human": "2.81 MB",
+      "tehran_time": "20:30:17",
+      "gregorian_utc": "2026-11-27T17:00:17+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 152100,
+      "media_size_human": "148.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368970_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368970_video.mp4",
+      "media_local_path": "media/IranintlTV_368971_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368971_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939382+00:00"
+      "archived_at": "2026-11-27T17:20:43.975578+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76839_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76839_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332655+00:00"
+      "archived_at": "2026-11-27T17:20:44.390330+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_123664_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123664_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.723865+00:00"
+      "archived_at": "2026-11-27T17:20:44.795562+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533814+00:00"
+      "archived_at": "2026-11-27T17:20:43.579192+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368969,
-      "message_link": "https://t.me/IranintlTV/368969",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، از ادامه مازوت‌سوزی در نیروگاه شازند اراک در پنجم آذر خبر داد و با نمایش دود خروجی از دودکش‌ها، جمهوری اسلامی را به عنوان مسئول آلودگی هوای این شهر لعنت کرد.",
+      "message_id": 368970,
+      "message_link": "https://t.me/IranintlTV/368970",
+      "text": "گزارش جدید موسسه مشاوره خودرویی «دِروژیِه» نشان می‌دهد سهم آمریکا از ارزش دلاری واردات خودروهای سبک به کانادا در سال ۲۰۲۶، ۴۰ درصد کاهش داشته است، رقمی که نسبت به سهم سال ۲۰۲۴ افت چشمگیری دارد. در حالی که واردات خودرو از چین نیز از ۲٫۹ به ۲٫۶ درصد کاهش یافته، خودروسازان برای فرار از تعرفه‌های متقابل ۲۵ درصدی و جلوگیری از افزایش قیمت‌ها، به‌سرعت به سمت بازارهای جایگزین رفته‌اند.\n\nگفت‌وگو با مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "19:33:12",
-      "gregorian_utc": "2026-11-27T16:03:12+00:00",
+      "tehran_time": "20:02:32",
+      "gregorian_utc": "2026-11-27T16:32:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 4615664,
-      "media_size_human": "4.40 MB",
+      "media_size_bytes": 2946931,
+      "media_size_human": "2.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368969_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368969_video.mp4",
+      "media_local_path": "media/IranintlTV_368970_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368970_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939427+00:00"
+      "archived_at": "2026-11-27T17:20:43.975655+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76838_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332711+00:00"
+      "archived_at": "2026-11-27T17:20:44.390365+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.723917+00:00"
+      "archived_at": "2026-11-27T17:20:44.795596+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533847+00:00"
+      "archived_at": "2026-11-27T17:20:43.579217+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368968,
-      "message_link": "https://t.me/IranintlTV/368968",
-      "text": "کانال تلگرامی خبرانه، متعلق به مهدی محمودیان، فعال مدنی بازداشتی، جمعه ششم آذر ویدیویی از فاطمه الوندی، مادر مهدی محمودیان، منتشر کرد که در آن می‌گوید ماموران هنگام بازداشت فرزندش با کشیدن کیسه‌ای پلاستیکی روی سر او و پیچاندن آن دور گردنش، تلاش کرده‌اند او را خفه کنند.\n\nبه گفته او، محمودیان بر اثر ضربات واردشده به قفسه سینه بیهوش شده و پس از چهار تا پنج ساعت بستری در بیمارستان سجاد، دوباره به زندان منتقل شده است.\n\nفاطمه الوندی دلیل بازداشت فرزندش را خبررسانی درباره خطر اعدام میلاد آرمون و نوید نجاران، دو جوان محکوم به اعدام در پرونده اکباتان، و تلاش برای نجات جان آن‌ها از اعدام در روز چهارشنبه عنوان کرد. \nhttps://iranintl.com/202611276979",
+      "message_id": 368969,
+      "message_link": "https://t.me/IranintlTV/368969",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، از ادامه مازوت‌سوزی در نیروگاه شازند اراک در پنجم آذر خبر داد و با نمایش دود خروجی از دودکش‌ها، جمهوری اسلامی را به عنوان مسئول آلودگی هوای این شهر لعنت کرد.",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "19:27:51",
-      "gregorian_utc": "2026-11-27T15:57:51+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 118616,
-      "media_size_human": "115.84 KB",
+      "tehran_time": "19:33:12",
+      "gregorian_utc": "2026-11-27T16:03:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4615664,
+      "media_size_human": "4.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368968_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368968_photo.jpg",
+      "media_local_path": "media/IranintlTV_368969_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368969_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939589+00:00"
+      "archived_at": "2026-11-27T17:20:43.975684+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76837_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76837_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332763+00:00"
+      "archived_at": "2026-11-27T17:20:44.390404+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.723975+00:00"
+      "archived_at": "2026-11-27T17:20:44.795629+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533875+00:00"
+      "archived_at": "2026-11-27T17:20:43.579237+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368967,
-      "message_link": "https://t.me/IranintlTV/368967",
-      "text": "🔻اندک هواداران پرسپولیس در استادیوم اراک در انتهای بازی این تیم برابر آلومینیوم در هفته پانزدهم، شعار «حیا کن، رها کن» علیه مهدی تارتار، سرمربی سرخپوشان سر دادند.\n\n🔹پرسپولیس در هفته پانزدهم در اراک برابر آلومینیوم با تساوی یک-یک متوقف شد تا با توجه به گل زده کمتر نسبت به سپاهان در رده دوم جدول قرار بگیرد.\n\n🔹پرسپولیس با مهدی تارتار همچنان در شکست دادن تیم‌های نیمه بالای جدول لیگ برتر ناکام است. آماری که پس از توقف این تیم مقابل آلومینیوم اراک نیز تغییر نکرد.\n\n@iranintltvsport",
+      "message_id": 368968,
+      "message_link": "https://t.me/IranintlTV/368968",
+      "text": "کانال تلگرامی خبرانه، متعلق به مهدی محمودیان، فعال مدنی بازداشتی، جمعه ششم آذر ویدیویی از فاطمه الوندی، مادر مهدی محمودیان، منتشر کرد که در آن می‌گوید ماموران هنگام بازداشت فرزندش با کشیدن کیسه‌ای پلاستیکی روی سر او و پیچاندن آن دور گردنش، تلاش کرده‌اند او را خفه کنند.\n\nبه گفته او، محمودیان بر اثر ضربات واردشده به قفسه سینه بیهوش شده و پس از چهار تا پنج ساعت بستری در بیمارستان سجاد، دوباره به زندان منتقل شده است.\n\nفاطمه الوندی دلیل بازداشت فرزندش را خبررسانی درباره خطر اعدام میلاد آرمون و نوید نجاران، دو جوان محکوم به اعدام در پرونده اکباتان، و تلاش برای نجات جان آن‌ها از اعدام در روز چهارشنبه عنوان کرد. \nhttps://iranintl.com/202611276979",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "19:24:18",
-      "gregorian_utc": "2026-11-27T15:54:18+00:00",
-      "media_type": "video",
-      "media_size_bytes": 11794027,
-      "media_size_human": "11.25 MB",
+      "tehran_time": "19:27:51",
+      "gregorian_utc": "2026-11-27T15:57:51+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 118616,
+      "media_size_human": "115.84 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368967_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368967_video.mp4",
+      "media_local_path": "media/IranintlTV_368968_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368968_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939702+00:00"
+      "archived_at": "2026-11-27T17:20:43.975792+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76836_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76836_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332802+00:00"
+      "archived_at": "2026-11-27T17:20:44.390428+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_123661_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123661_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.724014+00:00"
+      "archived_at": "2026-11-27T17:20:44.795664+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533918+00:00"
+      "archived_at": "2026-11-27T17:20:43.579269+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368966,
-      "message_link": "https://t.me/IranintlTV/368966",
-      "text": "خبرگزاری صداوسیمای جمهوری اسلامی اعلام کرد در پی جان‌باختن دو دانش‌آموز پسر سیرجانی و افزایش نگرانی از شیوع بیماری‌های تنفسی در مدارس سیرجان، شنبه هفتم آذرماه، مدارس شهرستان سیرجان غیرحضوری شد.\n\nمجید اسفندیارپور، مدیر آموزش و پرورش سیرجان گفت که در برخی مدارس تعدادی از دانش‌آموزان دچار سرماخوردگی شدید یا آنفلوآنزای حاد شده که در منزل بستری و از آمدن به مدرسه منع شده‌اند.\nhttps://iranintl.com/202611270264",
+      "message_id": 368967,
+      "message_link": "https://t.me/IranintlTV/368967",
+      "text": "🔻اندک هواداران پرسپولیس در استادیوم اراک در انتهای بازی این تیم برابر آلومینیوم در هفته پانزدهم، شعار «حیا کن، رها کن» علیه مهدی تارتار، سرمربی سرخپوشان سر دادند.\n\n🔹پرسپولیس در هفته پانزدهم در اراک برابر آلومینیوم با تساوی یک-یک متوقف شد تا با توجه به گل زده کمتر نسبت به سپاهان در رده دوم جدول قرار بگیرد.\n\n🔹پرسپولیس با مهدی تارتار همچنان در شکست دادن تیم‌های نیمه بالای جدول لیگ برتر ناکام است. آماری که پس از توقف این تیم مقابل آلومینیوم اراک نیز تغییر نکرد.\n\n@iranintltvsport",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "19:22:08",
-      "gregorian_utc": "2026-11-27T15:52:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 192219,
-      "media_size_human": "187.71 KB",
+      "tehran_time": "19:24:18",
+      "gregorian_utc": "2026-11-27T15:54:18+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11794027,
+      "media_size_human": "11.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368966_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368966_photo.jpg",
+      "media_local_path": "media/IranintlTV_368967_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368967_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939798+00:00"
+      "archived_at": "2026-11-27T17:20:43.975874+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76835_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76835_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332839+00:00"
+      "archived_at": "2026-11-27T17:20:44.390452+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_123660_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123660_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.724217+00:00"
+      "archived_at": "2026-11-27T17:20:44.795830+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533947+00:00"
+      "archived_at": "2026-11-27T17:20:43.579289+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368965,
-      "message_link": "https://t.me/IranintlTV/368965",
-      "text": "محمد مخبر، دستیار مجتبی خامنه‌ای، در گفت‌وگو با خبرنگاران درباره وضعیت تنگه هرمز و محاصره دریایی آمریکا گفت: «به صورت قطعی نه تنگه هرمز باز می‌شود و نه می‌گذاریم محاصره، بسته بماند.»\n\nدستیار رهبر جمهوری اسلامی در واکنش به این پرسش که این اتفاق از چه زمانی رخ خواهد داد، گفت: «همین الان دارد صورت می‌گیرد.»\nhttps://iranintl.com/202611273014",
+      "message_id": 368966,
+      "message_link": "https://t.me/IranintlTV/368966",
+      "text": "خبرگزاری صداوسیمای جمهوری اسلامی اعلام کرد در پی جان‌باختن دو دانش‌آموز پسر سیرجانی و افزایش نگرانی از شیوع بیماری‌های تنفسی در مدارس سیرجان، شنبه هفتم آذرماه، مدارس شهرستان سیرجان غیرحضوری شد.\n\nمجید اسفندیارپور، مدیر آموزش و پرورش سیرجان گفت که در برخی مدارس تعدادی از دانش‌آموزان دچار سرماخوردگی شدید یا آنفلوآنزای حاد شده که در منزل بستری و از آمدن به مدرسه منع شده‌اند.\nhttps://iranintl.com/202611270264",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "19:08:41",
-      "gregorian_utc": "2026-11-27T15:38:41+00:00",
+      "tehran_time": "19:22:08",
+      "gregorian_utc": "2026-11-27T15:52:08+00:00",
       "media_type": "photo",
-      "media_size_bytes": 138221,
-      "media_size_human": "134.98 KB",
+      "media_size_bytes": 192219,
+      "media_size_human": "187.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368965_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368965_photo.jpg",
+      "media_local_path": "media/IranintlTV_368966_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368966_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939875+00:00"
+      "archived_at": "2026-11-27T17:20:43.975937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76834_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76834_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332888+00:00"
+      "archived_at": "2026-11-27T17:20:44.390485+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.724280+00:00"
+      "archived_at": "2026-11-27T17:20:44.795872+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.533978+00:00"
+      "archived_at": "2026-11-27T17:20:43.579308+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368964,
-      "message_link": "https://t.me/IranintlTV/368964",
-      "text": "🎧نسخه صوتی اخبار عصرگاهی | جمعه ۶ آذر\n@iranintlTV",
+      "message_id": 368965,
+      "message_link": "https://t.me/IranintlTV/368965",
+      "text": "محمد مخبر، دستیار مجتبی خامنه‌ای، در گفت‌وگو با خبرنگاران درباره وضعیت تنگه هرمز و محاصره دریایی آمریکا گفت: «به صورت قطعی نه تنگه هرمز باز می‌شود و نه می‌گذاریم محاصره، بسته بماند.»\n\nدستیار رهبر جمهوری اسلامی در واکنش به این پرسش که این اتفاق از چه زمانی رخ خواهد داد، گفت: «همین الان دارد صورت می‌گیرد.»\nhttps://iranintl.com/202611273014",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:46:34",
-      "gregorian_utc": "2026-11-27T15:16:34+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30225812,
-      "media_size_human": "28.83 MB",
+      "tehran_time": "19:08:41",
+      "gregorian_utc": "2026-11-27T15:38:41+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 138221,
+      "media_size_human": "134.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368964_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368964_audio.mp3",
+      "media_local_path": "media/IranintlTV_368965_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368965_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.939934+00:00"
+      "archived_at": "2026-11-27T17:20:43.975992+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76833_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76833_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.332947+00:00"
+      "archived_at": "2026-11-27T17:20:44.390525+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.724331+00:00"
+      "archived_at": "2026-11-27T17:20:44.795903+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.534004+00:00"
+      "archived_at": "2026-11-27T17:20:43.579325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368963,
-      "message_link": "https://t.me/IranintlTV/368963",
-      "text": "شماری از نمایندگان حزب دموکرات‌های سوئد طرحی به پارلمان این کشور ارائه کردند که خواستار گسترش تحریم‌های هدفمند علیه مقام‌های جمهوری اسلامی و بستگان نزدیک آن‌ها، از جمله فرزندانشان، است.\n\nاین نمایندگان همچنین خواستار هماهنگی تحریم‌ها با اتحادیه اروپا و آمریکا، حمایت از معترضان ایرانی و مقابله با فعالیت‌های اطلاعاتی جمهوری اسلامی در خاک سوئد شده‌اند.\n\nاین طرح هنوز به تصویب نهایی نرسیده است.\n\nگفت‌وگو با مهران عباسیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 368964,
+      "message_link": "https://t.me/IranintlTV/368964",
+      "text": "🎧نسخه صوتی اخبار عصرگاهی | جمعه ۶ آذر\n@iranintlTV",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:40:18",
-      "gregorian_utc": "2026-11-27T15:10:18+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2921815,
-      "media_size_human": "2.79 MB",
+      "tehran_time": "18:46:34",
+      "gregorian_utc": "2026-11-27T15:16:34+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30225812,
+      "media_size_human": "28.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368963_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368963_video.mp4",
+      "media_local_path": "media/IranintlTV_368964_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368964_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.940019+00:00"
+      "archived_at": "2026-11-27T17:20:43.976028+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76832_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76832_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.333004+00:00"
+      "archived_at": "2026-11-27T17:20:44.390561+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.724399+00:00"
+      "archived_at": "2026-11-27T17:20:44.795949+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.534029+00:00"
+      "archived_at": "2026-11-27T17:20:43.579342+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368962,
-      "message_link": "https://t.me/IranintlTV/368962",
-      "text": "ویدیوی منتشر شده در رسانه‌های اجتماعی نشان می‌دهد که خانواده، دوستان و شماری از مردم کرمانشاه مراسم زادروز تیام (محمدرضا) کیانی‌منش را در محله گلستان این شهر گرامی داشتند. تیام کیانی‌منش ۱۸ دی در جریان اعتراضات هدف گلوله جنگی قرار گرفت و کشته شد.",
+      "message_id": 368963,
+      "message_link": "https://t.me/IranintlTV/368963",
+      "text": "شماری از نمایندگان حزب دموکرات‌های سوئد طرحی به پارلمان این کشور ارائه کردند که خواستار گسترش تحریم‌های هدفمند علیه مقام‌های جمهوری اسلامی و بستگان نزدیک آن‌ها، از جمله فرزندانشان، است.\n\nاین نمایندگان همچنین خواستار هماهنگی تحریم‌ها با اتحادیه اروپا و آمریکا، حمایت از معترضان ایرانی و مقابله با فعالیت‌های اطلاعاتی جمهوری اسلامی در خاک سوئد شده‌اند.\n\nاین طرح هنوز به تصویب نهایی نرسیده است.\n\nگفت‌وگو با مهران عباسیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:34:07",
-      "gregorian_utc": "2026-11-27T15:04:07+00:00",
+      "tehran_time": "18:40:18",
+      "gregorian_utc": "2026-11-27T15:10:18+00:00",
       "media_type": "video",
-      "media_size_bytes": 3356986,
-      "media_size_human": "3.20 MB",
+      "media_size_bytes": 2921815,
+      "media_size_human": "2.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368962_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368962_video.mp4",
+      "media_local_path": "media/IranintlTV_368963_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368963_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.940056+00:00"
+      "archived_at": "2026-11-27T17:20:43.976088+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76830_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76830_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.333186+00:00"
+      "archived_at": "2026-11-27T17:20:44.390705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-27T17:10:47.724503+00:00"
+      "archived_at": "2026-11-27T17:20:44.796015+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.534054+00:00"
+      "archived_at": "2026-11-27T17:20:43.579358+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368961,
-      "message_link": "https://t.me/IranintlTV/368961",
-      "text": "وزارت خارجه کویت جمعه ششم آذر، محمد توتونچی، سفیر جمهوری اسلامی در این کشور، را احضار کرد و یادداشت اعتراضی خود را درباره ادامه حملات جمهوری اسلامی به کویت، از جمله حمله پهپادی پنج‌شنبه به یکی از تاسیسات حیاتی این کشور، به او تحویل داد.\n\nحمد سلیمان المشعان، معاون وزیر خارجه کویت، این حملات را نقض آشکار حاکمیت و تمامیت ارضی کویت، قوانین بین‌المللی، منشور سازمان ملل متحد و قطعنامه ۲۸۱۷ شورای امنیت دانست و جمهوری اسلامی را مسئول تمامی پیامدهای آن خواند.\n\nارتش کویت روز گذشته اعلام کرده بود در حملات جمهوری اسلامی به یکی از تاسیسات حیاتی این کشور، دو شهروند ایتالیایی کشته شدند.\nhttps://iranintl.com/202611277913",
+      "message_id": 368962,
+      "message_link": "https://t.me/IranintlTV/368962",
+      "text": "ویدیوی منتشر شده در رسانه‌های اجتماعی نشان می‌دهد که خانواده، دوستان و شماری از مردم کرمانشاه مراسم زادروز تیام (محمدرضا) کیانی‌منش را در محله گلستان این شهر گرامی داشتند. تیام کیانی‌منش ۱۸ دی در جریان اعتراضات هدف گلوله جنگی قرار گرفت و کشته شد.",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:19:52",
-      "gregorian_utc": "2026-11-27T14:49:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 206547,
-      "media_size_human": "201.71 KB",
+      "tehran_time": "18:34:07",
+      "gregorian_utc": "2026-11-27T15:04:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3356986,
+      "media_size_human": "3.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368961_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368961_photo.jpg",
+      "media_local_path": "media/IranintlTV_368962_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368962_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.940158+00:00"
+      "archived_at": "2026-11-27T17:20:43.976110+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76829_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76829_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.333257+00:00"
+      "archived_at": "2026-11-27T17:20:44.390767+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.724564+00:00"
+      "archived_at": "2026-11-27T17:20:44.796051+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.534077+00:00"
+      "archived_at": "2026-11-27T17:20:43.579374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368960,
-      "message_link": "https://t.me/IranintlTV/368960",
-      "text": "رویترز جمعه ششم آذر گزارش داد که واحد عملیاتی شرکت هواپیمایی نروژی نورس آتلانتیک در پی افزایش شدید هزینه‌های سوخت ناشی از جنگ ایران اعلام ورشکستگی کرد.\n\nبر اساس این گزارش، افزایش هزینه‌های سوخت، این شرکت هواپیمایی ارزان‌قیمت را با بحران مالی مواجه کرده است.\n\nنورس آتلانتیک پنج‌شنبه پنجم آذر تمامی پروازهای خود را به حالت تعلیق درآورده بود. \nhttps://iranintl.com/202611274855",
+      "message_id": 368961,
+      "message_link": "https://t.me/IranintlTV/368961",
+      "text": "وزارت خارجه کویت جمعه ششم آذر، محمد توتونچی، سفیر جمهوری اسلامی در این کشور، را احضار کرد و یادداشت اعتراضی خود را درباره ادامه حملات جمهوری اسلامی به کویت، از جمله حمله پهپادی پنج‌شنبه به یکی از تاسیسات حیاتی این کشور، به او تحویل داد.\n\nحمد سلیمان المشعان، معاون وزیر خارجه کویت، این حملات را نقض آشکار حاکمیت و تمامیت ارضی کویت، قوانین بین‌المللی، منشور سازمان ملل متحد و قطعنامه ۲۸۱۷ شورای امنیت دانست و جمهوری اسلامی را مسئول تمامی پیامدهای آن خواند.\n\nارتش کویت روز گذشته اعلام کرده بود در حملات جمهوری اسلامی به یکی از تاسیسات حیاتی این کشور، دو شهروند ایتالیایی کشته شدند.\nhttps://iranintl.com/202611277913",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:02:52",
-      "gregorian_utc": "2026-11-27T14:32:52+00:00",
+      "tehran_time": "18:19:52",
+      "gregorian_utc": "2026-11-27T14:49:52+00:00",
       "media_type": "photo",
-      "media_size_bytes": 166136,
-      "media_size_human": "162.24 KB",
+      "media_size_bytes": 206547,
+      "media_size_human": "201.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368960_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368960_photo.jpg",
+      "media_local_path": "media/IranintlTV_368961_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368961_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.940241+00:00"
+      "archived_at": "2026-11-27T17:20:43.976179+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76828_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76828_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.333360+00:00"
+      "archived_at": "2026-11-27T17:20:44.390843+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:47.724594+00:00"
+      "archived_at": "2026-11-27T17:20:44.796068+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-27T17:10:46.534099+00:00"
+      "archived_at": "2026-11-27T17:20:43.579391+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 368959,
-      "message_link": "https://t.me/IranintlTV/368959",
-      "text": "عطا محامد، کارشناس روابط بین‌الملل، با اشاره به واکنش کشورهای اروپایی و عربی به حمله پهپادی به کویت گفت حتی اگر نقش مستقیم تهران تایید نشود، گزارش‌ها درباره ساخت پهپادها در ایران می‌تواند برای جمهوری اسلامی پیامد سیاسی داشته باشد. او طرح اتهام‌های متفاوت علیه اسرائیل و اوکراین را نشانه آشفتگی در واکنش جمهوری اسلامی دانست.\n@iranintltv",
+      "message_id": 368960,
+      "message_link": "https://t.me/IranintlTV/368960",
+      "text": "رویترز جمعه ششم آذر گزارش داد که واحد عملیاتی شرکت هواپیمایی نروژی نورس آتلانتیک در پی افزایش شدید هزینه‌های سوخت ناشی از جنگ ایران اعلام ورشکستگی کرد.\n\nبر اساس این گزارش، افزایش هزینه‌های سوخت، این شرکت هواپیمایی ارزان‌قیمت را با بحران مالی مواجه کرده است.\n\nنورس آتلانتیک پنج‌شنبه پنجم آذر تمامی پروازهای خود را به حالت تعلیق درآورده بود. \nhttps://iranintl.com/202611274855",
       "shamsi_date": "1405/09/06",
-      "tehran_time": "18:02:28",
-      "gregorian_utc": "2026-11-27T14:32:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3500004,
-      "media_size_human": "3.34 MB",
+      "tehran_time": "18:02:52",
+      "gregorian_utc": "2026-11-27T14:32:52+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 166136,
+      "media_size_human": "162.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_368959_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368959_video.mp4",
+      "media_local_path": "media/IranintlTV_368960_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_368960_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:46.940315+00:00"
+      "archived_at": "2026-11-27T17:20:43.976232+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76827_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76827_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.333413+00:00"
+      "archived_at": "2026-11-27T17:20:44.390879+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_123653_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123653_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-27T17:10:47.724636+00:00"
+      "archived_at": "2026-11-27T17:20:44.796093+00:00"
     }
   ]
 }
