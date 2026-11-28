@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T05:32:02.933677+00:00",
-  "shamsi_generated": "1405/09/07 05:32:02 تهران",
+  "generated_at": "2026-11-28T05:41:59.459853+00:00",
+  "shamsi_generated": "1405/09/07 05:41:59 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.972888+00:00"
+      "archived_at": "2026-11-28T05:40:36.052252+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369030,
-      "message_link": "https://t.me/IranintlTV/369030",
-      "text": "در آستانه نخستین سالگرد انقلاب ملی ایرانیان، فراخوان‌هایی برای تبدیل مراسم گرامی‌داشت جاویدنامان به حرکتی جهانی با هدف ثبت حقیقت و دادخواهی منتشر شده است.\n\nپگاه بنی‌هاشمی، پژوهشگر ارشد حقوق، درباره راه‌های تبدیل این حرکت جمعی به فشاری موثر بر نهادهای بین‌المللی برای پیگرد عاملان کشتار دی‌ماه توضیح می‌دهد.\n@iranintltv",
+      "message_id": 369032,
+      "message_link": "https://t.me/IranintlTV/369032",
+      "text": "جلال ایجادی، استاد جامعه‌شناسی، گفت با وجود شناسایی و بازداشت عوامل عملیات‌های خرابکارانه منتسب به جمهوری اسلامی در اروپا، این اقدامات هنوز به بازدارندگی منجر نشده است.\n\nاو نگرانی از گروگان‌گیری و فعالیت شبکه‌های مخفی جمهوری اسلامی را از جمله عوامل بازدارنده واکنش قاطع کشورهای اروپایی می‌داند و بر ضرورت همکاری‌های امنیتی و اقدام عملی اروپا در برابر تهدیدهای تهران تاکید می‌کند.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:47:29",
-      "gregorian_utc": "2026-11-28T05:17:29+00:00",
+      "tehran_time": "09:02:10",
+      "gregorian_utc": "2026-11-28T05:32:10+00:00",
       "media_type": "video",
-      "media_size_bytes": 3458858,
-      "media_size_human": "3.30 MB",
+      "media_size_bytes": 3579458,
+      "media_size_human": "3.41 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369030_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369030_video.mp4",
+      "media_local_path": "media/IranintlTV_369032_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369032_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328441+00:00"
+      "archived_at": "2026-11-28T05:40:36.384971+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-28T05:30:42.686683+00:00"
+      "archived_at": "2026-11-28T05:40:36.779866+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": "media/Mellig_123682_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123682_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:43.024065+00:00"
+      "archived_at": "2026-11-28T05:40:37.119183+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.972942+00:00"
+      "archived_at": "2026-11-28T05:40:36.052291+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369029,
-      "message_link": "https://t.me/IranintlTV/369029",
-      "text": "حسین شریعتمداری، نماینده رهبر جمهوری اسلامی در روزنامه کیهان، درباره راهکار مقابله به محاصره دریایی نوشت: «همه شواهد و نشانه‌های موجود به وضوح حکایت از آن دارند که حمله ویرانگر و تلافی‌جویانه به تاسیسات نفت و گاز کشورهای عرب همپیمان آمریکا در خلیج‌فارس، پاشنه آشیل آمریکاست و استفاده ایران از این اهرم موثر و کارآمد می‌تواند باطل‌السحر محاصره دریایی باشد.»\n\nشریعتمداری شنبه هفتم آذر اضافه کرد: «چرا نباید از این اهرم استفاده کنیم؟! می‌گویند، این اقدام با آموزه‌های حسن همجواری ناهمخوان است که باید پرسید مگر مشارکت کشورهای عربی با آمریکا و اسرائیل در حمله نظامی به ایران، نشانه حسن همجواری است؟»\n\nمدیر مسئول روزنامه کیهان ادادمه داد: «مقابله ما با محاصره دریایی آمریکا علیه کشورمان نه فقط یک اقدام قانونی و پذیرفته شده در عرف بین‌المللی است بلکه بخش قابل قبولی از جنگ نیز هست.»\nhttps://iranintl.com/202611280614",
+      "message_id": 369030,
+      "message_link": "https://t.me/IranintlTV/369030",
+      "text": "در آستانه نخستین سالگرد انقلاب ملی ایرانیان، فراخوان‌هایی برای تبدیل مراسم گرامی‌داشت جاویدنامان به حرکتی جهانی با هدف ثبت حقیقت و دادخواهی منتشر شده است.\n\nپگاه بنی‌هاشمی، پژوهشگر ارشد حقوق، درباره راه‌های تبدیل این حرکت جمعی به فشاری موثر بر نهادهای بین‌المللی برای پیگرد عاملان کشتار دی‌ماه توضیح می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:40:45",
-      "gregorian_utc": "2026-11-28T05:10:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 141984,
-      "media_size_human": "138.66 KB",
+      "tehran_time": "08:47:29",
+      "gregorian_utc": "2026-11-28T05:17:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3458858,
+      "media_size_human": "3.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369029_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369029_photo.jpg",
+      "media_local_path": "media/IranintlTV_369030_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369030_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328640+00:00"
+      "archived_at": "2026-11-28T05:40:36.385042+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76848_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76848_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.686832+00:00"
+      "archived_at": "2026-11-28T05:40:36.780027+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024163+00:00"
+      "archived_at": "2026-11-28T05:40:37.119256+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.972979+00:00"
+      "archived_at": "2026-11-28T05:40:36.052316+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369028,
-      "message_link": "https://t.me/IranintlTV/369028",
-      "text": "در آستانه مراسم اهدای جوایز نوبل ۲۰۲۶، استکهلم میزبان نمایش مدی با حضور یک طراح ایرانی بود. در این نمایش، از مجموعه لباس‌هایی رونمایی شد که این هنرمند ایرانی، برای شماری از مهمانان ویژه مراسم نوبل طراحی کرده است.\n\nگزارش مهران عباسیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 369029,
+      "message_link": "https://t.me/IranintlTV/369029",
+      "text": "حسین شریعتمداری، نماینده رهبر جمهوری اسلامی در روزنامه کیهان، درباره راهکار مقابله به محاصره دریایی نوشت: «همه شواهد و نشانه‌های موجود به وضوح حکایت از آن دارند که حمله ویرانگر و تلافی‌جویانه به تاسیسات نفت و گاز کشورهای عرب همپیمان آمریکا در خلیج‌فارس، پاشنه آشیل آمریکاست و استفاده ایران از این اهرم موثر و کارآمد می‌تواند باطل‌السحر محاصره دریایی باشد.»\n\nشریعتمداری شنبه هفتم آذر اضافه کرد: «چرا نباید از این اهرم استفاده کنیم؟! می‌گویند، این اقدام با آموزه‌های حسن همجواری ناهمخوان است که باید پرسید مگر مشارکت کشورهای عربی با آمریکا و اسرائیل در حمله نظامی به ایران، نشانه حسن همجواری است؟»\n\nمدیر مسئول روزنامه کیهان ادادمه داد: «مقابله ما با محاصره دریایی آمریکا علیه کشورمان نه فقط یک اقدام قانونی و پذیرفته شده در عرف بین‌المللی است بلکه بخش قابل قبولی از جنگ نیز هست.»\nhttps://iranintl.com/202611280614",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:35:50",
-      "gregorian_utc": "2026-11-28T05:05:50+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2446214,
-      "media_size_human": "2.33 MB",
+      "tehran_time": "08:40:45",
+      "gregorian_utc": "2026-11-28T05:10:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 141984,
+      "media_size_human": "138.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369028_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369028_video.mp4",
+      "media_local_path": "media/IranintlTV_369029_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369029_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328726+00:00"
+      "archived_at": "2026-11-28T05:40:36.385173+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76847_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76847_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.686989+00:00"
+      "archived_at": "2026-11-28T05:40:36.780163+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024221+00:00"
+      "archived_at": "2026-11-28T05:40:37.119296+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973020+00:00"
+      "archived_at": "2026-11-28T05:40:36.052343+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369027,
-      "message_link": "https://t.me/IranintlTV/369027",
-      "text": "با ادامه موج مسمومیت‌های مرگبار الکلی در ایران، شمار مسمومان به دست‌کم ۶۴۶ نفر و شمار جان‌باختگان به ۲۶ نفر رسیده است.\n\nرقیه رضائی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، درباره اینکه ممنوعیت فروش الکل و انتقال کامل عرضه آن به بازار سیاه تا چه اندازه زمینه فعالیت شبکه‌هایی را فراهم کرده که می‌توانند بدون نظارت موثر، سلامت و جان هزاران نفر را به خطر بیندازند، توضیح می‌دهد.\n@iranintltv",
+      "message_id": 369028,
+      "message_link": "https://t.me/IranintlTV/369028",
+      "text": "در آستانه مراسم اهدای جوایز نوبل ۲۰۲۶، استکهلم میزبان نمایش مدی با حضور یک طراح ایرانی بود. در این نمایش، از مجموعه لباس‌هایی رونمایی شد که این هنرمند ایرانی، برای شماری از مهمانان ویژه مراسم نوبل طراحی کرده است.\n\nگزارش مهران عباسیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:32:55",
-      "gregorian_utc": "2026-11-28T05:02:55+00:00",
+      "tehran_time": "08:35:50",
+      "gregorian_utc": "2026-11-28T05:05:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 5045528,
-      "media_size_human": "4.81 MB",
+      "media_size_bytes": 2446214,
+      "media_size_human": "2.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369027_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369027_video.mp4",
+      "media_local_path": "media/IranintlTV_369028_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369028_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328818+00:00"
+      "archived_at": "2026-11-28T05:40:36.385229+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76846_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687052+00:00"
+      "archived_at": "2026-11-28T05:40:36.780214+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024286+00:00"
+      "archived_at": "2026-11-28T05:40:37.119331+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973061+00:00"
+      "archived_at": "2026-11-28T05:40:36.052362+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369026,
-      "message_link": "https://t.me/IranintlTV/369026",
-      "text": "صادق بیگدلی، حقوق‌دان و فعال سیاسی، گفت جمهوری اسلامی هم‌زمان با ادامه تبادل پیام‌ها و گسترش فعالیت‌های نظامی و امنیتی، تلاش می‌کند برای تقابل احتمالی با آمریکا و اسرائیل زمان بخرد.\n\nبه گفته او، دولت پزشکیان نقش «پلیس خوب» و هسته سخت قدرت نقش «پلیس بد» را بازی می‌کند و هر دو در راستای بقای جمهوری اسلامی عمل می‌کنند.\n@iranintltv",
+      "message_id": 369027,
+      "message_link": "https://t.me/IranintlTV/369027",
+      "text": "با ادامه موج مسمومیت‌های مرگبار الکلی در ایران، شمار مسمومان به دست‌کم ۶۴۶ نفر و شمار جان‌باختگان به ۲۶ نفر رسیده است.\n\nرقیه رضائی، روزنامه‌نگار و عضو تحریریه ایران‌وایر، درباره اینکه ممنوعیت فروش الکل و انتقال کامل عرضه آن به بازار سیاه تا چه اندازه زمینه فعالیت شبکه‌هایی را فراهم کرده که می‌توانند بدون نظارت موثر، سلامت و جان هزاران نفر را به خطر بیندازند، توضیح می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:25:39",
-      "gregorian_utc": "2026-11-28T04:55:39+00:00",
+      "tehran_time": "08:32:55",
+      "gregorian_utc": "2026-11-28T05:02:55+00:00",
       "media_type": "video",
-      "media_size_bytes": 3242322,
-      "media_size_human": "3.09 MB",
+      "media_size_bytes": 5045528,
+      "media_size_human": "4.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369026_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369026_video.mp4",
+      "media_local_path": "media/IranintlTV_369027_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369027_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328902+00:00"
+      "archived_at": "2026-11-28T05:40:36.385289+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76841_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687160+00:00"
+      "archived_at": "2026-11-28T05:40:36.780303+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_123678_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123678_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:43.024339+00:00"
+      "archived_at": "2026-11-28T05:40:37.119366+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973098+00:00"
+      "archived_at": "2026-11-28T05:40:36.052385+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369025,
-      "message_link": "https://t.me/IranintlTV/369025",
-      "text": "هم‌زمان با گسترش موج آنفلوآنزا در ایران، دو کودک در سیرجان بر اثر ابتلا به این بیماری جان باختند. به گفته رئیس انجمن متخصصان عفونی ایران، میزان شیوع آنفلوآنزا از ۲۰ درصد فراتر رفته و حدود نیمی از موارد مثبت مربوط به افراد زیر ۱۵ سال است.\n\nنظام‌الدین میثاقی، متخصص بیهوشی و استادیار بیهوشی، درباره تفاوت موج امسال آنفلوآنزا با سال‌های گذشته و نقش تاخیر در مراجعه به پزشک در افزایش موارد حاد و مرگ‌ومیر توضیح می‌دهد.\n@iranintltv",
+      "message_id": 369026,
+      "message_link": "https://t.me/IranintlTV/369026",
+      "text": "صادق بیگدلی، حقوق‌دان و فعال سیاسی، گفت جمهوری اسلامی هم‌زمان با ادامه تبادل پیام‌ها و گسترش فعالیت‌های نظامی و امنیتی، تلاش می‌کند برای تقابل احتمالی با آمریکا و اسرائیل زمان بخرد.\n\nبه گفته او، دولت پزشکیان نقش «پلیس خوب» و هسته سخت قدرت نقش «پلیس بد» را بازی می‌کند و هر دو در راستای بقای جمهوری اسلامی عمل می‌کنند.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:11:20",
-      "gregorian_utc": "2026-11-28T04:41:20+00:00",
+      "tehran_time": "08:25:39",
+      "gregorian_utc": "2026-11-28T04:55:39+00:00",
       "media_type": "video",
-      "media_size_bytes": 3635519,
-      "media_size_human": "3.47 MB",
+      "media_size_bytes": 3242322,
+      "media_size_human": "3.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369025_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369025_video.mp4",
+      "media_local_path": "media/IranintlTV_369026_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369026_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.328996+00:00"
+      "archived_at": "2026-11-28T05:40:36.385341+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:42.687190+00:00"
+      "archived_at": "2026-11-28T05:40:36.780325+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_123677_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_123677_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:43.024396+00:00"
+      "archived_at": "2026-11-28T05:40:37.119397+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973128+00:00"
+      "archived_at": "2026-11-28T05:40:36.052405+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369024,
-      "message_link": "https://t.me/IranintlTV/369024",
-      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی، می‌گوید استقرار نیروهای تکاوری، پهپادی و توپخانه سپاه در مناطق غربی ایران، از اجرای عملیاتی هماهنگ ضدچریکی و ضدشورش حکایت دارد.\n\nبه گفته او، این عملیات چندین استان از آذربایجان غربی تا کرمانشاه را دربر می‌گیرد و افزایش حضور نظامی سپاه در مناطق مرزی، نشان‌دهنده نگرانی حکومت از گروه‌های مسلح کرد است.\n@iranintltv",
+      "message_id": 369025,
+      "message_link": "https://t.me/IranintlTV/369025",
+      "text": "هم‌زمان با گسترش موج آنفلوآنزا در ایران، دو کودک در سیرجان بر اثر ابتلا به این بیماری جان باختند. به گفته رئیس انجمن متخصصان عفونی ایران، میزان شیوع آنفلوآنزا از ۲۰ درصد فراتر رفته و حدود نیمی از موارد مثبت مربوط به افراد زیر ۱۵ سال است.\n\nنظام‌الدین میثاقی، متخصص بیهوشی و استادیار بیهوشی، درباره تفاوت موج امسال آنفلوآنزا با سال‌های گذشته و نقش تاخیر در مراجعه به پزشک در افزایش موارد حاد و مرگ‌ومیر توضیح می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:09:06",
-      "gregorian_utc": "2026-11-28T04:39:06+00:00",
+      "tehran_time": "08:11:20",
+      "gregorian_utc": "2026-11-28T04:41:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 3682445,
-      "media_size_human": "3.51 MB",
+      "media_size_bytes": 3635519,
+      "media_size_human": "3.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369024_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369024_video.mp4",
+      "media_local_path": "media/IranintlTV_369025_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369025_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329080+00:00"
+      "archived_at": "2026-11-28T05:40:36.385399+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76839_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76839_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687277+00:00"
+      "archived_at": "2026-11-28T05:40:36.780397+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-11-28T05:30:43.024458+00:00"
+      "archived_at": "2026-11-28T05:40:37.119433+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973179+00:00"
+      "archived_at": "2026-11-28T05:40:36.052441+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369023,
-      "message_link": "https://t.me/IranintlTV/369023",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، گفت دونالد ترامپ با ادامه تبادل پیام‌ها و دادن فرصت یک‌ماهه به جمهوری اسلامی، در حال خریدن زمان است.\n\nاو با اشاره به ناکامی سیاست خویشتنداری آمریکا در برابر تهران می‌گوید دولت ترامپ اکنون باید میان ادامه وضعیت نه جنگ و نه صلح، ورود به جنگ یا رسیدن به تفاهم تصمیم بگیرد.\n@iranintltv",
+      "message_id": 369024,
+      "message_link": "https://t.me/IranintlTV/369024",
+      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی، می‌گوید استقرار نیروهای تکاوری، پهپادی و توپخانه سپاه در مناطق غربی ایران، از اجرای عملیاتی هماهنگ ضدچریکی و ضدشورش حکایت دارد.\n\nبه گفته او، این عملیات چندین استان از آذربایجان غربی تا کرمانشاه را دربر می‌گیرد و افزایش حضور نظامی سپاه در مناطق مرزی، نشان‌دهنده نگرانی حکومت از گروه‌های مسلح کرد است.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "08:05:34",
-      "gregorian_utc": "2026-11-28T04:35:34+00:00",
+      "tehran_time": "08:09:06",
+      "gregorian_utc": "2026-11-28T04:39:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 4367916,
-      "media_size_human": "4.17 MB",
+      "media_size_bytes": 3682445,
+      "media_size_human": "3.51 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369023_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369023_video.mp4",
+      "media_local_path": "media/IranintlTV_369024_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369024_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329171+00:00"
+      "archived_at": "2026-11-28T05:40:36.385455+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76838_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687327+00:00"
+      "archived_at": "2026-11-28T05:40:36.780434+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024489+00:00"
+      "archived_at": "2026-11-28T05:40:37.119450+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973210+00:00"
+      "archived_at": "2026-11-28T05:40:36.052461+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369022,
-      "message_link": "https://t.me/IranintlTV/369022",
-      "text": "سرخط خبرهای شنبه ۷ آذر\n@iranintltv",
+      "message_id": 369023,
+      "message_link": "https://t.me/IranintlTV/369023",
+      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، گفت دونالد ترامپ با ادامه تبادل پیام‌ها و دادن فرصت یک‌ماهه به جمهوری اسلامی، در حال خریدن زمان است.\n\nاو با اشاره به ناکامی سیاست خویشتنداری آمریکا در برابر تهران می‌گوید دولت ترامپ اکنون باید میان ادامه وضعیت نه جنگ و نه صلح، ورود به جنگ یا رسیدن به تفاهم تصمیم بگیرد.\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "07:38:54",
-      "gregorian_utc": "2026-11-28T04:08:54+00:00",
+      "tehran_time": "08:05:34",
+      "gregorian_utc": "2026-11-28T04:35:34+00:00",
       "media_type": "video",
-      "media_size_bytes": 861900,
-      "media_size_human": "841.70 KB",
+      "media_size_bytes": 4367916,
+      "media_size_human": "4.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369022_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369022_video.mp4",
+      "media_local_path": "media/IranintlTV_369023_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369023_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329224+00:00"
+      "archived_at": "2026-11-28T05:40:36.385505+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76837_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76837_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687378+00:00"
+      "archived_at": "2026-11-28T05:40:36.780475+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024517+00:00"
+      "archived_at": "2026-11-28T05:40:37.119466+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973239+00:00"
+      "archived_at": "2026-11-28T05:40:36.052480+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369021,
-      "message_link": "https://t.me/IranintlTV/369021",
-      "text": "واشینگتن‌پست گزارش داد خسارت‌های ناشی از حملات موشکی و پهپادی جمهوری اسلامی به پایگاه پشتیبانی نیروی دریایی آمریکا در بحرین، که دولت ترامپ تا حد زیادی به آن‌ها اذعان نکرده، احتمالا بیش از ۴۰۰ میلیون دلار خواهد بود.\n\nبه نوشته این روزنامه، ۹ ماه پس از آغاز جنگ ایران، تنها بخش کوچکی از بیش از هشت هزار نیروی مستقر در این پایگاه باقی مانده‌اند و آینده حضور نظامی آمریکا در بحرین و منطقه خلیج فارس نامشخص است. پنتاگون در حال بررسی انتقال نیروهای خود از منطقه به اسرائیل و اردن است.\n\nدو مقام نیروی دریایی آمریکا به واشینگتن‌پست گفتند بررسی‌ها درباره آینده حضور در این پایگاه آغاز شده، اما هنوز برنامه مشخصی وجود ندارد.\n\nیکی از این مقام‌ها گفت ماموریت اصلی این پایگاه به‌عنوان مقر نیروی دریایی آمریکا در خاورمیانه، از داخل ایالات متحده نیز قابل انجام است.\n\nدولت بحرین از پاسخ به پرسش‌ها درباره آینده این پایگاه خودداری کرد، اما با اشاره به هشت دهه مشارکت راهبردی با آمریکا، اعلام کرد همکاری دو کشور همچنان مستحکم است و رایزنی‌ها درباره مسایل دفاعی و امنیتی ادامه دارد.\nhttps://iranintl.com/202611281320",
+      "message_id": 369022,
+      "message_link": "https://t.me/IranintlTV/369022",
+      "text": "سرخط خبرهای شنبه ۷ آذر\n@iranintltv",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "06:29:43",
-      "gregorian_utc": "2026-11-28T02:59:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 120569,
-      "media_size_human": "117.74 KB",
+      "tehran_time": "07:38:54",
+      "gregorian_utc": "2026-11-28T04:08:54+00:00",
+      "media_type": "video",
+      "media_size_bytes": 861900,
+      "media_size_human": "841.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369021_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369021_photo.jpg",
+      "media_local_path": "media/IranintlTV_369022_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369022_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329390+00:00"
+      "archived_at": "2026-11-28T05:40:36.385529+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76836_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76836_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687414+00:00"
+      "archived_at": "2026-11-28T05:40:36.780503+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024560+00:00"
+      "archived_at": "2026-11-28T05:40:37.119482+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973269+00:00"
+      "archived_at": "2026-11-28T05:40:36.052500+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369020,
-      "message_link": "https://t.me/IranintlTV/369020",
-      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، با بازنشر گزارش واشینگتن‌پست درباره تصویری از پزشکیان با کاپشن در دفتری سرد و تاریک، در ایکس نوشت: «آفرین، بچه‌ها! زمستان فوق‌العاده‌ای داشته باشید.»\n\nصداوسیمای جمهوری اسلامی جمعه ۲۹ آبان ویدیویی از دفتر مسعود پزشکیان، رییس دولت جمهوری اسلامی، منتشر کرد که او را در حال کار در اتاقی تاریک نشان می‌داد.\n\nدر این ویدیو، بیشتر چراغ‌های ساختمان دفتر ریاست‌جمهوری خاموش بود و به گفته پزشکیان، سامانه‌های گرمایشی و سرمایشی ساختمان نیز خاموش بودند.\n\nپزشکیان ۲۸ آبان نیز در همایش بسیج دانشجویی در دانشگاه تهران، با اشاره به ضرورت صرفه‌جویی در مصرف انرژی، گفته بود که با کاپشن می‌خوابد و در خانه‌اش برق و وسایل گرمایشی را روشن نمی‌کند.\nhttps://iranintl.com/202611289947",
+      "message_id": 369021,
+      "message_link": "https://t.me/IranintlTV/369021",
+      "text": "واشینگتن‌پست گزارش داد خسارت‌های ناشی از حملات موشکی و پهپادی جمهوری اسلامی به پایگاه پشتیبانی نیروی دریایی آمریکا در بحرین، که دولت ترامپ تا حد زیادی به آن‌ها اذعان نکرده، احتمالا بیش از ۴۰۰ میلیون دلار خواهد بود.\n\nبه نوشته این روزنامه، ۹ ماه پس از آغاز جنگ ایران، تنها بخش کوچکی از بیش از هشت هزار نیروی مستقر در این پایگاه باقی مانده‌اند و آینده حضور نظامی آمریکا در بحرین و منطقه خلیج فارس نامشخص است. پنتاگون در حال بررسی انتقال نیروهای خود از منطقه به اسرائیل و اردن است.\n\nدو مقام نیروی دریایی آمریکا به واشینگتن‌پست گفتند بررسی‌ها درباره آینده حضور در این پایگاه آغاز شده، اما هنوز برنامه مشخصی وجود ندارد.\n\nیکی از این مقام‌ها گفت ماموریت اصلی این پایگاه به‌عنوان مقر نیروی دریایی آمریکا در خاورمیانه، از داخل ایالات متحده نیز قابل انجام است.\n\nدولت بحرین از پاسخ به پرسش‌ها درباره آینده این پایگاه خودداری کرد، اما با اشاره به هشت دهه مشارکت راهبردی با آمریکا، اعلام کرد همکاری دو کشور همچنان مستحکم است و رایزنی‌ها درباره مسایل دفاعی و امنیتی ادامه دارد.\nhttps://iranintl.com/202611281320",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "06:10:16",
-      "gregorian_utc": "2026-11-28T02:40:16+00:00",
+      "tehran_time": "06:29:43",
+      "gregorian_utc": "2026-11-28T02:59:43+00:00",
       "media_type": "photo",
-      "media_size_bytes": 108249,
-      "media_size_human": "105.71 KB",
+      "media_size_bytes": 120569,
+      "media_size_human": "117.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369020_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369020_photo.jpg",
+      "media_local_path": "media/IranintlTV_369021_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369021_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329518+00:00"
+      "archived_at": "2026-11-28T05:40:36.385657+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76835_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76835_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687447+00:00"
+      "archived_at": "2026-11-28T05:40:36.780528+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024589+00:00"
+      "archived_at": "2026-11-28T05:40:37.119497+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973297+00:00"
+      "archived_at": "2026-11-28T05:40:36.052517+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369019,
-      "message_link": "https://t.me/IranintlTV/369019",
-      "text": "ارتش اسرائیل در بیانیه‌ای اعلام کرد دو عضو شاخه نظامی حماس را که «در پوشش اقدامات بشردوستانه» فعالیت می‌کردند، در حمله‌ای در شهر غزه کشته است.\n\nبه گفته ارتش اسرائیل، احمد سفیان محمد علی ابوحصیره و معاذ یوسف علی‌صبح در حال برنامه‌ریزی برای حمله به غیرنظامیان و نیروهای اسرائیلی بودند و هم‌زمان به‌عنوان نگهبان در درمانگاهی تحت مدیریت سازمان پزشکان بدون مرز فعالیت می‌کردند.\n\nارتش اسرائیل اعلام کرد پیش از حمله، اقداماتی برای به حداقل رساندن آسیب به غیرنظامیان انجام شده بود و هیچ بیمارستانی هدف قرار نگرفته و آسیبی به زیرساخت‌های درمانی منطقه وارد نشده است.\n\nپیش‌تر، پزشکان بدون مرز با اعلام کشته شدن دو نگهبان خود، تاکید کرده بود مراکز این سازمان با نشان پزشکان بدون مرز مشخص شده بودند و ارتش اسرائیل از موقعیت آن‌ها اطلاع داشت. این سازمان خواستار پاسخ‌گویی عاملان حمله شد.\n\nتدروس آدهانوم گبریسوس، مدیرکل سازمان جهانی بهداشت، نیز حمله به مراکز درمانی، کارکنان بخش سلامت و نیروهای امدادرسان در غزه را «غیرقابل‌قبول» خواند و خواستار توقف حملات به مراکز درمانی شد.\nhttps://iranintl.com/202611271744",
+      "message_id": 369020,
+      "message_link": "https://t.me/IranintlTV/369020",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، با بازنشر گزارش واشینگتن‌پست درباره تصویری از پزشکیان با کاپشن در دفتری سرد و تاریک، در ایکس نوشت: «آفرین، بچه‌ها! زمستان فوق‌العاده‌ای داشته باشید.»\n\nصداوسیمای جمهوری اسلامی جمعه ۲۹ آبان ویدیویی از دفتر مسعود پزشکیان، رییس دولت جمهوری اسلامی، منتشر کرد که او را در حال کار در اتاقی تاریک نشان می‌داد.\n\nدر این ویدیو، بیشتر چراغ‌های ساختمان دفتر ریاست‌جمهوری خاموش بود و به گفته پزشکیان، سامانه‌های گرمایشی و سرمایشی ساختمان نیز خاموش بودند.\n\nپزشکیان ۲۸ آبان نیز در همایش بسیج دانشجویی در دانشگاه تهران، با اشاره به ضرورت صرفه‌جویی در مصرف انرژی، گفته بود که با کاپشن می‌خوابد و در خانه‌اش برق و وسایل گرمایشی را روشن نمی‌کند.\nhttps://iranintl.com/202611289947",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "05:08:56",
-      "gregorian_utc": "2026-11-28T01:38:56+00:00",
+      "tehran_time": "06:10:16",
+      "gregorian_utc": "2026-11-28T02:40:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 196105,
-      "media_size_human": "191.51 KB",
+      "media_size_bytes": 108249,
+      "media_size_human": "105.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369019_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369019_photo.jpg",
+      "media_local_path": "media/IranintlTV_369020_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369020_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329681+00:00"
+      "archived_at": "2026-11-28T05:40:36.385739+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76834_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76834_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687492+00:00"
+      "archived_at": "2026-11-28T05:40:36.780560+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024615+00:00"
+      "archived_at": "2026-11-28T05:40:37.119512+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973323+00:00"
+      "archived_at": "2026-11-28T05:40:36.052533+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369018,
-      "message_link": "https://t.me/IranintlTV/369018",
-      "text": "رضا امیری‌مقدم، سفیر جمهوری اسلامی در پاکستان، به شبکه خبری سی‌ان‌ان عربی گفت: «از طریق قطر و پاکستان، پیام‌هایی میان ما و ایالات متحده ردوبدل می‌شود. همچنین تبادل دیدگاه‌ها و گفت‌وگو درباره آن‌ها با طرف آمریکایی و وزیران خارجه ما ادامه دارد.»\n\nاو در پاسخ به این پرسش سی‌ان‌ان عربی که «اگر درگیری تشدید شود، ایران تا کجا ممکن است پیش برود؟» گفت تهران برای مذاکره آماده است، اما در صورت حمله، پاسخ قاطعانه‌ای خواهد داد.\n\nامیری‌مقدم همچنین درباره موضع جمهوری اسلامی در قبال ابتکار چین برای حل بحران یمن از طریق برگزاری مذاکرات میان عربستان سعودی و حوثی‌ها، گروه نیابتی تهران، گفت: «برخی کشورهای غربی و کشورهای منطقه‌ای تلاش کردند حوثی‌ها را در فهرست گروه‌های تروریستی قرار دهند، اما چین و روسیه در شورای امنیت سازمان ملل با این رویکرد مخالفت کردند.»\n\nاو افزود: «چین و روسیه حوثی‌ها را واقعیت موجود در یمن می‌دانند؛ واقعیتی که بیش از ۱۰ سال است وجود دارد. اگر آن‌ها خواهان تعامل با حوثی‌ها باشند، ما از این اقدام استقبال خواهیم کرد.»\nhttps://iranintl.com/202611282915",
+      "message_id": 369019,
+      "message_link": "https://t.me/IranintlTV/369019",
+      "text": "ارتش اسرائیل در بیانیه‌ای اعلام کرد دو عضو شاخه نظامی حماس را که «در پوشش اقدامات بشردوستانه» فعالیت می‌کردند، در حمله‌ای در شهر غزه کشته است.\n\nبه گفته ارتش اسرائیل، احمد سفیان محمد علی ابوحصیره و معاذ یوسف علی‌صبح در حال برنامه‌ریزی برای حمله به غیرنظامیان و نیروهای اسرائیلی بودند و هم‌زمان به‌عنوان نگهبان در درمانگاهی تحت مدیریت سازمان پزشکان بدون مرز فعالیت می‌کردند.\n\nارتش اسرائیل اعلام کرد پیش از حمله، اقداماتی برای به حداقل رساندن آسیب به غیرنظامیان انجام شده بود و هیچ بیمارستانی هدف قرار نگرفته و آسیبی به زیرساخت‌های درمانی منطقه وارد نشده است.\n\nپیش‌تر، پزشکان بدون مرز با اعلام کشته شدن دو نگهبان خود، تاکید کرده بود مراکز این سازمان با نشان پزشکان بدون مرز مشخص شده بودند و ارتش اسرائیل از موقعیت آن‌ها اطلاع داشت. این سازمان خواستار پاسخ‌گویی عاملان حمله شد.\n\nتدروس آدهانوم گبریسوس، مدیرکل سازمان جهانی بهداشت، نیز حمله به مراکز درمانی، کارکنان بخش سلامت و نیروهای امدادرسان در غزه را «غیرقابل‌قبول» خواند و خواستار توقف حملات به مراکز درمانی شد.\nhttps://iranintl.com/202611271744",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "04:49:53",
-      "gregorian_utc": "2026-11-28T01:19:53+00:00",
+      "tehran_time": "05:08:56",
+      "gregorian_utc": "2026-11-28T01:38:56+00:00",
       "media_type": "photo",
-      "media_size_bytes": 160319,
-      "media_size_human": "156.56 KB",
+      "media_size_bytes": 196105,
+      "media_size_human": "191.51 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369018_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369018_photo.jpg",
+      "media_local_path": "media/IranintlTV_369019_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369019_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329830+00:00"
+      "archived_at": "2026-11-28T05:40:36.385838+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76833_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76833_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687573+00:00"
+      "archived_at": "2026-11-28T05:40:36.780602+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024641+00:00"
+      "archived_at": "2026-11-28T05:40:37.119528+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973349+00:00"
+      "archived_at": "2026-11-28T05:40:36.052551+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369017,
-      "message_link": "https://t.me/IranintlTV/369017",
-      "text": "فرماندهی مرکزی آمریکا (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس، چندین ادعای مطرح‌شده از سوی یک فرمانده نظامی جمهوری اسلامی طی ۲۴ ساعت گذشته درباره نیروهای آمریکایی را «نادرست» خواند.\n\nسنتکام ادعای بازپس‌گیری دو نفتکش ایرانی از نیروهای آمریکایی به دست نیروی دریایی سپاه پاسداران را رد کرد و نوشت: «ایران دیگر نیروی دریایی ندارد. ماجرایی که این فرمانده نظامی ایران توصیف کرده نیز دروغی ساختگی است.»\n\nسنتکام همچنین ادعای حمله به ناو هواپیمابر آبراهام لینکلن در نخستین روز عملیات «خشم حماسی» و درخواست کمک آمریکا از کشورهای منطقه برای تخلیه نیروهایش را رد کرد.\n\nاین فرماندهی اعلام کرد گروه رزمی این ناو هرگز هدف حمله ایران قرار نگرفت و پس از پایان موفقیت‌آمیز ماموریت خود، ماه گذشته به آمریکا بازگشت.\n\nسنتکام همچنین ادعای دریافت ۲.۵ میلیون دلار عوارض از کشتی‌ها برای عبور از تنگه هرمز را رد کرد و افزود نیروهای آمریکایی و شرکای منطقه‌ای آن‌ها بدون دریافت عوارض، امنیت عبور هزاران کشتی و انتقال میلیاردها بشکه نفت خام از این آبراه را تامین کرده‌اند.\nhttps://iranintl.com/202611282686",
+      "message_id": 369018,
+      "message_link": "https://t.me/IranintlTV/369018",
+      "text": "رضا امیری‌مقدم، سفیر جمهوری اسلامی در پاکستان، به شبکه خبری سی‌ان‌ان عربی گفت: «از طریق قطر و پاکستان، پیام‌هایی میان ما و ایالات متحده ردوبدل می‌شود. همچنین تبادل دیدگاه‌ها و گفت‌وگو درباره آن‌ها با طرف آمریکایی و وزیران خارجه ما ادامه دارد.»\n\nاو در پاسخ به این پرسش سی‌ان‌ان عربی که «اگر درگیری تشدید شود، ایران تا کجا ممکن است پیش برود؟» گفت تهران برای مذاکره آماده است، اما در صورت حمله، پاسخ قاطعانه‌ای خواهد داد.\n\nامیری‌مقدم همچنین درباره موضع جمهوری اسلامی در قبال ابتکار چین برای حل بحران یمن از طریق برگزاری مذاکرات میان عربستان سعودی و حوثی‌ها، گروه نیابتی تهران، گفت: «برخی کشورهای غربی و کشورهای منطقه‌ای تلاش کردند حوثی‌ها را در فهرست گروه‌های تروریستی قرار دهند، اما چین و روسیه در شورای امنیت سازمان ملل با این رویکرد مخالفت کردند.»\n\nاو افزود: «چین و روسیه حوثی‌ها را واقعیت موجود در یمن می‌دانند؛ واقعیتی که بیش از ۱۰ سال است وجود دارد. اگر آن‌ها خواهان تعامل با حوثی‌ها باشند، ما از این اقدام استقبال خواهیم کرد.»\nhttps://iranintl.com/202611282915",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "04:24:39",
-      "gregorian_utc": "2026-11-28T00:54:39+00:00",
+      "tehran_time": "04:49:53",
+      "gregorian_utc": "2026-11-28T01:19:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 145558,
-      "media_size_human": "142.15 KB",
+      "media_size_bytes": 160319,
+      "media_size_human": "156.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369017_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369017_photo.jpg",
+      "media_local_path": "media/IranintlTV_369018_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369018_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.329986+00:00"
+      "archived_at": "2026-11-28T05:40:36.385941+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76832_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76832_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687657+00:00"
+      "archived_at": "2026-11-28T05:40:36.780655+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024666+00:00"
+      "archived_at": "2026-11-28T05:40:37.119543+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:41.973373+00:00"
+      "archived_at": "2026-11-28T05:40:36.052566+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 369016,
-      "message_link": "https://t.me/IranintlTV/369016",
-      "text": "شبکه حقوق بشر کردستان به نقل از «چند منبع» گزارش داد سپاه پاسداران طی یک هفته گذشته نیروهای یگان‌های تکاوری و پهپادی خود را به مناطق مختلف شهرستان‌های سردشت، مریوان، کامیاران، روانسر و جوانرود اعزام کرده است.\n\nاین منابع گفتند در این مدت، حضور نیروهای سپاه پاسداران در پایگاه‌های این نهاد نظامی-امنیتی در شهرستان‌های سردشت، مریوان، کامیاران و جوانرود به‌طور چشمگیری افزایش یافته است.\n\nبه گفته این منابع، نیروهای اعزام‌شده عمدتا از یگان‌های تکاوری و پهپادی سپاه پاسداران هستند و «مسوولیت شناسایی و انجام حملات توپخانه‌ای و پهپادی علیه مواضع و تیم‌های مسلح احزاب اپوزیسیون کرد» در مناطق سردشت، مریوان و کوهستان شاهو را بر عهده دارند.\n\nاین منابع همچنین گفتند روز سوم آذر، پادگان سپاه پاسداران در منطقه «بیه‌که‌ری» شهرستان مریوان هدف حمله یک پهپاد قرار گرفت که در نتیجه آن، شماری از نیروهای بسیج و سپاه پاسداران کشته و زخمی شدند.\n\nبر اساس این گزارش، پس از این حمله، حضور نیروهای سپاه پاسداران در مناطق مختلف شهرستان مریوان افزایش یافت.\nhttps://iranintl.com/202611271393",
+      "message_id": 369017,
+      "message_link": "https://t.me/IranintlTV/369017",
+      "text": "فرماندهی مرکزی آمریکا (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس، چندین ادعای مطرح‌شده از سوی یک فرمانده نظامی جمهوری اسلامی طی ۲۴ ساعت گذشته درباره نیروهای آمریکایی را «نادرست» خواند.\n\nسنتکام ادعای بازپس‌گیری دو نفتکش ایرانی از نیروهای آمریکایی به دست نیروی دریایی سپاه پاسداران را رد کرد و نوشت: «ایران دیگر نیروی دریایی ندارد. ماجرایی که این فرمانده نظامی ایران توصیف کرده نیز دروغی ساختگی است.»\n\nسنتکام همچنین ادعای حمله به ناو هواپیمابر آبراهام لینکلن در نخستین روز عملیات «خشم حماسی» و درخواست کمک آمریکا از کشورهای منطقه برای تخلیه نیروهایش را رد کرد.\n\nاین فرماندهی اعلام کرد گروه رزمی این ناو هرگز هدف حمله ایران قرار نگرفت و پس از پایان موفقیت‌آمیز ماموریت خود، ماه گذشته به آمریکا بازگشت.\n\nسنتکام همچنین ادعای دریافت ۲.۵ میلیون دلار عوارض از کشتی‌ها برای عبور از تنگه هرمز را رد کرد و افزود نیروهای آمریکایی و شرکای منطقه‌ای آن‌ها بدون دریافت عوارض، امنیت عبور هزاران کشتی و انتقال میلیاردها بشکه نفت خام از این آبراه را تامین کرده‌اند.\nhttps://iranintl.com/202611282686",
       "shamsi_date": "1405/09/07",
-      "tehran_time": "03:31:04",
-      "gregorian_utc": "2026-11-28T00:01:04+00:00",
+      "tehran_time": "04:24:39",
+      "gregorian_utc": "2026-11-28T00:54:39+00:00",
       "media_type": "photo",
-      "media_size_bytes": 171725,
-      "media_size_human": "167.70 KB",
+      "media_size_bytes": 145558,
+      "media_size_human": "142.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_369016_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369016_photo.jpg",
+      "media_local_path": "media/IranintlTV_369017_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_369017_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.330129+00:00"
+      "archived_at": "2026-11-28T05:40:36.386041+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76830_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76830_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-11-28T05:30:42.687853+00:00"
+      "archived_at": "2026-11-28T05:40:36.780794+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-11-28T05:30:43.024691+00:00"
+      "archived_at": "2026-11-28T05:40:37.119558+00:00"
     }
   ]
 }
